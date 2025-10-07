@@ -58,7 +58,7 @@ git checkout -b docs/update-readme
    cd packages/countries && pnpm test:watch
    
    # Run specific test file
-   pnpm --filter "@world/countries" vitest tests/unit/loaders.test.ts
+   pnpm --filter "@countrystatecity/countries" vitest tests/unit/loaders.test.ts
    ```
 
 ### Commit Guidelines
@@ -136,10 +136,10 @@ describe('getCountries', () => {
 pnpm test
 
 # Run iOS compatibility tests only
-pnpm --filter "@world/countries" test:ios
+pnpm --filter "@countrystatecity/countries" test:ios
 
 # Run with coverage
-pnpm --filter "@world/countries" vitest --coverage
+pnpm --filter "@countrystatecity/countries" vitest --coverage
 ```
 
 ## 📊 Data Updates
@@ -224,7 +224,7 @@ rm -rf node_modules pnpm-lock.yaml
 pnpm install
 
 # Build with verbose output
-pnpm --filter "@world/countries" build --verbose
+pnpm --filter "@countrystatecity/countries" build --verbose
 ```
 
 ### Test Issues

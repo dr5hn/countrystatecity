@@ -43,10 +43,10 @@ jobs:
         run: pnpm install --frozen-lockfile
       
       - name: Lint
-        run: pnpm --filter "@world/*" run lint || echo "Linting not configured yet"
+        run: pnpm --filter "@countrystatecity/*" run lint || echo "Linting not configured yet"
       
       - name: Type check
-        run: pnpm --filter "@world/*" run typecheck
+        run: pnpm --filter "@countrystatecity/*" run typecheck
       
       - name: Run tests
         run: pnpm test
@@ -95,4 +95,4 @@ jobs:
         run: pnpm build
       
       - name: Run iOS compatibility tests
-        run: pnpm --filter "@world/countries" run test:ios
+        run: pnpm --filter "@countrystatecity/countries" run test:ios

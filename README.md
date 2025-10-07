@@ -1,4 +1,4 @@
-# @world/* Package Ecosystem
+# @countrystatecity/* Package Ecosystem
 
 [![CI](https://github.com/dr5hn/world/workflows/CI/badge.svg)](https://github.com/dr5hn/world/actions/workflows/ci.yml)
 [![Data Update](https://github.com/dr5hn/world/workflows/Update%20Data/badge.svg)](https://github.com/dr5hn/world/actions/workflows/update-data.yml)
@@ -7,7 +7,7 @@ Official package ecosystem for countries, states, cities, and geographic data wi
 
 ## 📦 Packages
 
-### @world/countries [![npm](https://img.shields.io/npm/v/@world/countries)](https://www.npmjs.com/package/@world/countries)
+### @countrystatecity/countries [![npm](https://img.shields.io/npm/v/@countrystatecity/countries)](https://www.npmjs.com/package/@countrystatecity/countries)
 
 Complete countries, states, and cities database with lazy loading and iOS compatibility.
 
@@ -18,13 +18,13 @@ Complete countries, states, and cities database with lazy loading and iOS compat
 - **Status:** ✅ Implemented
 
 ```bash
-npm install @world/countries
+npm install @countrystatecity/countries
 ```
 
 ## 🚀 Quick Start
 
 ```typescript
-import { getCountries, getStatesOfCountry, getCitiesOfState } from '@world/countries';
+import { getCountries, getStatesOfCountry, getCitiesOfState } from '@countrystatecity/countries';
 
 // Get all countries (lightweight - ~5KB)
 const countries = await getCountries();
@@ -67,8 +67,8 @@ The popular `country-state-city` package (162K weekly downloads) has critical is
 
 ### Bundle Size Comparison
 
-| Action | @world/countries | country-state-city |
-|--------|------------------|-------------------|
+| Action | @countrystatecity/countries | country-state-city |
+|--------|----------------------------|-------------------|
 | Install & import | 5KB | 8MB |
 | Load countries | +2KB | - |
 | Load US states | +30KB | - |
@@ -87,7 +87,7 @@ world/
 │       ├── update-data.yml # Automated data updates
 │       └── publish.yml     # NPM publishing
 ├── packages/
-│   └── countries/          # @world/countries package
+│   └── countries/          # @countrystatecity/countries package
 ├── specs/                  # Technical specifications
 ├── package.json            # Root package configuration
 └── pnpm-workspace.yaml     # Workspace configuration
@@ -170,7 +170,7 @@ Current coverage: 42 tests passing
 ## 📖 Documentation
 
 - [Monorepo Plan](./specs/1-monorepo-plan.md)
-- [@world/countries Spec](./specs/2-world-countries-npm-package-spec.md)
+- [@countrystatecity/countries Spec](./specs/2-world-countries-npm-package-spec.md)
 - [Package Ecosystem Spec](./specs/3-world-package-ecosystem-spec.md)
 
 ## 🤝 Contributing

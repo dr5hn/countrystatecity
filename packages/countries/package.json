@@ -1,5 +1,5 @@
 {
-  "name": "@world/countries",
+  "name": "@countrystatecity/countries",
   "version": "1.0.0",
   "description": "Official countries, states, and cities database with iOS/Safari support and minimal bundle size",
   "keywords": [

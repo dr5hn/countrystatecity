@@ -1,4 +1,4 @@
-# @world/countries
+# @countrystatecity/countries
 
 Official countries, states, and cities database with iOS/Safari support and minimal bundle size.
 
@@ -16,17 +16,17 @@ Official countries, states, and cities database with iOS/Safari support and mini
 ## 📦 Installation
 
 ```bash
-npm install @world/countries
+npm install @countrystatecity/countries
 # or
-yarn add @world/countries
+yarn add @countrystatecity/countries
 # or
-pnpm add @world/countries
+pnpm add @countrystatecity/countries
 ```
 
 ## 🚀 Quick Start
 
 ```typescript
-import { getCountries, getStatesOfCountry, getCitiesOfState } from '@world/countries';
+import { getCountries, getStatesOfCountry, getCitiesOfState } from '@countrystatecity/countries';
 
 // Get all countries (lightweight - ~5KB)
 const countries = await getCountries();
@@ -119,7 +119,7 @@ Get all timezones for a country.
 ## 🔧 TypeScript Types
 
 ```typescript
-import type { ICountry, ICountryMeta, IState, ICity, ITimezone } from '@world/countries';
+import type { ICountry, ICountryMeta, IState, ICity, ITimezone } from '@countrystatecity/countries';
 ```
 
 ## 🎯 Why This Package?
@@ -140,8 +140,8 @@ The popular `country-state-city` package (162K weekly downloads) has critical is
 
 ## 📊 Bundle Size Comparison
 
-| Action | @world/countries | country-state-city |
-|--------|------------------|-------------------|
+| Action | @countrystatecity/countries | country-state-city |
+|--------|----------------------------|-------------------|
 | Install & import | 5KB | 8MB |
 | Load countries | +2KB | - |
 | Load US states | +30KB | - |
@@ -175,4 +175,4 @@ Contributions are welcome! Please open an issue or PR.
 
 - [GitHub Repository](https://github.com/dr5hn/world)
 - [Issues](https://github.com/dr5hn/world/issues)
-- [NPM Package](https://www.npmjs.com/package/@world/countries)
+- [NPM Package](https://www.npmjs.com/package/@countrystatecity/countries)

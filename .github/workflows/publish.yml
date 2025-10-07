@@ -53,7 +53,7 @@ jobs:
       - name: Check if version already published
         id: check-version
         run: |
-          PACKAGE_NAME="@world/countries"
+          PACKAGE_NAME="@countrystatecity/countries"
           PACKAGE_VERSION=$(node -p "require('./packages/countries/package.json').version")
           
           if npm view "$PACKAGE_NAME@$PACKAGE_VERSION" version 2>/dev/null; then
@@ -64,7 +64,7 @@ jobs:
             echo "Version $PACKAGE_VERSION not yet published"
           fi
       
-      - name: Publish @world/countries
+      - name: Publish @countrystatecity/countries
         if: steps.check-version.outputs.published == 'false'
         run: |
           cd packages/countries
@@ -81,13 +81,13 @@ jobs:
           tag_name: v${{ steps.check-version.outputs.version }}
           release_name: Release v${{ steps.check-version.outputs.version }}
           body: |
-            ## @world/countries v${{ steps.check-version.outputs.version }}
+            ## @countrystatecity/countries v${{ steps.check-version.outputs.version }}
             
-            Published to NPM: https://www.npmjs.com/package/@world/countries
+            Published to NPM: https://www.npmjs.com/package/@countrystatecity/countries
             
             ### Installation
             ```bash
-            npm install @world/countries
+            npm install @countrystatecity/countries
             ```
             
             See the [README](https://github.com/dr5hn/world/blob/main/packages/countries/README.md) for usage instructions.

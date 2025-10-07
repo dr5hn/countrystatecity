@@ -1,14 +1,14 @@
 {
-  "name": "@world/monorepo",
+  "name": "@countrystatecity/monorepo",
   "version": "1.0.0",
   "private": true,
-  "description": "Monorepo for @world/* package ecosystem",
+  "description": "Monorepo for @countrystatecity/* package ecosystem",
   "scripts": {
-    "build": "pnpm --filter \"@world/*\" run build",
-    "test": "pnpm --filter \"@world/*\" run test",
-    "dev": "pnpm --filter \"@world/*\" run dev",
-    "lint": "pnpm --filter \"@world/*\" run lint",
-    "clean": "pnpm --filter \"@world/*\" exec rm -rf dist node_modules"
+    "build": "pnpm --filter \"@countrystatecity/*\" run build",
+    "test": "pnpm --filter \"@countrystatecity/*\" run test",
+    "dev": "pnpm --filter \"@countrystatecity/*\" run dev",
+    "lint": "pnpm --filter \"@countrystatecity/*\" run lint",
+    "clean": "pnpm --filter \"@countrystatecity/*\" exec rm -rf dist node_modules"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
