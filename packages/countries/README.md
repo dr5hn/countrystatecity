@@ -165,14 +165,23 @@ pnpm test:watch
 
 ## 📄 License
 
-MIT © [dr5hn](https://github.com/dr5hn)
+[ODbL-1.0](../../LICENSE) © [dr5hn](https://github.com/dr5hn)
+
+This package and its data are licensed under the Open Database License (ODbL) v1.0. The data is sourced from the [Countries States Cities Database](https://github.com/dr5hn/countries-states-cities-database) which is also licensed under ODbL-1.0.
+
+You are free to share, create, and adapt this database as long as you:
+- **Attribute**: Credit the original sources
+- **Share-Alike**: Distribute adaptations under the same license
+- **Keep Open**: Don't use technical restrictions
 
 ## 🤝 Contributing
 
 Contributions are welcome! Please open an issue or PR.
 
+**For data-related issues** (incorrect country names, missing cities, wrong coordinates, etc.), please report them to the [Countries States Cities Database](https://github.com/dr5hn/countries-states-cities-database/issues) repository, which is the source of data for this package.
+
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/dr5hn/world)
-- [Issues](https://github.com/dr5hn/world/issues)
+- [GitHub Repository](https://github.com/dr5hn/countrystatecity)
+- [Issues](https://github.com/dr5hn/countrystatecity/issues)
 - [NPM Package](https://www.npmjs.com/package/@countrystatecity/countries)

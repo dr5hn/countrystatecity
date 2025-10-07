@@ -1,6 +1,6 @@
 # GitHub Actions Workflows
 
-This directory contains automated workflows for the @world package ecosystem.
+This directory contains automated workflows for the @countrystatecity package ecosystem.
 
 ## Workflows
 
@@ -57,7 +57,7 @@ Add `NPM_TOKEN` to repository secrets:
 
 ### CI Status
 Check the status of builds and tests:
-- Badge: `[![CI](https://github.com/dr5hn/world/workflows/CI/badge.svg)](https://github.com/dr5hn/world/actions/workflows/ci.yml)`
+- Badge: `[![CI](https://github.com/dr5hn/countrystatecity/workflows/CI/badge.svg)](https://github.com/dr5hn/countrystatecity/actions/workflows/ci.yml)`
 
 ### Data Updates
 Review automated data update PRs:

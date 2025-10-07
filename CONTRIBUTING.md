@@ -1,13 +1,13 @@
-# Contributing to @world Packages
+# Contributing to @countrystatecity Packages
 
-Thank you for your interest in contributing! This document provides guidelines for contributing to the @world package ecosystem.
+Thank you for your interest in contributing! This document provides guidelines for contributing to the @countrystatecity package ecosystem.
 
 ## 🚀 Quick Start
 
 1. **Fork and Clone**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/world.git
-   cd world
+   git clone https://github.com/YOUR_USERNAME/countrystatecity.git
+   cd countrystatecity
    ```
 
 2. **Install Dependencies**
@@ -188,7 +188,7 @@ To add a new package to the monorepo:
 3. **Configure package.json**
    ```json
    {
-     "name": "@world/your-package",
+     "name": "@countrystatecity/your-package",
      "version": "1.0.0",
      "type": "module",
      "main": "./dist/index.cjs",
@@ -309,6 +309,14 @@ Code is formatted automatically, but follow these guidelines:
 
 ## 🐛 Reporting Issues
 
+### Data Issues
+
+**For any data-related issues** (incorrect country names, missing cities, wrong coordinates, etc.), please report them to the source database repository:
+
+📊 **[Countries States Cities Database](https://github.com/dr5hn/countries-states-cities-database/issues)**
+
+This package uses data from the above repository. Data fixes should be made there first, then synced to this package.
+
 ### Bug Reports
 
 Include:
@@ -328,10 +336,10 @@ Include:
 
 ## 💬 Getting Help
 
-- 📖 [Documentation](https://github.com/dr5hn/world)
-- 🐛 [Issues](https://github.com/dr5hn/world/issues)
-- 💡 [Discussions](https://github.com/dr5hn/world/discussions)
+- 📖 [Documentation](https://github.com/dr5hn/countrystatecity)
+- 🐛 [Issues](https://github.com/dr5hn/countrystatecity/issues)
+- 💡 [Discussions](https://github.com/dr5hn/countrystatecity/discussions)
 
 ## 📄 License
 
-By contributing, you agree that your contributions will be licensed under the MIT License.
+By contributing, you agree that your contributions will be licensed under the Open Database License (ODbL) v1.0, the same license as the project.

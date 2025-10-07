@@ -1,7 +1,7 @@
 # @countrystatecity/* Package Ecosystem
 
-[![CI](https://github.com/dr5hn/world/workflows/CI/badge.svg)](https://github.com/dr5hn/world/actions/workflows/ci.yml)
-[![Data Update](https://github.com/dr5hn/world/workflows/Update%20Data/badge.svg)](https://github.com/dr5hn/world/actions/workflows/update-data.yml)
+[![CI](https://github.com/dr5hn/countrystatecity/workflows/CI/badge.svg)](https://github.com/dr5hn/countrystatecity/actions/workflows/ci.yml)
+[![Data Update](https://github.com/dr5hn/countrystatecity/workflows/Update%20Data/badge.svg)](https://github.com/dr5hn/countrystatecity/actions/workflows/update-data.yml)
 
 Official package ecosystem for countries, states, cities, and geographic data with iOS/Safari support and minimal bundle sizes.
 
@@ -80,7 +80,7 @@ The popular `country-state-city` package (162K weekly downloads) has critical is
 ## 🏗️ Monorepo Structure
 
 ```
-world/
+countrystatecity/
 ├── .github/
 │   └── workflows/          # CI/CD workflows
 │       ├── ci.yml          # Continuous Integration
@@ -110,7 +110,7 @@ Weekly automated updates (Sundays at 00:00 UTC):
 - 🧪 Runs full test suite
 - 📝 Creates PR for review if changes detected
 
-**Manual trigger:** Go to [Actions](https://github.com/dr5hn/world/actions/workflows/update-data.yml) → Run workflow
+**Manual trigger:** Go to [Actions](https://github.com/dr5hn/countrystatecity/actions/workflows/update-data.yml) → Run workflow
 
 ### Publishing
 Automated publishing to NPM on version changes:
@@ -183,12 +183,21 @@ Contributions are welcome! Please:
 4. Add tests
 5. Submit a pull request
 
+**For data-related issues** (incorrect country names, missing cities, wrong coordinates, etc.), please report them to the [Countries States Cities Database](https://github.com/dr5hn/countries-states-cities-database/issues) repository, which is the source of data for this package.
+
 ## 📄 License
 
-MIT © [dr5hn](https://github.com/dr5hn)
+[ODbL-1.0](./LICENSE) © [dr5hn](https://github.com/dr5hn)
+
+This package and its data are licensed under the Open Database License (ODbL) v1.0. The data is sourced from the [Countries States Cities Database](https://github.com/dr5hn/countries-states-cities-database) which is also licensed under ODbL-1.0.
+
+You are free to share, create, and adapt this database as long as you:
+- **Attribute**: Credit the original sources
+- **Share-Alike**: Distribute adaptations under the same license
+- **Keep Open**: Don't use technical restrictions
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/dr5hn/world)
-- [Issues](https://github.com/dr5hn/world/issues)
-- [NPM Organization](https://www.npmjs.com/org/world)
+- [GitHub Repository](https://github.com/dr5hn/countrystatecity)
+- [Issues](https://github.com/dr5hn/countrystatecity/issues)
+- [NPM Organization](https://www.npmjs.com/org/countrystatecity)
