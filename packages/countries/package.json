@@ -19,12 +19,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dr5hn/world.git",
+    "url": "https://github.com/dr5hn/countrystatecity.git",
     "directory": "packages/countries"
   },
-  "homepage": "https://github.com/dr5hn/world/tree/main/packages/countries#readme",
+  "homepage": "https://github.com/dr5hn/countrystatecity/tree/main/packages/countries#readme",
   "bugs": {
-    "url": "https://github.com/dr5hn/world/issues"
+    "url": "https://github.com/dr5hn/countrystatecity/issues"
   },
   "type": "module",
   "main": "./dist/index.cjs",

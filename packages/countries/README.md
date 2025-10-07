@@ -173,6 +173,6 @@ Contributions are welcome! Please open an issue or PR.
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/dr5hn/world)
-- [Issues](https://github.com/dr5hn/world/issues)
+- [GitHub Repository](https://github.com/dr5hn/countrystatecity)
+- [Issues](https://github.com/dr5hn/countrystatecity/issues)
 - [NPM Package](https://www.npmjs.com/package/@countrystatecity/countries)

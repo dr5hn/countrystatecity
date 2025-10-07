@@ -6,8 +6,8 @@ Thank you for your interest in contributing! This document provides guidelines f
 
 1. **Fork and Clone**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/world.git
-   cd world
+   git clone https://github.com/YOUR_USERNAME/countrystatecity.git
+   cd countrystatecity
    ```
 
 2. **Install Dependencies**
@@ -328,9 +328,9 @@ Include:
 
 ## 💬 Getting Help
 
-- 📖 [Documentation](https://github.com/dr5hn/world)
-- 🐛 [Issues](https://github.com/dr5hn/world/issues)
-- 💡 [Discussions](https://github.com/dr5hn/world/discussions)
+- 📖 [Documentation](https://github.com/dr5hn/countrystatecity)
+- 🐛 [Issues](https://github.com/dr5hn/countrystatecity/issues)
+- 💡 [Discussions](https://github.com/dr5hn/countrystatecity/discussions)
 
 ## 📄 License
 

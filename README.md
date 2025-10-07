@@ -1,7 +1,7 @@
 # @countrystatecity/* Package Ecosystem
 
-[![CI](https://github.com/dr5hn/world/workflows/CI/badge.svg)](https://github.com/dr5hn/world/actions/workflows/ci.yml)
-[![Data Update](https://github.com/dr5hn/world/workflows/Update%20Data/badge.svg)](https://github.com/dr5hn/world/actions/workflows/update-data.yml)
+[![CI](https://github.com/dr5hn/countrystatecity/workflows/CI/badge.svg)](https://github.com/dr5hn/countrystatecity/actions/workflows/ci.yml)
+[![Data Update](https://github.com/dr5hn/countrystatecity/workflows/Update%20Data/badge.svg)](https://github.com/dr5hn/countrystatecity/actions/workflows/update-data.yml)
 
 Official package ecosystem for countries, states, cities, and geographic data with iOS/Safari support and minimal bundle sizes.
 
@@ -110,7 +110,7 @@ Weekly automated updates (Sundays at 00:00 UTC):
 - 🧪 Runs full test suite
 - 📝 Creates PR for review if changes detected
 
-**Manual trigger:** Go to [Actions](https://github.com/dr5hn/world/actions/workflows/update-data.yml) → Run workflow
+**Manual trigger:** Go to [Actions](https://github.com/dr5hn/countrystatecity/actions/workflows/update-data.yml) → Run workflow
 
 ### Publishing
 Automated publishing to NPM on version changes:
@@ -189,6 +189,6 @@ MIT © [dr5hn](https://github.com/dr5hn)
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/dr5hn/world)
-- [Issues](https://github.com/dr5hn/world/issues)
-- [NPM Organization](https://www.npmjs.com/org/world)
+- [GitHub Repository](https://github.com/dr5hn/countrystatecity)
+- [Issues](https://github.com/dr5hn/countrystatecity/issues)
+- [NPM Organization](https://www.npmjs.com/org/countrystatecity)
