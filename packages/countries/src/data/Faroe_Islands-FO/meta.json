@@ -1,0 +1,49 @@
+{
+  "id": 72,
+  "name": "Faroe Islands",
+  "iso2": "FO",
+  "iso3": "FRO",
+  "numeric_code": "234",
+  "phonecode": "298",
+  "capital": "Torshavn",
+  "currency": "DKK",
+  "currency_name": "Danish krone",
+  "currency_symbol": "Kr.",
+  "tld": ".fo",
+  "native": "Føroyar",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "nationality": "Faroese",
+  "latitude": "62.00000000",
+  "longitude": "-7.00000000",
+  "emoji": "🇫🇴",
+  "emojiU": "U+1F1EB U+1F1F4",
+  "timezones": [
+    {
+      "zoneName": "Atlantic/Faroe",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "WET",
+      "tzName": "Western European Time"
+    }
+  ],
+  "translations": {
+    "br": "Faero",
+    "ko": "페로 제도",
+    "pt-BR": "Ilhas Faroé",
+    "pt": "Ilhas Faroé",
+    "nl": "Faeröer",
+    "hr": "Farski Otoci",
+    "fa": "جزایر فارو",
+    "de": "Färöer-Inseln",
+    "es": "Islas Faroe",
+    "fr": "Îles Féroé",
+    "ja": "フェロー諸島",
+    "it": "Isole Far Oer",
+    "zh-CN": "法罗群岛",
+    "tr": "Faroe Adalari",
+    "ru": "Фарерские острова",
+    "uk": "Фарерські острови",
+    "pl": "Wyspy Owcze"
+  }
+}

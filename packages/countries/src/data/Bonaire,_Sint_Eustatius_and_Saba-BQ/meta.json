@@ -1,0 +1,45 @@
+{
+  "id": 155,
+  "name": "Bonaire, Sint Eustatius and Saba",
+  "iso2": "BQ",
+  "iso3": "BES",
+  "numeric_code": "535",
+  "phonecode": "599",
+  "capital": "Kralendijk",
+  "currency": "USD",
+  "currency_name": "United States dollar",
+  "currency_symbol": "$",
+  "tld": ".an",
+  "native": "Caribisch Nederland",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "nationality": "Bonaire",
+  "latitude": "12.15000000",
+  "longitude": "-68.26666700",
+  "emoji": "🇧🇶",
+  "emojiU": "U+1F1E7 U+1F1F6",
+  "timezones": [
+    {
+      "zoneName": "America/Anguilla",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Izelvroioù ar C'harib",
+    "ko": "보네르 섬",
+    "pt-BR": "Bonaire",
+    "pt": "Bonaire",
+    "fa": "بونیر",
+    "de": "Bonaire, Sint Eustatius und Saba",
+    "fr": "Bonaire, Saint-Eustache et Saba",
+    "it": "Bonaire, Saint-Eustache e Saba",
+    "zh-CN": "博内尔岛、圣尤斯特歇斯和萨巴岛",
+    "tr": "Karayip Hollandasi",
+    "ru": "Бонайре, Синт-Эстатиус и Саба",
+    "uk": "Бонайре, Сент-Естатіус і Саба",
+    "pl": "Bonaire, Sint Eustatius i Saba"
+  }
+}

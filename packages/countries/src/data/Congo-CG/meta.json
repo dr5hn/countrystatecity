@@ -1,0 +1,49 @@
+{
+  "id": 50,
+  "name": "Congo",
+  "iso2": "CG",
+  "iso3": "COG",
+  "numeric_code": "178",
+  "phonecode": "242",
+  "capital": "Brazzaville",
+  "currency": "XAF",
+  "currency_name": "Congolese Franc",
+  "currency_symbol": "CDF",
+  "tld": ".cg",
+  "native": "République du Congo",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "nationality": "Congolese",
+  "latitude": "-1.00000000",
+  "longitude": "15.00000000",
+  "emoji": "🇨🇬",
+  "emojiU": "U+1F1E8 U+1F1EC",
+  "timezones": [
+    {
+      "zoneName": "Africa/Brazzaville",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "WAT",
+      "tzName": "West Africa Time"
+    }
+  ],
+  "translations": {
+    "br": "Republik Kongo",
+    "ko": "콩고",
+    "pt-BR": "Congo",
+    "pt": "Congo",
+    "nl": "Congo [Republiek]",
+    "hr": "Kongo",
+    "fa": "کنگو",
+    "de": "Kongo",
+    "es": "Congo",
+    "fr": "Congo",
+    "ja": "コンゴ共和国",
+    "it": "Congo",
+    "zh-CN": "刚果",
+    "tr": "Kongo",
+    "ru": "Конго",
+    "uk": "Конго",
+    "pl": "Kongo"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": 93,
+  "name": "Guinea-Bissau",
+  "iso2": "GW",
+  "iso3": "GNB",
+  "numeric_code": "624",
+  "phonecode": "245",
+  "capital": "Bissau",
+  "currency": "XOF",
+  "currency_name": "West African CFA franc",
+  "currency_symbol": "CFA",
+  "tld": ".gw",
+  "native": "Guiné-Bissau",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "nationality": "Bissau-Guinean",
+  "latitude": "12.00000000",
+  "longitude": "-15.00000000",
+  "emoji": "🇬🇼",
+  "emojiU": "U+1F1EC U+1F1FC",
+  "timezones": [
+    {
+      "zoneName": "Africa/Bissau",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "translations": {
+    "br": "Ginea-Bissau",
+    "ko": "기니비사우",
+    "pt-BR": "Guiné-Bissau",
+    "pt": "Guiné-Bissau",
+    "nl": "Guinee-Bissau",
+    "hr": "Gvineja Bisau",
+    "fa": "گینه بیسائو",
+    "de": "Guinea-Bissau",
+    "es": "Guinea-Bisáu",
+    "fr": "Guinée-Bissau",
+    "ja": "ギニアビサウ",
+    "it": "Guinea-Bissau",
+    "zh-CN": "几内亚比绍",
+    "tr": "Gine-bissau",
+    "ru": "Гвинея-Бисау",
+    "uk": "Гвінея-Бісау",
+    "pl": "Gwinea Bissau"
+  }
+}

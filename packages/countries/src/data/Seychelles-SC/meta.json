@@ -1,0 +1,49 @@
+{
+  "id": 197,
+  "name": "Seychelles",
+  "iso2": "SC",
+  "iso3": "SYC",
+  "numeric_code": "690",
+  "phonecode": "248",
+  "capital": "Victoria",
+  "currency": "SCR",
+  "currency_name": "Seychellois rupee",
+  "currency_symbol": "SRe",
+  "tld": ".sc",
+  "native": "Seychelles",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "nationality": "Seychellois",
+  "latitude": "-4.65749770",
+  "longitude": "55.45401460",
+  "emoji": "🇸🇨",
+  "emojiU": "U+1F1F8 U+1F1E8",
+  "timezones": [
+    {
+      "zoneName": "Indian/Mahe",
+      "gmtOffset": 14400,
+      "gmtOffsetName": "UTC+04:00",
+      "abbreviation": "SCT",
+      "tzName": "Seychelles Time"
+    }
+  ],
+  "translations": {
+    "br": "Sechelez",
+    "ko": "세이셸",
+    "pt-BR": "Seicheles",
+    "pt": "Seicheles",
+    "nl": "Seychellen",
+    "hr": "Sejšeli",
+    "fa": "سیشل",
+    "de": "Seychellen",
+    "es": "Seychelles",
+    "fr": "Seychelles",
+    "ja": "セーシェル",
+    "it": "Seychelles",
+    "zh-CN": "塞舌尔",
+    "tr": "Seyşeller",
+    "ru": "Сейшельские острова",
+    "uk": "Сейшельські острови",
+    "pl": "Seszele"
+  }
+}

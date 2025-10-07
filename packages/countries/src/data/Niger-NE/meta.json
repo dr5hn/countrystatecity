@@ -1,0 +1,49 @@
+{
+  "id": 160,
+  "name": "Niger",
+  "iso2": "NE",
+  "iso3": "NER",
+  "numeric_code": "562",
+  "phonecode": "227",
+  "capital": "Niamey",
+  "currency": "XOF",
+  "currency_name": "West African CFA franc",
+  "currency_symbol": "CFA",
+  "tld": ".ne",
+  "native": "Niger",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "nationality": "Nigerien",
+  "latitude": "16.00000000",
+  "longitude": "8.00000000",
+  "emoji": "🇳🇪",
+  "emojiU": "U+1F1F3 U+1F1EA",
+  "timezones": [
+    {
+      "zoneName": "Africa/Niamey",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "WAT",
+      "tzName": "West Africa Time"
+    }
+  ],
+  "translations": {
+    "br": "Niger",
+    "ko": "니제르",
+    "pt-BR": "Níger",
+    "pt": "Níger",
+    "nl": "Niger",
+    "hr": "Niger",
+    "fa": "نیجر",
+    "de": "Niger",
+    "es": "Níger",
+    "fr": "Niger",
+    "ja": "ニジェール",
+    "it": "Niger",
+    "zh-CN": "尼日尔",
+    "tr": "Nijer",
+    "ru": "Нигер",
+    "uk": "Нігер",
+    "pl": "Niger"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": 231,
+  "name": "United Arab Emirates",
+  "iso2": "AE",
+  "iso3": "ARE",
+  "numeric_code": "784",
+  "phonecode": "971",
+  "capital": "Abu Dhabi",
+  "currency": "AED",
+  "currency_name": "United Arab Emirates dirham",
+  "currency_symbol": "إ.د",
+  "tld": ".ae",
+  "native": "دولة الإمارات العربية المتحدة",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "nationality": "Emirati, Emirian, Emiri",
+  "latitude": "24.00000000",
+  "longitude": "54.00000000",
+  "emoji": "🇦🇪",
+  "emojiU": "U+1F1E6 U+1F1EA",
+  "timezones": [
+    {
+      "zoneName": "Asia/Dubai",
+      "gmtOffset": 14400,
+      "gmtOffsetName": "UTC+04:00",
+      "abbreviation": "GST",
+      "tzName": "Gulf Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Emirelezhioù Arab Unanet",
+    "ko": "아랍에미리트",
+    "pt-BR": "Emirados árabes Unidos",
+    "pt": "Emirados árabes Unidos",
+    "nl": "Verenigde Arabische Emiraten",
+    "hr": "Ujedinjeni Arapski Emirati",
+    "fa": "امارات متحده عربی",
+    "de": "Vereinigte Arabische Emirate",
+    "es": "Emiratos Árabes Unidos",
+    "fr": "Émirats arabes unis",
+    "ja": "アラブ首長国連邦",
+    "it": "Emirati Arabi Uniti",
+    "zh-CN": "阿拉伯联合酋长国",
+    "tr": "Birleşik Arap Emirlikleri",
+    "ru": "Объединенные Арабские Эмираты",
+    "uk": "Об'єднані Арабські Емірати",
+    "pl": "Zjednoczone Emiraty Arabskie"
+  }
+}

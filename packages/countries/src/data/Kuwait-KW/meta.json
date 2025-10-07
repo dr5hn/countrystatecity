@@ -1,0 +1,49 @@
+{
+  "id": 117,
+  "name": "Kuwait",
+  "iso2": "KW",
+  "iso3": "KWT",
+  "numeric_code": "414",
+  "phonecode": "965",
+  "capital": "Kuwait City",
+  "currency": "KWD",
+  "currency_name": "Kuwaiti dinar",
+  "currency_symbol": "ك.د",
+  "tld": ".kw",
+  "native": "الكويت",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "nationality": "Kuwaiti",
+  "latitude": "29.50000000",
+  "longitude": "45.75000000",
+  "emoji": "🇰🇼",
+  "emojiU": "U+1F1F0 U+1F1FC",
+  "timezones": [
+    {
+      "zoneName": "Asia/Kuwait",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "AST",
+      "tzName": "Arabia Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Koweit",
+    "ko": "쿠웨이트",
+    "pt-BR": "Kuwait",
+    "pt": "Kuwait",
+    "nl": "Koeweit",
+    "hr": "Kuvajt",
+    "fa": "کویت",
+    "de": "Kuwait",
+    "es": "Kuwait",
+    "fr": "Koweït",
+    "ja": "クウェート",
+    "it": "Kuwait",
+    "zh-CN": "科威特",
+    "tr": "Kuveyt",
+    "ru": "Кувейт",
+    "uk": "Кувейт",
+    "pl": "Kuwejt"
+  }
+}

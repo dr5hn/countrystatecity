@@ -1,0 +1,49 @@
+{
+  "id": 58,
+  "name": "Czech Republic",
+  "iso2": "CZ",
+  "iso3": "CZE",
+  "numeric_code": "203",
+  "phonecode": "420",
+  "capital": "Prague",
+  "currency": "CZK",
+  "currency_name": "Czech koruna",
+  "currency_symbol": "Kč",
+  "tld": ".cz",
+  "native": "Česká republika",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "nationality": "Czech",
+  "latitude": "49.75000000",
+  "longitude": "15.50000000",
+  "emoji": "🇨🇿",
+  "emojiU": "U+1F1E8 U+1F1FF",
+  "timezones": [
+    {
+      "zoneName": "Europe/Prague",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "translations": {
+    "br": "Tchekia",
+    "ko": "체코",
+    "pt-BR": "República Tcheca",
+    "pt": "República Checa",
+    "nl": "Tsjechië",
+    "hr": "Češka",
+    "fa": "جمهوری چک",
+    "de": "Tschechische Republik",
+    "es": "República Checa",
+    "fr": "République tchèque",
+    "ja": "チェコ",
+    "it": "Repubblica Ceca",
+    "zh-CN": "捷克",
+    "tr": "Çekya",
+    "ru": "Чешская Республика",
+    "uk": "Чеська Республіка",
+    "pl": "Republika Czeska"
+  }
+}

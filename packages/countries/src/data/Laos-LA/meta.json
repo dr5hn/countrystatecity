@@ -1,0 +1,49 @@
+{
+  "id": 119,
+  "name": "Laos",
+  "iso2": "LA",
+  "iso3": "LAO",
+  "numeric_code": "418",
+  "phonecode": "856",
+  "capital": "Vientiane",
+  "currency": "LAK",
+  "currency_name": "Lao kip",
+  "currency_symbol": "₭",
+  "tld": ".la",
+  "native": "ສປປລາວ",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "nationality": "Lao, Laotian",
+  "latitude": "18.00000000",
+  "longitude": "105.00000000",
+  "emoji": "🇱🇦",
+  "emojiU": "U+1F1F1 U+1F1E6",
+  "timezones": [
+    {
+      "zoneName": "Asia/Vientiane",
+      "gmtOffset": 25200,
+      "gmtOffsetName": "UTC+07:00",
+      "abbreviation": "ICT",
+      "tzName": "Indochina Time"
+    }
+  ],
+  "translations": {
+    "br": "Laos",
+    "ko": "라오스",
+    "pt-BR": "Laos",
+    "pt": "Laos",
+    "nl": "Laos",
+    "hr": "Laos",
+    "fa": "لائوس",
+    "de": "Laos",
+    "es": "Laos",
+    "fr": "Laos",
+    "ja": "ラオス人民民主共和国",
+    "it": "Laos",
+    "zh-CN": "寮人民民主共和国",
+    "tr": "Laos",
+    "ru": "Лаос",
+    "uk": "Лаос",
+    "pl": "Laos"
+  }
+}

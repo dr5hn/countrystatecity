@@ -1,0 +1,49 @@
+{
+  "id": 104,
+  "name": "Iraq",
+  "iso2": "IQ",
+  "iso3": "IRQ",
+  "numeric_code": "368",
+  "phonecode": "964",
+  "capital": "Baghdad",
+  "currency": "IQD",
+  "currency_name": "Iraqi dinar",
+  "currency_symbol": "د.ع",
+  "tld": ".iq",
+  "native": "العراق",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "nationality": "Iraqi",
+  "latitude": "33.00000000",
+  "longitude": "44.00000000",
+  "emoji": "🇮🇶",
+  "emojiU": "U+1F1EE U+1F1F6",
+  "timezones": [
+    {
+      "zoneName": "Asia/Baghdad",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "AST",
+      "tzName": "Arabia Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Irak",
+    "ko": "이라크",
+    "pt-BR": "Iraque",
+    "pt": "Iraque",
+    "nl": "Irak",
+    "hr": "Irak",
+    "fa": "عراق",
+    "de": "Irak",
+    "es": "Irak",
+    "fr": "Irak",
+    "ja": "イラク",
+    "it": "Iraq",
+    "zh-CN": "伊拉克",
+    "tr": "Irak",
+    "ru": "Ирак",
+    "uk": "Ірак",
+    "pl": "Irak"
+  }
+}

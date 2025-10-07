@@ -1,0 +1,56 @@
+{
+  "id": 234,
+  "name": "United States Minor Outlying Islands",
+  "iso2": "UM",
+  "iso3": "UMI",
+  "numeric_code": "581",
+  "phonecode": "1",
+  "capital": "",
+  "currency": "USD",
+  "currency_name": "United States dollar",
+  "currency_symbol": "$",
+  "tld": ".us",
+  "native": "United States Minor Outlying Islands",
+  "region": "Americas",
+  "subregion": "Northern America",
+  "nationality": "American",
+  "latitude": "0.00000000",
+  "longitude": "0.00000000",
+  "emoji": "🇺🇲",
+  "emojiU": "U+1F1FA U+1F1F2",
+  "timezones": [
+    {
+      "zoneName": "Pacific/Midway",
+      "gmtOffset": -39600,
+      "gmtOffsetName": "UTC-11:00",
+      "abbreviation": "SST",
+      "tzName": "Samoa Standard Time"
+    },
+    {
+      "zoneName": "Pacific/Wake",
+      "gmtOffset": 43200,
+      "gmtOffsetName": "UTC+12:00",
+      "abbreviation": "WAKT",
+      "tzName": "Wake Island Time"
+    }
+  ],
+  "translations": {
+    "br": "Inizi Minor A-bell Stadoù-Unanet",
+    "ko": "미국령 군소 제도",
+    "pt-BR": "Ilhas Menores Distantes dos Estados Unidos",
+    "pt": "Ilhas Menores Distantes dos Estados Unidos",
+    "nl": "Kleine afgelegen eilanden van de Verenigde Staten",
+    "hr": "Mali udaljeni otoci SAD-a",
+    "fa": "جزایر کوچک حاشیه‌ای ایالات متحده آمریکا",
+    "de": "Kleinere Inselbesitzungen der Vereinigten Staaten",
+    "es": "Islas Ultramarinas Menores de Estados Unidos",
+    "fr": "Îles mineures éloignées des États-Unis",
+    "ja": "合衆国領有小離島",
+    "it": "Isole minori esterne degli Stati Uniti d'America",
+    "zh-CN": "美国本土外小岛屿",
+    "tr": "Abd Küçük Harici Adalari",
+    "ru": "Малые отдаленные острова Соединенных Штатов",
+    "uk": "Малі віддалені острови Сполучених Штатів",
+    "pl": "Mniejsze Wyspy Zewnętrzne Stanów Zjednoczonych"
+  }
+}

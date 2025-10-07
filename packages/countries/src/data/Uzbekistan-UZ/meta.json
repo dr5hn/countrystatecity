@@ -1,0 +1,56 @@
+{
+  "id": 236,
+  "name": "Uzbekistan",
+  "iso2": "UZ",
+  "iso3": "UZB",
+  "numeric_code": "860",
+  "phonecode": "998",
+  "capital": "Tashkent",
+  "currency": "UZS",
+  "currency_name": "Uzbekistani soʻm",
+  "currency_symbol": "лв",
+  "tld": ".uz",
+  "native": "O‘zbekiston",
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "nationality": "Uzbekistani, Uzbek",
+  "latitude": "41.00000000",
+  "longitude": "64.00000000",
+  "emoji": "🇺🇿",
+  "emojiU": "U+1F1FA U+1F1FF",
+  "timezones": [
+    {
+      "zoneName": "Asia/Samarkand",
+      "gmtOffset": 18000,
+      "gmtOffsetName": "UTC+05:00",
+      "abbreviation": "UZT",
+      "tzName": "Uzbekistan Time"
+    },
+    {
+      "zoneName": "Asia/Tashkent",
+      "gmtOffset": 18000,
+      "gmtOffsetName": "UTC+05:00",
+      "abbreviation": "UZT",
+      "tzName": "Uzbekistan Time"
+    }
+  ],
+  "translations": {
+    "br": "Ouzbekistan",
+    "ko": "우즈베키스탄",
+    "pt-BR": "Uzbequistão",
+    "pt": "Usbequistão",
+    "nl": "Oezbekistan",
+    "hr": "Uzbekistan",
+    "fa": "ازبکستان",
+    "de": "Usbekistan",
+    "es": "Uzbekistán",
+    "fr": "Ouzbékistan",
+    "ja": "ウズベキスタン",
+    "it": "Uzbekistan",
+    "zh-CN": "乌兹别克斯坦",
+    "tr": "Özbekistan",
+    "ru": "Узбекистан",
+    "uk": "Узбекистан",
+    "pl": "Uzbekistan"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": 97,
+  "name": "Honduras",
+  "iso2": "HN",
+  "iso3": "HND",
+  "numeric_code": "340",
+  "phonecode": "504",
+  "capital": "Tegucigalpa",
+  "currency": "HNL",
+  "currency_name": "Honduran lempira",
+  "currency_symbol": "L",
+  "tld": ".hn",
+  "native": "Honduras",
+  "region": "Americas",
+  "subregion": "Central America",
+  "nationality": "Honduran",
+  "latitude": "15.00000000",
+  "longitude": "-86.50000000",
+  "emoji": "🇭🇳",
+  "emojiU": "U+1F1ED U+1F1F3",
+  "timezones": [
+    {
+      "zoneName": "America/Tegucigalpa",
+      "gmtOffset": -21600,
+      "gmtOffsetName": "UTC-06:00",
+      "abbreviation": "CST",
+      "tzName": "Central Standard Time (North America"
+    }
+  ],
+  "translations": {
+    "br": "Honduras",
+    "ko": "온두라스",
+    "pt-BR": "Honduras",
+    "pt": "Honduras",
+    "nl": "Honduras",
+    "hr": "Honduras",
+    "fa": "هندوراس",
+    "de": "Honduras",
+    "es": "Honduras",
+    "fr": "Honduras",
+    "ja": "ホンジュラス",
+    "it": "Honduras",
+    "zh-CN": "洪都拉斯",
+    "tr": "Honduras",
+    "ru": "Гондурас",
+    "uk": "Гондурас",
+    "pl": "Honduras"
+  }
+}

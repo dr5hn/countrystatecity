@@ -1,0 +1,49 @@
+{
+  "id": 232,
+  "name": "United Kingdom",
+  "iso2": "GB",
+  "iso3": "GBR",
+  "numeric_code": "826",
+  "phonecode": "44",
+  "capital": "London",
+  "currency": "GBP",
+  "currency_name": "British pound",
+  "currency_symbol": "£",
+  "tld": ".uk",
+  "native": "United Kingdom",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "nationality": "British, UK",
+  "latitude": "54.00000000",
+  "longitude": "-2.00000000",
+  "emoji": "🇬🇧",
+  "emojiU": "U+1F1EC U+1F1E7",
+  "timezones": [
+    {
+      "zoneName": "Europe/London",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "translations": {
+    "br": "Rouantelezh-Unanet",
+    "ko": "영국",
+    "pt-BR": "Reino Unido",
+    "pt": "Reino Unido",
+    "nl": "Verenigd Koninkrijk",
+    "hr": "Ujedinjeno Kraljevstvo",
+    "fa": "بریتانیای کبیر و ایرلند شمالی",
+    "de": "Vereinigtes Königreich",
+    "es": "Reino Unido",
+    "fr": "Royaume-Uni",
+    "ja": "イギリス",
+    "it": "Regno Unito",
+    "zh-CN": "英国",
+    "tr": "Birleşik Krallik",
+    "ru": "Великобритания",
+    "uk": "Сполучене Королівство",
+    "pl": "Wielka Brytania"
+  }
+}

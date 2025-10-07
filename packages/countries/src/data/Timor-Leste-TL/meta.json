@@ -1,0 +1,49 @@
+{
+  "id": 63,
+  "name": "Timor-Leste",
+  "iso2": "TL",
+  "iso3": "TLS",
+  "numeric_code": "626",
+  "phonecode": "670",
+  "capital": "Dili",
+  "currency": "USD",
+  "currency_name": "United States dollar",
+  "currency_symbol": "$",
+  "tld": ".tl",
+  "native": "Timor-Leste",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "nationality": "Timorese",
+  "latitude": "-8.83333333",
+  "longitude": "125.91666666",
+  "emoji": "🇹🇱",
+  "emojiU": "U+1F1F9 U+1F1F1",
+  "timezones": [
+    {
+      "zoneName": "Asia/Dili",
+      "gmtOffset": 32400,
+      "gmtOffsetName": "UTC+09:00",
+      "abbreviation": "TLT",
+      "tzName": "Timor Leste Time"
+    }
+  ],
+  "translations": {
+    "br": "Timor ar Reter",
+    "ko": "동티모르",
+    "pt-BR": "Timor Leste",
+    "pt": "Timor Leste",
+    "nl": "Oost-Timor",
+    "hr": "Istočni Timor",
+    "fa": "تیمور شرقی",
+    "de": "Timor-Leste",
+    "es": "Timor Oriental",
+    "fr": "Timor oriental",
+    "ja": "東ティモール",
+    "it": "Timor Est",
+    "zh-CN": "东帝汶",
+    "tr": "Doğu Timor",
+    "ru": "Тимор-Лешти",
+    "uk": "Тимор-Лешті",
+    "pl": "Timor Wschodni"
+  }
+}

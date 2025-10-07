@@ -1,0 +1,49 @@
+{
+  "id": 65,
+  "name": "Egypt",
+  "iso2": "EG",
+  "iso3": "EGY",
+  "numeric_code": "818",
+  "phonecode": "20",
+  "capital": "Cairo",
+  "currency": "EGP",
+  "currency_name": "Egyptian pound",
+  "currency_symbol": "ج.م",
+  "tld": ".eg",
+  "native": "مصر‎",
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "nationality": "Egyptian",
+  "latitude": "27.00000000",
+  "longitude": "30.00000000",
+  "emoji": "🇪🇬",
+  "emojiU": "U+1F1EA U+1F1EC",
+  "timezones": [
+    {
+      "zoneName": "Africa/Cairo",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "EET",
+      "tzName": "Eastern European Time"
+    }
+  ],
+  "translations": {
+    "br": "Egipt",
+    "ko": "이집트",
+    "pt-BR": "Egito",
+    "pt": "Egipto",
+    "nl": "Egypte",
+    "hr": "Egipat",
+    "fa": "مصر",
+    "de": "Ägypten",
+    "es": "Egipto",
+    "fr": "Égypte",
+    "ja": "エジプト",
+    "it": "Egitto",
+    "zh-CN": "埃及",
+    "tr": "Mısır",
+    "ru": "Египет",
+    "uk": "Єгипет",
+    "pl": "Egipt"
+  }
+}

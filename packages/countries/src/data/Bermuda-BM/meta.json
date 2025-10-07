@@ -1,0 +1,49 @@
+{
+  "id": 25,
+  "name": "Bermuda",
+  "iso2": "BM",
+  "iso3": "BMU",
+  "numeric_code": "060",
+  "phonecode": "1",
+  "capital": "Hamilton",
+  "currency": "BMD",
+  "currency_name": "Bermudian dollar",
+  "currency_symbol": "$",
+  "tld": ".bm",
+  "native": "Bermuda",
+  "region": "Americas",
+  "subregion": "Northern America",
+  "nationality": "Bermudian, Bermudan",
+  "latitude": "32.33333333",
+  "longitude": "-64.75000000",
+  "emoji": "🇧🇲",
+  "emojiU": "U+1F1E7 U+1F1F2",
+  "timezones": [
+    {
+      "zoneName": "Atlantic/Bermuda",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Bermuda",
+    "ko": "버뮤다",
+    "pt-BR": "Bermudas",
+    "pt": "Bermudas",
+    "nl": "Bermuda",
+    "hr": "Bermudi",
+    "fa": "برمودا",
+    "de": "Bermuda",
+    "es": "Bermudas",
+    "fr": "Bermudes",
+    "ja": "バミューダ",
+    "it": "Bermuda",
+    "zh-CN": "百慕大",
+    "tr": "Bermuda",
+    "ru": "Бермуды",
+    "uk": "Бермудські острови",
+    "pl": "Bermudy"
+  }
+}

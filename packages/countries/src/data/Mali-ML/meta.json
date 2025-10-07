@@ -1,0 +1,49 @@
+{
+  "id": 134,
+  "name": "Mali",
+  "iso2": "ML",
+  "iso3": "MLI",
+  "numeric_code": "466",
+  "phonecode": "223",
+  "capital": "Bamako",
+  "currency": "XOF",
+  "currency_name": "West African CFA franc",
+  "currency_symbol": "CFA",
+  "tld": ".ml",
+  "native": "Mali",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "nationality": "Malian, Malinese",
+  "latitude": "17.00000000",
+  "longitude": "-4.00000000",
+  "emoji": "🇲🇱",
+  "emojiU": "U+1F1F2 U+1F1F1",
+  "timezones": [
+    {
+      "zoneName": "Africa/Bamako",
+      "gmtOffset": 0,
+      "gmtOffsetName": "UTC±00",
+      "abbreviation": "GMT",
+      "tzName": "Greenwich Mean Time"
+    }
+  ],
+  "translations": {
+    "br": "Mali",
+    "ko": "말리",
+    "pt-BR": "Mali",
+    "pt": "Mali",
+    "nl": "Mali",
+    "hr": "Mali",
+    "fa": "مالی",
+    "de": "Mali",
+    "es": "Mali",
+    "fr": "Mali",
+    "ja": "マリ",
+    "it": "Mali",
+    "zh-CN": "马里",
+    "tr": "Mali",
+    "ru": "Мали",
+    "uk": "Малі",
+    "pl": "Mali"
+  }
+}

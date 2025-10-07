@@ -1,0 +1,49 @@
+{
+  "id": 1,
+  "name": "Afghanistan",
+  "iso2": "AF",
+  "iso3": "AFG",
+  "numeric_code": "004",
+  "phonecode": "93",
+  "capital": "Kabul",
+  "currency": "AFN",
+  "currency_name": "Afghan afghani",
+  "currency_symbol": "؋",
+  "tld": ".af",
+  "native": "افغانستان",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "nationality": "Afghan",
+  "latitude": "33.00000000",
+  "longitude": "65.00000000",
+  "emoji": "🇦🇫",
+  "emojiU": "U+1F1E6 U+1F1EB",
+  "timezones": [
+    {
+      "zoneName": "Asia/Kabul",
+      "gmtOffset": 16200,
+      "gmtOffsetName": "UTC+04:30",
+      "abbreviation": "AFT",
+      "tzName": "Afghanistan Time"
+    }
+  ],
+  "translations": {
+    "br": "Afghanistan",
+    "ko": "아프가니스탄",
+    "pt-BR": "Afeganistão",
+    "pt": "Afeganistão",
+    "nl": "Afghanistan",
+    "hr": "Afganistan",
+    "fa": "افغانستان",
+    "de": "Afghanistan",
+    "es": "Afganistán",
+    "fr": "Afghanistan",
+    "ja": "アフガニスタン",
+    "it": "Afghanistan",
+    "zh-CN": "阿富汗",
+    "tr": "Afganistan",
+    "ru": "Афганистан",
+    "uk": "Афганістан",
+    "pl": "Afganistan"
+  }
+}
