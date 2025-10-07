@@ -1,8 +1,14 @@
 {
   "name": "@countrystatecity/countries",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Official countries, states, and cities database with iOS/Safari support and minimal bundle size",
   "keywords": [
+    "country-state-city",
+    "countries states cities",
+    "countries states cities database",
+    "country state city",
+    "country state city database",
+    "geolocation",
     "country",
     "state",
     "city",
