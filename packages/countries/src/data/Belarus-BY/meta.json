@@ -1,0 +1,49 @@
+{
+  "id": 21,
+  "name": "Belarus",
+  "iso2": "BY",
+  "iso3": "BLR",
+  "numeric_code": "112",
+  "phonecode": "375",
+  "capital": "Minsk",
+  "currency": "BYN",
+  "currency_name": "Belarusian ruble",
+  "currency_symbol": "Br",
+  "tld": ".by",
+  "native": "Белару́сь",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "nationality": "Belarusian",
+  "latitude": "53.00000000",
+  "longitude": "28.00000000",
+  "emoji": "🇧🇾",
+  "emojiU": "U+1F1E7 U+1F1FE",
+  "timezones": [
+    {
+      "zoneName": "Europe/Minsk",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "MSK",
+      "tzName": "Moscow Time"
+    }
+  ],
+  "translations": {
+    "br": "Belarus",
+    "ko": "벨라루스",
+    "pt-BR": "Bielorrússia",
+    "pt": "Bielorrússia",
+    "nl": "Wit-Rusland",
+    "hr": "Bjelorusija",
+    "fa": "بلاروس",
+    "de": "Weißrussland",
+    "es": "Bielorrusia",
+    "fr": "Biélorussie",
+    "ja": "ベラルーシ",
+    "it": "Bielorussia",
+    "zh-CN": "白俄罗斯",
+    "tr": "Belarus",
+    "ru": "Беларусь",
+    "uk": "Білорусь",
+    "pl": "Białoruś"
+  }
+}

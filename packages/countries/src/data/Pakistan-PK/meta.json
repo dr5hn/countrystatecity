@@ -1,0 +1,49 @@
+{
+  "id": 167,
+  "name": "Pakistan",
+  "iso2": "PK",
+  "iso3": "PAK",
+  "numeric_code": "586",
+  "phonecode": "92",
+  "capital": "Islamabad",
+  "currency": "PKR",
+  "currency_name": "Pakistani rupee",
+  "currency_symbol": "₨",
+  "tld": ".pk",
+  "native": "پاکستان",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "nationality": "Pakistani",
+  "latitude": "30.00000000",
+  "longitude": "70.00000000",
+  "emoji": "🇵🇰",
+  "emojiU": "U+1F1F5 U+1F1F0",
+  "timezones": [
+    {
+      "zoneName": "Asia/Karachi",
+      "gmtOffset": 18000,
+      "gmtOffsetName": "UTC+05:00",
+      "abbreviation": "PKT",
+      "tzName": "Pakistan Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Pakistan",
+    "ko": "파키스탄",
+    "pt-BR": "Paquistão",
+    "pt": "Paquistão",
+    "nl": "Pakistan",
+    "hr": "Pakistan",
+    "fa": "پاکستان",
+    "de": "Pakistan",
+    "es": "Pakistán",
+    "fr": "Pakistan",
+    "ja": "パキスタン",
+    "it": "Pakistan",
+    "zh-CN": "巴基斯坦",
+    "tr": "Pakistan",
+    "ru": "Пакистан",
+    "uk": "Пакистан",
+    "pl": "Pakistan"
+  }
+}

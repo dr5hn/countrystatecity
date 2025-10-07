@@ -1,0 +1,49 @@
+{
+  "id": 181,
+  "name": "Romania",
+  "iso2": "RO",
+  "iso3": "ROU",
+  "numeric_code": "642",
+  "phonecode": "40",
+  "capital": "Bucharest",
+  "currency": "RON",
+  "currency_name": "Romanian leu",
+  "currency_symbol": "lei",
+  "tld": ".ro",
+  "native": "România",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "nationality": "Romanian",
+  "latitude": "46.00000000",
+  "longitude": "25.00000000",
+  "emoji": "🇷🇴",
+  "emojiU": "U+1F1F7 U+1F1F4",
+  "timezones": [
+    {
+      "zoneName": "Europe/Bucharest",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "EET",
+      "tzName": "Eastern European Time"
+    }
+  ],
+  "translations": {
+    "br": "Roumania",
+    "ko": "루마니아",
+    "pt-BR": "Romênia",
+    "pt": "Roménia",
+    "nl": "Roemenië",
+    "hr": "Rumunjska",
+    "fa": "رومانی",
+    "de": "Rumänien",
+    "es": "Rumania",
+    "fr": "Roumanie",
+    "ja": "ルーマニア",
+    "it": "Romania",
+    "zh-CN": "罗马尼亚",
+    "tr": "Romanya",
+    "ru": "Румыния",
+    "uk": "Румунія",
+    "pl": "Rumunia"
+  }
+}

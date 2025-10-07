@@ -1,0 +1,49 @@
+{
+  "id": 224,
+  "name": "Tunisia",
+  "iso2": "TN",
+  "iso3": "TUN",
+  "numeric_code": "788",
+  "phonecode": "216",
+  "capital": "Tunis",
+  "currency": "TND",
+  "currency_name": "Tunisian dinar",
+  "currency_symbol": "ت.د",
+  "tld": ".tn",
+  "native": "تونس",
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "nationality": "Tunisian",
+  "latitude": "34.00000000",
+  "longitude": "9.00000000",
+  "emoji": "🇹🇳",
+  "emojiU": "U+1F1F9 U+1F1F3",
+  "timezones": [
+    {
+      "zoneName": "Africa/Tunis",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "translations": {
+    "br": "Tunizia",
+    "ko": "튀니지",
+    "pt-BR": "Tunísia",
+    "pt": "Tunísia",
+    "nl": "Tunesië",
+    "hr": "Tunis",
+    "fa": "تونس",
+    "de": "Tunesien",
+    "es": "Túnez",
+    "fr": "Tunisie",
+    "ja": "チュニジア",
+    "it": "Tunisia",
+    "zh-CN": "突尼斯",
+    "tr": "Tunus",
+    "ru": "Тунис",
+    "uk": "Туніс",
+    "pl": "Tunezja"
+  }
+}

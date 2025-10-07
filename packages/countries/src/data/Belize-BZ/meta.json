@@ -1,0 +1,49 @@
+{
+  "id": 23,
+  "name": "Belize",
+  "iso2": "BZ",
+  "iso3": "BLZ",
+  "numeric_code": "084",
+  "phonecode": "501",
+  "capital": "Belmopan",
+  "currency": "BZD",
+  "currency_name": "Belize dollar",
+  "currency_symbol": "$",
+  "tld": ".bz",
+  "native": "Belize",
+  "region": "Americas",
+  "subregion": "Central America",
+  "nationality": "Belizean",
+  "latitude": "17.25000000",
+  "longitude": "-88.75000000",
+  "emoji": "🇧🇿",
+  "emojiU": "U+1F1E7 U+1F1FF",
+  "timezones": [
+    {
+      "zoneName": "America/Belize",
+      "gmtOffset": -21600,
+      "gmtOffsetName": "UTC-06:00",
+      "abbreviation": "CST",
+      "tzName": "Central Standard Time (North America)"
+    }
+  ],
+  "translations": {
+    "br": "Belize",
+    "ko": "벨리즈",
+    "pt-BR": "Belize",
+    "pt": "Belize",
+    "nl": "Belize",
+    "hr": "Belize",
+    "fa": "بلیز",
+    "de": "Belize",
+    "es": "Belice",
+    "fr": "Belize",
+    "ja": "ベリーズ",
+    "it": "Belize",
+    "zh-CN": "伯利兹",
+    "tr": "Belize",
+    "ru": "Белиз",
+    "uk": "Беліз",
+    "pl": "Belize"
+  }
+}

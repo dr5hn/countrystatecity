@@ -1,0 +1,49 @@
+{
+  "id": 199,
+  "name": "Singapore",
+  "iso2": "SG",
+  "iso3": "SGP",
+  "numeric_code": "702",
+  "phonecode": "65",
+  "capital": "Singapur",
+  "currency": "SGD",
+  "currency_name": "Singapore dollar",
+  "currency_symbol": "$",
+  "tld": ".sg",
+  "native": "Singapore",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "nationality": "Singaporean",
+  "latitude": "1.36666666",
+  "longitude": "103.80000000",
+  "emoji": "🇸🇬",
+  "emojiU": "U+1F1F8 U+1F1EC",
+  "timezones": [
+    {
+      "zoneName": "Asia/Singapore",
+      "gmtOffset": 28800,
+      "gmtOffsetName": "UTC+08:00",
+      "abbreviation": "SGT",
+      "tzName": "Singapore Time"
+    }
+  ],
+  "translations": {
+    "br": "Singapour",
+    "ko": "싱가포르",
+    "pt-BR": "Singapura",
+    "pt": "Singapura",
+    "nl": "Singapore",
+    "hr": "Singapur",
+    "fa": "سنگاپور",
+    "de": "Singapur",
+    "es": "Singapur",
+    "fr": "Singapour",
+    "ja": "シンガポール",
+    "it": "Singapore",
+    "zh-CN": "新加坡",
+    "tr": "Singapur",
+    "ru": "Сингапур",
+    "uk": "Сінгапур",
+    "pl": "Singapur"
+  }
+}

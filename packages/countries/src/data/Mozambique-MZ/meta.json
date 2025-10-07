@@ -1,0 +1,49 @@
+{
+  "id": 150,
+  "name": "Mozambique",
+  "iso2": "MZ",
+  "iso3": "MOZ",
+  "numeric_code": "508",
+  "phonecode": "258",
+  "capital": "Maputo",
+  "currency": "MZN",
+  "currency_name": "Mozambican metical",
+  "currency_symbol": "MT",
+  "tld": ".mz",
+  "native": "Moçambique",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "nationality": "Mozambican",
+  "latitude": "-18.25000000",
+  "longitude": "35.00000000",
+  "emoji": "🇲🇿",
+  "emojiU": "U+1F1F2 U+1F1FF",
+  "timezones": [
+    {
+      "zoneName": "Africa/Maputo",
+      "gmtOffset": 7200,
+      "gmtOffsetName": "UTC+02:00",
+      "abbreviation": "CAT",
+      "tzName": "Central Africa Time"
+    }
+  ],
+  "translations": {
+    "br": "Mozambik",
+    "ko": "모잠비크",
+    "pt-BR": "Moçambique",
+    "pt": "Moçambique",
+    "nl": "Mozambique",
+    "hr": "Mozambik",
+    "fa": "موزامبیک",
+    "de": "Mosambik",
+    "es": "Mozambique",
+    "fr": "Mozambique",
+    "ja": "モザンビーク",
+    "it": "Mozambico",
+    "zh-CN": "莫桑比克",
+    "tr": "Mozambik",
+    "ru": "Мозамбик",
+    "uk": "Мозамбік",
+    "pl": "Mozambik"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": 6,
+  "name": "Andorra",
+  "iso2": "AD",
+  "iso3": "AND",
+  "numeric_code": "020",
+  "phonecode": "376",
+  "capital": "Andorra la Vella",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "tld": ".ad",
+  "native": "Andorra",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "nationality": "Andorran",
+  "latitude": "42.50000000",
+  "longitude": "1.50000000",
+  "emoji": "🇦🇩",
+  "emojiU": "U+1F1E6 U+1F1E9",
+  "timezones": [
+    {
+      "zoneName": "Europe/Andorra",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "translations": {
+    "br": "Andorra",
+    "ko": "안도라",
+    "pt-BR": "Andorra",
+    "pt": "Andorra",
+    "nl": "Andorra",
+    "hr": "Andora",
+    "fa": "آندورا",
+    "de": "Andorra",
+    "es": "Andorra",
+    "fr": "Andorre",
+    "ja": "アンドラ",
+    "it": "Andorra",
+    "zh-CN": "安道尔",
+    "tr": "Andorra",
+    "ru": "Андорра",
+    "uk": "Андорра",
+    "pl": "Andora"
+  }
+}

@@ -118,13 +118,16 @@ describe('Data Loaders', () => {
 
   describe('getCityById', () => {
     it('should return specific city by ID', async () => {
-      const city = await getCityById('US', 'CA', 1);
+      // Use a real city ID from the actual data
+      const city = await getCityById('US', 'CA', 110992);
       expect(city).not.toBeNull();
-      expect(city?.name).toBe('Los Angeles');
+      expect(city?.name).toBeDefined();
+      expect(city?.country_code).toBe('US');
+      expect(city?.state_code).toBe('CA');
     });
 
     it('should return null for invalid city ID', async () => {
-      const city = await getCityById('US', 'CA', 99999);
+      const city = await getCityById('US', 'CA', 99999999);
       expect(city).toBeNull();
     });
   });

@@ -1,0 +1,49 @@
+{
+  "id": 67,
+  "name": "Equatorial Guinea",
+  "iso2": "GQ",
+  "iso3": "GNQ",
+  "numeric_code": "226",
+  "phonecode": "240",
+  "capital": "Malabo",
+  "currency": "XAF",
+  "currency_name": "Central African CFA franc",
+  "currency_symbol": "FCFA",
+  "tld": ".gq",
+  "native": "Guinea Ecuatorial",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "nationality": "Equatorial Guinean, Equatoguinean",
+  "latitude": "2.00000000",
+  "longitude": "10.00000000",
+  "emoji": "🇬🇶",
+  "emojiU": "U+1F1EC U+1F1F6",
+  "timezones": [
+    {
+      "zoneName": "Africa/Malabo",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "WAT",
+      "tzName": "West Africa Time"
+    }
+  ],
+  "translations": {
+    "br": "Ginea ar C'heheder",
+    "ko": "적도 기니",
+    "pt-BR": "Guiné Equatorial",
+    "pt": "Guiné Equatorial",
+    "nl": "Equatoriaal-Guinea",
+    "hr": "Ekvatorijalna Gvineja",
+    "fa": "گینه استوایی",
+    "de": "Äquatorial-Guinea",
+    "es": "Guinea Ecuatorial",
+    "fr": "Guinée-Équatoriale",
+    "ja": "赤道ギニア",
+    "it": "Guinea Equatoriale",
+    "zh-CN": "赤道几内亚",
+    "tr": "Ekvator Ginesi",
+    "ru": "Экваториальная Гвинея",
+    "uk": "Екваторіальна Гвінея",
+    "pl": "Gwinea Równikowa"
+  }
+}

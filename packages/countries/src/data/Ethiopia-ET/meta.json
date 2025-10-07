@@ -1,0 +1,49 @@
+{
+  "id": 70,
+  "name": "Ethiopia",
+  "iso2": "ET",
+  "iso3": "ETH",
+  "numeric_code": "231",
+  "phonecode": "251",
+  "capital": "Addis Ababa",
+  "currency": "ETB",
+  "currency_name": "Ethiopian birr",
+  "currency_symbol": "Nkf",
+  "tld": ".et",
+  "native": "ኢትዮጵያ",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "nationality": "Ethiopian",
+  "latitude": "8.00000000",
+  "longitude": "38.00000000",
+  "emoji": "🇪🇹",
+  "emojiU": "U+1F1EA U+1F1F9",
+  "timezones": [
+    {
+      "zoneName": "Africa/Addis_Ababa",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "EAT",
+      "tzName": "East Africa Time"
+    }
+  ],
+  "translations": {
+    "br": "Etiopia",
+    "ko": "에티오피아",
+    "pt-BR": "Etiópia",
+    "pt": "Etiópia",
+    "nl": "Ethiopië",
+    "hr": "Etiopija",
+    "fa": "اتیوپی",
+    "de": "Äthiopien",
+    "es": "Etiopía",
+    "fr": "Éthiopie",
+    "ja": "エチオピア",
+    "it": "Etiopia",
+    "zh-CN": "埃塞俄比亚",
+    "tr": "Etiyopya",
+    "ru": "Эфиопия",
+    "uk": "Ефіопія",
+    "pl": "Etiopia"
+  }
+}

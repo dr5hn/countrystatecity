@@ -1,0 +1,49 @@
+{
+  "id": 245,
+  "name": "Yemen",
+  "iso2": "YE",
+  "iso3": "YEM",
+  "numeric_code": "887",
+  "phonecode": "967",
+  "capital": "Sanaa",
+  "currency": "YER",
+  "currency_name": "Yemeni rial",
+  "currency_symbol": "﷼",
+  "tld": ".ye",
+  "native": "اليَمَن",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "nationality": "Yemeni",
+  "latitude": "15.00000000",
+  "longitude": "48.00000000",
+  "emoji": "🇾🇪",
+  "emojiU": "U+1F1FE U+1F1EA",
+  "timezones": [
+    {
+      "zoneName": "Asia/Aden",
+      "gmtOffset": 10800,
+      "gmtOffsetName": "UTC+03:00",
+      "abbreviation": "AST",
+      "tzName": "Arabia Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Yemen",
+    "ko": "예멘",
+    "pt-BR": "Iêmen",
+    "pt": "Iémen",
+    "nl": "Jemen",
+    "hr": "Jemen",
+    "fa": "یمن",
+    "de": "Jemen",
+    "es": "Yemen",
+    "fr": "Yémen",
+    "ja": "イエメン",
+    "it": "Yemen",
+    "zh-CN": "也门",
+    "tr": "Yemen",
+    "ru": "Йемен",
+    "uk": "Ємен",
+    "pl": "Jemen"
+  }
+}

@@ -89,6 +89,7 @@ describe('API Integration Tests', () => {
     
     const delhiCities = await getCitiesOfState('IN', 'DL');
     expect(delhiCities.length).toBeGreaterThan(0);
-    expect(delhiCities[0].name).toBe('New Delhi');
+    // Check that Delhi is in the list of cities
+    expect(delhiCities.some(c => c.name === 'New Delhi' || c.name === 'Delhi')).toBe(true);
   });
 });

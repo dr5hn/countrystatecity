@@ -6,6 +6,10 @@
 
 import type { ICountry, ICountryMeta, IState, ICity } from './types';
 
+// Cache for country code to directory name mapping
+let countryDirMap: Map<string, string> | null = null;
+let stateDirMaps: Map<string, Map<string, string>> = new Map();
+
 // Helper function to load JSON data
 async function loadJSON<T>(path: string): Promise<T> {
   try {
@@ -36,6 +40,74 @@ async function loadJSON<T>(path: string): Promise<T> {
   }
 }
 
+// Helper to get country directory name from ISO2 code
+async function getCountryDirName(countryCode: string): Promise<string | null> {
+  // Initialize map if not already done
+  if (!countryDirMap) {
+    const fs = await import('fs');
+    const pathModule = await import('path');
+    
+    let basePath: string;
+    if (typeof __dirname !== 'undefined') {
+      basePath = __dirname;
+    } else {
+      const { fileURLToPath } = await import('url');
+      basePath = pathModule.dirname(fileURLToPath(import.meta.url));
+    }
+    
+    const dataDir = pathModule.join(basePath, 'data');
+    const dirs = fs.readdirSync(dataDir, { withFileTypes: true })
+      .filter(d => d.isDirectory())
+      .map(d => d.name);
+    
+    countryDirMap = new Map();
+    for (const dir of dirs) {
+      // Extract ISO2 code from directory name (format: CountryName-ISO2)
+      const parts = dir.split('-');
+      const iso2 = parts[parts.length - 1];
+      countryDirMap.set(iso2, dir);
+    }
+  }
+  
+  return countryDirMap.get(countryCode) || null;
+}
+
+// Helper to get state directory name from state code
+async function getStateDirName(countryCode: string, stateCode: string): Promise<string | null> {
+  const countryDir = await getCountryDirName(countryCode);
+  if (!countryDir) return null;
+  
+  // Check if we have cached state map for this country
+  if (!stateDirMaps.has(countryCode)) {
+    const fs = await import('fs');
+    const pathModule = await import('path');
+    
+    let basePath: string;
+    if (typeof __dirname !== 'undefined') {
+      basePath = __dirname;
+    } else {
+      const { fileURLToPath } = await import('url');
+      basePath = pathModule.dirname(fileURLToPath(import.meta.url));
+    }
+    
+    const countryPath = pathModule.join(basePath, 'data', countryDir);
+    const dirs = fs.readdirSync(countryPath, { withFileTypes: true })
+      .filter(d => d.isDirectory())
+      .map(d => d.name);
+    
+    const stateMap = new Map<string, string>();
+    for (const dir of dirs) {
+      // Extract state code from directory name (format: StateName-CODE)
+      const parts = dir.split('-');
+      const code = parts[parts.length - 1];
+      stateMap.set(code, dir);
+    }
+    stateDirMaps.set(countryCode, stateMap);
+  }
+  
+  return stateDirMaps.get(countryCode)?.get(stateCode) || null;
+}
+
 /**
  * Get lightweight list of all countries
  * @returns Promise with array of countries (basic info only)
@@ -53,7 +125,9 @@ export async function getCountries(): Promise<ICountry[]> {
  */
 export async function getCountryByCode(countryCode: string): Promise<ICountryMeta | null> {
   try {
-    return await loadJSON<ICountryMeta>(`./data/${countryCode}/meta.json`);
+    const countryDir = await getCountryDirName(countryCode);
+    if (!countryDir) return null;
+    return await loadJSON<ICountryMeta>(`./data/${countryDir}/meta.json`);
   } catch (error) {
     // Country not found or file doesn't exist
     return null;
@@ -68,7 +142,9 @@ export async function getCountryByCode(countryCode: string): Promise<ICountryMet
  */
 export async function getStatesOfCountry(countryCode: string): Promise<IState[]> {
   try {
-    return await loadJSON<IState[]>(`./data/${countryCode}/states.json`);
+    const countryDir = await getCountryDirName(countryCode);
+    if (!countryDir) return [];
+    return await loadJSON<IState[]>(`./data/${countryDir}/states.json`);
   } catch (error) {
     // Country not found or has no states
     return [];
@@ -103,7 +179,13 @@ export async function getCitiesOfState(
   stateCode: string
 ): Promise<ICity[]> {
   try {
-    return await loadJSON<ICity[]>(`./data/${countryCode}/${stateCode}/cities.json`);
+    const countryDir = await getCountryDirName(countryCode);
+    if (!countryDir) return [];
+    
+    const stateDir = await getStateDirName(countryCode, stateCode);
+    if (!stateDir) return [];
+    
+    return await loadJSON<ICity[]>(`./data/${countryDir}/${stateDir}/cities.json`);
   } catch (error) {
     // State not found or has no cities
     return [];

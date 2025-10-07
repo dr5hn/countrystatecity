@@ -1,0 +1,39 @@
+{
+  "id": 248,
+  "name": "Kosovo",
+  "iso2": "XK",
+  "iso3": "XKX",
+  "numeric_code": "926",
+  "phonecode": "383",
+  "capital": "Pristina",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "tld": ".xk",
+  "native": "Republika e Kosovës",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "nationality": "Kosovar, Kosovan",
+  "latitude": "42.56129090",
+  "longitude": "20.34030350",
+  "emoji": "🇽🇰",
+  "emojiU": "U+1F1FD U+1F1F0",
+  "timezones": [
+    {
+      "zoneName": "Europe/Belgrade",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
+    }
+  ],
+  "translations": {
+    "br": "Kosovo",
+    "ko": "코소보",
+    "zh-CN": "科索沃",
+    "tr": "Kosova",
+    "ru": "Косово",
+    "uk": "Косово",
+    "pl": "Kosowo"
+  }
+}

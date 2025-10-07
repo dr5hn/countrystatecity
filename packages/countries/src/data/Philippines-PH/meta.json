@@ -1,0 +1,49 @@
+{
+  "id": 174,
+  "name": "Philippines",
+  "iso2": "PH",
+  "iso3": "PHL",
+  "numeric_code": "608",
+  "phonecode": "63",
+  "capital": "Manila",
+  "currency": "PHP",
+  "currency_name": "Philippine peso",
+  "currency_symbol": "₱",
+  "tld": ".ph",
+  "native": "Pilipinas",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "nationality": "Philippine, Filipino",
+  "latitude": "13.00000000",
+  "longitude": "122.00000000",
+  "emoji": "🇵🇭",
+  "emojiU": "U+1F1F5 U+1F1ED",
+  "timezones": [
+    {
+      "zoneName": "Asia/Manila",
+      "gmtOffset": 28800,
+      "gmtOffsetName": "UTC+08:00",
+      "abbreviation": "PHT",
+      "tzName": "Philippine Time"
+    }
+  ],
+  "translations": {
+    "br": "Filipinez",
+    "ko": "필리핀",
+    "pt-BR": "Filipinas",
+    "pt": "Filipinas",
+    "nl": "Filipijnen",
+    "hr": "Filipini",
+    "fa": "جزایر الندفیلیپین",
+    "de": "Philippinen",
+    "es": "Filipinas",
+    "fr": "Philippines",
+    "ja": "フィリピン",
+    "it": "Filippine",
+    "zh-CN": "菲律宾",
+    "tr": "Filipinler",
+    "ru": "Филиппины",
+    "uk": "Філіппіни",
+    "pl": "Filipiny"
+  }
+}

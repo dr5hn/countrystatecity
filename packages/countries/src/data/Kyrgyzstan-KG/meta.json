@@ -1,0 +1,49 @@
+{
+  "id": 118,
+  "name": "Kyrgyzstan",
+  "iso2": "KG",
+  "iso3": "KGZ",
+  "numeric_code": "417",
+  "phonecode": "996",
+  "capital": "Bishkek",
+  "currency": "KGS",
+  "currency_name": "Kyrgyzstani som",
+  "currency_symbol": "лв",
+  "tld": ".kg",
+  "native": "Кыргызстан",
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "nationality": "Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz",
+  "latitude": "41.00000000",
+  "longitude": "75.00000000",
+  "emoji": "🇰🇬",
+  "emojiU": "U+1F1F0 U+1F1EC",
+  "timezones": [
+    {
+      "zoneName": "Asia/Bishkek",
+      "gmtOffset": 21600,
+      "gmtOffsetName": "UTC+06:00",
+      "abbreviation": "KGT",
+      "tzName": "Kyrgyzstan Time"
+    }
+  ],
+  "translations": {
+    "br": "Kirgizstan",
+    "ko": "키르기스스탄",
+    "pt-BR": "Quirguistão",
+    "pt": "Quirguizistão",
+    "nl": "Kirgizië",
+    "hr": "Kirgistan",
+    "fa": "قرقیزستان",
+    "de": "Kirgisistan",
+    "es": "Kirguizistán",
+    "fr": "Kirghizistan",
+    "ja": "キルギス",
+    "it": "Kirghizistan",
+    "zh-CN": "吉尔吉斯斯坦",
+    "tr": "Kirgizistan",
+    "ru": "Кыргызстан",
+    "uk": "Киргизстан",
+    "pl": "Kirgistan"
+  }
+}

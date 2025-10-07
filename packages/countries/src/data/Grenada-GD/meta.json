@@ -1,0 +1,49 @@
+{
+  "id": 87,
+  "name": "Grenada",
+  "iso2": "GD",
+  "iso3": "GRD",
+  "numeric_code": "308",
+  "phonecode": "1",
+  "capital": "St. George's",
+  "currency": "XCD",
+  "currency_name": "Eastern Caribbean dollar",
+  "currency_symbol": "$",
+  "tld": ".gd",
+  "native": "Grenada",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "nationality": "Grenadian",
+  "latitude": "12.11666666",
+  "longitude": "-61.66666666",
+  "emoji": "🇬🇩",
+  "emojiU": "U+1F1EC U+1F1E9",
+  "timezones": [
+    {
+      "zoneName": "America/Grenada",
+      "gmtOffset": -14400,
+      "gmtOffsetName": "UTC-04:00",
+      "abbreviation": "AST",
+      "tzName": "Atlantic Standard Time"
+    }
+  ],
+  "translations": {
+    "br": "Grenada",
+    "ko": "그레나다",
+    "pt-BR": "Granada",
+    "pt": "Granada",
+    "nl": "Grenada",
+    "hr": "Grenada",
+    "fa": "گرنادا",
+    "de": "Grenada",
+    "es": "Grenada",
+    "fr": "Grenade",
+    "ja": "グレナダ",
+    "it": "Grenada",
+    "zh-CN": "格林纳达",
+    "tr": "Grenada",
+    "ru": "Гренада",
+    "uk": "Гренада",
+    "pl": "Grenada"
+  }
+}

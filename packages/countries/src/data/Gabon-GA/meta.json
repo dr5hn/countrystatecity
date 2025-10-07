@@ -1,0 +1,49 @@
+{
+  "id": 79,
+  "name": "Gabon",
+  "iso2": "GA",
+  "iso3": "GAB",
+  "numeric_code": "266",
+  "phonecode": "241",
+  "capital": "Libreville",
+  "currency": "XAF",
+  "currency_name": "Central African CFA franc",
+  "currency_symbol": "FCFA",
+  "tld": ".ga",
+  "native": "Gabon",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "nationality": "Gabonese",
+  "latitude": "-1.00000000",
+  "longitude": "11.75000000",
+  "emoji": "🇬🇦",
+  "emojiU": "U+1F1EC U+1F1E6",
+  "timezones": [
+    {
+      "zoneName": "Africa/Libreville",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "WAT",
+      "tzName": "West Africa Time"
+    }
+  ],
+  "translations": {
+    "br": "Gabon",
+    "ko": "가봉",
+    "pt-BR": "Gabão",
+    "pt": "Gabão",
+    "nl": "Gabon",
+    "hr": "Gabon",
+    "fa": "گابن",
+    "de": "Gabun",
+    "es": "Gabón",
+    "fr": "Gabon",
+    "ja": "ガボン",
+    "it": "Gabon",
+    "zh-CN": "加蓬",
+    "tr": "Gabon",
+    "ru": "Габон",
+    "uk": "Габон",
+    "pl": "Gabon"
+  }
+}
