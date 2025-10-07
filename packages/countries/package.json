@@ -25,7 +25,7 @@
   "license": "ODbL-1.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dr5hn/countrystatecity.git",
+    "url": "git+https://github.com/dr5hn/countrystatecity.git",
     "directory": "packages/countries"
   },
   "homepage": "https://github.com/dr5hn/countrystatecity/tree/main/packages/countries#readme",
