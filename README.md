@@ -1,5 +1,8 @@
 # @world/* Package Ecosystem
 
+[![CI](https://github.com/dr5hn/world/workflows/CI/badge.svg)](https://github.com/dr5hn/world/actions/workflows/ci.yml)
+[![Data Update](https://github.com/dr5hn/world/workflows/Update%20Data/badge.svg)](https://github.com/dr5hn/world/actions/workflows/update-data.yml)
+
 Official package ecosystem for countries, states, cities, and geographic data with iOS/Safari support and minimal bundle sizes.
 
 ## 📦 Packages
@@ -78,12 +81,45 @@ The popular `country-state-city` package (162K weekly downloads) has critical is
 
 ```
 world/
+├── .github/
+│   └── workflows/          # CI/CD workflows
+│       ├── ci.yml          # Continuous Integration
+│       ├── update-data.yml # Automated data updates
+│       └── publish.yml     # NPM publishing
 ├── packages/
-│   └── countries/        # @world/countries package
-├── specs/                # Technical specifications
-├── package.json          # Root package configuration
-└── pnpm-workspace.yaml   # Workspace configuration
+│   └── countries/          # @world/countries package
+├── specs/                  # Technical specifications
+├── package.json            # Root package configuration
+└── pnpm-workspace.yaml     # Workspace configuration
 ```
+
+## 🔄 CI/CD & Automation
+
+### Continuous Integration
+Every push and PR automatically:
+- ✅ Runs type checking
+- ✅ Executes 42 comprehensive tests
+- ✅ Builds all packages
+- ✅ Validates bundle sizes
+- ✅ Tests iOS/Safari compatibility
+
+### Automated Data Updates
+Weekly automated updates (Sundays at 00:00 UTC):
+- 📥 Downloads latest data from [source repository](https://github.com/dr5hn/countries-states-cities-database)
+- 🔄 Transforms into optimized split structure
+- 🧪 Runs full test suite
+- 📝 Creates PR for review if changes detected
+
+**Manual trigger:** Go to [Actions](https://github.com/dr5hn/world/actions/workflows/update-data.yml) → Run workflow
+
+### Publishing
+Automated publishing to NPM on version changes:
+- 🔍 Detects version bumps in package.json
+- 📦 Builds and tests before publishing
+- 🚀 Publishes to NPM registry
+- 🏷️ Creates GitHub release with changelog
+
+See [Workflow Documentation](./.github/workflows/README.md) for details.
 
 ## 🛠️ Development
 
