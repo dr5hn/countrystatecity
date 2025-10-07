@@ -165,7 +165,14 @@ pnpm test:watch
 
 ## 📄 License
 
-MIT © [dr5hn](https://github.com/dr5hn)
+[ODbL-1.0](../../LICENSE) © [dr5hn](https://github.com/dr5hn)
+
+This package and its data are licensed under the Open Database License (ODbL) v1.0. The data is sourced from the [Countries States Cities Database](https://github.com/dr5hn/countries-states-cities-database) which is also licensed under ODbL-1.0.
+
+You are free to share, create, and adapt this database as long as you:
+- **Attribute**: Credit the original sources
+- **Share-Alike**: Distribute adaptations under the same license
+- **Keep Open**: Don't use technical restrictions
 
 ## 🤝 Contributing
 

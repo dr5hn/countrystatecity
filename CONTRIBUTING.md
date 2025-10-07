@@ -342,4 +342,4 @@ Include:
 
 ## 📄 License
 
-By contributing, you agree that your contributions will be licensed under the MIT License.
+By contributing, you agree that your contributions will be licensed under the Open Database License (ODbL) v1.0, the same license as the project.
