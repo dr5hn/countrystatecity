@@ -56,6 +56,8 @@ jobs:
           PACKAGE_NAME="@countrystatecity/countries"
           PACKAGE_VERSION=$(node -p "require('./packages/countries/package.json').version")
           
+          echo "version=$PACKAGE_VERSION" >> $GITHUB_OUTPUT
+          
           if npm view "$PACKAGE_NAME@$PACKAGE_VERSION" version 2>/dev/null; then
             echo "published=true" >> $GITHUB_OUTPUT
             echo "Version $PACKAGE_VERSION already published"
