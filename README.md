@@ -80,7 +80,7 @@ The popular `country-state-city` package (162K weekly downloads) has critical is
 ## 🏗️ Monorepo Structure
 
 ```
-world/
+countrystatecity/
 ├── .github/
 │   └── workflows/          # CI/CD workflows
 │       ├── ci.yml          # Continuous Integration

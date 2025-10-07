@@ -1,6 +1,6 @@
 # GitHub Actions Workflows
 
-This directory contains automated workflows for the @world package ecosystem.
+This directory contains automated workflows for the @countrystatecity package ecosystem.
 
 ## Workflows
 

@@ -1,6 +1,6 @@
-# Contributing to @world Packages
+# Contributing to @countrystatecity Packages
 
-Thank you for your interest in contributing! This document provides guidelines for contributing to the @world package ecosystem.
+Thank you for your interest in contributing! This document provides guidelines for contributing to the @countrystatecity package ecosystem.
 
 ## 🚀 Quick Start
 
@@ -188,7 +188,7 @@ To add a new package to the monorepo:
 3. **Configure package.json**
    ```json
    {
-     "name": "@world/your-package",
+     "name": "@countrystatecity/your-package",
      "version": "1.0.0",
      "type": "module",
      "main": "./dist/index.cjs",
