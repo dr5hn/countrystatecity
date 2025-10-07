@@ -66,29 +66,13 @@ jobs:
             echo "Version $PACKAGE_VERSION not yet published"
           fi
       
-      - name: Publish @countrystatecity/countries to NPM
+      - name: Publish @countrystatecity/countries
         if: steps.check-version.outputs.published == 'false'
         run: |
           cd packages/countries
           npm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-      
-      - name: Setup Node.js for GitHub Packages
-        if: steps.check-version.outputs.published == 'false'
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-          registry-url: 'https://npm.pkg.github.com'
-          scope: '@countrystatecity'
-      
-      - name: Publish @countrystatecity/countries to GitHub Packages
-        if: steps.check-version.outputs.published == 'false'
-        run: |
-          cd packages/countries
-          npm publish --access public
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Create GitHub Release
         if: steps.check-version.outputs.published == 'false'
