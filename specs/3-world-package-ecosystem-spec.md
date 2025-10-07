@@ -1,4 +1,4 @@
-# @world/* Package Ecosystem - Complete Specifications
+# @countrystatecity/* Package Ecosystem - Complete Specifications
 
 ## 🌍 Vision
 
@@ -9,24 +9,24 @@ Create a comprehensive, iOS-compatible, tree-shakeable suite of npm packages pro
 ## 📦 Package Suite Overview
 
 ### **Core Packages (Priority 1)**
-1. `@world/countries` - Countries with states and cities
-2. `@world/timezones` - Timezone data and conversions
-3. `@world/currencies` - Currency data and exchange utilities
-4. `@world/languages` - World languages and translations
-5. `@world/phone-codes` - International dialing codes and validation
+1. `@countrystatecity/countries` - Countries with states and cities
+2. `@countrystatecity/timezones` - Timezone data and conversions
+3. `@countrystatecity/currencies` - Currency data and exchange utilities
+4. `@countrystatecity/languages` - World languages and translations
+5. `@countrystatecity/phone-codes` - International dialing codes and validation
 
 ### **Extended Packages (Priority 2)**
-6. `@world/airports` - Global airports database
-7. `@world/postal-codes` - Postal/ZIP code formats and validation
-8. `@world/coordinates` - Geolocation utilities
-9. `@world/borders` - Country borders and neighbors
-10. `@world/flags` - Flag emojis and SVG assets
+6. `@countrystatecity/airports` - Global airports database
+7. `@countrystatecity/postal-codes` - Postal/ZIP code formats and validation
+8. `@countrystatecity/coordinates` - Geolocation utilities
+9. `@countrystatecity/borders` - Country borders and neighbors
+10. `@countrystatecity/flags` - Flag emojis and SVG assets
 
 ### **Utility Packages (Priority 3)**
-11. `@world/validate` - Validation utilities for all data types
-12. `@world/format` - Formatting utilities (addresses, phones, etc.)
-13. `@world/distance` - Distance calculations between locations
-14. `@world/react` - React components for all packages
+11. `@countrystatecity/validate` - Validation utilities for all data types
+12. `@countrystatecity/format` - Formatting utilities (addresses, phones, etc.)
+13. `@countrystatecity/distance` - Distance calculations between locations
+14. `@countrystatecity/react` - React components for all packages
 
 ---
 
@@ -34,7 +34,7 @@ Create a comprehensive, iOS-compatible, tree-shakeable suite of npm packages pro
 
 ---
 
-## 1️⃣ @world/countries
+## 1️⃣ @countrystatecity/countries
 
 **Status:** Primary package (detailed in main spec)
 
@@ -55,14 +55,14 @@ Create a comprehensive, iOS-compatible, tree-shakeable suite of npm packages pro
 
 ---
 
-## 2️⃣ @world/timezones
+## 2️⃣ @countrystatecity/timezones
 
 ### **Purpose**
 Comprehensive timezone data with conversion utilities
 
 ### **Package Structure**
 ```
-@world/timezones/
+@countrystatecity/timezones/
 ├── src/
 │   ├── index.ts
 │   ├── types.ts
@@ -140,14 +140,14 @@ CREATE TABLE timezones (
 
 ---
 
-## 3️⃣ @world/currencies
+## 3️⃣ @countrystatecity/currencies
 
 ### **Purpose**
 Currency codes, symbols, and exchange rate utilities
 
 ### **Package Structure**
 ```
-@world/currencies/
+@countrystatecity/currencies/
 ├── src/
 │   ├── index.ts
 │   ├── types.ts
@@ -223,14 +223,14 @@ CREATE TABLE country_currencies (
 
 ---
 
-## 4️⃣ @world/languages
+## 4️⃣ @countrystatecity/languages
 
 ### **Purpose**
 World languages with native names and translations
 
 ### **Package Structure**
 ```
-@world/languages/
+@countrystatecity/languages/
 ├── src/
 │   ├── index.ts
 │   ├── types.ts
@@ -302,14 +302,14 @@ CREATE TABLE country_languages (
 
 ---
 
-## 5️⃣ @world/phone-codes
+## 5️⃣ @countrystatecity/phone-codes
 
 ### **Purpose**
 International dialing codes and phone number validation
 
 ### **Package Structure**
 ```
-@world/phone-codes/
+@countrystatecity/phone-codes/
 ├── src/
 │   ├── index.ts
 │   ├── types.ts
@@ -378,14 +378,14 @@ CREATE TABLE phone_codes (
 
 ---
 
-## 6️⃣ @world/airports
+## 6️⃣ @countrystatecity/airports
 
 ### **Purpose**
 Global airports database with IATA/ICAO codes
 
 ### **Package Structure**
 ```
-@world/airports/
+@countrystatecity/airports/
 ├── src/
 │   ├── index.ts
 │   ├── types.ts
@@ -435,14 +435,14 @@ const nearest = await getNearestAirport(34.05, -118.24);
 
 ---
 
-## 7️⃣ @world/postal-codes
+## 7️⃣ @countrystatecity/postal-codes
 
 ### **Purpose**
 Postal code formats and validation by country
 
 ### **Package Structure**
 ```
-@world/postal-codes/
+@countrystatecity/postal-codes/
 ├── src/
 │   ├── index.ts
 │   ├── types.ts
@@ -490,14 +490,14 @@ const location = await getLocationByPostal('90210', 'US');
 
 ---
 
-## 8️⃣ @world/coordinates
+## 8️⃣ @countrystatecity/coordinates
 
 ### **Purpose**
 Geolocation utilities and coordinate operations
 
 ### **Package Structure**
 ```
-@world/coordinates/
+@countrystatecity/coordinates/
 ├── src/
 │   ├── index.ts
 │   ├── types.ts
@@ -533,14 +533,14 @@ const formatted = formatCoordinates(40.7128, -74.0060, 'DMS');
 
 ---
 
-## 9️⃣ @world/borders
+## 9️⃣ @countrystatecity/borders
 
 ### **Purpose**
 Country borders and neighboring countries
 
 ### **Package Structure**
 ```
-@world/borders/
+@countrystatecity/borders/
 ├── src/
 │   ├── index.ts
 │   ├── types.ts
@@ -587,14 +587,14 @@ const borders = getLandBorders('US');
 
 ---
 
-## 🔟 @world/flags
+## 🔟 @countrystatecity/flags
 
 ### **Purpose**
 Country flag emojis and SVG assets
 
 ### **Package Structure**
 ```
-@world/flags/
+@countrystatecity/flags/
 ├── src/
 │   ├── index.ts
 │   ├── types.ts
@@ -624,14 +624,14 @@ const flags = await getAllFlags();
 
 ---
 
-## 1️⃣1️⃣ @world/validate
+## 1️⃣1️⃣ @countrystatecity/validate
 
 ### **Purpose**
 Unified validation utilities for all world data
 
 ### **Package Structure**
 ```
-@world/validate/
+@countrystatecity/validate/
 ├── src/
 │   ├── index.ts
 │   ├── validators/
@@ -675,14 +675,14 @@ const results = validateBatch({
 
 ---
 
-## 1️⃣2️⃣ @world/format
+## 1️⃣2️⃣ @countrystatecity/format
 
 ### **Purpose**
 Formatting utilities for international data
 
 ### **Package Structure**
 ```
-@world/format/
+@countrystatecity/format/
 ├── src/
 │   ├── index.ts
 │   ├── formatters/
@@ -726,14 +726,14 @@ formatName({ first: 'Tanaka', last: 'Yuki' }, 'JP');
 
 ---
 
-## 1️⃣3️⃣ @world/distance
+## 1️⃣3️⃣ @countrystatecity/distance
 
 ### **Purpose**
 Distance and geospatial calculations
 
 ### **Package Structure**
 ```
-@world/distance/
+@countrystatecity/distance/
 ├── src/
 │   ├── index.ts
 │   ├── calculators/
@@ -771,14 +771,14 @@ const points = getPointsAlongRoute(pointA, pointB, 10); // 10 points
 
 ---
 
-## 1️⃣4️⃣ @world/react
+## 1️⃣4️⃣ @countrystatecity/react
 
 ### **Purpose**
-React components for all @world packages
+React components for all @countrystatecity packages
 
 ### **Package Structure**
 ```
-@world/react/
+@countrystatecity/react/
 ├── src/
 │   ├── index.ts
 │   ├── components/
@@ -803,7 +803,7 @@ import {
   StateSelect, 
   CitySelect,
   PhoneInput
-} from '@world/react';
+} from '@countrystatecity/react';
 
 function AddressForm() {
   const [country, setCountry] = useState('');
@@ -864,20 +864,20 @@ search('united'); // Returns matching countries
 ```
 world/
 ├── packages/
-│   ├── countries/              → @world/countries
-│   ├── timezones/              → @world/timezones
-│   ├── currencies/             → @world/currencies
-│   ├── languages/              → @world/languages
-│   ├── phone-codes/            → @world/phone-codes
-│   ├── airports/               → @world/airports
-│   ├── postal-codes/           → @world/postal-codes
-│   ├── coordinates/            → @world/coordinates
-│   ├── borders/                → @world/borders
-│   ├── flags/                  → @world/flags
-│   ├── validate/               → @world/validate
-│   ├── format/                 → @world/format
-│   ├── distance/               → @world/distance
-│   └── react/                  → @world/react
+│   ├── countries/              → @countrystatecity/countries
+│   ├── timezones/              → @countrystatecity/timezones
+│   ├── currencies/             → @countrystatecity/currencies
+│   ├── languages/              → @countrystatecity/languages
+│   ├── phone-codes/            → @countrystatecity/phone-codes
+│   ├── airports/               → @countrystatecity/airports
+│   ├── postal-codes/           → @countrystatecity/postal-codes
+│   ├── coordinates/            → @countrystatecity/coordinates
+│   ├── borders/                → @countrystatecity/borders
+│   ├── flags/                  → @countrystatecity/flags
+│   ├── validate/               → @countrystatecity/validate
+│   ├── format/                 → @countrystatecity/format
+│   ├── distance/               → @countrystatecity/distance
+│   └── react/                  → @countrystatecity/react
 ├── shared/
 │   ├── types/                  # Shared TypeScript types
 │   ├── utils/                  # Shared utilities
@@ -900,30 +900,30 @@ world/
 ## 🚀 Phased Rollout Plan
 
 ### **Phase 1: Foundation (Month 1-2)**
-1. `@world/countries` ✅ (Priority 1)
-2. `@world/timezones`
-3. `@world/currencies`
+1. `@countrystatecity/countries` ✅ (Priority 1)
+2. `@countrystatecity/timezones`
+3. `@countrystatecity/currencies`
 
 ### **Phase 2: Core Data (Month 3-4)**
-4. `@world/languages`
-5. `@world/phone-codes`
-6. `@world/postal-codes`
+4. `@countrystatecity/languages`
+5. `@countrystatecity/phone-codes`
+6. `@countrystatecity/postal-codes`
 
 ### **Phase 3: Extended Data (Month 5-6)**
-7. `@world/airports`
-8. `@world/borders`
-9. `@world/flags`
+7. `@countrystatecity/airports`
+8. `@countrystatecity/borders`
+9. `@countrystatecity/flags`
 
 ### **Phase 4: Utilities (Month 7-8)**
-10. `@world/validate`
-11. `@world/format`
-12. `@world/distance`
-13. `@world/coordinates`
+10. `@countrystatecity/validate`
+11. `@countrystatecity/format`
+12. `@countrystatecity/distance`
+13. `@countrystatecity/coordinates`
 
 ### **Phase 5: Framework Support (Month 9-10)**
-14. `@world/react`
-15. `@world/vue` (optional)
-16. `@world/svelte` (optional)
+14. `@countrystatecity/react`
+15. `@countrystatecity/vue` (optional)
+16. `@countrystatecity/svelte` (optional)
 
 ---
 
@@ -931,7 +931,7 @@ world/
 
 ### **Shared Types Package**
 ```typescript
-// @world/types (internal, not published)
+// @countrystatecity/types (internal, not published)
 export interface ICoordinates {
   latitude: number;
   longitude: number;
@@ -1018,7 +1018,7 @@ export type CityId = number;
 5. **Modern** - Built for 2025+
 
 ### **Launch Strategy**
-1. Soft launch: `@world/countries`
+1. Soft launch: `@countrystatecity/countries`
 2. Show Bundle Size comparison
 3. Document iOS fix
 4. Create interactive demos
@@ -1031,21 +1031,21 @@ export type CityId = number;
 
 ### **Example: Complete Address Form**
 ```typescript
-import { getCountries } from '@world/countries';
-import { getTimezonesByCountry } from '@world/timezones';
-import { getPhoneCodeByCountry } from '@world/phone-codes';
-import { validatePostalCode } from '@world/postal-codes';
-import { formatAddress } from '@world/format';
+import { getCountries } from '@countrystatecity/countries';
+import { getTimezonesByCountry } from '@countrystatecity/timezones';
+import { getPhoneCodeByCountry } from '@countrystatecity/phone-codes';
+import { validatePostalCode } from '@countrystatecity/postal-codes';
+import { formatAddress } from '@countrystatecity/format';
 
 // All packages work together seamlessly
 ```
 
 ### **Example: Location Services**
 ```typescript
-import { getCitiesOfState } from '@world/countries';
-import { getNearestAirport } from '@world/airports';
-import { calculateDistance } from '@world/distance';
-import { getTimezoneInfo } from '@world/timezones';
+import { getCitiesOfState } from '@countrystatecity/countries';
+import { getNearestAirport } from '@countrystatecity/airports';
+import { calculateDistance } from '@countrystatecity/distance';
+import { getTimezoneInfo } from '@countrystatecity/timezones';
 
 // Complete location-based features
 ```
