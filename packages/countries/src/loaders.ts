@@ -1,9 +1,40 @@
 /**
  * Dynamic data loaders for @world/countries
  * Uses dynamic import() to enable code-splitting and lazy loading
+ * Falls back to fs.readFileSync for CommonJS environments
  */
 
 import type { ICountry, ICountryMeta, IState, ICity } from './types';
+
+// Helper function to load JSON data
+async function loadJSON<T>(path: string): Promise<T> {
+  try {
+    // Try dynamic import first (works in ESM and bundlers)
+    const module = await import(path, { assert: { type: 'json' } } as any);
+    return module.default;
+  } catch (error) {
+    // Fallback to fs for CommonJS/Node
+    try {
+      const fs = await import('fs');
+      const pathModule = await import('path');
+      const { fileURLToPath } = await import('url');
+      
+      // Resolve path relative to this file
+      let basePath: string;
+      if (typeof __dirname !== 'undefined') {
+        basePath = __dirname;
+      } else {
+        basePath = pathModule.dirname(fileURLToPath(import.meta.url));
+      }
+      
+      const fullPath = pathModule.join(basePath, path);
+      const data = fs.readFileSync(fullPath, 'utf-8');
+      return JSON.parse(data);
+    } catch (fsError) {
+      throw error; // Throw original error if fs also fails
+    }
+  }
+}
 
 /**
  * Get lightweight list of all countries
@@ -11,8 +42,7 @@ import type { ICountry, ICountryMeta, IState, ICity } from './types';
  * @bundle ~5KB - Loads countries.json
  */
 export async function getCountries(): Promise<ICountry[]> {
-  const { default: countries } = await import('./data/countries.json');
-  return countries;
+  return loadJSON<ICountry[]>('./data/countries.json');
 }
 
 /**
@@ -23,11 +53,7 @@ export async function getCountries(): Promise<ICountry[]> {
  */
 export async function getCountryByCode(countryCode: string): Promise<ICountryMeta | null> {
   try {
-    // Dynamic import with country code
-    const { default: countryMeta } = await import(
-      `./data/${countryCode}/meta.json`
-    );
-    return countryMeta;
+    return await loadJSON<ICountryMeta>(`./data/${countryCode}/meta.json`);
   } catch (error) {
     // Country not found or file doesn't exist
     return null;
@@ -42,10 +68,7 @@ export async function getCountryByCode(countryCode: string): Promise<ICountryMet
  */
 export async function getStatesOfCountry(countryCode: string): Promise<IState[]> {
   try {
-    const { default: states } = await import(
-      `./data/${countryCode}/states.json`
-    );
-    return states;
+    return await loadJSON<IState[]>(`./data/${countryCode}/states.json`);
   } catch (error) {
     // Country not found or has no states
     return [];
@@ -80,10 +103,7 @@ export async function getCitiesOfState(
   stateCode: string
 ): Promise<ICity[]> {
   try {
-    const { default: cities } = await import(
-      `./data/${countryCode}/${stateCode}/cities.json`
-    );
-    return cities;
+    return await loadJSON<ICity[]>(`./data/${countryCode}/${stateCode}/cities.json`);
   } catch (error) {
     // State not found or has no cities
     return [];

@@ -3,15 +3,19 @@ import { copyFileSync, mkdirSync, readdirSync } from 'fs';
 import { join } from 'path';
 
 export default defineConfig({
-  entry: ['src/index.ts', 'src/loaders.ts', 'src/utils.ts', 'src/types.ts'],
+  entry: ['src/index.ts'],
   format: ['esm', 'cjs'],
   dts: true,
   sourcemap: true,
   clean: true,
   splitting: false,
   treeshake: true,
-  // Don't bundle - output as separate module
-  bundle: false,
+  // Bundle the TypeScript code but keep data external
+  bundle: true,
+  // Mark data paths as external so they're not bundled
+  esbuildOptions(options) {
+    options.external = ['./data/*'];
+  },
   // Copy data files to dist directory
   onSuccess: async () => {
     // Copy data directory to dist
