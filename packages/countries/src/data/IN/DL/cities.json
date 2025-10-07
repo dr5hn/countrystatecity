@@ -1,0 +1,15 @@
+[
+  {
+    "id": 3,
+    "name": "New Delhi",
+    "state_id": 3,
+    "state_code": "DL",
+    "country_id": 2,
+    "country_code": "IN",
+    "latitude": "28.61390000",
+    "longitude": "77.20900000",
+    "native": "नई दिल्ली",
+    "timezone": "Asia/Kolkata",
+    "translations": {}
+  }
+]

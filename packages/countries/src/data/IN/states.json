@@ -1,0 +1,21 @@
+[
+  {
+    "id": 3,
+    "name": "Delhi",
+    "country_id": 2,
+    "country_code": "IN",
+    "fips_code": null,
+    "iso2": "DL",
+    "type": "Union Territory",
+    "latitude": "28.70405920",
+    "longitude": "77.10249020",
+    "native": "दिल्ली",
+    "timezone": "Asia/Kolkata",
+    "translations": {
+      "ko": "델리",
+      "ja": "デリー",
+      "de": "Delhi",
+      "fr": "Delhi"
+    }
+  }
+]
