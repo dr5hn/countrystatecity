@@ -183,6 +183,8 @@ Contributions are welcome! Please:
 4. Add tests
 5. Submit a pull request
 
+**For data-related issues** (incorrect country names, missing cities, wrong coordinates, etc.), please report them to the [Countries States Cities Database](https://github.com/dr5hn/countries-states-cities-database/issues) repository, which is the source of data for this package.
+
 ## 📄 License
 
 MIT © [dr5hn](https://github.com/dr5hn)

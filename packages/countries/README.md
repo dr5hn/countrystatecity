@@ -171,6 +171,8 @@ MIT © [dr5hn](https://github.com/dr5hn)
 
 Contributions are welcome! Please open an issue or PR.
 
+**For data-related issues** (incorrect country names, missing cities, wrong coordinates, etc.), please report them to the [Countries States Cities Database](https://github.com/dr5hn/countries-states-cities-database/issues) repository, which is the source of data for this package.
+
 ## 🔗 Links
 
 - [GitHub Repository](https://github.com/dr5hn/countrystatecity)

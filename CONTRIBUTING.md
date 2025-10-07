@@ -309,6 +309,14 @@ Code is formatted automatically, but follow these guidelines:
 
 ## 🐛 Reporting Issues
 
+### Data Issues
+
+**For any data-related issues** (incorrect country names, missing cities, wrong coordinates, etc.), please report them to the source database repository:
+
+📊 **[Countries States Cities Database](https://github.com/dr5hn/countries-states-cities-database/issues)**
+
+This package uses data from the above repository. Data fixes should be made there first, then synced to this package.
+
 ### Bug Reports
 
 Include:
