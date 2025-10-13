@@ -34,8 +34,9 @@ jobs:
       
       - name: Download latest data
         run: |
-          curl -L "https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/refs/heads/master/json/countries%2Bstates%2Bcities.json" \
-            -o /tmp/countries-data.json
+          curl -L "https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/refs/heads/master/json/countries%2Bstates%2Bcities.json.gz" \
+            -o /tmp/countries-data.json.gz
+          gunzip /tmp/countries-data.json.gz
           echo "Downloaded data size:"
           ls -lh /tmp/countries-data.json
       
@@ -73,6 +74,11 @@ jobs:
         run: |
           pnpm build
           pnpm test
+      
+      - name: Configure git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
       
       - name: Check for changes
         id: check-changes

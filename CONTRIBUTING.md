@@ -152,8 +152,9 @@ To update the data from the source:
 cd packages/countries
 
 # Download latest data
-curl -L "https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/refs/heads/master/json/countries%2Bstates%2Bcities.json" \
-  -o /tmp/countries-data.json
+curl -L "https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/refs/heads/master/json/countries%2Bstates%2Bcities.json.gz" \
+  -o /tmp/countries-data.json.gz
+gunzip /tmp/countries-data.json.gz
 
 # Generate split structure
 node scripts/generate-data.cjs /tmp/countries-data.json
