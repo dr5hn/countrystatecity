@@ -54,6 +54,9 @@ jobs:
       - name: Build packages
         run: pnpm build
       
+      - name: Test NextJS compatibility
+        run: node packages/countries/scripts/test-nextjs-compat.cjs
+      
       - name: Check bundle sizes
         run: |
           echo "=== Bundle Sizes ==="
