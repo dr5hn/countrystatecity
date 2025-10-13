@@ -78,6 +78,19 @@
     "translations": {}
   },
   {
+    "id": 157022,
+    "name": "Julián Augusto Saldívar",
+    "state_id": 2777,
+    "state_code": "11",
+    "country_id": 172,
+    "country_code": "PY",
+    "latitude": "-25.44390000",
+    "longitude": "-57.44304610",
+    "native": null,
+    "timezone": null,
+    "translations": {}
+  },
+  {
     "id": 89791,
     "name": "Lambaré",
     "state_id": 2777,
@@ -99,6 +112,19 @@
     "country_code": "PY",
     "latitude": "-25.16611000",
     "longitude": "-57.48562000",
+    "native": null,
+    "timezone": null,
+    "translations": {}
+  },
+  {
+    "id": 157023,
+    "name": "Luque",
+    "state_id": 2777,
+    "state_code": "11",
+    "country_id": 172,
+    "country_code": "PY",
+    "latitude": "-25.26654170",
+    "longitude": "-57.49269280",
     "native": null,
     "timezone": null,
     "translations": {}
@@ -182,6 +208,19 @@
     "translations": {}
   },
   {
+    "id": 157024,
+    "name": "Villeta",
+    "state_id": 2777,
+    "state_code": "11",
+    "country_id": 172,
+    "country_code": "PY",
+    "latitude": "-25.50451920",
+    "longitude": "-57.56937890",
+    "native": null,
+    "timezone": null,
+    "translations": {}
+  },
+  {
     "id": 89854,
     "name": "Ypacarai",
     "state_id": 2777,
@@ -190,6 +229,19 @@
     "country_code": "PY",
     "latitude": "-25.40777000",
     "longitude": "-57.28889000",
+    "native": null,
+    "timezone": null,
+    "translations": {}
+  },
+  {
+    "id": 157025,
+    "name": "Ypané",
+    "state_id": 2777,
+    "state_code": "11",
+    "country_id": 172,
+    "country_code": "PY",
+    "latitude": "-25.45735190",
+    "longitude": "-57.50925750",
     "native": null,
     "timezone": null,
     "translations": {}

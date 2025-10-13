@@ -9,7 +9,7 @@
     "type": "governorate",
     "latitude": "32.33255840",
     "longitude": "35.75168440",
-    "native": "مخفوق",
+    "native": "عجلون",
     "timezone": "Asia/Amman",
     "translations": {}
   },
@@ -37,7 +37,7 @@
     "type": "governorate",
     "latitude": "29.53208600",
     "longitude": "35.00628210",
-    "native": "Aqaba",
+    "native": "العقبة",
     "timezone": "Asia/Amman",
     "translations": {}
   },
@@ -51,7 +51,7 @@
     "type": "governorate",
     "latitude": "31.97829170",
     "longitude": "35.65852320",
-    "native": "طريق",
+    "native": "البلقاء",
     "timezone": "Asia/Amman",
     "translations": {}
   },
@@ -65,7 +65,7 @@
     "type": "governorate",
     "latitude": "32.55696360",
     "longitude": "35.84789650",
-    "native": "Irbid",
+    "native": "إربد",
     "timezone": "Asia/Amman",
     "translations": {}
   },
@@ -79,7 +79,7 @@
     "type": "governorate",
     "latitude": "32.27472370",
     "longitude": "35.89609540",
-    "native": "جيراش",
+    "native": "جرش",
     "timezone": "Asia/Amman",
     "translations": {}
   },
@@ -93,7 +93,7 @@
     "type": "governorate",
     "latitude": "31.12570360",
     "longitude": "35.82470400",
-    "native": "Karak",
+    "native": "الكرك",
     "timezone": "Asia/Amman",
     "translations": {}
   },
@@ -107,7 +107,7 @@
     "type": "governorate",
     "latitude": "30.20000000",
     "longitude": "35.73333290",
-    "native": "ماان",
+    "native": "معان",
     "timezone": "Asia/Amman",
     "translations": {}
   },
@@ -121,7 +121,7 @@
     "type": "governorate",
     "latitude": "31.71960970",
     "longitude": "35.79327540",
-    "native": "مادوابا",
+    "native": "مادبا",
     "timezone": "Asia/Amman",
     "translations": {}
   },
@@ -135,7 +135,7 @@
     "type": "governorate",
     "latitude": "32.34169230",
     "longitude": "36.20201750",
-    "native": "Mafraq",
+    "native": "المفرق",
     "timezone": "Asia/Amman",
     "translations": {}
   },
@@ -149,7 +149,7 @@
     "type": "governorate",
     "latitude": "30.83333300",
     "longitude": "35.59999990",
-    "native": "حافِظَة",
+    "native": "الطفيلة",
     "timezone": "Asia/Amman",
     "translations": {}
   },
@@ -163,7 +163,7 @@
     "type": "governorate",
     "latitude": "32.06085050",
     "longitude": "36.09421210",
-    "native": "زرقا",
+    "native": "الزرقاء",
     "timezone": "Asia/Amman",
     "translations": {}
   }

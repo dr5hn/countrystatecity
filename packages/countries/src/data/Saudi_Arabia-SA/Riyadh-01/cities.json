@@ -323,5 +323,18 @@
     "native": null,
     "timezone": null,
     "translations": {}
+  },
+  {
+    "id": 157034,
+    "name": "Wadi ad-Dawasir",
+    "state_id": 2849,
+    "state_code": "01",
+    "country_id": 194,
+    "country_code": "SA",
+    "latitude": "20.50380000",
+    "longitude": "44.39240000",
+    "native": null,
+    "timezone": null,
+    "translations": {}
   }
 ]

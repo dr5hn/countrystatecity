@@ -9,7 +9,7 @@
     "type": "district",
     "latitude": "42.01110770",
     "longitude": "23.09064570",
-    "native": "Blagoevgrad",
+    "native": "Благоевград",
     "timezone": "Europe/Sofia",
     "translations": {}
   },
@@ -37,7 +37,7 @@
     "type": "district",
     "latitude": "43.57278600",
     "longitude": "27.82728020",
-    "native": "Dobrich",
+    "native": "Добрич",
     "timezone": "Europe/Sofia",
     "translations": {}
   },
@@ -51,7 +51,7 @@
     "type": "district",
     "latitude": "42.86847000",
     "longitude": "25.31688900",
-    "native": "Gabrovo",
+    "native": "Габрово",
     "timezone": "Europe/Sofia",
     "translations": {}
   },
@@ -65,7 +65,7 @@
     "type": "district",
     "latitude": "41.93441780",
     "longitude": "25.55546720",
-    "native": "Haskovo",
+    "native": "Хасково",
     "timezone": "Europe/Sofia",
     "translations": {}
   },
@@ -79,7 +79,7 @@
     "type": "district",
     "latitude": "41.64374600",
     "longitude": "25.37221560",
-    "native": "Kardzhali",
+    "native": "Кърджали",
     "timezone": "Europe/Sofia",
     "translations": {}
   },
@@ -93,7 +93,7 @@
     "type": "district",
     "latitude": "42.28687990",
     "longitude": "22.69396350",
-    "native": "Kyustendil",
+    "native": "Кюстендил",
     "timezone": "Europe/Sofia",
     "translations": {}
   },
@@ -107,7 +107,7 @@
     "type": "district",
     "latitude": "43.13677980",
     "longitude": "24.71393350",
-    "native": "Лов",
+    "native": "Ловеч",
     "timezone": "Europe/Sofia",
     "translations": {}
   },
@@ -135,7 +135,7 @@
     "type": "district",
     "latitude": "42.19275670",
     "longitude": "24.33362260",
-    "native": "Pazardzhik",
+    "native": "Пазарджик",
     "timezone": "Europe/Sofia",
     "translations": {}
   },
@@ -149,7 +149,7 @@
     "type": "district",
     "latitude": "42.60519900",
     "longitude": "23.03779160",
-    "native": "Pernik",
+    "native": "Перник",
     "timezone": "Europe/Sofia",
     "translations": {}
   },
@@ -177,7 +177,7 @@
     "type": "district",
     "latitude": "42.13540790",
     "longitude": "24.74529040",
-    "native": "Пловдив",
+    "native": "Плодов",
     "timezone": "Europe/Sofia",
     "translations": {}
   },
@@ -191,7 +191,7 @@
     "type": "district",
     "latitude": "43.52717050",
     "longitude": "26.52412280",
-    "native": "The Razgrad",
+    "native": "Разград",
     "timezone": "Europe/Sofia",
     "translations": {}
   },
@@ -219,7 +219,7 @@
     "type": "district",
     "latitude": "43.27123980",
     "longitude": "26.93612860",
-    "native": "Shumen",
+    "native": "Шумен",
     "timezone": "Europe/Sofia",
     "translations": {}
   },
@@ -247,7 +247,7 @@
     "type": "district",
     "latitude": "42.68167020",
     "longitude": "26.32285690",
-    "native": "Sliven",
+    "native": "Сливен",
     "timezone": "Europe/Sofia",
     "translations": {}
   },
@@ -261,7 +261,7 @@
     "type": "district",
     "latitude": "41.57741480",
     "longitude": "24.70108710",
-    "native": "Smolyan",
+    "native": "Смолян",
     "timezone": "Europe/Sofia",
     "translations": {}
   },
@@ -289,7 +289,7 @@
     "type": "district",
     "latitude": "42.65431800",
     "longitude": "23.33315720",
-    "native": "София Сити",
+    "native": "София град",
     "timezone": "Europe/Sofia",
     "translations": {}
   },
@@ -317,7 +317,7 @@
     "type": "district",
     "latitude": "43.24623490",
     "longitude": "26.56912510",
-    "native": "Targovishte",
+    "native": "Търговище",
     "timezone": "Europe/Sofia",
     "translations": {}
   },
@@ -345,7 +345,7 @@
     "type": "district",
     "latitude": "43.08205840",
     "longitude": "25.63213120",
-    "native": "Голяма тарнава",
+    "native": "Велико Търново",
     "timezone": "Europe/Sofia",
     "translations": {}
   },
@@ -373,7 +373,7 @@
     "type": "district",
     "latitude": "43.21018060",
     "longitude": "23.55292100",
-    "native": "Vratsa",
+    "native": "Враца",
     "timezone": "Europe/Sofia",
     "translations": {}
   },
@@ -387,7 +387,7 @@
     "type": "district",
     "latitude": "42.48414940",
     "longitude": "26.50352960",
-    "native": "Yambol",
+    "native": "Ямбол",
     "timezone": "Europe/Sofia",
     "translations": {}
   }

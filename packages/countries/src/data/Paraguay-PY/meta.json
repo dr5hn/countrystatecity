@@ -5,7 +5,7 @@
   "iso3": "PRY",
   "numeric_code": "600",
   "phonecode": "595",
-  "capital": "Asuncion",
+  "capital": "Asunción",
   "currency": "PYG",
   "currency_name": "Paraguayan guarani",
   "currency_symbol": "₲",
@@ -44,6 +44,8 @@
     "tr": "Paraguay",
     "ru": "Парагвай",
     "uk": "Парагвай",
-    "pl": "Paragwaj"
+    "pl": "Paragwaj",
+    "hi": "परागुआ",
+    "ar": "باراجواي"
   }
 }

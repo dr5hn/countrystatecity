@@ -9,7 +9,7 @@
     "type": "governorate",
     "latitude": "32.78894430",
     "longitude": "41.60939830",
-    "native": "Al Anbar",
+    "native": "الأنبار",
     "timezone": "Asia/Baghdad",
     "translations": {}
   },
@@ -23,7 +23,7 @@
     "type": "governorate",
     "latitude": "30.59237390",
     "longitude": "45.29160410",
-    "native": "الموتانا",
+    "native": "المثنى",
     "timezone": "Asia/Baghdad",
     "translations": {}
   },
@@ -37,7 +37,7 @@
     "type": "governorate",
     "latitude": "31.95996170",
     "longitude": "45.11978140",
-    "native": "Al-Qādisiyyah",
+    "native": "القادسية",
     "timezone": "Asia/Baghdad",
     "translations": {}
   },
@@ -93,7 +93,7 @@
     "type": "governorate",
     "latitude": "31.28579410",
     "longitude": "46.30683470",
-    "native": "رود",
+    "native": "ذي قار",
     "timezone": "Asia/Baghdad",
     "translations": {}
   },
@@ -107,7 +107,7 @@
     "type": "governorate",
     "latitude": "34.02287190",
     "longitude": "45.10462240",
-    "native": "ديالا",
+    "native": "ديالى",
     "timezone": "Asia/Baghdad",
     "translations": {}
   },
@@ -121,7 +121,7 @@
     "type": "governorate",
     "latitude": "36.85425980",
     "longitude": "42.99245280",
-    "native": "دوهوك",
+    "native": "دهوك",
     "timezone": "Asia/Baghdad",
     "translations": {}
   },
@@ -135,7 +135,7 @@
     "type": "governorate",
     "latitude": "36.54790070",
     "longitude": "44.47883560",
-    "native": "erbil",
+    "native": "أربيل",
     "timezone": "Asia/Baghdad",
     "translations": {}
   },
@@ -163,7 +163,7 @@
     "type": "governorate",
     "latitude": "35.29600940",
     "longitude": "44.03119530",
-    "native": "كيركوك",
+    "native": "كركوك",
     "timezone": "Asia/Baghdad",
     "translations": {}
   },
@@ -177,7 +177,7 @@
     "type": "governorate",
     "latitude": "32.01825420",
     "longitude": "47.06959570",
-    "native": "Maysan",
+    "native": "ميسان",
     "timezone": "Asia/Baghdad",
     "translations": {}
   },
@@ -191,7 +191,7 @@
     "type": "governorate",
     "latitude": "31.33835300",
     "longitude": "43.84113370",
-    "native": "نجف",
+    "native": "النجف",
     "timezone": "Asia/Baghdad",
     "translations": {}
   },
@@ -219,7 +219,7 @@
     "type": "governorate",
     "latitude": "34.37622200",
     "longitude": "43.64465040",
-    "native": "Saladin",
+    "native": "صلاح الدين",
     "timezone": "Asia/Baghdad",
     "translations": {}
   },
@@ -233,7 +233,7 @@
     "type": "governorate",
     "latitude": "35.55747250",
     "longitude": "45.43520200",
-    "native": "سليماني",
+    "native": "السليمانية",
     "timezone": "Asia/Baghdad",
     "translations": {}
   },
@@ -247,7 +247,7 @@
     "type": "governorate",
     "latitude": "32.69448270",
     "longitude": "45.68480090",
-    "native": "الحكم",
+    "native": "واسط",
     "timezone": "Asia/Baghdad",
     "translations": {}
   }

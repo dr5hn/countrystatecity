@@ -9,7 +9,7 @@
     "type": "province",
     "latitude": "40.71985360",
     "longitude": "126.53905600",
-    "native": "Chagang",
+    "native": "차강",
     "timezone": "Asia/Pyongyang",
     "translations": {}
   },
@@ -23,7 +23,7 @@
     "type": "province",
     "latitude": "38.83543490",
     "longitude": "127.51465470",
-    "native": "kangwon",
+    "native": "강원도",
     "timezone": "Asia/Pyongyang",
     "translations": {}
   },
@@ -37,7 +37,7 @@
     "type": "province",
     "latitude": "41.90987230",
     "longitude": "129.36905600",
-    "native": "노스 햄학",
+    "native": "함경북도",
     "timezone": "Asia/Pyongyang",
     "translations": {}
   },
@@ -51,7 +51,7 @@
     "type": "province",
     "latitude": "38.57096320",
     "longitude": "126.24657230",
-    "native": "North Hwanghae",
+    "native": "황해북도",
     "timezone": "Asia/Pyongyang",
     "translations": {}
   },
@@ -65,7 +65,7 @@
     "type": "province",
     "latitude": "40.06428470",
     "longitude": "125.23562220",
-    "native": "북한",
+    "native": "평안북도",
     "timezone": "Asia/Pyongyang",
     "translations": {}
   },
@@ -79,7 +79,7 @@
     "type": "capital city",
     "latitude": "39.01679790",
     "longitude": "125.74736090",
-    "native": "Pyongyang",
+    "native": "평양",
     "timezone": "Asia/Pyongyang",
     "translations": {}
   },
@@ -93,7 +93,7 @@
     "type": "special city",
     "latitude": "42.24973160",
     "longitude": "130.31132960",
-    "native": "이유",
+    "native": "라손",
     "timezone": "Asia/Pyongyang",
     "translations": {}
   },
@@ -107,7 +107,7 @@
     "type": "province",
     "latitude": "41.09978980",
     "longitude": "128.16903460",
-    "native": "Ryangang",
+    "native": "량강",
     "timezone": "Asia/Pyongyang",
     "translations": {}
   },
@@ -121,7 +121,7 @@
     "type": "province",
     "latitude": "40.11991800",
     "longitude": "127.59909890",
-    "native": "사우스 햄학",
+    "native": "함경남도",
     "timezone": "Asia/Pyongyang",
     "translations": {}
   },
@@ -135,7 +135,7 @@
     "type": "province",
     "latitude": "38.26282620",
     "longitude": "125.47690100",
-    "native": "South Hwanghae",
+    "native": "황해남도",
     "timezone": "Asia/Pyongyang",
     "translations": {}
   },
@@ -149,7 +149,7 @@
     "type": "province",
     "latitude": "39.54165050",
     "longitude": "126.06476450",
-    "native": "남쪽 평온",
+    "native": "남평안",
     "timezone": "Asia/Pyongyang",
     "translations": {}
   }

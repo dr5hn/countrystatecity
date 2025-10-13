@@ -42,20 +42,6 @@
     "translations": {}
   },
   {
-    "id": 2533,
-    "name": "Antrim",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "ANT",
-    "type": "unitary authority",
-    "latitude": "54.71953380",
-    "longitude": "-6.20724980",
-    "native": "Antrim",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
     "id": 2412,
     "name": "Antrim and Newtownabbey",
     "country_id": 232,
@@ -66,20 +52,6 @@
     "latitude": "54.68971360",
     "longitude": "-6.17106120",
     "native": "Antrim and Newtownabbey",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
-    "id": 2498,
-    "name": "Ards",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "ARD",
-    "type": "unitary authority",
-    "latitude": "54.37856890",
-    "longitude": "-6.87185300",
-    "native": "Ards",
     "timezone": "Europe/London",
     "translations": {}
   },
@@ -112,20 +84,6 @@
     "translations": {}
   },
   {
-    "id": 2331,
-    "name": "Armagh",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "ARM",
-    "type": "district council",
-    "latitude": "54.29948320",
-    "longitude": "-6.54743280",
-    "native": "Armagh",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
     "id": 2324,
     "name": "Armagh, Banbridge and Craigavon",
     "country_id": 232,
@@ -136,62 +94,6 @@
     "latitude": "54.31610850",
     "longitude": "-6.71891820",
     "native": "Armagh, Banbridge and Craigavon",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
-    "id": 2378,
-    "name": "Ascension Island",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "SH-AC",
-    "type": "unitary authority",
-    "latitude": "-7.94671660",
-    "longitude": "-14.35591580",
-    "native": "Ascension Island",
-    "timezone": "Atlantic/St_Helena",
-    "translations": {}
-  },
-  {
-    "id": 2363,
-    "name": "Ballymena",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "BLA",
-    "type": "borough council",
-    "latitude": "54.86426000",
-    "longitude": "-6.27910740",
-    "native": "Ballymena",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
-    "id": 2361,
-    "name": "Ballymoney",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "BLY",
-    "type": "unitary authority",
-    "latitude": "55.07048880",
-    "longitude": "-6.51737080",
-    "native": "Ballymoney",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
-    "id": 2315,
-    "name": "Banbridge",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "BNB",
-    "type": "unitary authority",
-    "latitude": "54.34872900",
-    "longitude": "-6.27048030",
-    "native": "Banbridge",
     "timezone": "Europe/London",
     "translations": {}
   },
@@ -342,7 +244,7 @@
     "country_code": "GB",
     "fips_code": null,
     "iso2": "BGW",
-    "type": "borough council",
+    "type": "unitary authority",
     "latitude": "51.75337110",
     "longitude": "-3.18484440",
     "native": "Blaenau Gwent",
@@ -364,16 +266,16 @@
     "translations": {}
   },
   {
-    "id": 2342,
-    "name": "Bournemouth",
+    "id": 5459,
+    "name": "Bournemouth, Christchurch and Poole",
     "country_id": 232,
     "country_code": "GB",
     "fips_code": null,
-    "iso2": "BMH",
+    "iso2": "BCP",
     "type": "unitary authority",
-    "latitude": "50.71916400",
-    "longitude": "-1.88076900",
-    "native": "Bournemouth",
+    "latitude": "50.74570350",
+    "longitude": "-2.19062240",
+    "native": "Bournemouth, Christchurch and Poole",
     "timezone": "Europe/London",
     "translations": {}
   },
@@ -426,7 +328,7 @@
     "country_code": "GB",
     "fips_code": null,
     "iso2": "BGE",
-    "type": "borough council",
+    "type": "unitary authority",
     "latitude": "51.50831990",
     "longitude": "-3.58120750",
     "native": "Bridgend",
@@ -588,34 +490,6 @@
     "translations": {}
   },
   {
-    "id": 2439,
-    "name": "Carrickfergus",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "CKF",
-    "type": "borough council",
-    "latitude": "54.71527850",
-    "longitude": "-5.80675260",
-    "native": "Carrickfergus",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
-    "id": 2525,
-    "name": "Castlereagh",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "CSR",
-    "type": "unitary authority",
-    "latitude": "54.57567900",
-    "longitude": "-5.88840280",
-    "native": "Castlereagh",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
     "id": 2316,
     "name": "Causeway Coast and Glens",
     "country_id": 232,
@@ -728,20 +602,6 @@
     "translations": {}
   },
   {
-    "id": 2461,
-    "name": "Coleraine",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "CLR",
-    "type": "borough council",
-    "latitude": "55.13159120",
-    "longitude": "-6.67186100",
-    "native": "Coleraine",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
     "id": 2352,
     "name": "Conwy",
     "country_id": 232,
@@ -752,20 +612,6 @@
     "latitude": "53.28118220",
     "longitude": "-3.82870120",
     "native": "Conwy",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
-    "id": 2445,
-    "name": "Cookstown",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "CKT",
-    "type": "district council",
-    "latitude": "54.64181580",
-    "longitude": "-6.74438950",
-    "native": "Cookstown",
     "timezone": "Europe/London",
     "translations": {}
   },
@@ -794,20 +640,6 @@
     "latitude": "52.40682200",
     "longitude": "-1.51969300",
     "native": "Coventry",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
-    "id": 2449,
-    "name": "Craigavon",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "CGV",
-    "type": "borough council",
-    "latitude": "54.45072010",
-    "longitude": "-6.39216220",
-    "native": "Craigavon",
     "timezone": "Europe/London",
     "translations": {}
   },
@@ -896,20 +728,6 @@
     "translations": {}
   },
   {
-    "id": 2417,
-    "name": "Derry",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "DRY",
-    "type": "unitary authority",
-    "latitude": "54.99786780",
-    "longitude": "-7.32130560",
-    "native": "Derry",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
     "id": 2446,
     "name": "Derry City and Strabane",
     "country_id": 232,
@@ -966,20 +784,6 @@
     "translations": {}
   },
   {
-    "id": 2304,
-    "name": "Down District Council",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "DOW",
-    "type": "unitary authority",
-    "latitude": "54.16625650",
-    "longitude": "-6.08567610",
-    "native": "Down District Council",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
     "id": 2457,
     "name": "Dudley",
     "country_id": 232,
@@ -1018,20 +822,6 @@
     "latitude": "56.46201800",
     "longitude": "-2.97072100",
     "native": "Dundee",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
-    "id": 2508,
-    "name": "Dungannon and South Tyrone",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "DGN",
-    "type": "borough council",
-    "latitude": "54.50826840",
-    "longitude": "-6.76658910",
-    "native": "Dungannon and South Tyrone",
     "timezone": "Europe/London",
     "translations": {}
   },
@@ -1214,20 +1004,6 @@
     "latitude": "56.00187750",
     "longitude": "-3.78391310",
     "native": "Falkirk",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
-    "id": 2531,
-    "name": "Fermanagh",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "FER",
-    "type": "district council",
-    "latitude": "54.32439950",
-    "longitude": "-7.72239850",
-    "native": "Fermanagh",
     "timezone": "Europe/London",
     "translations": {}
   },
@@ -1540,6 +1316,20 @@
     "translations": {}
   },
   {
+    "id": 5458,
+    "name": "Isle of Anglesey",
+    "country_id": 232,
+    "country_code": "GB",
+    "fips_code": null,
+    "iso2": "AGY",
+    "type": "unitary authority",
+    "latitude": "53.28070200",
+    "longitude": "-4.68995190",
+    "native": "Isle of Anglesey",
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
     "id": 2289,
     "name": "Isle of Wight",
     "country_id": 232,
@@ -1680,20 +1470,6 @@
     "translations": {}
   },
   {
-    "id": 2515,
-    "name": "Larne",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "LRN",
-    "type": "borough council",
-    "latitude": "54.85780030",
-    "longitude": "-5.82362240",
-    "native": "Larne",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
     "id": 2503,
     "name": "Leeds",
     "country_id": 232,
@@ -1750,20 +1526,6 @@
     "translations": {}
   },
   {
-    "id": 2382,
-    "name": "Limavady",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "LMV",
-    "type": "borough council",
-    "latitude": "55.05168200",
-    "longitude": "-6.94919440",
-    "native": "Limavady",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
     "id": 2355,
     "name": "Lincolnshire",
     "country_id": 232,
@@ -1774,20 +1536,6 @@
     "latitude": "53.12822670",
     "longitude": "-0.19019740",
     "native": "Lincolnshire",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
-    "id": 2494,
-    "name": "Lisburn",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "LSB",
-    "type": "unitary authority",
-    "latitude": "54.51128560",
-    "longitude": "-6.04671700",
-    "native": "Lisburn",
     "timezone": "Europe/London",
     "translations": {}
   },
@@ -1834,16 +1582,16 @@
     "translations": {}
   },
   {
-    "id": 2322,
-    "name": "Magherafelt",
+    "id": 5460,
+    "name": "Luton",
     "country_id": 232,
     "country_code": "GB",
     "fips_code": null,
-    "iso2": "MFT",
-    "type": "district council",
-    "latitude": "54.75532790",
-    "longitude": "-6.60774870",
-    "native": "Magherafelt",
+    "iso2": "LUT",
+    "type": "unitary authority",
+    "latitude": "51.89107730",
+    "longitude": "-0.51033490",
+    "native": "Luton",
     "timezone": "Europe/London",
     "translations": {}
   },
@@ -2002,20 +1750,6 @@
     "translations": {}
   },
   {
-    "id": 2348,
-    "name": "Moyle",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "MYL",
-    "type": "district council",
-    "latitude": "54.71129350",
-    "longitude": "-7.35902650",
-    "native": "Moyle",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
     "id": 2351,
     "name": "Neath Port Talbot",
     "country_id": 232,
@@ -2072,20 +1806,6 @@
     "translations": {}
   },
   {
-    "id": 2350,
-    "name": "Newry and Mourne",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "NYM",
-    "type": "district council",
-    "latitude": "54.17425050",
-    "longitude": "-6.33919920",
-    "native": "Newry and Mourne",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
     "id": 2534,
     "name": "Newry, Mourne and Down",
     "country_id": 232,
@@ -2096,20 +1816,6 @@
     "latitude": "54.17752830",
     "longitude": "-6.33750600",
     "native": "Newry, Mourne and Down",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
-    "id": 2317,
-    "name": "Newtownabbey",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "NTA",
-    "type": "borough council",
-    "latitude": "54.67788160",
-    "longitude": "-5.92491990",
-    "native": "Newtownabbey",
     "timezone": "Europe/London",
     "translations": {}
   },
@@ -2138,20 +1844,6 @@
     "latitude": "55.72785080",
     "longitude": "-4.72717670",
     "native": "North Ayrshire",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
-    "id": 2513,
-    "name": "North Down",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "NDN",
-    "type": "borough council",
-    "latitude": "51.67638230",
-    "longitude": "-4.88287180",
-    "native": "North Down",
     "timezone": "Europe/London",
     "translations": {}
   },
@@ -2198,6 +1890,20 @@
     "translations": {}
   },
   {
+    "id": 5461,
+    "name": "North Northamptonshire",
+    "country_id": 232,
+    "country_code": "GB",
+    "fips_code": null,
+    "iso2": "NNH",
+    "type": "unitary authority",
+    "latitude": "52.41710850",
+    "longitude": "-0.95355110",
+    "native": "North Northamptonshire",
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
     "id": 2430,
     "name": "North Somerset",
     "country_id": 232,
@@ -2236,20 +1942,6 @@
     "latitude": "54.09159280",
     "longitude": "-1.53591130",
     "native": "North Yorkshire",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
-    "id": 2480,
-    "name": "Northamptonshire",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "NTH",
-    "type": "unitary authority",
-    "latitude": "52.25000000",
-    "longitude": "-0.83333300",
-    "native": "Northamptonshire",
     "timezone": "Europe/London",
     "translations": {}
   },
@@ -2320,20 +2012,6 @@
     "latitude": "53.54157970",
     "longitude": "-2.11478310",
     "native": "Oldham",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
-    "id": 2314,
-    "name": "Omagh",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "OMH",
-    "type": "district council",
-    "latitude": "54.59924860",
-    "longitude": "-7.30299070",
-    "native": "Omagh",
     "timezone": "Europe/London",
     "translations": {}
   },
@@ -2432,20 +2110,6 @@
     "latitude": "50.37141220",
     "longitude": "-4.14244510",
     "native": "Plymouth",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
-    "id": 2302,
-    "name": "Poole",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "POL",
-    "type": "unitary authority",
-    "latitude": "50.71505000",
-    "longitude": "-1.98724800",
-    "native": "Poole",
     "timezone": "Europe/London",
     "translations": {}
   },
@@ -2604,20 +2268,6 @@
     "translations": {}
   },
   {
-    "id": 2502,
-    "name": "Saint Helena",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "SH-HL",
-    "type": "unitary authority",
-    "latitude": "50.84035660",
-    "longitude": "-0.11790650",
-    "native": "Saint Helena",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
     "id": 2493,
     "name": "Salford",
     "country_id": 232,
@@ -2694,7 +2344,7 @@
     "country_code": "GB",
     "fips_code": null,
     "iso2": "SHF",
-    "type": "unitary authority",
+    "type": "metropolitan district",
     "latitude": "53.38066260",
     "longitude": "-1.47022780",
     "native": "Sheffield",
@@ -2940,20 +2590,6 @@
     "translations": {}
   },
   {
-    "id": 2393,
-    "name": "Strabane",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "STB",
-    "type": "district council",
-    "latitude": "54.82738650",
-    "longitude": "-7.46331030",
-    "native": "Strabane",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
     "id": 2467,
     "name": "Suffolk",
     "country_id": 232,
@@ -3136,20 +2772,6 @@
     "translations": {}
   },
   {
-    "id": 2375,
-    "name": "United Kingdom",
-    "country_id": 232,
-    "country_code": "GB",
-    "fips_code": null,
-    "iso2": "UKM",
-    "type": "unitary authority",
-    "latitude": "54.70235450",
-    "longitude": "-3.27657530",
-    "native": "United Kingdom",
-    "timezone": "Europe/London",
-    "translations": {}
-  },
-  {
     "id": 2299,
     "name": "Vale of Glamorgan",
     "country_id": 232,
@@ -3184,7 +2806,7 @@
     "country_code": "GB",
     "fips_code": null,
     "iso2": "WLS",
-    "type": "unitary authority",
+    "type": "country",
     "latitude": "52.29281160",
     "longitude": "-3.73893000",
     "native": "Wales",
@@ -3300,6 +2922,20 @@
     "latitude": "55.91666700",
     "longitude": "-3.50000000",
     "native": "West Lothian",
+    "timezone": "Europe/London",
+    "translations": {}
+  },
+  {
+    "id": 5462,
+    "name": "West Northamptonshire",
+    "country_id": 232,
+    "country_code": "GB",
+    "fips_code": null,
+    "iso2": "WNH",
+    "type": "unitary authority",
+    "latitude": "52.22689770",
+    "longitude": "-1.34831910",
+    "native": "West Northamptonshire",
     "timezone": "Europe/London",
     "translations": {}
   },

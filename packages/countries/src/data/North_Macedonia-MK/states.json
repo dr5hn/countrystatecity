@@ -23,7 +23,7 @@
     "type": "municipality",
     "latitude": "42.02529650",
     "longitude": "21.55776590",
-    "native": "Арина",
+    "native": "Арачиново",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -51,7 +51,7 @@
     "type": "municipality",
     "latitude": "41.03633020",
     "longitude": "21.33219740",
-    "native": "Мерач",
+    "native": "Битола",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -79,7 +79,7 @@
     "type": "municipality",
     "latitude": "41.92363710",
     "longitude": "20.91638870",
-    "native": "Годвт",
+    "native": "Боговиње",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -135,7 +135,7 @@
     "type": "municipality",
     "latitude": "42.01067110",
     "longitude": "21.43820770",
-    "native": "Стол",
+    "native": "Чаир",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -149,7 +149,7 @@
     "type": "municipality",
     "latitude": "41.64743800",
     "longitude": "21.69141150",
-    "native": "Хокеј",
+    "native": "Чашка",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -177,7 +177,7 @@
     "type": "municipality",
     "latitude": "41.46522590",
     "longitude": "20.59305480",
-    "native": "Парохиски центар",
+    "native": "Центар Жупа",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -191,7 +191,7 @@
     "type": "municipality",
     "latitude": "41.87534490",
     "longitude": "22.29000450",
-    "native": "Češinovo-Obleševo",
+    "native": "Чешиново-Облешево",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -205,7 +205,7 @@
     "type": "municipality",
     "latitude": "42.09948690",
     "longitude": "21.38686110",
-    "native": "Čуер-Сандево",
+    "native": "Чучер-Сандево",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -219,7 +219,7 @@
     "type": "municipality",
     "latitude": "41.99643190",
     "longitude": "21.42394420",
-    "native": "Земја",
+    "native": "Дебарца",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -233,7 +233,7 @@
     "type": "municipality",
     "latitude": "41.96683440",
     "longitude": "22.77677220",
-    "native": "Дека",
+    "native": "Делчево",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -247,7 +247,7 @@
     "type": "municipality",
     "latitude": "41.21989670",
     "longitude": "21.20208720",
-    "native": "Ironелезна тврдина",
+    "native": "Демир Хисар",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -261,7 +261,7 @@
     "type": "municipality",
     "latitude": "41.40871360",
     "longitude": "22.24185710",
-    "native": "Демир порта",
+    "native": "Демир Капија",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -275,7 +275,7 @@
     "type": "municipality",
     "latitude": "41.22531180",
     "longitude": "22.70402940",
-    "native": "Изменете",
+    "native": "Дојран",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -303,7 +303,7 @@
     "type": "municipality",
     "latitude": "41.48716950",
     "longitude": "20.93080160",
-    "native": "Леково",
+    "native": "Другово",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -331,7 +331,7 @@
     "type": "municipality",
     "latitude": "41.13886640",
     "longitude": "22.50331920",
-    "native": "Гевгелиум",
+    "native": "Гевгелија",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -345,7 +345,7 @@
     "type": "municipality",
     "latitude": "42.01746480",
     "longitude": "21.36427530",
-    "native": "Gjorče Petrov",
+    "native": "Ѓорче Петров",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -373,7 +373,7 @@
     "type": "municipality",
     "latitude": "41.61335680",
     "longitude": "21.88607700",
-    "native": "Град",
+    "native": "Градско",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -387,7 +387,7 @@
     "type": "capital city",
     "latitude": "42.02573960",
     "longitude": "21.28751840",
-    "native": "Поголем Скопје",
+    "native": "Големо Скопско",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -401,7 +401,7 @@
     "type": "municipality",
     "latitude": "41.99574430",
     "longitude": "21.56769750",
-    "native": "Од",
+    "native": "Илинден",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -429,7 +429,7 @@
     "type": "municipality",
     "latitude": "41.81801590",
     "longitude": "22.23247580",
-    "native": "Товар",
+    "native": "Карбинци",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -443,7 +443,7 @@
     "type": "municipality",
     "latitude": "42.00622790",
     "longitude": "21.38625690",
-    "native": "Карпох",
+    "native": "Карпош",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -471,7 +471,7 @@
     "type": "municipality",
     "latitude": "41.51291120",
     "longitude": "20.95250650",
-    "native": "Кич",
+    "native": "Кичево",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -499,7 +499,7 @@
     "type": "municipality",
     "latitude": "41.92113320",
     "longitude": "22.41141820",
-    "native": "Колиби",
+    "native": "Кочани",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -513,7 +513,7 @@
     "type": "municipality",
     "latitude": "41.52056340",
     "longitude": "22.40363430",
-    "native": "Konče",
+    "native": "Конче",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -541,7 +541,7 @@
     "type": "municipality",
     "latitude": "42.20584540",
     "longitude": "22.33079650",
-    "native": "Паланката е виновна",
+    "native": "Крива Паланка",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -555,7 +555,7 @@
     "type": "municipality",
     "latitude": "41.32383760",
     "longitude": "21.38185190",
-    "native": "Ерес",
+    "native": "Кривогаштани",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -569,7 +569,7 @@
     "type": "municipality",
     "latitude": "41.37203240",
     "longitude": "21.24843510",
-    "native": "Kruševo",
+    "native": "Крушево",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -583,7 +583,7 @@
     "type": "municipality",
     "latitude": "42.13591300",
     "longitude": "21.71854740",
-    "native": "Куманов",
+    "native": "Куманово",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -625,7 +625,7 @@
     "type": "municipality",
     "latitude": "42.02190960",
     "longitude": "22.58871900",
-    "native": "Македонски остриги",
+    "native": "Македонска Каменица",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -639,7 +639,7 @@
     "type": "municipality",
     "latitude": "41.51330880",
     "longitude": "21.21743290",
-    "native": "Makedonski Brod",
+    "native": "Македонски Брод",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -681,7 +681,7 @@
     "type": "municipality",
     "latitude": "41.48442290",
     "longitude": "22.09059030",
-    "native": "Преговори",
+    "native": "Неготино",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -695,7 +695,7 @@
     "type": "municipality",
     "latitude": "41.04426610",
     "longitude": "21.45888940",
-    "native": "Новачи",
+    "native": "Новаци",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -709,7 +709,7 @@
     "type": "municipality",
     "latitude": "41.41263250",
     "longitude": "22.88355560",
-    "native": "Novo Selo",
+    "native": "Ново Село",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -737,7 +737,7 @@
     "type": "municipality",
     "latitude": "41.57601400",
     "longitude": "20.99769080",
-    "native": "Oslomej ",
+    "native": "Осломеј",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -751,7 +751,7 @@
     "type": "municipality",
     "latitude": "41.76357290",
     "longitude": "22.88730170",
-    "native": "Пехев",
+    "native": "Пехчево",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -779,7 +779,7 @@
     "type": "municipality",
     "latitude": "41.45463490",
     "longitude": "21.10565390",
-    "native": "Пласканица",
+    "native": "Пласница",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -807,7 +807,7 @@
     "type": "municipality",
     "latitude": "41.95891460",
     "longitude": "22.16686700",
-    "native": "Проба",
+    "native": "Пробиштип",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -821,7 +821,7 @@
     "type": "municipality",
     "latitude": "41.64955310",
     "longitude": "22.47682870",
-    "native": "Радови",
+    "native": "Радовиш",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -835,7 +835,7 @@
     "type": "municipality",
     "latitude": "42.16862010",
     "longitude": "22.11655180",
-    "native": "Ранговце",
+    "native": "Ранковце",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -849,7 +849,7 @@
     "type": "municipality",
     "latitude": "41.03276740",
     "longitude": "20.99177890",
-    "native": "Сериозно",
+    "native": "Ресен",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -863,7 +863,7 @@
     "type": "municipality",
     "latitude": "41.50023710",
     "longitude": "21.90573220",
-    "native": "Rosoman",
+    "native": "Росоман",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -877,7 +877,7 @@
     "type": "municipality",
     "latitude": "41.99991610",
     "longitude": "21.32819700",
-    "native": "Сераглио",
+    "native": "Сарај",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -891,7 +891,7 @@
     "type": "municipality",
     "latitude": "41.84849730",
     "longitude": "21.29715590",
-    "native": "Sopište",
+    "native": "Сопиште",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -905,7 +905,7 @@
     "type": "municipality",
     "latitude": "42.19901880",
     "longitude": "21.82941610",
-    "native": "Стари Нагорици",
+    "native": "Старо Нагоричане",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -919,7 +919,7 @@
     "type": "municipality",
     "latitude": "41.73747240",
     "longitude": "22.19358560",
-    "native": "Брод",
+    "native": "Штип",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -933,7 +933,7 @@
     "type": "municipality",
     "latitude": "41.17702780",
     "longitude": "20.67905860",
-    "native": "Поток",
+    "native": "Струга",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -947,7 +947,7 @@
     "type": "municipality",
     "latitude": "41.43780040",
     "longitude": "22.64274280",
-    "native": "Струмика",
+    "native": "Струмица",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -961,7 +961,7 @@
     "type": "municipality",
     "latitude": "41.92256390",
     "longitude": "21.53639650",
-    "native": "Студијани",
+    "native": "Студеничани",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -975,7 +975,7 @@
     "type": "municipality",
     "latitude": "42.04054530",
     "longitude": "21.42359100",
-    "native": "Тивок Оризари",
+    "native": "Шуто Оризари",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -989,7 +989,7 @@
     "type": "municipality",
     "latitude": "41.86473390",
     "longitude": "21.94205060",
-    "native": "Свети Никола",
+    "native": "Свети Николе",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -1003,7 +1003,7 @@
     "type": "municipality",
     "latitude": "42.07775110",
     "longitude": "21.05349230",
-    "native": "Солза",
+    "native": "Теарце",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -1073,7 +1073,7 @@
     "type": "municipality",
     "latitude": "41.24075430",
     "longitude": "20.59156490",
-    "native": "Трговија",
+    "native": "Вевчани",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -1087,7 +1087,7 @@
     "type": "municipality",
     "latitude": "41.86073990",
     "longitude": "22.59284540",
-    "native": "Виника",
+    "native": "Виница",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -1101,7 +1101,7 @@
     "type": "municipality",
     "latitude": "41.44443020",
     "longitude": "21.02683310",
-    "native": "Vraneštica",
+    "native": "Вранештица",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -1115,7 +1115,7 @@
     "type": "municipality",
     "latitude": "41.87911600",
     "longitude": "20.83145000",
-    "native": "Sparpage",
+    "native": "Врапчиште",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -1143,7 +1143,7 @@
     "type": "municipality",
     "latitude": "41.88604080",
     "longitude": "21.58696710",
-    "native": "Zelenikovo",
+    "native": "Зелениково",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -1157,7 +1157,7 @@
     "type": "municipality",
     "latitude": "41.92629230",
     "longitude": "21.11757820",
-    "native": "Желе",
+    "native": "Желино",
     "timezone": "Europe/Skopje",
     "translations": {}
   },
@@ -1171,7 +1171,7 @@
     "type": "municipality",
     "latitude": "41.83737140",
     "longitude": "22.42870130",
-    "native": "Zrnovec",
+    "native": "Зрновци",
     "timezone": "Europe/Skopje",
     "translations": {}
   }

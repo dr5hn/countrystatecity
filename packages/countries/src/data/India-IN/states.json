@@ -37,7 +37,7 @@
     "type": "state",
     "latitude": "28.09377020",
     "longitude": "94.59213260",
-    "native": "Arunachal Pradesh",
+    "native": "अरुणाचल प्रदेश",
     "timezone": "Asia/Kolkata",
     "translations": {}
   },
@@ -93,7 +93,7 @@
     "type": "state",
     "latitude": "21.66373590",
     "longitude": "81.84063510",
-    "native": "Chhattisgarh",
+    "native": "छत्तीसगढ",
     "timezone": "Asia/Kolkata",
     "translations": {}
   },
@@ -107,7 +107,7 @@
     "type": "union territory",
     "latitude": "20.71817490",
     "longitude": "70.93238340",
-    "native": "Dadra and Nagar Haveli and Daman and Diu",
+    "native": "दादरा और नगर हवेली और दमन और दीव",
     "timezone": "Asia/Kolkata",
     "translations": {}
   },
@@ -149,7 +149,7 @@
     "type": "state",
     "latitude": "22.38500510",
     "longitude": "71.74526100",
-    "native": "Gujarat",
+    "native": "गुजरात",
     "timezone": "Asia/Kolkata",
     "translations": {}
   },
@@ -163,7 +163,7 @@
     "type": "state",
     "latitude": "29.00000000",
     "longitude": "76.00000000",
-    "native": "हरयाणा",
+    "native": "हरियाणा",
     "timezone": "Asia/Kolkata",
     "translations": {}
   },
@@ -219,7 +219,7 @@
     "type": "state",
     "latitude": "14.52038960",
     "longitude": "75.72235210",
-    "native": "Karnataka",
+    "native": "कर्नाटक",
     "timezone": "Asia/Kolkata",
     "translations": {}
   },
@@ -247,7 +247,7 @@
     "type": "union territory",
     "latitude": "33.94564070",
     "longitude": "77.65685760",
-    "native": "Ladakh",
+    "native": "लद्दाख",
     "timezone": "Asia/Kolkata",
     "translations": {}
   },
@@ -262,7 +262,7 @@
     "latitude": "10.33373130",
     "longitude": "72.92053860",
     "native": "लक्षद्वीप",
-    "timezone": "Etc/GMT-5",
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -345,7 +345,7 @@
     "type": "state",
     "latitude": "26.16305560",
     "longitude": "94.58849110",
-    "native": "नगालैंड",
+    "native": "नागालैंड",
     "timezone": "Asia/Kolkata",
     "translations": {}
   },
@@ -401,7 +401,7 @@
     "type": "state",
     "latitude": "26.81057770",
     "longitude": "73.76845490",
-    "native": "Rajasthan",
+    "native": "राजस्थान",
     "timezone": "Asia/Kolkata",
     "translations": {}
   },
@@ -415,7 +415,7 @@
     "type": "state",
     "latitude": "27.60102900",
     "longitude": "88.45413640",
-    "native": "Sikkim",
+    "native": "सिक्किम",
     "timezone": "Asia/Kolkata",
     "translations": {}
   },
@@ -471,7 +471,7 @@
     "type": "state",
     "latitude": "27.13033440",
     "longitude": "80.85966600",
-    "native": "Uttar Pradesh",
+    "native": "उत्तर प्रदेश",
     "timezone": "Asia/Kolkata",
     "translations": {}
   },

@@ -9,7 +9,7 @@
     "type": "province",
     "latitude": "15.86567830",
     "longitude": "104.62577740",
-    "native": "Amnat Charoen",
+    "native": "อำนาจเจริญ",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -51,7 +51,7 @@
     "type": "province",
     "latitude": "18.36091040",
     "longitude": "103.64644630",
-    "native": "Bueng Kan",
+    "native": "บึงกาฬ",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -79,7 +79,7 @@
     "type": "province",
     "latitude": "13.69041940",
     "longitude": "101.07795960",
-    "native": "chachoengsao",
+    "native": "ฉะเชิงเทรา",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -93,7 +93,7 @@
     "type": "province",
     "latitude": "15.18519710",
     "longitude": "100.12512500",
-    "native": "นัท",
+    "native": "ชัยนาท",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -177,7 +177,7 @@
     "type": "province",
     "latitude": "10.49304960",
     "longitude": "99.18001990",
-    "native": "Chumphon",
+    "native": "ชุมพร",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -191,7 +191,7 @@
     "type": "province",
     "latitude": "16.43850800",
     "longitude": "103.50609940",
-    "native": "ระวัง",
+    "native": "กาฬสินธุ์",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -247,7 +247,7 @@
     "type": "province",
     "latitude": "8.06346370",
     "longitude": "98.91623450",
-    "native": "Krabi",
+    "native": "กระบี่",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -261,7 +261,7 @@
     "type": "province",
     "latitude": "18.28994890",
     "longitude": "99.49585260",
-    "native": "พิมพ์",
+    "native": "ลำปาง",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -289,7 +289,7 @@
     "type": "province",
     "latitude": "17.48602320",
     "longitude": "101.72230020",
-    "native": "กระซิบ",
+    "native": "เลย",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -331,7 +331,7 @@
     "type": "province",
     "latitude": "15.90414480",
     "longitude": "103.08406380",
-    "native": "Maha Sarakham",
+    "native": "มหาสารคาม",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -373,7 +373,7 @@
     "type": "province",
     "latitude": "13.83414760",
     "longitude": "100.05027750",
-    "native": "Nakhon Pathom",
+    "native": "นครปฐม",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -401,7 +401,7 @@
     "type": "province",
     "latitude": "14.97473390",
     "longitude": "102.09811610",
-    "native": "Nakhon Ratchasima",
+    "native": "นครราชสีมา",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -429,7 +429,7 @@
     "type": "province",
     "latitude": "8.43248310",
     "longitude": "99.95990330",
-    "native": "Nakhon Si thammarat",
+    "native": "นครศรีธรรมราช",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -443,7 +443,7 @@
     "type": "province",
     "latitude": "18.77788740",
     "longitude": "100.77373200",
-    "native": "เข้าไปข้างใน",
+    "native": "แนน",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -471,7 +471,7 @@
     "type": "province",
     "latitude": "17.20222520",
     "longitude": "102.44070200",
-    "native": "Nong Bua Lam Phu",
+    "native": "หนองบัวลำภู",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -485,7 +485,7 @@
     "type": "province",
     "latitude": "17.87828030",
     "longitude": "102.74126380",
-    "native": "Nong Khai",
+    "native": "หนองคาย",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -555,7 +555,7 @@
     "type": "province",
     "latitude": "8.50109440",
     "longitude": "98.50680540",
-    "native": "Phangnga",
+    "native": "พังงา",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -583,7 +583,7 @@
     "type": "province",
     "latitude": "19.34167300",
     "longitude": "100.18545390",
-    "native": "Phayao",
+    "native": "พะเยา",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -597,7 +597,7 @@
     "type": "province",
     "latitude": "16.41802700",
     "longitude": "101.15568250",
-    "native": "phetchairun",
+    "native": "เพชรบูรณ์",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -611,7 +611,7 @@
     "type": "province",
     "latitude": "13.06928690",
     "longitude": "99.60443760",
-    "native": "เพรสบูริ",
+    "native": "เพชรบุรี",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -653,7 +653,7 @@
     "type": "province",
     "latitude": "14.35354270",
     "longitude": "100.56456840",
-    "native": "พรานาคฮอนศรีอายัตทายา",
+    "native": "พระนครศรีอยุธยา",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -667,7 +667,7 @@
     "type": "province",
     "latitude": "18.14457740",
     "longitude": "100.14028310",
-    "native": "พลา",
+    "native": "แพร่",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -765,7 +765,7 @@
     "type": "province",
     "latitude": "16.05381960",
     "longitude": "103.65200360",
-    "native": "ราชาและ",
+    "native": "ร้อยเอ็ด",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -779,7 +779,7 @@
     "type": "province",
     "latitude": "13.82403800",
     "longitude": "102.06458390",
-    "native": "Sauoo",
+    "native": "สระแก้ว",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -807,7 +807,7 @@
     "type": "province",
     "latitude": "13.65316510",
     "longitude": "100.81825780",
-    "native": "Samut Prakan",
+    "native": "สมุทรปราการ",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -835,7 +835,7 @@
     "type": "province",
     "latitude": "13.40982170",
     "longitude": "100.00226450",
-    "native": "ดินเดียวกัน",
+    "native": "สมุทรสงคราม",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -863,7 +863,7 @@
     "type": "province",
     "latitude": "6.62381580",
     "longitude": "100.06737440",
-    "native": "ฉันเข้าไป",
+    "native": "สตูล",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -961,7 +961,7 @@
     "type": "province",
     "latitude": "15.06101420",
     "longitude": "103.76131230",
-    "native": "การรู้สึกเสียวซ่า",
+    "native": "สุรินทร์",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -975,7 +975,7 @@
     "type": "province",
     "latitude": "17.10535680",
     "longitude": "98.99539430",
-    "native": "ไม่",
+    "native": "ตาก",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -989,7 +989,7 @@
     "type": "province",
     "latitude": "7.55577780",
     "longitude": "99.60765020",
-    "native": "หน้าหนังสือ",
+    "native": "ตรัง",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },
@@ -1003,7 +1003,7 @@
     "type": "province",
     "latitude": "12.24275630",
     "longitude": "102.51747340",
-    "native": "ที่ถูกเตะ",
+    "native": "ตราด",
     "timezone": "Asia/Bangkok",
     "translations": {}
   },

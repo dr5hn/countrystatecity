@@ -9,7 +9,7 @@
     "type": "province",
     "latitude": "35.94132390",
     "longitude": "50.78842160",
-    "native": "Alborz",
+    "native": "البرز",
     "timezone": "Asia/Tehran",
     "translations": {}
   },
@@ -23,7 +23,7 @@
     "type": "province",
     "latitude": "38.45839830",
     "longitude": "47.93130010",
-    "native": "Ardabil",
+    "native": "اردبیل",
     "timezone": "Asia/Tehran",
     "translations": {}
   },
@@ -37,7 +37,7 @@
     "type": "province",
     "latitude": "28.89366450",
     "longitude": "51.32048770",
-    "native": "بوشر",
+    "native": "بوشهر",
     "timezone": "Asia/Tehran",
     "translations": {}
   },
@@ -51,7 +51,7 @@
     "type": "province",
     "latitude": "32.01633070",
     "longitude": "50.68570900",
-    "native": "چاهیماهال و باختیاری",
+    "native": "چهارمحال و بختیاری",
     "timezone": "Asia/Tehran",
     "translations": {}
   },
@@ -79,7 +79,7 @@
     "type": "province",
     "latitude": "29.29905100",
     "longitude": "53.21845600",
-    "native": "دور",
+    "native": "فارس",
     "timezone": "Asia/Tehran",
     "translations": {}
   },
@@ -93,7 +93,7 @@
     "type": "province",
     "latitude": "37.15156270",
     "longitude": "49.63897430",
-    "native": "گلان",
+    "native": "گیلان",
     "timezone": "Asia/Tehran",
     "translations": {}
   },
@@ -107,7 +107,7 @@
     "type": "province",
     "latitude": "37.19844360",
     "longitude": "55.07067200",
-    "native": "گله",
+    "native": "گلستان",
     "timezone": "Asia/Tehran",
     "translations": {}
   },
@@ -121,7 +121,7 @@
     "type": "province",
     "latitude": "34.79928880",
     "longitude": "48.51524640",
-    "native": "جبهه",
+    "native": "همدان",
     "timezone": "Asia/Tehran",
     "translations": {}
   },
@@ -135,7 +135,7 @@
     "type": "province",
     "latitude": "27.71980950",
     "longitude": "56.33580700",
-    "native": "شاخی",
+    "native": "هرمزگان",
     "timezone": "Asia/Tehran",
     "translations": {}
   },
@@ -149,7 +149,7 @@
     "type": "province",
     "latitude": "33.15456960",
     "longitude": "46.75763430",
-    "native": "Ilam",
+    "native": "ایلام",
     "timezone": "Asia/Tehran",
     "translations": {}
   },
@@ -163,7 +163,7 @@
     "type": "province",
     "latitude": "33.18813860",
     "longitude": "52.49816350",
-    "native": "اشفاهان",
+    "native": "اصفهان",
     "timezone": "Asia/Tehran",
     "translations": {}
   },
@@ -177,7 +177,7 @@
     "type": "province",
     "latitude": "29.57185800",
     "longitude": "57.30104700",
-    "native": "کرمن",
+    "native": "کرمان",
     "timezone": "Asia/Tehran",
     "translations": {}
   },
@@ -205,7 +205,7 @@
     "type": "province",
     "latitude": "31.55630510",
     "longitude": "49.00588850",
-    "native": "Khuzestan",
+    "native": "خوزستان",
     "timezone": "Asia/Tehran",
     "translations": {}
   },
@@ -219,7 +219,7 @@
     "type": "province",
     "latitude": "30.81434760",
     "longitude": "50.86614540",
-    "native": "کوهگلوی و بویر-احمد",
+    "native": "کهگیلویه و بویراحمد",
     "timezone": "Asia/Tehran",
     "translations": {}
   },
@@ -247,7 +247,7 @@
     "type": "province",
     "latitude": "33.53682060",
     "longitude": "48.24439450",
-    "native": "لورستان",
+    "native": "لرستان",
     "timezone": "Asia/Tehran",
     "translations": {}
   },
@@ -261,7 +261,7 @@
     "type": "province",
     "latitude": "34.53027050",
     "longitude": "49.78645610",
-    "native": "مرکز",
+    "native": "مرکزی",
     "timezone": "Asia/Tehran",
     "translations": {}
   },
@@ -317,7 +317,7 @@
     "type": "province",
     "latitude": "34.64157640",
     "longitude": "50.87460350",
-    "native": "سعدی",
+    "native": "قم",
     "timezone": "Asia/Tehran",
     "translations": {}
   },
@@ -331,7 +331,7 @@
     "type": "province",
     "latitude": "35.47950090",
     "longitude": "59.02372910",
-    "native": "عیار",
+    "native": "خراسان رضوی",
     "timezone": "Asia/Tehran",
     "translations": {}
   },
@@ -345,7 +345,7 @@
     "type": "province",
     "latitude": "35.38431450",
     "longitude": "54.62093020",
-    "native": "نیمان",
+    "native": "سمنان",
     "timezone": "Asia/Tehran",
     "translations": {}
   },
@@ -401,7 +401,7 @@
     "type": "province",
     "latitude": "38.49427310",
     "longitude": "44.32048530",
-    "native": "West Azarbaijan",
+    "native": "آذربایجان غربی",
     "timezone": "Asia/Tehran",
     "translations": {}
   },
@@ -415,7 +415,7 @@
     "type": "province",
     "latitude": "31.90522230",
     "longitude": "54.37012350",
-    "native": "Yazd",
+    "native": "یزد",
     "timezone": "Asia/Tehran",
     "translations": {}
   },
@@ -429,7 +429,7 @@
     "type": "province",
     "latitude": "36.51585400",
     "longitude": "48.47776160",
-    "native": "زنگ",
+    "native": "زنجان",
     "timezone": "Asia/Tehran",
     "translations": {}
   }

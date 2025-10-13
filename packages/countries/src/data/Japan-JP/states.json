@@ -9,7 +9,7 @@
     "type": "prefecture",
     "latitude": "34.99916450",
     "longitude": "137.25457400",
-    "native": "アイチ",
+    "native": "愛知",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -37,7 +37,7 @@
     "type": "prefecture",
     "latitude": "40.82228330",
     "longitude": "140.74720270",
-    "native": "Aomori",
+    "native": "青森",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -51,7 +51,7 @@
     "type": "prefecture",
     "latitude": "35.54939900",
     "longitude": "140.26473030",
-    "native": "チバ",
+    "native": "千葉",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -65,7 +65,7 @@
     "type": "prefecture",
     "latitude": "33.60136460",
     "longitude": "132.81852750",
-    "native": "ええと",
+    "native": "愛媛",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -79,7 +79,7 @@
     "type": "prefecture",
     "latitude": "36.06175100",
     "longitude": "136.22605420",
-    "native": "Fukui",
+    "native": "福井",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -93,7 +93,7 @@
     "type": "prefecture",
     "latitude": "33.62512410",
     "longitude": "130.61800160",
-    "native": "Fukuoka",
+    "native": "福岡",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -121,7 +121,7 @@
     "type": "prefecture",
     "latitude": "35.78674490",
     "longitude": "137.04607770",
-    "native": "gifu",
+    "native": "岐阜",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -135,7 +135,7 @@
     "type": "prefecture",
     "latitude": "36.52198000",
     "longitude": "139.03348300",
-    "native": "ガンマ",
+    "native": "群馬",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -177,7 +177,7 @@
     "type": "prefecture",
     "latitude": "34.91493400",
     "longitude": "134.86066600",
-    "native": "バンケット",
+    "native": "兵庫県",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -191,7 +191,7 @@
     "type": "prefecture",
     "latitude": "36.28711860",
     "longitude": "140.42409260",
-    "native": "イバラキ",
+    "native": "茨城",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -219,7 +219,7 @@
     "type": "prefecture",
     "latitude": "39.57137630",
     "longitude": "141.42535740",
-    "native": "iwate",
+    "native": "岩手",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -233,7 +233,7 @@
     "type": "prefecture",
     "latitude": "34.24801040",
     "longitude": "134.05865790",
-    "native": "Kagawa",
+    "native": "香川",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -247,7 +247,7 @@
     "type": "prefecture",
     "latitude": "31.52158700",
     "longitude": "130.54740770",
-    "native": "Kagoshima",
+    "native": "鹿児島",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -261,7 +261,7 @@
     "type": "prefecture",
     "latitude": "35.43429350",
     "longitude": "139.37475300",
-    "native": "かん川",
+    "native": "神奈川",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -275,7 +275,7 @@
     "type": "prefecture",
     "latitude": "33.56803840",
     "longitude": "133.53942210",
-    "native": "Kōchi",
+    "native": "高知",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -289,7 +289,7 @@
     "type": "prefecture",
     "latitude": "32.80339090",
     "longitude": "130.70827370",
-    "native": "kumamoto",
+    "native": "熊本",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -303,7 +303,7 @@
     "type": "prefecture",
     "latitude": "35.01157540",
     "longitude": "135.76814410",
-    "native": "Kyōto",
+    "native": "京都",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -317,7 +317,7 @@
     "type": "prefecture",
     "latitude": "34.73396850",
     "longitude": "136.51544890",
-    "native": "ミエ",
+    "native": "三重",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -331,7 +331,7 @@
     "type": "prefecture",
     "latitude": "38.38801550",
     "longitude": "140.97610250",
-    "native": "Miyagi",
+    "native": "宮城県",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -359,7 +359,7 @@
     "type": "prefecture",
     "latitude": "36.11439450",
     "longitude": "138.03190150",
-    "native": "ナガノ",
+    "native": "長野",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -387,7 +387,7 @@
     "type": "prefecture",
     "latitude": "34.29630890",
     "longitude": "135.88168190",
-    "native": "ナラ",
+    "native": "奈良",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -401,7 +401,7 @@
     "type": "prefecture",
     "latitude": "37.64522830",
     "longitude": "138.76691250",
-    "native": "niigata",
+    "native": "新潟",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -415,7 +415,7 @@
     "type": "prefecture",
     "latitude": "33.18198750",
     "longitude": "131.42702170",
-    "native": "爪",
+    "native": "大分",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -457,7 +457,7 @@
     "type": "prefecture",
     "latitude": "34.61988130",
     "longitude": "135.49035700",
-    "native": "Ōsaka",
+    "native": "大阪",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -471,7 +471,7 @@
     "type": "prefecture",
     "latitude": "33.26391340",
     "longitude": "130.30083780",
-    "native": "サガ",
+    "native": "佐賀",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -485,7 +485,7 @@
     "type": "prefecture",
     "latitude": "35.97541680",
     "longitude": "139.41601140",
-    "native": "サイタマ",
+    "native": "埼玉",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -499,7 +499,7 @@
     "type": "prefecture",
     "latitude": "35.24715400",
     "longitude": "136.10938500",
-    "native": "入力",
+    "native": "滋賀",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -513,7 +513,7 @@
     "type": "prefecture",
     "latitude": "34.94182120",
     "longitude": "132.53743900",
-    "native": "シマネ",
+    "native": "島根",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -541,7 +541,7 @@
     "type": "prefecture",
     "latitude": "36.67821670",
     "longitude": "139.80965490",
-    "native": "Tochigi",
+    "native": "栃木県",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -569,7 +569,7 @@
     "type": "prefecture",
     "latitude": "35.67686010",
     "longitude": "139.76389470",
-    "native": "Tokyo",
+    "native": "東京",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -583,7 +583,7 @@
     "type": "prefecture",
     "latitude": "35.35550750",
     "longitude": "133.86785250",
-    "native": "Tottori",
+    "native": "鳥取",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -597,7 +597,7 @@
     "type": "prefecture",
     "latitude": "36.69582660",
     "longitude": "137.21370710",
-    "native": "屋",
+    "native": "富山",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -611,7 +611,7 @@
     "type": "prefecture",
     "latitude": "33.80702920",
     "longitude": "135.59307430",
-    "native": "和山",
+    "native": "和歌山",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -625,7 +625,7 @@
     "type": "prefecture",
     "latitude": "38.47467050",
     "longitude": "140.08323700",
-    "native": "ヤマガタ",
+    "native": "山形",
     "timezone": "Asia/Tokyo",
     "translations": {}
   },
@@ -653,7 +653,7 @@
     "type": "prefecture",
     "latitude": "35.63993280",
     "longitude": "138.63804950",
-    "native": "山下",
+    "native": "山梨",
     "timezone": "Asia/Tokyo",
     "translations": {}
   }

@@ -9,7 +9,7 @@
     "type": "prefecture",
     "latitude": "30.42094920",
     "longitude": "-9.60442980",
-    "native": "Agadir-Ida-or-Tanane",
+    "native": "أكادير-إيدا-أو-تانان",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -23,7 +23,7 @@
     "type": "province",
     "latitude": "31.28067150",
     "longitude": "-7.92517710",
-    "native": "Al Haouz",
+    "native": "الحوز",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -37,7 +37,7 @@
     "type": "province",
     "latitude": "35.24455890",
     "longitude": "-3.93174680",
-    "native": "Al Hoceïma",
+    "native": "الحسيمة",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -51,7 +51,7 @@
     "type": "province",
     "latitude": "22.55215380",
     "longitude": "-14.32973530",
-    "native": "Aousserd (إيه)",
+    "native": "أوسرد (EH)",
     "timezone": "Africa/El_Aaiun",
     "translations": {}
   },
@@ -65,7 +65,7 @@
     "type": "province",
     "latitude": "28.14023950",
     "longitude": "-9.72326730",
-    "native": "Assa-Zag (EH-Partial)",
+    "native": "Assa-Zag (EH-جزئي)",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -79,7 +79,7 @@
     "type": "province",
     "latitude": "31.95929500",
     "longitude": "-6.57099100",
-    "native": "Azilal",
+    "native": "أزيلال",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -93,7 +93,7 @@
     "type": "province",
     "latitude": "32.33419300",
     "longitude": "-6.35333500",
-    "native": "مبارك ميلال",
+    "native": "بني ملال",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -107,7 +107,7 @@
     "type": "region",
     "latitude": "32.64074980",
     "longitude": "-6.20710500",
-    "native": "Béni Mellal-Khénifra",
+    "native": "بني ملال خنيفرة",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -121,7 +121,7 @@
     "type": "province",
     "latitude": "33.61896980",
     "longitude": "-7.13055360",
-    "native": "بنسلمان",
+    "native": "بنسليمان",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -135,7 +135,7 @@
     "type": "province",
     "latitude": "34.92667550",
     "longitude": "-2.32940870",
-    "native": "بيركان",
+    "native": "بركان",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -149,7 +149,7 @@
     "type": "province",
     "latitude": "33.25860350",
     "longitude": "-7.61504690",
-    "native": "بيريشيد",
+    "native": "برشيد",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -163,7 +163,7 @@
     "type": "province",
     "latitude": "26.12524930",
     "longitude": "-14.48473470",
-    "native": "بوجدور (إيه)",
+    "native": "بوجدور (EH)",
     "timezone": "Africa/El_Aaiun",
     "translations": {}
   },
@@ -177,7 +177,7 @@
     "type": "province",
     "latitude": "33.36251590",
     "longitude": "-4.73033970",
-    "native": "غمغم",
+    "native": "بولمان",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -205,7 +205,7 @@
     "type": "region",
     "latitude": "33.26271280",
     "longitude": "-7.96390280",
-    "native": "Casablanca-Settat",
+    "native": "الدار البيضاء-سطات",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -219,7 +219,7 @@
     "type": "province",
     "latitude": "35.16877480",
     "longitude": "-5.26834540",
-    "native": "شيفخوين",
+    "native": "شفشاون",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -233,7 +233,7 @@
     "type": "province",
     "latitude": "31.53835810",
     "longitude": "-8.76463880",
-    "native": "Chichaoua",
+    "native": "شيشاوة",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -247,7 +247,7 @@
     "type": "province",
     "latitude": "30.00806010",
     "longitude": "-9.33344130",
-    "native": "Chtouka-Aait Baha",
+    "native": "شتوكة-آيت باها",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -261,7 +261,7 @@
     "type": "region",
     "latitude": "22.60439730",
     "longitude": "-19.83482410",
-    "native": "Dakhla-Oued Ed-Dahab (EH)",
+    "native": "الداخلة-وادي الذهب (EH)",
     "timezone": "Etc/GMT+1",
     "translations": {}
   },
@@ -275,7 +275,7 @@
     "type": "region",
     "latitude": "31.18354320",
     "longitude": "-5.13954350",
-    "native": "Drâa-tafilalet",
+    "native": "درعة تافيلالت",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -303,7 +303,7 @@
     "type": "province",
     "latitude": "33.68573500",
     "longitude": "-5.36778440",
-    "native": "El Hajeb",
+    "native": "الحاجب",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -317,7 +317,7 @@
     "type": "province",
     "latitude": "33.23163260",
     "longitude": "-8.50071160",
-    "native": "جاديدا",
+    "native": "الجديدة",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -331,7 +331,7 @@
     "type": "province",
     "latitude": "32.05389210",
     "longitude": "-7.40686420",
-    "native": "El Kelâa des Sraghna",
+    "native": "قلعة السراغنة",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -345,7 +345,7 @@
     "type": "province",
     "latitude": "31.92908900",
     "longitude": "-4.43408070",
-    "native": "errachidia",
+    "native": "الرشيدية",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -359,7 +359,7 @@
     "type": "province",
     "latitude": "26.74185600",
     "longitude": "-11.67836710",
-    "native": "es-seAlm (eh-party)",
+    "native": "السمارة (EH-جزئي)",
     "timezone": "Africa/El_Aaiun",
     "translations": {}
   },
@@ -373,7 +373,7 @@
     "type": "province",
     "latitude": "31.50849260",
     "longitude": "-9.75950410",
-    "native": "Essaouira",
+    "native": "الصويرة",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -387,7 +387,7 @@
     "type": "province",
     "latitude": "35.75182350",
     "longitude": "-5.58646520",
-    "native": "فاهس أوجرا",
+    "native": "فحص-أنجرة",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -401,7 +401,7 @@
     "type": "prefecture",
     "latitude": "34.02619510",
     "longitude": "-5.02318490",
-    "native": "فز",
+    "native": "فاس",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -415,7 +415,7 @@
     "type": "region",
     "latitude": "33.83331360",
     "longitude": "-4.85563820",
-    "native": "Fez-Meknès",
+    "native": "فاس-مكناس",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -429,7 +429,7 @@
     "type": "province",
     "latitude": "32.10926130",
     "longitude": "-1.22980600",
-    "native": "فيجويج",
+    "native": "فجيج",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -443,7 +443,7 @@
     "type": "province",
     "latitude": "32.42121480",
     "longitude": "-6.74707850",
-    "native": "Fquih Ben مخطئ",
+    "native": "الفقيه بن صالح",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -457,7 +457,7 @@
     "type": "province",
     "latitude": "28.98836590",
     "longitude": "-10.05274980",
-    "native": "جيلميم",
+    "native": "كلميم",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -471,7 +471,7 @@
     "type": "region",
     "latitude": "28.48442810",
     "longitude": "-10.08072980",
-    "native": "اسم (EH-Partial) Guelmim",
+    "native": "كلميم-واد نون (EH-جزئي)",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -485,7 +485,7 @@
     "type": "province",
     "latitude": "34.22557600",
     "longitude": "-3.35234500",
-    "native": "Guercif",
+    "native": "جرسيف",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -499,7 +499,7 @@
     "type": "province",
     "latitude": "33.52280620",
     "longitude": "-5.11095520",
-    "native": "الإيفرين",
+    "native": "إفران",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -513,7 +513,7 @@
     "type": "prefecture",
     "latitude": "30.34691720",
     "longitude": "-9.44084920",
-    "native": "Inezgane-Ait Melloul",
+    "native": "إنزكان-آيت ملول",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -527,7 +527,7 @@
     "type": "province",
     "latitude": "34.31053100",
     "longitude": "-2.15997900",
-    "native": "جيرادا",
+    "native": "جرادة",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -541,7 +541,7 @@
     "type": "province",
     "latitude": "34.26457000",
     "longitude": "-6.57016900",
-    "native": "كينيترا",
+    "native": "القنيطرة",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -555,7 +555,7 @@
     "type": "province",
     "latitude": "33.83028700",
     "longitude": "-6.07260500",
-    "native": "خميس",
+    "native": "الخميسات",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -569,7 +569,7 @@
     "type": "province",
     "latitude": "32.93404710",
     "longitude": "-5.66157100",
-    "native": "Khénifra",
+    "native": "خنيفرة",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -583,7 +583,7 @@
     "type": "province",
     "latitude": "32.88564820",
     "longitude": "-6.90879800",
-    "native": "Khouribga",
+    "native": "خريبكة",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -597,7 +597,7 @@
     "type": "region",
     "latitude": "34.68089970",
     "longitude": "-1.94071960",
-    "native": "L'IRITAL",
+    "native": "لورينتال",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -611,7 +611,7 @@
     "type": "province",
     "latitude": "27.15003840",
     "longitude": "-13.19907580",
-    "native": "laâyoun (إيه)",
+    "native": "العيون (EH)",
     "timezone": "Africa/El_Aaiun",
     "translations": {}
   },
@@ -625,7 +625,7 @@
     "type": "region",
     "latitude": "27.86831940",
     "longitude": "-11.98046130",
-    "native": "Laâyoune-Sakia El Hamra (EH-Partial)",
+    "native": "العيون-الساقية الحمراء (EH-جزئي)",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -639,7 +639,7 @@
     "type": "province",
     "latitude": "35.19523270",
     "longitude": "-6.15291300",
-    "native": "لاراش",
+    "native": "العرائش",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -653,7 +653,7 @@
     "type": "prefecture",
     "latitude": "35.76148060",
     "longitude": "-5.39941600",
-    "native": "m'qqq-fnideq",
+    "native": "المضيق-الفنيدق",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -681,7 +681,7 @@
     "type": "region",
     "latitude": "31.62582570",
     "longitude": "-7.98916080",
-    "native": "مراكش سافي",
+    "native": "مراكش-آسفي",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -695,7 +695,7 @@
     "type": "province",
     "latitude": "33.45409390",
     "longitude": "-7.51660200",
-    "native": "ميديونا",
+    "native": "مديونة",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -709,7 +709,7 @@
     "type": "prefecture",
     "latitude": "33.89841310",
     "longitude": "-5.53215820",
-    "native": "meknès",
+    "native": "مكناس",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -723,7 +723,7 @@
     "type": "province",
     "latitude": "32.68034700",
     "longitude": "-4.73989700",
-    "native": "متوسط",
+    "native": "ميدلت",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -737,7 +737,7 @@
     "type": "prefecture",
     "latitude": "33.69583830",
     "longitude": "-7.38932920",
-    "native": "محمدية",
+    "native": "المحمدية",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -751,7 +751,7 @@
     "type": "province",
     "latitude": "34.08744790",
     "longitude": "-5.17840190",
-    "native": "مولاي ياكوب",
+    "native": "مولاي يعقوب",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -765,7 +765,7 @@
     "type": "province",
     "latitude": "35.17399220",
     "longitude": "-2.92811980",
-    "native": "نادور",
+    "native": "الناظور",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -779,7 +779,7 @@
     "type": "province",
     "latitude": "33.36703930",
     "longitude": "-7.57325370",
-    "native": "Nouaceur",
+    "native": "النواصر",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -793,7 +793,7 @@
     "type": "province",
     "latitude": "30.92019300",
     "longitude": "-6.91092300",
-    "native": "ouarzazate",
+    "native": "ورزازات",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -807,7 +807,7 @@
     "type": "province",
     "latitude": "22.73378920",
     "longitude": "-14.28611160",
-    "native": "التعليم التعليمي (إيه)",
+    "native": "وادي الذهب (EH)",
     "timezone": "Africa/El_Aaiun",
     "translations": {}
   },
@@ -821,7 +821,7 @@
     "type": "province",
     "latitude": "34.80715020",
     "longitude": "-5.57609340",
-    "native": "Ouezzane",
+    "native": "وزان",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -835,7 +835,7 @@
     "type": "prefecture",
     "latitude": "34.66746800",
     "longitude": "-2.03658370",
-    "native": "oujda-angad",
+    "native": "وجدة أنجاد",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -863,7 +863,7 @@
     "type": "region",
     "latitude": "33.92043320",
     "longitude": "-6.36760930",
-    "native": "الرباط-كوكيترا",
+    "native": "الرباط-سلا-القنيطرة",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -877,7 +877,7 @@
     "type": "province",
     "latitude": "32.46374360",
     "longitude": "-7.90878220",
-    "native": "Rehyna",
+    "native": "رحمنة",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -891,7 +891,7 @@
     "type": "province",
     "latitude": "32.26507760",
     "longitude": "-9.23055400",
-    "native": "صوف",
+    "native": "صافي",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -905,7 +905,7 @@
     "type": "prefecture",
     "latitude": "34.04488900",
     "longitude": "-6.81401700",
-    "native": "متسخ",
+    "native": "أُوكَازيُون",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -919,7 +919,7 @@
     "type": "province",
     "latitude": "33.83052440",
     "longitude": "-4.83531540",
-    "native": "سفرو",
+    "native": "صفرو",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -933,7 +933,7 @@
     "type": "province",
     "latitude": "33.00239700",
     "longitude": "-7.61986700",
-    "native": "تسوية",
+    "native": "سطات",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -947,7 +947,7 @@
     "type": "province",
     "latitude": "32.65077920",
     "longitude": "-8.42420870",
-    "native": "Sidi Bennour",
+    "native": "سيدي بنور",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -961,7 +961,7 @@
     "type": "province",
     "latitude": "29.37912530",
     "longitude": "-10.17156320",
-    "native": "سيدي ifni",
+    "native": "سيدي إفني",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -975,7 +975,7 @@
     "type": "province",
     "latitude": "34.22601720",
     "longitude": "-5.71291640",
-    "native": "سيدي",
+    "native": "سيدي قاسم",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -1003,7 +1003,7 @@
     "type": "prefecture",
     "latitude": "33.75633750",
     "longitude": "-6.87994280",
-    "native": "Skhirate-Temara",
+    "native": "الصخيرات-تمارة",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -1017,7 +1017,7 @@
     "type": "region",
     "latitude": "30.18772200",
     "longitude": "-8.63224980",
-    "native": "Souss-Massa",
+    "native": "سوس ماسة",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -1031,7 +1031,7 @@
     "type": "province",
     "latitude": "28.03012000",
     "longitude": "-11.16173560",
-    "native": "و (EH-Partial)",
+    "native": "تان تان (EH-جزئي)",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -1045,7 +1045,7 @@
     "type": "prefecture",
     "latitude": "35.76256810",
     "longitude": "-5.82950620",
-    "native": "Tanger-Assilah",
+    "native": "طنجة أصيلة",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -1059,7 +1059,7 @@
     "type": "region",
     "latitude": "35.20294100",
     "longitude": "-5.55101670",
-    "native": "طنجة توتوان-هوكيما",
+    "native": "طنجة-تطوان-الحسيمة",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -1073,7 +1073,7 @@
     "type": "province",
     "latitude": "34.53691700",
     "longitude": "-4.63986930",
-    "native": "taioounate",
+    "native": "تاونات",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -1087,7 +1087,7 @@
     "type": "province",
     "latitude": "34.41343800",
     "longitude": "-2.89382500",
-    "native": "taourirt",
+    "native": "تاوريرت",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -1101,7 +1101,7 @@
     "type": "province",
     "latitude": "27.93777010",
     "longitude": "-12.92940630",
-    "native": "طرفايا (EH-Partial)",
+    "native": "طرفاية (EH-جزئي)",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -1115,7 +1115,7 @@
     "type": "province",
     "latitude": "30.47271260",
     "longitude": "-8.87487650",
-    "native": "Taroudannt",
+    "native": "تارودانت",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -1143,7 +1143,7 @@
     "type": "province",
     "latitude": "34.23015500",
     "longitude": "-4.01010400",
-    "native": "كوب",
+    "native": "تازة",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -1157,7 +1157,7 @@
     "type": "province",
     "latitude": "35.57017500",
     "longitude": "-5.37427760",
-    "native": "التيتوان",
+    "native": "تطوان",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -1171,7 +1171,7 @@
     "type": "province",
     "latitude": "31.31731240",
     "longitude": "-5.74942320",
-    "native": "تينغهير",
+    "native": "تنغير",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -1185,7 +1185,7 @@
     "type": "province",
     "latitude": "29.69339200",
     "longitude": "-9.73215700",
-    "native": "tiznit",
+    "native": "تزنيت",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -1199,7 +1199,7 @@
     "type": "province",
     "latitude": "32.24580100",
     "longitude": "-8.53243900",
-    "native": "youssoufia",
+    "native": "اليوسفية",
     "timezone": "Africa/Casablanca",
     "translations": {}
   },
@@ -1213,7 +1213,7 @@
     "type": "province",
     "latitude": "30.32790530",
     "longitude": "-5.83699570",
-    "native": "زاجورا",
+    "native": "زاكورة",
     "timezone": "Africa/Casablanca",
     "translations": {}
   }
