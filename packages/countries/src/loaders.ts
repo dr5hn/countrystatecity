@@ -10,6 +10,34 @@ import type { ICountry, ICountryMeta, IState, ICity } from './types';
 let countryDirMap: Map<string, string> | null = null;
 let stateDirMaps: Map<string, Map<string, string>> = new Map();
 
+// Helper to check if we're in a Node.js environment
+function isNodeEnvironment(): boolean {
+  return typeof process !== 'undefined' && 
+         process.versions != null && 
+         process.versions.node != null;
+}
+
+// Helper to conditionally import Node.js modules
+// Uses webpack magic comment to prevent bundling in client-side code
+async function importNodeModule(moduleName: string): Promise<any> {
+  if (!isNodeEnvironment()) {
+    throw new Error(`Module ${moduleName} is not available in browser environment`);
+  }
+  
+  // The webpackIgnore magic comment tells webpack to not try to bundle this module
+  // This works because webpack will see it's a runtime variable and skip it
+  switch (moduleName) {
+    case 'fs':
+      return import(/* webpackIgnore: true */ 'fs');
+    case 'path':
+      return import(/* webpackIgnore: true */ 'path');
+    case 'url':
+      return import(/* webpackIgnore: true */ 'url');
+    default:
+      throw new Error(`Unsupported module: ${moduleName}`);
+  }
+}
+
 // Helper function to load JSON data
 async function loadJSON<T>(path: string): Promise<T> {
   try {
@@ -17,11 +45,15 @@ async function loadJSON<T>(path: string): Promise<T> {
     const module = await import(path, { assert: { type: 'json' } } as any);
     return module.default;
   } catch (error) {
-    // Fallback to fs for CommonJS/Node
+    // Fallback to fs for CommonJS/Node environments only
+    if (!isNodeEnvironment()) {
+      throw error; // Re-throw in browser environments
+    }
+    
     try {
-      const fs = await import('fs');
-      const pathModule = await import('path');
-      const { fileURLToPath } = await import('url');
+      const fs = await importNodeModule('fs');
+      const pathModule = await importNodeModule('path');
+      const { fileURLToPath } = await importNodeModule('url');
       
       // Resolve path relative to this file
       let basePath: string;
@@ -44,21 +76,25 @@ async function loadJSON<T>(path: string): Promise<T> {
 async function getCountryDirName(countryCode: string): Promise<string | null> {
   // Initialize map if not already done
   if (!countryDirMap) {
-    const fs = await import('fs');
-    const pathModule = await import('path');
+    if (!isNodeEnvironment()) {
+      throw new Error('Directory scanning is only available in Node.js environment');
+    }
+    
+    const fs = await importNodeModule('fs');
+    const pathModule = await importNodeModule('path');
     
     let basePath: string;
     if (typeof __dirname !== 'undefined') {
       basePath = __dirname;
     } else {
-      const { fileURLToPath } = await import('url');
+      const { fileURLToPath } = await importNodeModule('url');
       basePath = pathModule.dirname(fileURLToPath(import.meta.url));
     }
     
     const dataDir = pathModule.join(basePath, 'data');
     const dirs = fs.readdirSync(dataDir, { withFileTypes: true })
-      .filter(d => d.isDirectory())
-      .map(d => d.name);
+      .filter((d: any) => d.isDirectory())
+      .map((d: any) => d.name);
     
     countryDirMap = new Map();
     for (const dir of dirs) {
@@ -79,21 +115,25 @@ async function getStateDirName(countryCode: string, stateCode: string): Promise<
   
   // Check if we have cached state map for this country
   if (!stateDirMaps.has(countryCode)) {
-    const fs = await import('fs');
-    const pathModule = await import('path');
+    if (!isNodeEnvironment()) {
+      throw new Error('Directory scanning is only available in Node.js environment');
+    }
+    
+    const fs = await importNodeModule('fs');
+    const pathModule = await importNodeModule('path');
     
     let basePath: string;
     if (typeof __dirname !== 'undefined') {
       basePath = __dirname;
     } else {
-      const { fileURLToPath } = await import('url');
+      const { fileURLToPath } = await importNodeModule('url');
       basePath = pathModule.dirname(fileURLToPath(import.meta.url));
     }
     
     const countryPath = pathModule.join(basePath, 'data', countryDir);
     const dirs = fs.readdirSync(countryPath, { withFileTypes: true })
-      .filter(d => d.isDirectory())
-      .map(d => d.name);
+      .filter((d: any) => d.isDirectory())
+      .map((d: any) => d.name);
     
     const stateMap = new Map<string, string>();
     for (const dir of dirs) {
