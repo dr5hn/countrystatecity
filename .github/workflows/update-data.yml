@@ -12,6 +12,9 @@ jobs:
   update-data:
     name: Update Countries/States/Cities Data
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     
     steps:
       - name: Checkout code
