@@ -63,8 +63,34 @@ async function loadJSON<T>(path: string): Promise<T> {
         basePath = pathModule.dirname(fileURLToPath(import.meta.url));
       }
       
-      const fullPath = pathModule.join(basePath, path);
-      const data = fs.readFileSync(fullPath, 'utf-8');
+      // Try multiple path resolution strategies for different environments
+      const possiblePaths = [
+        pathModule.join(basePath, path),
+        pathModule.join(basePath, '..', path), // In case dist structure is different
+        pathModule.join(process.cwd(), 'node_modules', '@countrystatecity', 'countries', 'dist', path), // Vercel/serverless
+      ];
+      
+      let data: string | null = null;
+      let lastError: any = null;
+      
+      for (const fullPath of possiblePaths) {
+        try {
+          data = fs.readFileSync(fullPath, 'utf-8');
+          break;
+        } catch (readError) {
+          lastError = readError;
+          continue;
+        }
+      }
+      
+      if (data === null) {
+        // If all paths failed, throw the last error with helpful message
+        const err: any = new Error(`Failed to load JSON file: ${path}. Tried paths: ${possiblePaths.join(', ')}`);
+        err.code = 'MODULE_NOT_FOUND';
+        err.originalError = lastError;
+        throw err;
+      }
+      
       return JSON.parse(data);
     } catch (fsError) {
       throw error; // Throw original error if fs also fails
