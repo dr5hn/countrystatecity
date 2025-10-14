@@ -54,8 +54,13 @@ jobs:
       - name: Build packages
         run: pnpm build
       
-      - name: Test NextJS compatibility
+      - name: Test NextJS compatibility (webpack check)
         run: node packages/countries/scripts/test-nextjs-compat.cjs
+      
+      - name: Test NextJS integration (actual build)
+        run: |
+          cd tests/nextjs-integration
+          bash test.sh
       
       - name: Check bundle sizes
         run: |
