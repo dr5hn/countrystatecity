@@ -9,7 +9,7 @@
     "type": "governorate",
     "latitude": "12.83333300",
     "longitude": "44.91666700",
-    "native": "'أدان",
+    "native": "عدن",
     "timezone": "Asia/Aden",
     "translations": {}
   },
@@ -37,7 +37,7 @@
     "type": "governorate",
     "latitude": "13.78620200",
     "longitude": "46.14176600",
-    "native": "أبيان",
+    "native": "أبين",
     "timezone": "Asia/Aden",
     "translations": {}
   },
@@ -51,7 +51,7 @@
     "type": "governorate",
     "latitude": "14.34166000",
     "longitude": "45.39442200",
-    "native": "Al Bayda'",
+    "native": "البيضاء",
     "timezone": "Asia/Aden",
     "translations": {}
   },
@@ -65,7 +65,7 @@
     "type": "governorate",
     "latitude": "15.11593260",
     "longitude": "42.84478500",
-    "native": "Al Hudaydah",
+    "native": "الحديدة",
     "timezone": "Asia/Aden",
     "translations": {}
   },
@@ -79,7 +79,7 @@
     "type": "governorate",
     "latitude": "16.68973300",
     "longitude": "45.61155600",
-    "native": "إلى Jawf",
+    "native": "الجوف",
     "timezone": "Asia/Aden",
     "translations": {}
   },
@@ -93,7 +93,7 @@
     "type": "governorate",
     "latitude": "17.00000000",
     "longitude": "51.50000000",
-    "native": "Al Mahrah",
+    "native": "المهرة",
     "timezone": "Asia/Aden",
     "translations": {}
   },
@@ -107,7 +107,7 @@
     "type": "governorate",
     "latitude": "15.38715100",
     "longitude": "43.56629600",
-    "native": "المهويت",
+    "native": "المحويت",
     "timezone": "Asia/Aden",
     "translations": {}
   },
@@ -121,7 +121,7 @@
     "type": "municipality",
     "latitude": "15.35000000",
     "longitude": "44.20000000",
-    "native": "Amanat Al Asimah",
+    "native": "أمانة العاصمة",
     "timezone": "Asia/Aden",
     "translations": {}
   },
@@ -135,7 +135,7 @@
     "type": "governorate",
     "latitude": "14.73842680",
     "longitude": "44.27095970",
-    "native": "dhamar",
+    "native": "ذمار",
     "timezone": "Asia/Aden",
     "translations": {}
   },
@@ -149,7 +149,7 @@
     "type": "governorate",
     "latitude": "16.73230220",
     "longitude": "48.60849670",
-    "native": "Hadhramaut",
+    "native": "حضرموت",
     "timezone": "Asia/Aden",
     "translations": {}
   },
@@ -163,7 +163,7 @@
     "type": "governorate",
     "latitude": "16.00000000",
     "longitude": "43.25000000",
-    "native": "Hajjah",
+    "native": "حجة",
     "timezone": "Asia/Aden",
     "translations": {}
   },
@@ -177,7 +177,7 @@
     "type": "governorate",
     "latitude": "14.14192910",
     "longitude": "44.13898490",
-    "native": "IBB",
+    "native": "إب",
     "timezone": "Asia/Aden",
     "translations": {}
   },
@@ -191,7 +191,7 @@
     "type": "governorate",
     "latitude": "13.05778210",
     "longitude": "44.88361350",
-    "native": "لاشي",
+    "native": "لحج",
     "timezone": "Asia/Aden",
     "translations": {}
   },
@@ -205,7 +205,7 @@
     "type": "governorate",
     "latitude": "15.45787880",
     "longitude": "45.32302420",
-    "native": "Ma'rib",
+    "native": "مأرب",
     "timezone": "Asia/Aden",
     "translations": {}
   },
@@ -219,7 +219,7 @@
     "type": "governorate",
     "latitude": "14.68755520",
     "longitude": "43.66482640",
-    "native": "رايما",
+    "native": "ريمة",
     "timezone": "Asia/Aden",
     "translations": {}
   },
@@ -233,7 +233,7 @@
     "type": "governorate",
     "latitude": "16.91733200",
     "longitude": "43.75999700",
-    "native": "يحصل",
+    "native": "صعدة",
     "timezone": "Asia/Aden",
     "translations": {}
   },
@@ -247,7 +247,7 @@
     "type": "governorate",
     "latitude": "15.26069100",
     "longitude": "44.42489500",
-    "native": "إشغال",
+    "native": "صنعاء",
     "timezone": "Asia/Aden",
     "translations": {}
   },
@@ -261,7 +261,7 @@
     "type": "governorate",
     "latitude": "14.92741090",
     "longitude": "46.60849670",
-    "native": "شابواه",
+    "native": "شبوة",
     "timezone": "Asia/Aden",
     "translations": {}
   },
@@ -275,7 +275,7 @@
     "type": "governorate",
     "latitude": "12.50000000",
     "longitude": "53.83333300",
-    "native": "Socotra",
+    "native": "سقطرى",
     "timezone": "Asia/Aden",
     "translations": {}
   },
@@ -289,7 +289,7 @@
     "type": "governorate",
     "latitude": "13.57758860",
     "longitude": "44.01779890",
-    "native": "Ta'izz",
+    "native": "تعز",
     "timezone": "Asia/Aden",
     "translations": {}
   }

@@ -403,6 +403,19 @@
     "translations": {}
   },
   {
+    "id": 157043,
+    "name": "Suwa gun",
+    "state_id": 843,
+    "state_code": "20",
+    "country_id": 109,
+    "country_code": "JP",
+    "latitude": "35.97386000",
+    "longitude": "138.21961060",
+    "native": null,
+    "timezone": null,
+    "translations": {}
+  },
+  {
     "id": 64391,
     "name": "Suwa Shi",
     "state_id": 843,

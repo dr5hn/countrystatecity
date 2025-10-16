@@ -9,7 +9,7 @@
     "type": "popularate",
     "latitude": "29.15731230",
     "longitude": "21.74963920",
-    "native": "الواه",
+    "native": "الواحات",
     "timezone": "Africa/Tripoli",
     "translations": {}
   },
@@ -37,7 +37,7 @@
     "type": "popularate",
     "latitude": "32.75561300",
     "longitude": "22.63774320",
-    "native": "Derna",
+    "native": "درنة",
     "timezone": "Africa/Tripoli",
     "translations": {}
   },
@@ -65,7 +65,7 @@
     "type": "popularate",
     "latitude": "32.48741190",
     "longitude": "21.70897290",
-    "native": "Jabal al Akhdar",
+    "native": "الجبل الأخضر",
     "timezone": "Africa/Tripoli",
     "translations": {}
   },
@@ -79,7 +79,7 @@
     "type": "popularate",
     "latitude": "30.70464900",
     "longitude": "13.22338590",
-    "native": "Jabal al Gharbi",
+    "native": "جبل الغربي",
     "timezone": "Africa/Tripoli",
     "translations": {}
   },
@@ -93,7 +93,7 @@
     "type": "popularate",
     "latitude": "32.55879160",
     "longitude": "13.07070240",
-    "native": "Jafara",
+    "native": "جفارة",
     "timezone": "Africa/Tripoli",
     "translations": {}
   },
@@ -107,7 +107,7 @@
     "type": "popularate",
     "latitude": "28.00557240",
     "longitude": "16.74302920",
-    "native": "jufra",
+    "native": "الجفرة",
     "timezone": "Africa/Tripoli",
     "translations": {}
   },
@@ -121,7 +121,7 @@
     "type": "popularate",
     "latitude": "23.33237760",
     "longitude": "22.08403310",
-    "native": "صُندُوق",
+    "native": "الكفرة",
     "timezone": "Africa/Tripoli",
     "translations": {}
   },
@@ -149,7 +149,7 @@
     "type": "popularate",
     "latitude": "32.37459230",
     "longitude": "15.09058030",
-    "native": "أسراتا",
+    "native": "مصراتة",
     "timezone": "Africa/Tripoli",
     "translations": {}
   },
@@ -163,7 +163,7 @@
     "type": "popularate",
     "latitude": "32.40710580",
     "longitude": "13.86219030",
-    "native": "murqub",
+    "native": "مرقب",
     "timezone": "Africa/Tripoli",
     "translations": {}
   },
@@ -177,7 +177,7 @@
     "type": "popularate",
     "latitude": "25.91822620",
     "longitude": "13.92600010",
-    "native": "مورزوك",
+    "native": "مرزق",
     "timezone": "Africa/Tripoli",
     "translations": {}
   },
@@ -205,7 +205,7 @@
     "type": "popularate",
     "latitude": "32.71771530",
     "longitude": "11.98964150",
-    "native": "Nuqat al Khams",
+    "native": "النقاط الخمس",
     "timezone": "Africa/Tripoli",
     "translations": {}
   },
@@ -233,7 +233,7 @@
     "type": "popularate",
     "latitude": "31.20596250",
     "longitude": "16.58362060",
-    "native": "سيرتي",
+    "native": "سرت",
     "timezone": "Africa/Tripoli",
     "translations": {}
   },
@@ -261,7 +261,7 @@
     "type": "popularate",
     "latitude": "26.42333690",
     "longitude": "12.71836380",
-    "native": "Wadi al Hayaa",
+    "native": "وادي الحياة",
     "timezone": "Africa/Tripoli",
     "translations": {}
   },
@@ -275,7 +275,7 @@
     "type": "popularate",
     "latitude": "27.60231720",
     "longitude": "12.86376270",
-    "native": "طريق الشادي",
+    "native": "وادي الشاطئ",
     "timezone": "Africa/Tripoli",
     "translations": {}
   },
@@ -289,7 +289,7 @@
     "type": "popularate",
     "latitude": "32.76302820",
     "longitude": "12.73649620",
-    "native": "زاويا",
+    "native": "زاوية",
     "timezone": "Africa/Tripoli",
     "translations": {}
   }

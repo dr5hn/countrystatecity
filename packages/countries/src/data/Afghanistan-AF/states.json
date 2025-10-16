@@ -9,7 +9,7 @@
     "type": "province",
     "latitude": "36.80402540",
     "longitude": "71.36765800",
-    "native": "Badakhshan",
+    "native": "بدخشان",
     "timezone": "Asia/Kabul",
     "translations": {}
   },
@@ -121,7 +121,7 @@
     "type": "province",
     "latitude": "33.54505870",
     "longitude": "68.41739720",
-    "native": "جمع",
+    "native": "غزني",
     "timezone": "Asia/Kabul",
     "translations": {}
   },
@@ -135,7 +135,7 @@
     "type": "province",
     "latitude": "34.16052570",
     "longitude": "64.92019490",
-    "native": "Ghōr",
+    "native": "جور",
     "timezone": "Asia/Kabul",
     "translations": {}
   },
@@ -149,7 +149,7 @@
     "type": "province",
     "latitude": "31.00000000",
     "longitude": "64.00000000",
-    "native": "Helmand",
+    "native": "هلمند",
     "timezone": "Asia/Kabul",
     "translations": {}
   },
@@ -303,7 +303,7 @@
     "type": "province",
     "latitude": "34.22038900",
     "longitude": "70.38003140",
-    "native": "Nangarhar",
+    "native": "ننګرهار",
     "timezone": "Asia/Kabul",
     "translations": {}
   },
@@ -429,7 +429,7 @@
     "type": "province",
     "latitude": "36.59407320",
     "longitude": "69.79389960",
-    "native": "Takhar",
+    "native": "تخار",
     "timezone": "Asia/Kabul",
     "translations": {}
   },

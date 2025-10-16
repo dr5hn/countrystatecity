@@ -9,7 +9,7 @@
     "type": "region",
     "latitude": "40.06118520",
     "longitude": "70.82009640",
-    "native": "Batken",
+    "native": "Баткен",
     "timezone": "Asia/Bishkek",
     "translations": {}
   },
@@ -79,7 +79,7 @@
     "type": "region",
     "latitude": "41.36706580",
     "longitude": "75.99318380",
-    "native": "ZEA",
+    "native": "Нарын",
     "timezone": "Asia/Bishkek",
     "translations": {}
   },
@@ -93,7 +93,7 @@
     "type": "city",
     "latitude": "40.51726780",
     "longitude": "72.80498940",
-    "native": "Osh",
+    "native": "Ош",
     "timezone": "Asia/Bishkek",
     "translations": {}
   },
@@ -121,7 +121,7 @@
     "type": "region",
     "latitude": "42.52199500",
     "longitude": "72.24769300",
-    "native": "Сүйлөйт",
+    "native": "Талас",
     "timezone": "Asia/Bishkek",
     "translations": {}
   }

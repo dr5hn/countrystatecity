@@ -23,7 +23,7 @@
     "type": "governorate",
     "latitude": "31.42028970",
     "longitude": "34.28616400",
-    "native": "Deir El Balah",
+    "native": "دير البلح",
     "timezone": "Asia/Gaza",
     "translations": {}
   },
@@ -37,7 +37,7 @@
     "type": "governorate",
     "latitude": "31.48723970",
     "longitude": "34.14998900",
-    "native": "Gaza",
+    "native": "غزة",
     "timezone": "Asia/Gaza",
     "translations": {}
   },
@@ -65,7 +65,7 @@
     "type": "governorate",
     "latitude": "32.42637610",
     "longitude": "35.08568870",
-    "native": "جينين",
+    "native": "جنين",
     "timezone": "Asia/Hebron",
     "translations": {}
   },
@@ -93,7 +93,7 @@
     "type": "governorate",
     "latitude": "31.80203280",
     "longitude": "34.95996640",
-    "native": "القدس (القدس)",
+    "native": "القدس",
     "timezone": "Asia/Jerusalem",
     "translations": {}
   },
@@ -107,7 +107,7 @@
     "type": "governorate",
     "latitude": "31.32987660",
     "longitude": "34.22548330",
-    "native": "Khan Yunis",
+    "native": "خان يونس",
     "timezone": "Asia/Gaza",
     "translations": {}
   },
@@ -121,7 +121,7 @@
     "type": "governorate",
     "latitude": "32.22437550",
     "longitude": "35.20647930",
-    "native": "نابلوس",
+    "native": "نابلس",
     "timezone": "Asia/Hebron",
     "translations": {}
   },
@@ -149,7 +149,7 @@
     "type": "governorate",
     "latitude": "32.18103230",
     "longitude": "34.99369990",
-    "native": "تلة",
+    "native": "قلقيلية",
     "timezone": "Asia/Hebron",
     "translations": {}
   },
@@ -163,7 +163,7 @@
     "type": "governorate",
     "latitude": "31.29688990",
     "longitude": "34.11166850",
-    "native": "رفه",
+    "native": "رفح",
     "timezone": "Africa/Cairo",
     "translations": {}
   },
@@ -191,7 +191,7 @@
     "type": "governorate",
     "latitude": "32.11122720",
     "longitude": "34.95787690",
-    "native": "salfit",
+    "native": "سلفيت",
     "timezone": "Asia/Jerusalem",
     "translations": {}
   },
@@ -205,7 +205,7 @@
     "type": "governorate",
     "latitude": "32.29380430",
     "longitude": "34.85109800",
-    "native": "توباس",
+    "native": "طوباس",
     "timezone": "Asia/Jerusalem",
     "translations": {}
   },
@@ -219,7 +219,7 @@
     "type": "governorate",
     "latitude": "32.32766720",
     "longitude": "34.92311080",
-    "native": "تولكرم",
+    "native": "طولكرم",
     "timezone": "Asia/Jerusalem",
     "translations": {}
   }

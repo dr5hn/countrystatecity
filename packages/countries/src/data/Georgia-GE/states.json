@@ -9,7 +9,7 @@
     "type": "autonomous republic",
     "latitude": "42.99671870",
     "longitude": "41.05447410",
-    "native": "აბხაზეთი",
+    "native": "აფხაზეთი",
     "timezone": "Asia/Tbilisi",
     "translations": {}
   },
@@ -37,7 +37,7 @@
     "type": "region",
     "latitude": "41.97726810",
     "longitude": "41.98282620",
-    "native": "დუნიკი",
+    "native": "გურია",
     "timezone": "Asia/Tbilisi",
     "translations": {}
   },
@@ -51,7 +51,7 @@
     "type": "region",
     "latitude": "42.18756000",
     "longitude": "42.95215540",
-    "native": "იბები",
+    "native": "იმერეთი",
     "timezone": "Asia/Tbilisi",
     "translations": {}
   },
@@ -65,7 +65,7 @@
     "type": "region",
     "latitude": "41.81443170",
     "longitude": "45.71749770",
-    "native": "კაკეტი",
+    "native": "კახეთი",
     "timezone": "Asia/Tbilisi",
     "translations": {}
   },
@@ -79,7 +79,7 @@
     "type": "region",
     "latitude": "41.51245780",
     "longitude": "44.54953690",
-    "native": "KVEMO ბარათი",
+    "native": "ქვემო ქართლი",
     "timezone": "Asia/Tbilisi",
     "translations": {}
   },
@@ -93,7 +93,7 @@
     "type": "region",
     "latitude": "42.22903120",
     "longitude": "44.85699630",
-    "native": "Mtskheta-Mtianeti",
+    "native": "მცხეთა-მთიანეთი",
     "timezone": "Asia/Tbilisi",
     "translations": {}
   },
@@ -107,7 +107,7 @@
     "type": "region",
     "latitude": "42.66884900",
     "longitude": "43.12525100",
-    "native": "Racha-Lechkhumi და Kvemo Svaneti",
+    "native": "რაჭა-ლეჩხუმი და ქვემო სვანეთი",
     "timezone": "Asia/Tbilisi",
     "translations": {}
   },
@@ -121,7 +121,7 @@
     "type": "region",
     "latitude": "42.63545200",
     "longitude": "42.24871380",
-    "native": "Samegrelo-Zemo Svaneti",
+    "native": "სამეგრელო-ზემო სვანეთი",
     "timezone": "Asia/Tbilisi",
     "translations": {}
   },
@@ -135,7 +135,7 @@
     "type": "region",
     "latitude": "41.52963050",
     "longitude": "43.24342080",
-    "native": "სამსხ-ჯავახეტი",
+    "native": "სამცხე-ჯავახეთი",
     "timezone": "Asia/Tbilisi",
     "translations": {}
   },
@@ -149,7 +149,7 @@
     "type": "region",
     "latitude": "41.98868360",
     "longitude": "43.98612500",
-    "native": "Shi ბარათები",
+    "native": "შიდა ქართლი",
     "timezone": "Asia/Tbilisi",
     "translations": {}
   },
@@ -163,7 +163,7 @@
     "type": "city",
     "latitude": "41.69345910",
     "longitude": "44.80144950",
-    "native": "თბილისი",
+    "native": "თბილის",
     "timezone": "Asia/Tbilisi",
     "translations": {}
   }

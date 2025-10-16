@@ -9,7 +9,7 @@
     "type": "republic",
     "latitude": "44.69390060",
     "longitude": "40.15204210",
-    "native": "Adygea",
+    "native": "Адыгея",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -65,7 +65,7 @@
     "type": "administrative region",
     "latitude": "64.54585490",
     "longitude": "40.55057690",
-    "native": "Лист",
+    "native": "Архангельск",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -79,7 +79,7 @@
     "type": "administrative region",
     "latitude": "46.34983080",
     "longitude": "48.03262030",
-    "native": "Астрахан",
+    "native": "Астрахань",
     "timezone": "Europe/Astrakhan",
     "translations": {}
   },
@@ -93,7 +93,7 @@
     "type": "republic",
     "latitude": "54.47475530",
     "longitude": "55.97845820",
-    "native": "Башкорторстн",
+    "native": "Башкортостан",
     "timezone": "Asia/Yekaterinburg",
     "translations": {}
   },
@@ -107,7 +107,7 @@
     "type": "administrative region",
     "latitude": "50.70801190",
     "longitude": "37.58376150",
-    "native": "Bellarod",
+    "native": "Белгород",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -121,7 +121,7 @@
     "type": "administrative region",
     "latitude": "53.24237780",
     "longitude": "34.36682880",
-    "native": "Брайанск",
+    "native": "Брянск",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -135,7 +135,7 @@
     "type": "republic",
     "latitude": "52.71824260",
     "longitude": "109.49214300",
-    "native": "Buryatia",
+    "native": "Бурятия",
     "timezone": "Asia/Irkutsk",
     "translations": {}
   },
@@ -149,7 +149,7 @@
     "type": "republic",
     "latitude": "43.40000000",
     "longitude": "45.70000000",
-    "native": "Чеченский",
+    "native": "чеченский",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -163,7 +163,7 @@
     "type": "administrative region",
     "latitude": "55.15593120",
     "longitude": "61.40127260",
-    "native": "Челлиабинск",
+    "native": "Челябинск",
     "timezone": "Asia/Yekaterinburg",
     "translations": {}
   },
@@ -191,7 +191,7 @@
     "type": "republic",
     "latitude": "55.42599220",
     "longitude": "47.08494290",
-    "native": "Чуваш",
+    "native": "чувашский",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -219,7 +219,7 @@
     "type": "republic",
     "latitude": "43.16553090",
     "longitude": "44.97968200",
-    "native": "Inguhetia",
+    "native": "Ингушетия",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -233,7 +233,7 @@
     "type": "administrative region",
     "latitude": "52.28548340",
     "longitude": "104.28902220",
-    "native": "Irkutsk",
+    "native": "Иркутск",
     "timezone": "Asia/Irkutsk",
     "translations": {}
   },
@@ -261,7 +261,7 @@
     "type": "autonomous region",
     "latitude": "48.56016130",
     "longitude": "132.27756620",
-    "native": "Еврейский",
+    "native": "еврейский",
     "timezone": "Asia/Vladivostok",
     "translations": {}
   },
@@ -275,7 +275,7 @@
     "type": "republic",
     "latitude": "43.44282860",
     "longitude": "43.42048090",
-    "native": "Кабардино-Балкар",
+    "native": "Кабардино-Балкарский",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -303,7 +303,7 @@
     "type": "republic",
     "latitude": "46.90171160",
     "longitude": "45.24916100",
-    "native": "Калмикия",
+    "native": "Калмыкия",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -317,7 +317,7 @@
     "type": "administrative region",
     "latitude": "54.43827730",
     "longitude": "35.52728540",
-    "native": "Клуб",
+    "native": "Калуга",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -345,7 +345,7 @@
     "type": "republic",
     "latitude": "43.73683260",
     "longitude": "41.72679910",
-    "native": "Карачай-Черкесс",
+    "native": "Карачаево-Черкесская",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -401,7 +401,7 @@
     "type": "republic",
     "latitude": "53.43993790",
     "longitude": "90.06643030",
-    "native": "Хаммассия",
+    "native": "Хакасия",
     "timezone": "Asia/Krasnoyarsk",
     "translations": {}
   },
@@ -415,7 +415,7 @@
     "type": "autonomous district",
     "latitude": "61.87934280",
     "longitude": "68.64181560",
-    "native": "Khanty-Mansi",
+    "native": "Ханты-Мансийский",
     "timezone": "Asia/Yekaterinburg",
     "translations": {}
   },
@@ -443,7 +443,7 @@
     "type": "republic",
     "latitude": "63.98814210",
     "longitude": "54.33260730",
-    "native": "Посещение",
+    "native": "Коми",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -485,7 +485,7 @@
     "type": "administrative territory",
     "latitude": "63.32338070",
     "longitude": "97.09799740",
-    "native": "Krasnoyarsk",
+    "native": "Красноярск",
     "timezone": "Asia/Krasnoyarsk",
     "translations": {}
   },
@@ -541,7 +541,7 @@
     "type": "administrative region",
     "latitude": "52.69351780",
     "longitude": "39.11226640",
-    "native": "Липетск",
+    "native": "Липецк",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -555,7 +555,7 @@
     "type": "administrative region",
     "latitude": "63.55150280",
     "longitude": "154.01472600",
-    "native": "Виндада",
+    "native": "Магадан",
     "timezone": "Asia/Magadan",
     "translations": {}
   },
@@ -569,7 +569,7 @@
     "type": "republic",
     "latitude": "56.57675040",
     "longitude": "47.88175120",
-    "native": "Мари Эль",
+    "native": "Марий Эл",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -639,7 +639,7 @@
     "type": "autonomous city",
     "latitude": "67.67832530",
     "longitude": "57.06268530",
-    "native": "Ненетс",
+    "native": "ненецкие",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -653,7 +653,7 @@
     "type": "administrative region",
     "latitude": "56.27692920",
     "longitude": "43.92129810",
-    "native": "Нижни Новгород",
+    "native": "Нижний Новгород",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -709,7 +709,7 @@
     "type": "administrative region",
     "latitude": "54.99137500",
     "longitude": "73.37152900",
-    "native": "Omsk",
+    "native": "Омск",
     "timezone": "Asia/Omsk",
     "translations": {}
   },
@@ -737,7 +737,7 @@
     "type": "administrative region",
     "latitude": "52.83927650",
     "longitude": "36.42517090",
-    "native": "Ирил",
+    "native": "Орел",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -751,7 +751,7 @@
     "type": "administrative region",
     "latitude": "53.16554150",
     "longitude": "44.78791810",
-    "native": "Действительно",
+    "native": "Пенза",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -765,7 +765,7 @@
     "type": "administrative territory",
     "latitude": "58.59516030",
     "longitude": "56.31595460",
-    "native": "Перми",
+    "native": "Пермь",
     "timezone": "Asia/Yekaterinburg",
     "translations": {}
   },
@@ -779,7 +779,7 @@
     "type": "administrative territory",
     "latitude": "45.08194560",
     "longitude": "134.72664500",
-    "native": "ПРИМОРСКИЙ",
+    "native": "Приморский",
     "timezone": "Asia/Vladivostok",
     "translations": {}
   },
@@ -793,7 +793,7 @@
     "type": "administrative region",
     "latitude": "57.53587290",
     "longitude": "28.85868260",
-    "native": "ПСКОВ",
+    "native": "Псков",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -807,7 +807,7 @@
     "type": "administrative region",
     "latitude": "47.62224510",
     "longitude": "40.79579420",
-    "native": "Росток",
+    "native": "Ростов",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -821,7 +821,7 @@
     "type": "administrative region",
     "latitude": "54.62956870",
     "longitude": "39.74250390",
-    "native": "Рьязан",
+    "native": "Рязань",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -835,7 +835,7 @@
     "type": "autonomous city",
     "latitude": "59.93873200",
     "longitude": "30.31622900",
-    "native": "Сент -Петербург",
+    "native": "Санкт-Петербург",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -849,7 +849,7 @@
     "type": "republic",
     "latitude": "66.94162600",
     "longitude": "129.64237100",
-    "native": "Мы строим",
+    "native": "Саха",
     "timezone": "Asia/Yakutsk",
     "translations": {}
   },
@@ -863,7 +863,7 @@
     "type": "administrative region",
     "latitude": "50.15947600",
     "longitude": "143.02644120",
-    "native": "Sakhalin",
+    "native": "Сахалин",
     "timezone": "Asia/Sakhalin",
     "translations": {}
   },
@@ -891,7 +891,7 @@
     "type": "administrative region",
     "latitude": "51.53001800",
     "longitude": "46.03468300",
-    "native": "Saratov",
+    "native": "Саратов",
     "timezone": "Europe/Saratov",
     "translations": {}
   },
@@ -919,7 +919,7 @@
     "type": "administrative territory",
     "latitude": "44.86325770",
     "longitude": "43.44069130",
-    "native": "Stavropol",
+    "native": "Ставрополь",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -961,7 +961,7 @@
     "type": "republic",
     "latitude": "55.44821700",
     "longitude": "50.47635910",
-    "native": "Tatarstan",
+    "native": "Татарстан",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -975,7 +975,7 @@
     "type": "administrative region",
     "latitude": "58.61242790",
     "longitude": "82.04753150",
-    "native": "Топливать",
+    "native": "Томск",
     "timezone": "Asia/Tomsk",
     "translations": {}
   },
@@ -1003,7 +1003,7 @@
     "type": "republic",
     "latitude": "51.40171490",
     "longitude": "93.85825930",
-    "native": "Закрывать",
+    "native": "Тува",
     "timezone": "Asia/Krasnoyarsk",
     "translations": {}
   },
@@ -1017,7 +1017,7 @@
     "type": "administrative region",
     "latitude": "57.11344750",
     "longitude": "35.17444280",
-    "native": "Захватывать",
+    "native": "Тверь",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -1031,7 +1031,7 @@
     "type": "administrative region",
     "latitude": "57.15353400",
     "longitude": "65.54227400",
-    "native": "Ужесточить",
+    "native": "Тюмень",
     "timezone": "Asia/Yekaterinburg",
     "translations": {}
   },
@@ -1045,7 +1045,7 @@
     "type": "republic",
     "latitude": "57.19611650",
     "longitude": "52.69598320",
-    "native": "Удмурт",
+    "native": "удмуртский",
     "timezone": "Europe/Samara",
     "translations": {}
   },
@@ -1059,7 +1059,7 @@
     "type": "administrative region",
     "latitude": "54.14631770",
     "longitude": "47.23249210",
-    "native": "Ulyanovsk",
+    "native": "Ульяновск",
     "timezone": "Europe/Ulyanovsk",
     "translations": {}
   },
@@ -1087,7 +1087,7 @@
     "type": "administrative region",
     "latitude": "49.60483390",
     "longitude": "44.29035820",
-    "native": "Volgograd Oblast",
+    "native": "Волгоградская область",
     "timezone": "Europe/Volgograd",
     "translations": {}
   },
@@ -1101,7 +1101,7 @@
     "type": "administrative region",
     "latitude": "59.22645850",
     "longitude": "39.87223910",
-    "native": "Vanogda",
+    "native": "Вологда",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -1115,7 +1115,7 @@
     "type": "administrative region",
     "latitude": "51.66059820",
     "longitude": "39.20058580",
-    "native": "Воронж",
+    "native": "Воронеж",
     "timezone": "Europe/Moscow",
     "translations": {}
   },
@@ -1129,7 +1129,7 @@
     "type": "autonomous district",
     "latitude": "67.14716310",
     "longitude": "74.34154880",
-    "native": "Ямало-Ненеты",
+    "native": "Ямало-Ненецкий",
     "timezone": "Asia/Yekaterinburg",
     "translations": {}
   },
@@ -1143,7 +1143,7 @@
     "type": "administrative region",
     "latitude": "57.65084320",
     "longitude": "39.87186340",
-    "native": "Ярославл",
+    "native": "Ярославль",
     "timezone": "Europe/Moscow",
     "translations": {}
   },

@@ -9,7 +9,7 @@
     "type": "state",
     "latitude": "14.66715370",
     "longitude": "33.22236100",
-    "native": "Al Jazirah",
+    "native": "الجزيرة",
     "timezone": "Africa/Khartoum",
     "translations": {}
   },
@@ -23,7 +23,7 @@
     "type": "state",
     "latitude": "14.04094100",
     "longitude": "35.39883200",
-    "native": "Al Qadarif",
+    "native": "القضارف",
     "timezone": "Africa/Khartoum",
     "translations": {}
   },
@@ -79,7 +79,7 @@
     "type": "state",
     "latitude": "15.45201100",
     "longitude": "36.37706990",
-    "native": "كاسالا",
+    "native": "كسلا",
     "timezone": "Africa/Khartoum",
     "translations": {}
   },
@@ -93,7 +93,7 @@
     "type": "state",
     "latitude": "15.50383010",
     "longitude": "32.57389790",
-    "native": "Khartoum",
+    "native": "الخرطوم",
     "timezone": "Africa/Khartoum",
     "translations": {}
   },
@@ -121,7 +121,7 @@
     "type": "state",
     "latitude": "14.41693020",
     "longitude": "29.46836900",
-    "native": "شمال كوردوفان",
+    "native": "شمال كردفان",
     "timezone": "Africa/Khartoum",
     "translations": {}
   },
@@ -205,7 +205,7 @@
     "type": "state",
     "latitude": "11.00000000",
     "longitude": "31.00000000",
-    "native": "جنوب كوردوفان",
+    "native": "جنوب كردفان",
     "timezone": "Africa/Khartoum",
     "translations": {}
   },
@@ -233,7 +233,7 @@
     "type": "state",
     "latitude": "11.75228030",
     "longitude": "28.20460260",
-    "native": "غرب كوردوفان",
+    "native": "غرب كردفان",
     "timezone": "Africa/Khartoum",
     "translations": {}
   },

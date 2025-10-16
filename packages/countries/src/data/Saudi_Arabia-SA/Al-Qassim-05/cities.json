@@ -130,6 +130,19 @@
     "translations": {}
   },
   {
+    "id": 157032,
+    "name": "Unaizah",
+    "state_id": 2861,
+    "state_code": "05",
+    "country_id": 194,
+    "country_code": "SA",
+    "latitude": "26.08760000",
+    "longitude": "43.99130000",
+    "native": null,
+    "timezone": null,
+    "translations": {}
+  },
+  {
     "id": 102891,
     "name": "Wed Alnkil",
     "state_id": 2861,

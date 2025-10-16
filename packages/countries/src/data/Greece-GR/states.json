@@ -9,7 +9,7 @@
     "type": "regional unit",
     "latitude": "38.06927480",
     "longitude": "21.87273040",
-    "native": "Αχαία",
+    "native": "Αχαΐα",
     "timezone": "Europe/Athens",
     "translations": {}
   },
@@ -23,7 +23,7 @@
     "type": "regional unit",
     "latitude": "38.70333840",
     "longitude": "21.24900550",
-    "native": "Αιθολία-ακαρνία",
+    "native": "Αιτωλοακαρνανία",
     "timezone": "Europe/Athens",
     "translations": {}
   },
@@ -107,7 +107,7 @@
     "type": "administrative region",
     "latitude": "40.61864820",
     "longitude": "22.91795360",
-    "native": "Central Macedonia",
+    "native": "Κεντρική Μακεδονία",
     "timezone": "Europe/Athens",
     "translations": {}
   },
@@ -121,7 +121,7 @@
     "type": "regional unit",
     "latitude": "35.51382980",
     "longitude": "24.01803670",
-    "native": "Chania",
+    "native": "Χανιά",
     "timezone": "Europe/Athens",
     "translations": {}
   },
@@ -163,7 +163,7 @@
     "type": "administrative region",
     "latitude": "35.28008260",
     "longitude": "24.63884400",
-    "native": "Crete",
+    "native": "Κρήτη",
     "timezone": "Europe/Athens",
     "translations": {}
   },
@@ -247,7 +247,7 @@
     "type": "prefecture",
     "latitude": "40.08376260",
     "longitude": "21.42732990",
-    "native": "Grevena",
+    "native": "Γρεβενά",
     "timezone": "Europe/Athens",
     "translations": {}
   },
@@ -261,7 +261,7 @@
     "type": "regional unit",
     "latitude": "40.51703800",
     "longitude": "22.18071970",
-    "native": "Imathia",
+    "native": "Ημαθία",
     "timezone": "Europe/Athens",
     "translations": {}
   },
@@ -275,7 +275,7 @@
     "type": "regional unit",
     "latitude": "39.66502880",
     "longitude": "20.85374660",
-    "native": "Noconicia Hula.",
+    "native": "Ιωάννινα",
     "timezone": "Europe/Athens",
     "translations": {}
   },
@@ -303,7 +303,7 @@
     "type": "regional unit",
     "latitude": "39.36402580",
     "longitude": "21.92140490",
-    "native": "Karditsa",
+    "native": "Καρδίτσα",
     "timezone": "Europe/Athens",
     "translations": {}
   },
@@ -317,7 +317,7 @@
     "type": "regional unit",
     "latitude": "40.51926910",
     "longitude": "21.26871710",
-    "native": "Kastoria",
+    "native": "Καστοριά",
     "timezone": "Europe/Athens",
     "translations": {}
   },
@@ -331,7 +331,7 @@
     "type": "prefecture",
     "latitude": "38.26603220",
     "longitude": "20.53739030",
-    "native": "Ακαλονία",
+    "native": "Κεφαλονιά",
     "timezone": "Europe/Athens",
     "translations": {}
   },
@@ -345,7 +345,7 @@
     "type": "regional unit",
     "latitude": "40.99370710",
     "longitude": "22.87536740",
-    "native": "Kilkis",
+    "native": "Κιλκίς",
     "timezone": "Europe/Athens",
     "translations": {}
   },
@@ -359,7 +359,7 @@
     "type": "prefecture",
     "latitude": "40.30055860",
     "longitude": "21.78877370",
-    "native": "Κοζάνι",
+    "native": "Κοζάνη",
     "timezone": "Europe/Athens",
     "translations": {}
   },
@@ -401,7 +401,7 @@
     "type": "regional unit",
     "latitude": "38.83336630",
     "longitude": "20.70691080",
-    "native": "Λεφκαάδα",
+    "native": "Λευκάδα",
     "timezone": "Europe/Athens",
     "translations": {}
   },
@@ -443,7 +443,7 @@
     "type": "prefecture",
     "latitude": "38.88734030",
     "longitude": "22.36803010",
-    "native": "Φθοότης",
+    "native": "Φθιώτιδα",
     "timezone": "Europe/Athens",
     "translations": {}
   },
@@ -457,7 +457,7 @@
     "type": "prefecture",
     "latitude": "38.95926490",
     "longitude": "20.75171550",
-    "native": "Λεία",
+    "native": "Πρέβεζα",
     "timezone": "Europe/Athens",
     "translations": {}
   },
@@ -471,7 +471,7 @@
     "type": "prefecture",
     "latitude": "41.08638540",
     "longitude": "23.54838190",
-    "native": "Θερμοκήπια",
+    "native": "Σέρρες",
     "timezone": "Europe/Athens",
     "translations": {}
   },
@@ -513,7 +513,7 @@
     "type": "administrative region",
     "latitude": "38.25294730",
     "longitude": "21.71176250",
-    "native": "West Greece",
+    "native": "Δυτική Ελλάδα",
     "timezone": "Europe/Athens",
     "translations": {}
   },

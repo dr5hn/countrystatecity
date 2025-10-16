@@ -9,7 +9,7 @@
     "type": "oblast",
     "latitude": "52.09375100",
     "longitude": "23.68518510",
-    "native": "Вялікі",
+    "native": "Брэст",
     "timezone": "Europe/Minsk",
     "translations": {}
   },
@@ -51,7 +51,7 @@
     "type": "oblast",
     "latitude": "53.90247160",
     "longitude": "27.56182250",
-    "native": "Minsk",
+    "native": "Мінск",
     "timezone": "Europe/Minsk",
     "translations": {}
   },
@@ -65,7 +65,7 @@
     "type": "city",
     "latitude": "53.90247160",
     "longitude": "27.56182250",
-    "native": "Minsk",
+    "native": "Мінск",
     "timezone": "Europe/Minsk",
     "translations": {}
   },
@@ -79,7 +79,7 @@
     "type": "oblast",
     "latitude": "53.90902450",
     "longitude": "30.34298380",
-    "native": "Магілеў",
+    "native": "Магілёў",
     "timezone": "Europe/Minsk",
     "translations": {}
   },
@@ -93,7 +93,7 @@
     "type": "oblast",
     "latitude": "55.23819720",
     "longitude": "28.77422030",
-    "native": "Viteingsk",
+    "native": "Віцебск",
     "timezone": "Europe/Minsk",
     "translations": {}
   }

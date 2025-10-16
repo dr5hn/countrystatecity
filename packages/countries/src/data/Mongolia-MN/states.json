@@ -9,7 +9,7 @@
     "type": "province",
     "latitude": "47.86264600",
     "longitude": "101.03162830",
-    "native": "Аркхангай",
+    "native": "Архангай",
     "timezone": "Asia/Ulaanbaatar",
     "translations": {}
   },
@@ -23,7 +23,7 @@
     "type": "province",
     "latitude": "48.54700830",
     "longitude": "89.85493580",
-    "native": "Of-olgii",
+    "native": "Баян-Өлгий",
     "timezone": "Asia/Hovd",
     "translations": {}
   },
@@ -37,7 +37,7 @@
     "type": "province",
     "latitude": "45.23809370",
     "longitude": "99.51467990",
-    "native": "Bayankhryr",
+    "native": "Баянхонгор",
     "timezone": "Asia/Ulaanbaatar",
     "translations": {}
   },
@@ -51,7 +51,7 @@
     "type": "province",
     "latitude": "48.95214380",
     "longitude": "103.39655910",
-    "native": "Сүйрэл",
+    "native": "Булган",
     "timezone": "Asia/Ulaanbaatar",
     "translations": {}
   },
@@ -65,7 +65,7 @@
     "type": "province",
     "latitude": "49.37672910",
     "longitude": "106.29013840",
-    "native": "Darkhan-uul",
+    "native": "Дархан-Уул",
     "timezone": "Asia/Ulaanbaatar",
     "translations": {}
   },
@@ -79,7 +79,7 @@
     "type": "province",
     "latitude": "47.67727810",
     "longitude": "115.21771550",
-    "native": "Тэнэгдой",
+    "native": "Дорнод",
     "timezone": "Asia/Choibalsan",
     "translations": {}
   },
@@ -93,7 +93,7 @@
     "type": "province",
     "latitude": "44.41796370",
     "longitude": "109.77837530",
-    "native": "Dornogovi",
+    "native": "Дорноговь",
     "timezone": "Asia/Ulaanbaatar",
     "translations": {}
   },
@@ -107,7 +107,7 @@
     "type": "province",
     "latitude": "45.51867220",
     "longitude": "106.26115620",
-    "native": "Dundgovi",
+    "native": "Дундговь",
     "timezone": "Asia/Ulaanbaatar",
     "translations": {}
   },
@@ -121,7 +121,7 @@
     "type": "province",
     "latitude": "45.34631390",
     "longitude": "95.93258060",
-    "native": "Гови-Алтай",
+    "native": "Говь-Алтай",
     "timezone": "Asia/Hovd",
     "translations": {}
   },
@@ -135,7 +135,7 @@
     "type": "province",
     "latitude": "46.46108270",
     "longitude": "108.51731010",
-    "native": "Гово",
+    "native": "Говьсүмбэр",
     "timezone": "Asia/Ulaanbaatar",
     "translations": {}
   },
@@ -149,7 +149,7 @@
     "type": "province",
     "latitude": "47.88598100",
     "longitude": "110.42010430",
-    "native": "Хекенти",
+    "native": "Хэнтий",
     "timezone": "Asia/Ulaanbaatar",
     "translations": {}
   },
@@ -163,7 +163,7 @@
     "type": "province",
     "latitude": "46.89979770",
     "longitude": "92.29596510",
-    "native": "Барааны агуулах",
+    "native": "Ховд",
     "timezone": "Asia/Hovd",
     "translations": {}
   },
@@ -177,7 +177,7 @@
     "type": "province",
     "latitude": "50.22061960",
     "longitude": "99.91704920",
-    "native": "Khövsgöl",
+    "native": "Хөвсгөл",
     "timezone": "Asia/Ulaanbaatar",
     "translations": {}
   },
@@ -191,7 +191,7 @@
     "type": "province",
     "latitude": "43.28236300",
     "longitude": "104.11338640",
-    "native": "ÖMNögovi",
+    "native": "Өмнөговь",
     "timezone": "Asia/Ulaanbaatar",
     "translations": {}
   },
@@ -205,7 +205,7 @@
     "type": "province",
     "latitude": "49.02437440",
     "longitude": "104.29988630",
-    "native": "Orkhon",
+    "native": "Орхон",
     "timezone": "Asia/Ulaanbaatar",
     "translations": {}
   },
@@ -219,7 +219,7 @@
     "type": "province",
     "latitude": "45.82970390",
     "longitude": "102.72377690",
-    "native": "Хормой",
+    "native": "Өвөрхангай",
     "timezone": "Asia/Ulaanbaatar",
     "translations": {}
   },
@@ -233,7 +233,7 @@
     "type": "province",
     "latitude": "49.39101360",
     "longitude": "107.06290340",
-    "native": "Дэлж",
+    "native": "Сэлэнгэ",
     "timezone": "Asia/Ulaanbaatar",
     "translations": {}
   },
@@ -247,7 +247,7 @@
     "type": "province",
     "latitude": "46.20934170",
     "longitude": "113.50771960",
-    "native": "Сүкбаатар",
+    "native": "Сүхбаатар",
     "timezone": "Asia/Choibalsan",
     "translations": {}
   },
@@ -261,7 +261,7 @@
     "type": "province",
     "latitude": "47.46925380",
     "longitude": "106.55251610",
-    "native": "Буурсан",
+    "native": "Төв",
     "timezone": "Asia/Ulaanbaatar",
     "translations": {}
   },
@@ -275,7 +275,7 @@
     "type": "capital city",
     "latitude": "47.91846760",
     "longitude": "106.91770160",
-    "native": "Ulaanbaatar",
+    "native": "Улаанбаатар",
     "timezone": "Asia/Ulaanbaatar",
     "translations": {}
   },
@@ -289,7 +289,7 @@
     "type": "province",
     "latitude": "49.63138870",
     "longitude": "92.95581860",
-    "native": "Ums",
+    "native": "Увс",
     "timezone": "Asia/Hovd",
     "translations": {}
   },
@@ -303,7 +303,7 @@
     "type": "province",
     "latitude": "48.31333550",
     "longitude": "96.28505060",
-    "native": "Zavkhan",
+    "native": "Завхан",
     "timezone": "Asia/Hovd",
     "translations": {}
   }

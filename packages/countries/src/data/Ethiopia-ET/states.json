@@ -107,7 +107,7 @@
     "type": "region",
     "latitude": "7.67216440",
     "longitude": "40.02997270",
-    "native": "Oromia",
+    "native": "ኦሮሚያ",
     "timezone": "Africa/Addis_Ababa",
     "translations": {}
   },
@@ -121,13 +121,13 @@
     "type": "region",
     "latitude": "7.26298440",
     "longitude": "43.53605310",
-    "native": "ሶማሊ",
+    "native": "ሶማሌ",
     "timezone": "Africa/Addis_Ababa",
     "translations": {}
   },
   {
     "id": 1,
-    "name": "Southern Nations, Nationalities, and Peoples'",
+    "name": "Southern Nations, Nationalities, and Peoples",
     "country_id": 70,
     "country_code": "ET",
     "fips_code": null,
@@ -135,7 +135,7 @@
     "type": "region",
     "latitude": "6.51569110",
     "longitude": "36.95410700",
-    "native": "የደቡብ ብሔሮች, ብሔረሰቦች እና ሕዝቦች '",
+    "native": "ደቡብ ብሔር ብሔረሰቦችና ሕዝቦች",
     "timezone": "Africa/Addis_Ababa",
     "translations": {}
   },
@@ -149,7 +149,7 @@
     "type": "region",
     "latitude": "13.88127300",
     "longitude": "39.12749500",
-    "native": "ትግራይ",
+    "native": "ክልል ትግራይ",
     "timezone": "Africa/Addis_Ababa",
     "translations": {}
   }

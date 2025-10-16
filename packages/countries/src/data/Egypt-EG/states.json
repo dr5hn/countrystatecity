@@ -37,7 +37,7 @@
     "type": "governorate",
     "latitude": "27.20651320",
     "longitude": "31.55002820",
-    "native": "آسيوت",
+    "native": "أسيوط",
     "timezone": "Africa/Cairo",
     "translations": {}
   },
@@ -51,7 +51,7 @@
     "type": "governorate",
     "latitude": "30.79152060",
     "longitude": "30.34654880",
-    "native": "Beheira",
+    "native": "البحيرة",
     "timezone": "Africa/Cairo",
     "translations": {}
   },
@@ -65,7 +65,7 @@
     "type": "governorate",
     "latitude": "29.07298120",
     "longitude": "31.09825620",
-    "native": "أنا سوف",
+    "native": "بني سويف",
     "timezone": "Africa/Cairo",
     "translations": {}
   },
@@ -93,7 +93,7 @@
     "type": "governorate",
     "latitude": "31.13800460",
     "longitude": "31.88824990",
-    "native": "Dakahlia",
+    "native": "الدقهلية",
     "timezone": "Africa/Cairo",
     "translations": {}
   },
@@ -107,7 +107,7 @@
     "type": "governorate",
     "latitude": "31.41133310",
     "longitude": "31.75570720",
-    "native": "دامييتا",
+    "native": "دمياط",
     "timezone": "Africa/Cairo",
     "translations": {}
   },
@@ -121,7 +121,7 @@
     "type": "governorate",
     "latitude": "29.30840210",
     "longitude": "30.84284970",
-    "native": "فايوم",
+    "native": "الفيوم",
     "timezone": "Africa/Cairo",
     "translations": {}
   },
@@ -135,7 +135,7 @@
     "type": "governorate",
     "latitude": "30.83919470",
     "longitude": "31.00160720",
-    "native": "Gharbia",
+    "native": "الغربية",
     "timezone": "Africa/Cairo",
     "translations": {}
   },
@@ -149,7 +149,7 @@
     "type": "governorate",
     "latitude": "29.05403570",
     "longitude": "29.41908070",
-    "native": "جيزا",
+    "native": "الجيزة",
     "timezone": "Africa/Cairo",
     "translations": {}
   },
@@ -163,7 +163,7 @@
     "type": "governorate",
     "latitude": "30.60437750",
     "longitude": "32.27708250",
-    "native": "إسماعلة",
+    "native": "الإسماعيلية",
     "timezone": "Africa/Cairo",
     "translations": {}
   },
@@ -177,7 +177,7 @@
     "type": "governorate",
     "latitude": "31.38147650",
     "longitude": "30.85135660",
-    "native": "Kaf the-sheikh",
+    "native": "كفر الشيخ",
     "timezone": "Africa/Cairo",
     "translations": {}
   },
@@ -191,7 +191,7 @@
     "type": "governorate",
     "latitude": "25.70209600",
     "longitude": "32.64718600",
-    "native": "الكمور",
+    "native": "الأقصر",
     "timezone": "Africa/Cairo",
     "translations": {}
   },
@@ -205,7 +205,7 @@
     "type": "governorate",
     "latitude": "29.78763850",
     "longitude": "27.42704100",
-    "native": "Matrosh",
+    "native": "مطروح",
     "timezone": "Africa/Cairo",
     "translations": {}
   },
@@ -219,7 +219,7 @@
     "type": "governorate",
     "latitude": "28.08933250",
     "longitude": "30.75706230",
-    "native": "كثير",
+    "native": "المنيا",
     "timezone": "Africa/Cairo",
     "translations": {}
   },
@@ -233,7 +233,7 @@
     "type": "governorate",
     "latitude": "30.43700980",
     "longitude": "30.74668520",
-    "native": "أحادي",
+    "native": "المنوفية",
     "timezone": "Africa/Cairo",
     "translations": {}
   },
@@ -247,7 +247,7 @@
     "type": "governorate",
     "latitude": "24.87666650",
     "longitude": "28.77573450",
-    "native": "وادي جديد",
+    "native": "الوادي الجديد",
     "timezone": "Africa/Cairo",
     "translations": {}
   },
@@ -275,7 +275,7 @@
     "type": "governorate",
     "latitude": "31.18212750",
     "longitude": "32.37258200",
-    "native": "قال بورت",
+    "native": "بورسعيد",
     "timezone": "Africa/Cairo",
     "translations": {}
   },
@@ -289,7 +289,7 @@
     "type": "governorate",
     "latitude": "30.32923680",
     "longitude": "31.21684660",
-    "native": "Qalyubia",
+    "native": "القليوبية",
     "timezone": "Africa/Cairo",
     "translations": {}
   },
@@ -303,7 +303,7 @@
     "type": "governorate",
     "latitude": "26.15930970",
     "longitude": "32.71628550",
-    "native": "يكذب",
+    "native": "قنا",
     "timezone": "Africa/Cairo",
     "translations": {}
   },
@@ -331,7 +331,7 @@
     "type": "governorate",
     "latitude": "30.63327750",
     "longitude": "31.78937390",
-    "native": "تعليق",
+    "native": "الشرقية",
     "timezone": "Africa/Cairo",
     "translations": {}
   },
@@ -359,7 +359,7 @@
     "type": "governorate",
     "latitude": "28.64495640",
     "longitude": "33.87113130",
-    "native": "South Sinai",
+    "native": "جنوب سيناء",
     "timezone": "Africa/Cairo",
     "translations": {}
   },

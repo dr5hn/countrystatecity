@@ -52,19 +52,6 @@
     "translations": {}
   },
   {
-    "id": 130253,
-    "name": "Huyện Châu Thành",
-    "state_id": 3769,
-    "state_code": "45",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "10.22543000",
-    "longitude": "105.82380000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
     "id": 130260,
     "name": "Huyện Chợ Gạo",
     "state_id": 3769,

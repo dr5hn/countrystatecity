@@ -9,7 +9,7 @@
     "type": "governorate",
     "latitude": "28.85385710",
     "longitude": "48.16523770",
-    "native": "Al Ahmadi",
+    "native": "الأحمدي",
     "timezone": "Asia/Kuwait",
     "translations": {}
   },
@@ -23,7 +23,7 @@
     "type": "governorate",
     "latitude": "29.09261280",
     "longitude": "48.51335500",
-    "native": "Al Asimah",
+    "native": "العاصمة",
     "timezone": "Asia/Kuwait",
     "translations": {}
   },
@@ -37,7 +37,7 @@
     "type": "governorate",
     "latitude": "29.24825390",
     "longitude": "47.91367550",
-    "native": "آل فروانيه",
+    "native": "الفروانية",
     "timezone": "Asia/Kuwait",
     "translations": {}
   },
@@ -51,7 +51,7 @@
     "type": "governorate",
     "latitude": "29.34746360",
     "longitude": "47.67220540",
-    "native": "Al Jahra",
+    "native": "الجهراء",
     "timezone": "Asia/Kuwait",
     "translations": {}
   },
@@ -65,7 +65,7 @@
     "type": "governorate",
     "latitude": "29.32366090",
     "longitude": "48.11531480",
-    "native": "هاوليلي",
+    "native": "حولي",
     "timezone": "Asia/Kuwait",
     "translations": {}
   },
@@ -79,7 +79,7 @@
     "type": "governorate",
     "latitude": "29.18709560",
     "longitude": "48.08275890",
-    "native": "Mubarak Al-Kabeer",
+    "native": "مبارك الكبير",
     "timezone": "Asia/Kuwait",
     "translations": {}
   }

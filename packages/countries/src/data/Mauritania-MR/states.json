@@ -9,7 +9,7 @@
     "type": "region",
     "latitude": "21.00906230",
     "longitude": "-10.22074490",
-    "native": "آخر",
+    "native": "أدرار",
     "timezone": "Africa/Nouakchott",
     "translations": {}
   },
@@ -23,7 +23,7 @@
     "type": "region",
     "latitude": "16.58091850",
     "longitude": "-11.53637240",
-    "native": "الدعاء",
+    "native": "عصابة",
     "timezone": "Africa/Nouakchott",
     "translations": {}
   },
@@ -37,7 +37,7 @@
     "type": "region",
     "latitude": "17.24756380",
     "longitude": "-13.40377140",
-    "native": "راحة",
+    "native": "براكنا",
     "timezone": "Africa/Nouakchott",
     "translations": {}
   },
@@ -51,7 +51,7 @@
     "type": "region",
     "latitude": "20.80195370",
     "longitude": "-16.00127080",
-    "native": "Dakhlet Nouadhibou",
+    "native": "داخلة نواذيبو",
     "timezone": "Africa/Nouakchott",
     "translations": {}
   },
@@ -65,7 +65,7 @@
     "type": "region",
     "latitude": "16.00622750",
     "longitude": "-12.83608340",
-    "native": "جورجول",
+    "native": "غورغول",
     "timezone": "Africa/Nouakchott",
     "translations": {}
   },
@@ -79,7 +79,7 @@
     "type": "region",
     "latitude": "15.37668960",
     "longitude": "-12.12466300",
-    "native": "Guidimuka",
+    "native": "غيديماكا",
     "timezone": "Africa/Nouakchott",
     "translations": {}
   },
@@ -93,7 +93,7 @@
     "type": "region",
     "latitude": "18.19411120",
     "longitude": "-7.09216520",
-    "native": "هوده صدى تشارغي",
+    "native": "حوض الشرقي",
     "timezone": "Africa/Nouakchott",
     "translations": {}
   },
@@ -107,7 +107,7 @@
     "type": "region",
     "latitude": "16.56939220",
     "longitude": "-9.83223660",
-    "native": "Hodh El Gharbi",
+    "native": "حوض الغربي",
     "timezone": "Africa/Nouakchott",
     "translations": {}
   },
@@ -121,7 +121,7 @@
     "type": "region",
     "latitude": "19.99227660",
     "longitude": "-15.11376700",
-    "native": "بوصات",
+    "native": "إنشيري",
     "timezone": "Africa/Nouakchott",
     "translations": {}
   },
@@ -135,7 +135,7 @@
     "type": "region",
     "latitude": "18.10249450",
     "longitude": "-15.91928190",
-    "native": "Nouakchott-Nord",
+    "native": "نواكشوط الشمالية",
     "timezone": "Africa/Nouakchott",
     "translations": {}
   },
@@ -149,7 +149,7 @@
     "type": "region",
     "latitude": "18.11279450",
     "longitude": "-15.99302760",
-    "native": "Nouakchott-OUEST",
+    "native": "نواكشوط الغربية",
     "timezone": "Africa/Nouakchott",
     "translations": {}
   },
@@ -163,7 +163,7 @@
     "type": "region",
     "latitude": "18.00339450",
     "longitude": "-15.96582900",
-    "native": "Nouakchott-Sud",
+    "native": "نواكشوط الجنوبية",
     "timezone": "Africa/Nouakchott",
     "translations": {}
   },
@@ -177,7 +177,7 @@
     "type": "region",
     "latitude": "18.57298930",
     "longitude": "-10.39379260",
-    "native": "من الخلف",
+    "native": "تاجانت",
     "timezone": "Africa/Nouakchott",
     "translations": {}
   },
@@ -191,7 +191,7 @@
     "type": "region",
     "latitude": "24.19513920",
     "longitude": "-9.66641990",
-    "native": "Tiris Zemmour",
+    "native": "تيريس زمور",
     "timezone": "Africa/Nouakchott",
     "translations": {}
   },
@@ -205,7 +205,7 @@
     "type": "region",
     "latitude": "17.92264200",
     "longitude": "-14.84760170",
-    "native": "السفر",
+    "native": "ترارزة",
     "timezone": "Africa/Nouakchott",
     "translations": {}
   }

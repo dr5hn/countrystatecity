@@ -1,19 +1,5 @@
 [
   {
-    "id": 2853,
-    "name": "'Asir",
-    "country_id": 194,
-    "country_code": "SA",
-    "fips_code": null,
-    "iso2": "14",
-    "type": "region",
-    "latitude": "19.16666700",
-    "longitude": "43.16666700",
-    "native": "الأسير",
-    "timezone": "Asia/Riyadh",
-    "translations": {}
-  },
-  {
     "id": 2859,
     "name": "Al Bahah",
     "country_id": 194,
@@ -23,7 +9,7 @@
     "type": "region",
     "latitude": "20.23726710",
     "longitude": "41.46154790",
-    "native": "إلى باهاه",
+    "native": "الباحة",
     "timezone": "Asia/Riyadh",
     "translations": {}
   },
@@ -37,7 +23,7 @@
     "type": "region",
     "latitude": "29.76738180",
     "longitude": "39.56298830",
-    "native": "إلى Jawf",
+    "native": "الجوف",
     "timezone": "Asia/Riyadh",
     "translations": {}
   },
@@ -51,7 +37,7 @@
     "type": "region",
     "latitude": "25.13543630",
     "longitude": "39.16259400",
-    "native": "Al Madinah",
+    "native": "المدينة المنورة",
     "timezone": "Asia/Riyadh",
     "translations": {}
   },
@@ -65,7 +51,21 @@
     "type": "region",
     "latitude": "26.19422350",
     "longitude": "43.45657110",
-    "native": "الفانسيوم",
+    "native": "القصيم",
+    "timezone": "Asia/Riyadh",
+    "translations": {}
+  },
+  {
+    "id": 2853,
+    "name": "Asir",
+    "country_id": 194,
+    "country_code": "SA",
+    "fips_code": null,
+    "iso2": "14",
+    "type": "region",
+    "latitude": "19.16666700",
+    "longitude": "43.16666700",
+    "native": "عسير",
     "timezone": "Asia/Riyadh",
     "translations": {}
   },
@@ -79,7 +79,7 @@
     "type": "region",
     "latitude": "23.30360770",
     "longitude": "50.12588040",
-    "native": "المقاطعة الشرقية",
+    "native": "المنطقة الشرقية",
     "timezone": "Asia/Riyadh",
     "translations": {}
   },
@@ -93,7 +93,7 @@
     "type": "region",
     "latitude": "26.99209870",
     "longitude": "41.48925780",
-    "native": "Ha'il",
+    "native": "يشيد",
     "timezone": "Asia/Riyadh",
     "translations": {}
   },
@@ -107,7 +107,7 @@
     "type": "region",
     "latitude": "17.33333300",
     "longitude": "42.66666700",
-    "native": "Jizan",
+    "native": "جيزان",
     "timezone": "Asia/Riyadh",
     "translations": {}
   },
@@ -121,7 +121,7 @@
     "type": "region",
     "latitude": "21.66980630",
     "longitude": "41.49960290",
-    "native": "مكة",
+    "native": "مكة المكرمة",
     "timezone": "Asia/Riyadh",
     "translations": {}
   },
@@ -177,7 +177,7 @@
     "type": "region",
     "latitude": "28.32518660",
     "longitude": "37.63286480",
-    "native": "Tabuk",
+    "native": "تبوك",
     "timezone": "Asia/Riyadh",
     "translations": {}
   }

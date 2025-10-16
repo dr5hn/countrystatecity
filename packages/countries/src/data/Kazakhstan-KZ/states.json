@@ -9,7 +9,7 @@
     "type": "region",
     "latitude": "48.61633350",
     "longitude": "78.78347910",
-    "native": "Ааа",
+    "native": "Абай",
     "timezone": "Asia/Almaty",
     "translations": {}
   },
@@ -37,7 +37,7 @@
     "type": "region",
     "latitude": "48.25527720",
     "longitude": "59.44991720",
-    "native": "Ктителоб",
+    "native": "Ақтөбе",
     "timezone": "Asia/Aqtobe",
     "translations": {}
   },
@@ -79,7 +79,7 @@
     "type": "city",
     "latitude": "51.12822050",
     "longitude": "71.43066820",
-    "native": "Astana",
+    "native": "Астана",
     "timezone": "Asia/Almaty",
     "translations": {}
   },
@@ -93,7 +93,7 @@
     "type": "region",
     "latitude": "47.10761880",
     "longitude": "51.91413300",
-    "native": "Айу",
+    "native": "Атырау",
     "timezone": "Asia/Atyrau",
     "translations": {}
   },
@@ -121,7 +121,7 @@
     "type": "region",
     "latitude": "44.41684630",
     "longitude": "72.13416600",
-    "native": "Жапырақты",
+    "native": "Жамбыл",
     "timezone": "Asia/Almaty",
     "translations": {}
   },
@@ -135,7 +135,7 @@
     "type": "region",
     "latitude": "45.53856920",
     "longitude": "78.05831440",
-    "native": "ЖетСиу",
+    "native": "Жетісу",
     "timezone": "Asia/Almaty",
     "translations": {}
   },
@@ -149,7 +149,7 @@
     "type": "region",
     "latitude": "49.17673220",
     "longitude": "74.18112720",
-    "native": "Каркандта",
+    "native": "Қарағанды",
     "timezone": "Asia/Almaty",
     "translations": {}
   },
@@ -163,7 +163,7 @@
     "type": "region",
     "latitude": "52.06156260",
     "longitude": "62.93726890",
-    "native": "Kastayay",
+    "native": "Қостанай",
     "timezone": "Asia/Qostanay",
     "translations": {}
   },
@@ -177,7 +177,7 @@
     "type": "region",
     "latitude": "45.20588530",
     "longitude": "63.91552020",
-    "native": "Kyzylorda",
+    "native": "Қызылорда",
     "timezone": "Asia/Qyzylorda",
     "translations": {}
   },
@@ -191,7 +191,7 @@
     "type": "region",
     "latitude": "44.43649180",
     "longitude": "53.79999310",
-    "native": "Маргистау",
+    "native": "Маңғыстау",
     "timezone": "Asia/Aqtau",
     "translations": {}
   },
@@ -247,7 +247,7 @@
     "type": "region",
     "latitude": "43.30194570",
     "longitude": "68.27036980",
-    "native": "Түркстан",
+    "native": "Түркістан",
     "timezone": "Asia/Almaty",
     "translations": {}
   },
