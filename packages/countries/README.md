@@ -23,6 +23,8 @@ yarn add @countrystatecity/countries
 pnpm add @countrystatecity/countries
 ```
 
+> **📘 Deploying to Vercel/Serverless?** See [VERCEL_DEPLOYMENT.md](../../docs/VERCEL_DEPLOYMENT.md) for configuration guide.
+
 ## 🚀 Quick Start
 
 ```typescript

@@ -54,6 +54,11 @@ jobs:
       - name: Build packages
         run: pnpm build
       
+      - name: Test NextJS integration
+        run: |
+          cd tests/nextjs-integration
+          bash test.sh
+      
       - name: Check bundle sizes
         run: |
           echo "=== Bundle Sizes ==="
