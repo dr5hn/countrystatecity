@@ -9,11 +9,12 @@ on:
   workflow_dispatch:
     inputs:
       package:
-        description: 'Package to publish (e.g., countries)'
+        description: 'Package to publish (e.g., countries, timezones)'
         required: true
         type: choice
         options:
           - countries
+          - timezones
           - all
 
 jobs:
@@ -50,8 +51,8 @@ jobs:
       - name: Run tests
         run: pnpm test
       
-      - name: Check if version already published
-        id: check-version
+      - name: Check if countries version already published
+        id: check-countries-version
         run: |
           PACKAGE_NAME="@countrystatecity/countries"
           PACKAGE_VERSION=$(node -p "require('./packages/countries/package.json').version")
@@ -60,28 +61,58 @@ jobs:
           
           if npm view "$PACKAGE_NAME@$PACKAGE_VERSION" version 2>/dev/null; then
             echo "published=true" >> $GITHUB_OUTPUT
-            echo "Version $PACKAGE_VERSION already published"
+            echo "Countries version $PACKAGE_VERSION already published"
           else
             echo "published=false" >> $GITHUB_OUTPUT
-            echo "Version $PACKAGE_VERSION not yet published"
+            echo "Countries version $PACKAGE_VERSION not yet published"
+          fi
+      
+      - name: Check if timezones version already published
+        id: check-timezones-version
+        run: |
+          PACKAGE_NAME="@countrystatecity/timezones"
+          PACKAGE_VERSION=$(node -p "require('./packages/timezones/package.json').version")
+          
+          echo "version=$PACKAGE_VERSION" >> $GITHUB_OUTPUT
+          
+          if npm view "$PACKAGE_NAME@$PACKAGE_VERSION" version 2>/dev/null; then
+            echo "published=true" >> $GITHUB_OUTPUT
+            echo "Timezones version $PACKAGE_VERSION already published"
+          else
+            echo "published=false" >> $GITHUB_OUTPUT
+            echo "Timezones version $PACKAGE_VERSION not yet published"
           fi
       
       - name: Publish @countrystatecity/countries
-        if: steps.check-version.outputs.published == 'false'
+        if: |
+          steps.check-countries-version.outputs.published == 'false' && 
+          (github.event.inputs.package == 'countries' || github.event.inputs.package == 'all' || github.event_name == 'push')
         run: |
           cd packages/countries
           npm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
       
-      - name: Create GitHub Release
-        if: steps.check-version.outputs.published == 'false'
+      - name: Publish @countrystatecity/timezones
+        if: |
+          steps.check-timezones-version.outputs.published == 'false' && 
+          (github.event.inputs.package == 'timezones' || github.event.inputs.package == 'all' || github.event_name == 'push')
+        run: |
+          cd packages/timezones
+          npm publish --access public
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+      
+      - name: Create GitHub Release for countries
+        if: |
+          steps.check-countries-version.outputs.published == 'false' && 
+          (github.event.inputs.package == 'countries' || github.event.inputs.package == 'all' || github.event_name == 'push')
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: v${{ steps.check-version.outputs.version }}
-          name: Release v${{ steps.check-version.outputs.version }}
+          tag_name: countries-v${{ steps.check-countries-version.outputs.version }}
+          name: Countries v${{ steps.check-countries-version.outputs.version }}
           body: |
-            ## @countrystatecity/countries v${{ steps.check-version.outputs.version }}
+            ## @countrystatecity/countries v${{ steps.check-countries-version.outputs.version }}
             
             Published to NPM: https://www.npmjs.com/package/@countrystatecity/countries
             
@@ -91,5 +122,27 @@ jobs:
             ```
             
             See the [README](https://github.com/dr5hn/countrystatecity/blob/main/packages/countries/README.md) for usage instructions.
+          draft: false
+          prerelease: false
+      
+      - name: Create GitHub Release for timezones
+        if: |
+          steps.check-timezones-version.outputs.published == 'false' && 
+          (github.event.inputs.package == 'timezones' || github.event.inputs.package == 'all' || github.event_name == 'push')
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: timezones-v${{ steps.check-timezones-version.outputs.version }}
+          name: Timezones v${{ steps.check-timezones-version.outputs.version }}
+          body: |
+            ## @countrystatecity/timezones v${{ steps.check-timezones-version.outputs.version }}
+            
+            Published to NPM: https://www.npmjs.com/package/@countrystatecity/timezones
+            
+            ### Installation
+            ```bash
+            npm install @countrystatecity/timezones
+            ```
+            
+            See the [README](https://github.com/dr5hn/countrystatecity/blob/main/packages/timezones/README.md) for usage instructions.
           draft: false
           prerelease: false
