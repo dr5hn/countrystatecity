@@ -9,7 +9,7 @@
     "latitude": "41.11889000",
     "longitude": "45.45389000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baku",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "41.27524000",
     "longitude": "45.35293000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baku",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "41.09524000",
     "longitude": "45.47111000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baku",
     "translations": {}
   }
 ]

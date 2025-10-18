@@ -9,7 +9,7 @@
     "latitude": "9.66124000",
     "longitude": "-68.58268000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Caracas",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "9.91861000",
     "longitude": "-68.30472000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Caracas",
     "translations": {}
   }
 ]

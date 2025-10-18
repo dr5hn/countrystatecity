@@ -9,7 +9,7 @@
     "latitude": "62.10854000",
     "longitude": "10.63483000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "61.13199000",
     "longitude": "11.37328000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "60.61363000",
     "longitude": "12.01200000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "60.82249000",
     "longitude": "9.55207000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "60.88095000",
     "longitude": "10.93948000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "60.83500000",
     "longitude": "10.07362000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "62.07554000",
     "longitude": "9.12785000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "61.98582000",
     "longitude": "9.24947000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "59.98556000",
     "longitude": "12.12502000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "60.88159000",
     "longitude": "11.56314000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "61.75774000",
     "longitude": "11.95966000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "60.88872000",
     "longitude": "9.64031000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "60.98584000",
     "longitude": "9.23236000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "62.13329000",
     "longitude": "9.99710000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "61.83772000",
     "longitude": "8.56842000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "61.22685000",
     "longitude": "10.22145000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "60.79472000",
     "longitude": "10.69287000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "60.39293000",
     "longitude": "10.56045000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "60.25701000",
     "longitude": "10.66222000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "60.45133000",
     "longitude": "12.05489000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "60.79450000",
     "longitude": "11.06798000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "60.69870000",
     "longitude": "10.35193000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "61.55523000",
     "longitude": "9.94069000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "61.31484000",
     "longitude": "12.26374000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "60.24060000",
     "longitude": "10.38587000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "60.45790000",
     "longitude": "12.05855000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "60.19117000",
     "longitude": "11.99916000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "61.57219000",
     "longitude": "11.04659000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "60.67391000",
     "longitude": "10.81317000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -386,7 +386,7 @@
     "latitude": "62.11785000",
     "longitude": "8.86262000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -399,7 +399,7 @@
     "latitude": "61.11464000",
     "longitude": "10.46743000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -412,7 +412,7 @@
     "latitude": "61.83639000",
     "longitude": "8.56811000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -425,7 +425,7 @@
     "latitude": "60.81771000",
     "longitude": "11.34373000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -438,7 +438,7 @@
     "latitude": "60.29462000",
     "longitude": "10.60860000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -451,7 +451,7 @@
     "latitude": "60.93333000",
     "longitude": "10.70000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -464,7 +464,7 @@
     "latitude": "60.98531000",
     "longitude": "9.23661000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -477,7 +477,7 @@
     "latitude": "61.59556000",
     "longitude": "9.74830000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -490,7 +490,7 @@
     "latitude": "60.39195000",
     "longitude": "11.54151000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -503,7 +503,7 @@
     "latitude": "60.83471000",
     "longitude": "10.07543000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -516,7 +516,7 @@
     "latitude": "62.49536000",
     "longitude": "11.22807000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -529,7 +529,7 @@
     "latitude": "61.77120000",
     "longitude": "9.53529000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -542,7 +542,7 @@
     "latitude": "60.67659000",
     "longitude": "10.81997000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -555,7 +555,7 @@
     "latitude": "61.26495000",
     "longitude": "10.41297000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -568,7 +568,7 @@
     "latitude": "61.13377000",
     "longitude": "9.07872000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -581,7 +581,7 @@
     "latitude": "60.72604000",
     "longitude": "10.61330000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -594,7 +594,7 @@
     "latitude": "60.67977000",
     "longitude": "10.62175000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -607,7 +607,7 @@
     "latitude": "61.13222000",
     "longitude": "11.37156000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -620,7 +620,7 @@
     "latitude": "61.89004000",
     "longitude": "11.07694000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -633,7 +633,7 @@
     "latitude": "61.52980000",
     "longitude": "10.14180000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -646,7 +646,7 @@
     "latitude": "60.88216000",
     "longitude": "10.95030000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -659,7 +659,7 @@
     "latitude": "60.39220000",
     "longitude": "11.54030000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -672,7 +672,7 @@
     "latitude": "61.77278000",
     "longitude": "9.53415000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -685,7 +685,7 @@
     "latitude": "60.25391000",
     "longitude": "11.68485000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -698,7 +698,7 @@
     "latitude": "61.88349000",
     "longitude": "8.26490000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -711,7 +711,7 @@
     "latitude": "59.98281000",
     "longitude": "12.12825000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -724,7 +724,7 @@
     "latitude": "60.65257000",
     "longitude": "10.93564000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -737,7 +737,7 @@
     "latitude": "60.69944000",
     "longitude": "10.35086000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -750,7 +750,7 @@
     "latitude": "60.82242000",
     "longitude": "9.54836000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -763,7 +763,7 @@
     "latitude": "61.55652000",
     "longitude": "9.93949000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -776,7 +776,7 @@
     "latitude": "60.25455000",
     "longitude": "11.68246000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -789,7 +789,7 @@
     "latitude": "60.18333000",
     "longitude": "11.90000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -802,7 +802,7 @@
     "latitude": "60.71576000",
     "longitude": "11.19069000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -815,7 +815,7 @@
     "latitude": "61.57198000",
     "longitude": "11.04759000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -828,7 +828,7 @@
     "latitude": "62.40984000",
     "longitude": "10.99770000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -841,7 +841,7 @@
     "latitude": "61.31423000",
     "longitude": "10.30066000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -854,7 +854,7 @@
     "latitude": "61.31549000",
     "longitude": "12.26422000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -867,7 +867,7 @@
     "latitude": "62.27387000",
     "longitude": "10.77626000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -880,7 +880,7 @@
     "latitude": "61.87565000",
     "longitude": "9.09572000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -893,7 +893,7 @@
     "latitude": "61.87505000",
     "longitude": "9.09671000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -906,7 +906,7 @@
     "latitude": "60.67845000",
     "longitude": "11.83314000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -919,7 +919,7 @@
     "latitude": "61.12564000",
     "longitude": "8.57167000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -932,7 +932,7 @@
     "latitude": "61.08842000",
     "longitude": "8.98196000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -945,7 +945,7 @@
     "latitude": "60.72593000",
     "longitude": "10.60764000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -958,7 +958,7 @@
     "latitude": "61.59496000",
     "longitude": "9.75134000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   }
 ]

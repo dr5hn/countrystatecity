@@ -9,7 +9,7 @@
     "latitude": "13.92139000",
     "longitude": "-89.84500000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/El_Salvador",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "13.97694000",
     "longitude": "-89.75250000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/El_Salvador",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "13.87028000",
     "longitude": "-89.84861000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/El_Salvador",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "13.75028000",
     "longitude": "-89.84222000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/El_Salvador",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "13.78694000",
     "longitude": "-89.85722000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/El_Salvador",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "13.84306000",
     "longitude": "-90.01583000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/El_Salvador",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "13.90111000",
     "longitude": "-89.92972000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/El_Salvador",
     "translations": {}
   }
 ]

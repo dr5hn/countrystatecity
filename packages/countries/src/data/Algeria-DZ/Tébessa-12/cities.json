@@ -9,7 +9,7 @@
     "latitude": "34.74488000",
     "longitude": "8.06024000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Algiers",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "35.27306000",
     "longitude": "7.75194000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Algiers",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "35.44862000",
     "longitude": "7.95184000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Algiers",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "35.40417000",
     "longitude": "8.12417000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Algiers",
     "translations": {}
   }
 ]

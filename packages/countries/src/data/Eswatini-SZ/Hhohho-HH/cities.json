@@ -9,7 +9,7 @@
     "latitude": "-25.96667000",
     "longitude": "31.13333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Mbabane",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-26.31972000",
     "longitude": "31.22222000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Mbabane",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-26.46667000",
     "longitude": "31.20000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Mbabane",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-26.31667000",
     "longitude": "31.13333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Mbabane",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "-26.15728000",
     "longitude": "31.16391000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Mbabane",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "-25.96082000",
     "longitude": "31.24666000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Mbabane",
     "translations": {}
   }
 ]

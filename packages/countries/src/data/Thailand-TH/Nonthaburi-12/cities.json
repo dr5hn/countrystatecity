@@ -9,7 +9,7 @@
     "latitude": "13.92641000",
     "longitude": "100.39360000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "13.80249000",
     "longitude": "100.41525000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "13.85385000",
     "longitude": "100.37318000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "13.85581000",
     "longitude": "100.49264000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "13.91626000",
     "longitude": "100.50397000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "14.00627000",
     "longitude": "100.31072000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "13.91783000",
     "longitude": "100.42403000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "13.80500000",
     "longitude": "100.47283000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "13.84341000",
     "longitude": "100.36251000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "13.86075000",
     "longitude": "100.51477000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "13.91301000",
     "longitude": "100.49883000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   }
 ]

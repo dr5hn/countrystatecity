@@ -9,7 +9,7 @@
     "latitude": "56.66292000",
     "longitude": "41.25434000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "57.04695000",
     "longitude": "41.01354000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "57.25783000",
     "longitude": "40.81471000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "57.25363000",
     "longitude": "41.10849000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "56.55930000",
     "longitude": "40.12100000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "56.97180000",
     "longitude": "39.76840000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "56.99719000",
     "longitude": "40.97139000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "57.00000000",
     "longitude": "41.00000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "57.39214000",
     "longitude": "41.79383000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "57.15159000",
     "longitude": "41.47318000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "57.33333000",
     "longitude": "42.33333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "57.43914000",
     "longitude": "42.12894000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "56.86586000",
     "longitude": "41.28246000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "56.93487000",
     "longitude": "41.09150000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "56.70199000",
     "longitude": "41.34173000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "57.02913000",
     "longitude": "40.37266000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "57.08333000",
     "longitude": "40.41667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "57.21607000",
     "longitude": "42.33477000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "56.77508000",
     "longitude": "40.89174000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "56.75000000",
     "longitude": "40.91667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "57.01242000",
     "longitude": "42.25838000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "57.00000000",
     "longitude": "42.41667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "57.01850000",
     "longitude": "40.49465000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "57.46572000",
     "longitude": "41.96344000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "56.66285000",
     "longitude": "40.38931000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "57.00392000",
     "longitude": "40.85936000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "57.32177000",
     "longitude": "41.85310000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "56.80732000",
     "longitude": "40.51443000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "56.72535000",
     "longitude": "41.06014000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -386,7 +386,7 @@
     "latitude": "56.80256000",
     "longitude": "41.85508000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -399,7 +399,7 @@
     "latitude": "56.83333000",
     "longitude": "42.00000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -412,7 +412,7 @@
     "latitude": "56.70860000",
     "longitude": "42.66954000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -425,7 +425,7 @@
     "latitude": "56.58333000",
     "longitude": "42.66667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -438,7 +438,7 @@
     "latitude": "56.64210000",
     "longitude": "40.32026000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -451,7 +451,7 @@
     "latitude": "57.17904000",
     "longitude": "40.52983000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -464,7 +464,7 @@
     "latitude": "57.45862000",
     "longitude": "41.51579000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -477,7 +477,7 @@
     "latitude": "57.38698000",
     "longitude": "41.28666000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -490,7 +490,7 @@
     "latitude": "57.33333000",
     "longitude": "41.33333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -503,7 +503,7 @@
     "latitude": "56.97878000",
     "longitude": "43.16761000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -516,7 +516,7 @@
     "latitude": "57.00000000",
     "longitude": "43.00000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -529,7 +529,7 @@
     "latitude": "57.10513000",
     "longitude": "41.73048000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -542,7 +542,7 @@
     "latitude": "57.08333000",
     "longitude": "41.75000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -555,7 +555,7 @@
     "latitude": "56.59285000",
     "longitude": "41.21814000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -568,7 +568,7 @@
     "latitude": "56.58333000",
     "longitude": "41.33333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -581,7 +581,7 @@
     "latitude": "56.84865000",
     "longitude": "41.38833000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -594,7 +594,7 @@
     "latitude": "56.83333000",
     "longitude": "41.50000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -607,7 +607,7 @@
     "latitude": "57.26833000",
     "longitude": "41.87873000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -620,7 +620,7 @@
     "latitude": "56.52801000",
     "longitude": "42.33230000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -633,7 +633,7 @@
     "latitude": "56.85796000",
     "longitude": "40.53692000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -646,7 +646,7 @@
     "latitude": "56.75000000",
     "longitude": "40.50000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -659,7 +659,7 @@
     "latitude": "56.83333000",
     "longitude": "42.58333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -672,7 +672,7 @@
     "latitude": "56.83971000",
     "longitude": "42.59730000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -685,7 +685,7 @@
     "latitude": "57.21276000",
     "longitude": "41.93012000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -698,7 +698,7 @@
     "latitude": "57.25000000",
     "longitude": "42.00000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -711,7 +711,7 @@
     "latitude": "57.32007000",
     "longitude": "43.10410000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -724,7 +724,7 @@
     "latitude": "57.25000000",
     "longitude": "42.83333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -737,7 +737,7 @@
     "latitude": "56.58306000",
     "longitude": "42.01222000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -750,7 +750,7 @@
     "latitude": "56.58333000",
     "longitude": "42.00000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -763,7 +763,7 @@
     "latitude": "57.46931000",
     "longitude": "42.28431000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -776,7 +776,7 @@
     "latitude": "57.48230000",
     "longitude": "42.13779000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -789,7 +789,7 @@
     "latitude": "57.50000000",
     "longitude": "42.08333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   }
 ]

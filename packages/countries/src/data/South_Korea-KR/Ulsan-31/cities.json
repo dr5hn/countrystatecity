@@ -9,7 +9,7 @@
     "latitude": "35.58243000",
     "longitude": "129.36049000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Seoul",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "35.50470000",
     "longitude": "129.41860000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Seoul",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "35.56840000",
     "longitude": "129.33226000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Seoul",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "35.54382000",
     "longitude": "129.32917000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Seoul",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "35.56233000",
     "longitude": "129.12690000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Seoul",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "35.53722000",
     "longitude": "129.31667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Seoul",
     "translations": {}
   }
 ]

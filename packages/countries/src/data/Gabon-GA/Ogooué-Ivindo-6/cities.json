@@ -9,7 +9,7 @@
     "latitude": "-0.09207000",
     "longitude": "11.93846000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Libreville",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "0.57381000",
     "longitude": "12.86419000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Libreville",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "0.92582000",
     "longitude": "13.90813000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Libreville",
     "translations": {}
   }
 ]

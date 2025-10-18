@@ -9,7 +9,7 @@
     "latitude": "20.81914000",
     "longitude": "-77.57958000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Havana",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "20.98812000",
     "longitude": "-77.42598000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Havana",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "21.16139000",
     "longitude": "-76.47919000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Havana",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "20.90748000",
     "longitude": "-77.28194000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Havana",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "20.96167000",
     "longitude": "-76.95111000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Havana",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "21.31070000",
     "longitude": "-76.93403000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Havana",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "21.19517000",
     "longitude": "-76.60358000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Havana",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "0.46005000",
     "longitude": "34.11169000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Nairobi",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "0.31354000",
     "longitude": "34.07146000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Nairobi",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "0.39337000",
     "longitude": "34.30399000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Nairobi",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "0.63513000",
     "longitude": "34.28165000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Nairobi",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "0.45813000",
     "longitude": "34.25353000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Nairobi",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "0.09809000",
     "longitude": "33.97248000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Nairobi",
     "translations": {}
   }
 ]

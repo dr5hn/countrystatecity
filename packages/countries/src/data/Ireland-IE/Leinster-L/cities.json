@@ -9,7 +9,7 @@
     "latitude": "52.91331000",
     "longitude": "-7.34456000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "53.50000000",
     "longitude": "-7.50000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "53.66667000",
     "longitude": "-7.75000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "53.66667000",
     "longitude": "-6.66667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "53.53333000",
     "longitude": "-7.35000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "53.52424000",
     "longitude": "-6.10497000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "53.85972000",
     "longitude": "-6.54056000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "52.79306000",
     "longitude": "-6.14139000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "53.38712000",
     "longitude": "-6.21380000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "53.51163000",
     "longitude": "-6.39821000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "53.00833000",
     "longitude": "-6.11139000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "53.62327000",
     "longitude": "-6.91434000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "53.15229000",
     "longitude": "-6.78173000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "53.43333000",
     "longitude": "-7.95000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "52.99139000",
     "longitude": "-6.98028000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "52.85333000",
     "longitude": "-6.32750000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "52.70031000",
     "longitude": "-6.96181000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "53.27504000",
     "longitude": "-6.23594000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "53.60846000",
     "longitude": "-6.18310000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "53.39972000",
     "longitude": "-6.12583000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "52.51789000",
     "longitude": "-6.40619000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "53.27409000",
     "longitude": "-6.25397000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "53.53167000",
     "longitude": "-6.96111000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "53.28056000",
     "longitude": "-6.31639000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "53.34283000",
     "longitude": "-6.35480000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "52.24917000",
     "longitude": "-6.35739000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "52.94497000",
     "longitude": "-7.04073000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "53.56667000",
     "longitude": "-7.76667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "53.39807000",
     "longitude": "-6.26693000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -386,7 +386,7 @@
     "latitude": "52.78889000",
     "longitude": "-7.33028000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -399,7 +399,7 @@
     "latitude": "53.58828000",
     "longitude": "-6.18728000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -412,7 +412,7 @@
     "latitude": "52.93722000",
     "longitude": "-6.70917000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -425,7 +425,7 @@
     "latitude": "53.18861000",
     "longitude": "-7.98667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -438,7 +438,7 @@
     "latitude": "53.38895000",
     "longitude": "-6.14041000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -451,7 +451,7 @@
     "latitude": "53.38721000",
     "longitude": "-6.22713000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -464,7 +464,7 @@
     "latitude": "53.09139000",
     "longitude": "-7.91333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -477,7 +477,7 @@
     "latitude": "53.30150000",
     "longitude": "-6.17780000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -490,7 +490,7 @@
     "latitude": "53.38806000",
     "longitude": "-6.37556000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -503,7 +503,7 @@
     "latitude": "53.17000000",
     "longitude": "-6.53250000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -516,7 +516,7 @@
     "latitude": "53.39835000",
     "longitude": "-6.20749000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -529,7 +529,7 @@
     "latitude": "53.30447000",
     "longitude": "-6.19985000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -542,7 +542,7 @@
     "latitude": "53.20278000",
     "longitude": "-6.09833000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -555,7 +555,7 @@
     "latitude": "52.65530000",
     "longitude": "-6.65359000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -568,7 +568,7 @@
     "latitude": "53.26973000",
     "longitude": "-6.16058000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -581,7 +581,7 @@
     "latitude": "53.36694000",
     "longitude": "-6.29444000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -594,7 +594,7 @@
     "latitude": "52.54500000",
     "longitude": "-7.39111000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -607,7 +607,7 @@
     "latitude": "54.04000000",
     "longitude": "-6.18833000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -620,7 +620,7 @@
     "latitude": "52.84083000",
     "longitude": "-6.92611000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -633,7 +633,7 @@
     "latitude": "52.70806000",
     "longitude": "-6.49444000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -646,7 +646,7 @@
     "latitude": "53.90083000",
     "longitude": "-6.39028000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -659,7 +659,7 @@
     "latitude": "52.38639000",
     "longitude": "-6.44944000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -672,7 +672,7 @@
     "latitude": "52.80611000",
     "longitude": "-7.21056000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -685,7 +685,7 @@
     "latitude": "52.90889000",
     "longitude": "-6.84222000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -698,7 +698,7 @@
     "latitude": "53.37483000",
     "longitude": "-6.36336000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -711,7 +711,7 @@
     "latitude": "53.67935000",
     "longitude": "-7.29736000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -724,7 +724,7 @@
     "latitude": "52.72306000",
     "longitude": "-6.18944000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -737,7 +737,7 @@
     "latitude": "53.34165000",
     "longitude": "-6.54419000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -750,7 +750,7 @@
     "latitude": "53.34846000",
     "longitude": "-6.34301000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -763,7 +763,7 @@
     "latitude": "53.12771000",
     "longitude": "-6.06347000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -776,7 +776,7 @@
     "latitude": "53.33605000",
     "longitude": "-6.37799000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -789,7 +789,7 @@
     "latitude": "53.15694000",
     "longitude": "-6.96667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -802,7 +802,7 @@
     "latitude": "53.29139000",
     "longitude": "-6.68917000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -815,7 +815,7 @@
     "latitude": "53.34250000",
     "longitude": "-7.61389000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -828,7 +828,7 @@
     "latitude": "53.79361000",
     "longitude": "-6.23750000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -841,7 +841,7 @@
     "latitude": "53.32444000",
     "longitude": "-6.39722000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -854,7 +854,7 @@
     "latitude": "53.31467000",
     "longitude": "-6.23148000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -867,7 +867,7 @@
     "latitude": "53.37923000",
     "longitude": "-6.49052000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -880,7 +880,7 @@
     "latitude": "53.38870000",
     "longitude": "-6.19998000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -893,7 +893,7 @@
     "latitude": "52.66667000",
     "longitude": "-6.83333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -906,7 +906,7 @@
     "latitude": "52.64424000",
     "longitude": "-6.22899000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -919,7 +919,7 @@
     "latitude": "53.32154000",
     "longitude": "-6.31439000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -932,7 +932,7 @@
     "latitude": "53.29611000",
     "longitude": "-7.28944000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -945,7 +945,7 @@
     "latitude": "53.27833000",
     "longitude": "-6.10028000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -958,7 +958,7 @@
     "latitude": "53.39948000",
     "longitude": "-6.18886000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -971,7 +971,7 @@
     "latitude": "53.34167000",
     "longitude": "-6.94111000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -984,7 +984,7 @@
     "latitude": "53.36489000",
     "longitude": "-6.18032000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -997,7 +997,7 @@
     "latitude": "53.48722000",
     "longitude": "-6.15194000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1010,7 +1010,7 @@
     "latitude": "53.39845000",
     "longitude": "-6.16179000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1023,7 +1023,7 @@
     "latitude": "53.31375000",
     "longitude": "-6.22274000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1036,7 +1036,7 @@
     "latitude": "53.37350000",
     "longitude": "-6.20976000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1049,7 +1049,7 @@
     "latitude": "53.71889000",
     "longitude": "-6.34778000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1062,7 +1062,7 @@
     "latitude": "53.18194000",
     "longitude": "-6.79667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1075,7 +1075,7 @@
     "latitude": "53.92538000",
     "longitude": "-6.40292000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1088,7 +1088,7 @@
     "latitude": "53.37058000",
     "longitude": "-6.25298000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1101,7 +1101,7 @@
     "latitude": "53.33306000",
     "longitude": "-6.24889000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1114,7 +1114,7 @@
     "latitude": "53.65667000",
     "longitude": "-6.41917000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1127,7 +1127,7 @@
     "latitude": "53.29395000",
     "longitude": "-6.13586000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1140,7 +1140,7 @@
     "latitude": "53.29436000",
     "longitude": "-6.13489000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1153,7 +1153,7 @@
     "latitude": "53.41901000",
     "longitude": "-6.47375000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1166,7 +1166,7 @@
     "latitude": "54.00000000",
     "longitude": "-6.41667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1179,7 +1179,7 @@
     "latitude": "53.29067000",
     "longitude": "-6.25714000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1192,7 +1192,7 @@
     "latitude": "53.83500000",
     "longitude": "-6.39611000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1205,7 +1205,7 @@
     "latitude": "53.51250000",
     "longitude": "-6.54000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1218,7 +1218,7 @@
     "latitude": "53.20278000",
     "longitude": "-6.57806000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1231,7 +1231,7 @@
     "latitude": "53.33948000",
     "longitude": "-7.04752000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1244,7 +1244,7 @@
     "latitude": "53.70000000",
     "longitude": "-7.61667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1257,7 +1257,7 @@
     "latitude": "53.41419000",
     "longitude": "-6.83229000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1270,7 +1270,7 @@
     "latitude": "52.50083000",
     "longitude": "-6.55778000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1283,7 +1283,7 @@
     "latitude": "53.19250000",
     "longitude": "-6.16917000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1296,7 +1296,7 @@
     "latitude": "53.36597000",
     "longitude": "-6.23985000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1309,7 +1309,7 @@
     "latitude": "53.26944000",
     "longitude": "-7.82694000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1322,7 +1322,7 @@
     "latitude": "52.58833000",
     "longitude": "-6.49972000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1335,7 +1335,7 @@
     "latitude": "53.45909000",
     "longitude": "-6.21942000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1348,7 +1348,7 @@
     "latitude": "53.38917000",
     "longitude": "-6.29694000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1361,7 +1361,7 @@
     "latitude": "53.28167000",
     "longitude": "-6.33917000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1374,7 +1374,7 @@
     "latitude": "53.26667000",
     "longitude": "-6.17417000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1387,7 +1387,7 @@
     "latitude": "53.37851000",
     "longitude": "-6.28028000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1400,7 +1400,7 @@
     "latitude": "52.67472000",
     "longitude": "-6.29250000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1413,7 +1413,7 @@
     "latitude": "52.54028000",
     "longitude": "-6.95472000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1426,7 +1426,7 @@
     "latitude": "53.77928000",
     "longitude": "-7.49429000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1439,7 +1439,7 @@
     "latitude": "53.33467000",
     "longitude": "-6.30302000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1452,7 +1452,7 @@
     "latitude": "53.14083000",
     "longitude": "-6.06306000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1465,7 +1465,7 @@
     "latitude": "53.39306000",
     "longitude": "-6.42694000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1478,7 +1478,7 @@
     "latitude": "53.38778000",
     "longitude": "-6.06528000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1491,7 +1491,7 @@
     "latitude": "53.27866000",
     "longitude": "-6.40803000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1504,7 +1504,7 @@
     "latitude": "53.23833000",
     "longitude": "-6.62222000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1517,7 +1517,7 @@
     "latitude": "53.72639000",
     "longitude": "-6.87917000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1530,7 +1530,7 @@
     "latitude": "53.62754000",
     "longitude": "-6.52674000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1543,7 +1543,7 @@
     "latitude": "53.36944000",
     "longitude": "-7.50333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1556,7 +1556,7 @@
     "latitude": "53.40222000",
     "longitude": "-6.67083000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1569,7 +1569,7 @@
     "latitude": "53.10278000",
     "longitude": "-6.06500000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1582,7 +1582,7 @@
     "latitude": "53.13028000",
     "longitude": "-6.74444000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1595,7 +1595,7 @@
     "latitude": "53.16667000",
     "longitude": "-6.75000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1608,7 +1608,7 @@
     "latitude": "52.58333000",
     "longitude": "-7.25000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1621,7 +1621,7 @@
     "latitude": "53.25139000",
     "longitude": "-6.59167000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1634,7 +1634,7 @@
     "latitude": "53.37322000",
     "longitude": "-6.20431000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1647,7 +1647,7 @@
     "latitude": "53.16722000",
     "longitude": "-6.13361000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1660,7 +1660,7 @@
     "latitude": "53.10917000",
     "longitude": "-6.10667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1673,7 +1673,7 @@
     "latitude": "53.09743000",
     "longitude": "-6.08411000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1686,7 +1686,7 @@
     "latitude": "53.45222000",
     "longitude": "-7.09972000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1699,7 +1699,7 @@
     "latitude": "53.44395000",
     "longitude": "-6.20334000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1712,7 +1712,7 @@
     "latitude": "53.28030000",
     "longitude": "-6.33130000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1725,7 +1725,7 @@
     "latitude": "53.66667000",
     "longitude": "-7.98333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1738,7 +1738,7 @@
     "latitude": "53.00000000",
     "longitude": "-7.40000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1751,7 +1751,7 @@
     "latitude": "53.68194000",
     "longitude": "-6.23917000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1764,7 +1764,7 @@
     "latitude": "53.36583000",
     "longitude": "-6.49556000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1777,7 +1777,7 @@
     "latitude": "53.20444000",
     "longitude": "-6.12083000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1790,7 +1790,7 @@
     "latitude": "52.50000000",
     "longitude": "-6.66667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1803,7 +1803,7 @@
     "latitude": "53.72536000",
     "longitude": "-7.79823000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1816,7 +1816,7 @@
     "latitude": "53.45389000",
     "longitude": "-6.92194000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1829,7 +1829,7 @@
     "latitude": "53.24389000",
     "longitude": "-6.13306000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1842,7 +1842,7 @@
     "latitude": "53.83333000",
     "longitude": "-6.50000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1855,7 +1855,7 @@
     "latitude": "53.35736000",
     "longitude": "-6.44859000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1868,7 +1868,7 @@
     "latitude": "53.52743000",
     "longitude": "-6.16423000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1881,7 +1881,7 @@
     "latitude": "53.45083000",
     "longitude": "-6.15444000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1894,7 +1894,7 @@
     "latitude": "53.37022000",
     "longitude": "-6.23646000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1907,7 +1907,7 @@
     "latitude": "53.38500000",
     "longitude": "-6.59361000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1920,7 +1920,7 @@
     "latitude": "53.31301000",
     "longitude": "-6.24530000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1933,7 +1933,7 @@
     "latitude": "53.39389000",
     "longitude": "-7.71722000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1946,7 +1946,7 @@
     "latitude": "53.14056000",
     "longitude": "-7.06639000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1959,7 +1959,7 @@
     "latitude": "53.29308000",
     "longitude": "-6.15312000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1972,7 +1972,7 @@
     "latitude": "52.28944000",
     "longitude": "-7.24833000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1985,7 +1985,7 @@
     "latitude": "52.97556000",
     "longitude": "-6.81500000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -1998,7 +1998,7 @@
     "latitude": "53.30008000",
     "longitude": "-6.21504000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2011,7 +2011,7 @@
     "latitude": "53.11361000",
     "longitude": "-7.32000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2024,7 +2024,7 @@
     "latitude": "52.99889000",
     "longitude": "-7.47278000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2037,7 +2037,7 @@
     "latitude": "53.21583000",
     "longitude": "-6.66694000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2050,7 +2050,7 @@
     "latitude": "53.65278000",
     "longitude": "-6.68139000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2063,7 +2063,7 @@
     "latitude": "52.39667000",
     "longitude": "-6.93667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2076,7 +2076,7 @@
     "latitude": "53.30111000",
     "longitude": "-6.50222000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2089,7 +2089,7 @@
     "latitude": "53.55611000",
     "longitude": "-6.77000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2102,7 +2102,7 @@
     "latitude": "53.09052000",
     "longitude": "-6.11149000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2115,7 +2115,7 @@
     "latitude": "53.10639000",
     "longitude": "-6.76528000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2128,7 +2128,7 @@
     "latitude": "53.27556000",
     "longitude": "-6.36750000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2141,7 +2141,7 @@
     "latitude": "53.76648000",
     "longitude": "-7.16284000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2154,7 +2154,7 @@
     "latitude": "53.35019000",
     "longitude": "-6.37778000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2167,7 +2167,7 @@
     "latitude": "52.35333000",
     "longitude": "-7.34028000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2180,7 +2180,7 @@
     "latitude": "53.16222000",
     "longitude": "-7.19111000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2193,7 +2193,7 @@
     "latitude": "53.03441000",
     "longitude": "-7.29979000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2206,7 +2206,7 @@
     "latitude": "53.42306000",
     "longitude": "-6.13750000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2219,7 +2219,7 @@
     "latitude": "53.49667000",
     "longitude": "-6.11111000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2232,7 +2232,7 @@
     "latitude": "53.29028000",
     "longitude": "-6.75389000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2245,7 +2245,7 @@
     "latitude": "53.38681000",
     "longitude": "-6.18067000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2258,7 +2258,7 @@
     "latitude": "53.22139000",
     "longitude": "-6.99500000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2271,7 +2271,7 @@
     "latitude": "53.28278000",
     "longitude": "-6.47278000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2284,7 +2284,7 @@
     "latitude": "52.85472000",
     "longitude": "-7.58028000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2297,7 +2297,7 @@
     "latitude": "52.92639000",
     "longitude": "-6.23556000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2310,7 +2310,7 @@
     "latitude": "53.31457000",
     "longitude": "-6.27500000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2323,7 +2323,7 @@
     "latitude": "53.32028000",
     "longitude": "-6.26333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2336,7 +2336,7 @@
     "latitude": "52.99056000",
     "longitude": "-6.08528000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2349,7 +2349,7 @@
     "latitude": "53.50767000",
     "longitude": "-7.13510000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2362,7 +2362,7 @@
     "latitude": "53.50806000",
     "longitude": "-6.46250000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2375,7 +2375,7 @@
     "latitude": "53.33625000",
     "longitude": "-6.29718000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2388,7 +2388,7 @@
     "latitude": "53.34194000",
     "longitude": "-6.22639000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2401,7 +2401,7 @@
     "latitude": "53.41417000",
     "longitude": "-7.29611000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2414,7 +2414,7 @@
     "latitude": "52.27583000",
     "longitude": "-6.38444000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2427,7 +2427,7 @@
     "latitude": "53.28028000",
     "longitude": "-6.44444000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2440,7 +2440,7 @@
     "latitude": "53.24889000",
     "longitude": "-6.66611000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2453,7 +2453,7 @@
     "latitude": "53.27917000",
     "longitude": "-6.14058000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2466,7 +2466,7 @@
     "latitude": "53.27470000",
     "longitude": "-6.22530000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2479,7 +2479,7 @@
     "latitude": "53.32815000",
     "longitude": "-6.22224000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2492,7 +2492,7 @@
     "latitude": "53.22611000",
     "longitude": "-6.12444000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2505,7 +2505,7 @@
     "latitude": "53.58278000",
     "longitude": "-6.10833000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2518,7 +2518,7 @@
     "latitude": "53.71000000",
     "longitude": "-6.54333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2531,7 +2531,7 @@
     "latitude": "53.28595000",
     "longitude": "-6.37739000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2544,7 +2544,7 @@
     "latitude": "53.62889000",
     "longitude": "-6.26833000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2557,7 +2557,7 @@
     "latitude": "53.01556000",
     "longitude": "-7.15278000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2570,7 +2570,7 @@
     "latitude": "53.38947000",
     "longitude": "-6.11059000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2583,7 +2583,7 @@
     "latitude": "53.45972000",
     "longitude": "-6.21806000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2596,7 +2596,7 @@
     "latitude": "53.28590000",
     "longitude": "-6.37344000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2609,7 +2609,7 @@
     "latitude": "53.29528000",
     "longitude": "-6.30889000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2622,7 +2622,7 @@
     "latitude": "53.30972000",
     "longitude": "-6.28528000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2635,7 +2635,7 @@
     "latitude": "53.76333000",
     "longitude": "-6.26778000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2648,7 +2648,7 @@
     "latitude": "52.52667000",
     "longitude": "-7.13722000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2661,7 +2661,7 @@
     "latitude": "53.55500000",
     "longitude": "-6.79167000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2674,7 +2674,7 @@
     "latitude": "53.27389000",
     "longitude": "-7.48889000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2687,7 +2687,7 @@
     "latitude": "52.80028000",
     "longitude": "-6.73694000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2700,7 +2700,7 @@
     "latitude": "53.73611000",
     "longitude": "-6.42278000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2713,7 +2713,7 @@
     "latitude": "53.25000000",
     "longitude": "-7.50000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2726,7 +2726,7 @@
     "latitude": "53.10389000",
     "longitude": "-6.55361000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   },
   {
@@ -2739,7 +2739,7 @@
     "latitude": "53.00000000",
     "longitude": "-6.41667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Dublin",
     "translations": {}
   }
 ]

@@ -38,7 +38,7 @@
     "latitude": "48.25527720",
     "longitude": "59.44991720",
     "native": "Ақтөбе",
-    "timezone": "Asia/Aqtobe",
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -164,7 +164,7 @@
     "latitude": "52.06156260",
     "longitude": "62.93726890",
     "native": "Қостанай",
-    "timezone": "Asia/Qostanay",
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "45.20588530",
     "longitude": "63.91552020",
     "native": "Қызылорда",
-    "timezone": "Asia/Qyzylorda",
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -192,7 +192,7 @@
     "latitude": "44.43649180",
     "longitude": "53.79999310",
     "native": "Маңғыстау",
-    "timezone": "Asia/Aqtau",
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {

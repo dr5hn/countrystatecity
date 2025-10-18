@@ -9,7 +9,7 @@
     "latitude": "49.96083000",
     "longitude": "6.14306000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Luxembourg",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "49.89750000",
     "longitude": "6.18333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Luxembourg",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "49.93500000",
     "longitude": "6.20889000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Luxembourg",
     "translations": {}
   }
 ]

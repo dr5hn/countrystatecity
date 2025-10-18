@@ -9,7 +9,7 @@
     "latitude": "47.14995000",
     "longitude": "9.02551000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zurich",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "47.03363000",
     "longitude": "9.07888000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zurich",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "47.04057000",
     "longitude": "9.06804000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zurich",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "46.92127000",
     "longitude": "8.99799000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zurich",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "46.96640000",
     "longitude": "9.03715000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zurich",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "47.08878000",
     "longitude": "9.07242000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zurich",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "47.09775000",
     "longitude": "9.06361000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zurich",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "47.06337000",
     "longitude": "9.05734000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zurich",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "47.12598000",
     "longitude": "9.05428000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zurich",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "47.11412000",
     "longitude": "9.05866000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zurich",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "46.99541000",
     "longitude": "9.07010000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zurich",
     "translations": {}
   }
 ]

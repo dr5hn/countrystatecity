@@ -52,7 +52,7 @@
     "latitude": "22.55215380",
     "longitude": "-14.32973530",
     "native": "أوسرد (EH)",
-    "timezone": "Africa/El_Aaiun",
+    "timezone": "Africa/Casablanca",
     "translations": {}
   },
   {
@@ -164,7 +164,7 @@
     "latitude": "26.12524930",
     "longitude": "-14.48473470",
     "native": "بوجدور (EH)",
-    "timezone": "Africa/El_Aaiun",
+    "timezone": "Africa/Casablanca",
     "translations": {}
   },
   {
@@ -262,7 +262,7 @@
     "latitude": "22.60439730",
     "longitude": "-19.83482410",
     "native": "الداخلة-وادي الذهب (EH)",
-    "timezone": "Etc/GMT+1",
+    "timezone": "Africa/Casablanca",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "26.74185600",
     "longitude": "-11.67836710",
     "native": "السمارة (EH-جزئي)",
-    "timezone": "Africa/El_Aaiun",
+    "timezone": "Africa/Casablanca",
     "translations": {}
   },
   {
@@ -612,7 +612,7 @@
     "latitude": "27.15003840",
     "longitude": "-13.19907580",
     "native": "العيون (EH)",
-    "timezone": "Africa/El_Aaiun",
+    "timezone": "Africa/Casablanca",
     "translations": {}
   },
   {
@@ -808,7 +808,7 @@
     "latitude": "22.73378920",
     "longitude": "-14.28611160",
     "native": "وادي الذهب (EH)",
-    "timezone": "Africa/El_Aaiun",
+    "timezone": "Africa/Casablanca",
     "translations": {}
   },
   {

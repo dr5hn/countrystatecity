@@ -9,7 +9,7 @@
     "latitude": "41.47152000",
     "longitude": "20.33192000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tirane",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "41.50826000",
     "longitude": "20.07107000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tirane",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "41.63317000",
     "longitude": "20.01228000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tirane",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "41.49167000",
     "longitude": "20.22194000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tirane",
     "translations": {}
   },
   {
@@ -61,7 +61,20 @@
     "latitude": "41.61028000",
     "longitude": "20.00889000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tirane",
+    "translations": {}
+  },
+  {
+    "id": 157052,
+    "name": "Dibër",
+    "state_id": 610,
+    "state_code": "09",
+    "country_id": 3,
+    "country_code": "AL",
+    "latitude": "41.73099090",
+    "longitude": "20.18908580",
+    "native": null,
+    "timezone": "Europe/Tirane",
     "translations": {}
   },
   {
@@ -74,7 +87,20 @@
     "latitude": "41.50694000",
     "longitude": "20.08667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tirane",
+    "translations": {}
+  },
+  {
+    "id": 157055,
+    "name": "Mat",
+    "state_id": 610,
+    "state_code": "09",
+    "country_id": 3,
+    "country_code": "AL",
+    "latitude": "41.63648120",
+    "longitude": "19.84055600",
+    "native": null,
+    "timezone": "Europe/Tirane",
     "translations": {}
   },
   {
@@ -87,7 +113,7 @@
     "latitude": "41.68500000",
     "longitude": "20.42889000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tirane",
     "translations": {}
   },
   {
@@ -100,7 +126,7 @@
     "latitude": "41.50000000",
     "longitude": "20.33333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tirane",
     "translations": {}
   },
   {
@@ -113,7 +139,7 @@
     "latitude": "41.75000000",
     "longitude": "20.33333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tirane",
     "translations": {}
   },
   {
@@ -126,7 +152,7 @@
     "latitude": "41.58333000",
     "longitude": "20.08333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tirane",
     "translations": {}
   },
   {
@@ -139,7 +165,7 @@
     "latitude": "41.68278000",
     "longitude": "19.89333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tirane",
     "translations": {}
   }
 ]

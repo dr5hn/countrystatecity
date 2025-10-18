@@ -9,7 +9,7 @@
     "latitude": "16.92878200",
     "longitude": "121.17167600",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Manila",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "16.94064700",
     "longitude": "121.32020320",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Manila",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "16.69006550",
     "longitude": "120.98551840",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Manila",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "16.94323520",
     "longitude": "121.01744740",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Manila",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "16.85680780",
     "longitude": "121.00416770",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Manila",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "16.88220070",
     "longitude": "120.89131660",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Manila",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "16.77028280",
     "longitude": "121.01192200",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Manila",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "16.78546210",
     "longitude": "121.04520170",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Manila",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "16.69631250",
     "longitude": "121.13319010",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Manila",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "16.87244660",
     "longitude": "121.08883850",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Manila",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "16.69794090",
     "longitude": "120.87724300",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Manila",
     "translations": {}
   }
 ]

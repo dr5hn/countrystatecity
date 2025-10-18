@@ -9,7 +9,7 @@
     "latitude": "45.60746000",
     "longitude": "122.82076000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "41.93853000",
     "longitude": "126.41965000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "43.58333000",
     "longitude": "127.56667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "43.88000000",
     "longitude": "125.32278000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "44.26532000",
     "longitude": "124.00045000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "42.66223000",
     "longitude": "126.02630000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "45.50000000",
     "longitude": "124.30000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "43.30667000",
     "longitude": "128.51139000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "44.53333000",
     "longitude": "125.70000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "42.64031000",
     "longitude": "125.51176000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "43.37250000",
     "longitude": "128.24250000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "41.77639000",
     "longitude": "126.03194000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "45.18333000",
     "longitude": "124.81667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "43.50075000",
     "longitude": "124.81979000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "45.33333000",
     "longitude": "122.78333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "42.53974000",
     "longitude": "128.99722000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "42.05972000",
     "longitude": "126.91583000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "42.96333000",
     "longitude": "126.74778000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "43.55833000",
     "longitude": "128.02389000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "42.62250000",
     "longitude": "126.26139000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "42.86750000",
     "longitude": "130.35806000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "41.12349000",
     "longitude": "126.17631000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "43.85083000",
     "longitude": "126.56028000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "44.31667000",
     "longitude": "126.80000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "44.15250000",
     "longitude": "125.83278000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "44.81351000",
     "longitude": "123.15000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "42.90361000",
     "longitude": "125.13583000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "41.80694000",
     "longitude": "126.90778000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "43.30472000",
     "longitude": "124.32778000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -386,7 +386,7 @@
     "latitude": "42.24007000",
     "longitude": "125.71717000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -399,7 +399,7 @@
     "latitude": "42.77139000",
     "longitude": "129.42333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -412,7 +412,7 @@
     "latitude": "42.52722000",
     "longitude": "125.67528000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -425,7 +425,7 @@
     "latitude": "43.10694000",
     "longitude": "128.92167000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -438,7 +438,7 @@
     "latitude": "43.72145000",
     "longitude": "127.33401000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -451,7 +451,7 @@
     "latitude": "42.94222000",
     "longitude": "126.05611000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -464,7 +464,7 @@
     "latitude": "42.08167000",
     "longitude": "126.60028000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -477,7 +477,7 @@
     "latitude": "43.52417000",
     "longitude": "125.67361000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -490,7 +490,7 @@
     "latitude": "44.41667000",
     "longitude": "126.95000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -503,7 +503,7 @@
     "latitude": "43.16143000",
     "longitude": "124.37785000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -516,7 +516,7 @@
     "latitude": "42.18590000",
     "longitude": "127.47895000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -529,7 +529,7 @@
     "latitude": "45.12902000",
     "longitude": "124.82769000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -542,7 +542,7 @@
     "latitude": "41.71972000",
     "longitude": "125.92639000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -555,7 +555,7 @@
     "latitude": "42.12389000",
     "longitude": "125.84833000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -568,7 +568,7 @@
     "latitude": "42.96611000",
     "longitude": "129.84250000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -581,7 +581,7 @@
     "latitude": "43.32179000",
     "longitude": "129.76342000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -594,7 +594,7 @@
     "latitude": "43.95611000",
     "longitude": "125.46611000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -607,7 +607,7 @@
     "latitude": "43.12583000",
     "longitude": "129.12833000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -620,7 +620,7 @@
     "latitude": "42.90750000",
     "longitude": "129.50778000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -633,7 +633,7 @@
     "latitude": "43.29194000",
     "longitude": "126.00944000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -646,7 +646,7 @@
     "latitude": "44.80000000",
     "longitude": "126.53333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -659,7 +659,7 @@
     "latitude": "43.50639000",
     "longitude": "123.50639000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -672,7 +672,7 @@
     "latitude": "45.84955000",
     "longitude": "123.29730000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Shanghai",
     "translations": {}
   }
 ]

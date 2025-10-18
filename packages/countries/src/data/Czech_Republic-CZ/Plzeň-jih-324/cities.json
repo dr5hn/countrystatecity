@@ -9,7 +9,7 @@
     "latitude": "49.59115000",
     "longitude": "12.71761000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "49.90724000",
     "longitude": "12.97110000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "49.50000000",
     "longitude": "12.98926000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "49.58220000",
     "longitude": "13.54009000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "49.71159000",
     "longitude": "12.77516000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "49.83700000",
     "longitude": "13.57833000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "49.81613000",
     "longitude": "12.88381000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "49.63256000",
     "longitude": "13.31323000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "49.89321000",
     "longitude": "12.73014000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "49.65408000",
     "longitude": "13.20271000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "49.79320000",
     "longitude": "13.49358000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "49.65482000",
     "longitude": "13.29307000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "49.71566000",
     "longitude": "13.68681000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "49.44049000",
     "longitude": "12.92976000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "49.77735000",
     "longitude": "13.49150000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "49.16948000",
     "longitude": "13.45455000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "49.70679000",
     "longitude": "13.10069000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "49.77598000",
     "longitude": "13.69246000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "49.59361000",
     "longitude": "13.10129000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "49.32069000",
     "longitude": "13.70100000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "49.84012000",
     "longitude": "13.35558000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "49.52965000",
     "longitude": "12.94405000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "49.55971000",
     "longitude": "12.77147000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "49.71316000",
     "longitude": "13.65296000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "49.84907000",
     "longitude": "13.44146000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "49.34515000",
     "longitude": "13.21813000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "49.46270000",
     "longitude": "13.74060000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "49.14289000",
     "longitude": "13.55616000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "49.89313000",
     "longitude": "13.38295000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -386,7 +386,7 @@
     "latitude": "49.39077000",
     "longitude": "13.03968000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -399,7 +399,7 @@
     "latitude": "49.71498000",
     "longitude": "12.98232000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -412,7 +412,7 @@
     "latitude": "49.39552000",
     "longitude": "13.29505000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -425,7 +425,7 @@
     "latitude": "49.43484000",
     "longitude": "12.81473000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -438,7 +438,7 @@
     "latitude": "49.29895000",
     "longitude": "13.43900000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -451,7 +451,7 @@
     "latitude": "49.40255000",
     "longitude": "13.00208000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -464,7 +464,7 @@
     "latitude": "49.99389000",
     "longitude": "13.54107000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -477,7 +477,7 @@
     "latitude": "49.98192000",
     "longitude": "13.48747000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -490,7 +490,7 @@
     "latitude": "49.69472000",
     "longitude": "13.25693000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -503,7 +503,7 @@
     "latitude": "49.99177000",
     "longitude": "13.23319000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -516,7 +516,7 @@
     "latitude": "49.48009000",
     "longitude": "13.40289000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -529,7 +529,7 @@
     "latitude": "49.50556000",
     "longitude": "12.88082000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -542,7 +542,7 @@
     "latitude": "49.56043000",
     "longitude": "13.19790000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -555,7 +555,7 @@
     "latitude": "49.77587000",
     "longitude": "13.25108000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -568,7 +568,7 @@
     "latitude": "49.68782000",
     "longitude": "13.65807000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -581,7 +581,7 @@
     "latitude": "49.40314000",
     "longitude": "12.95120000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -594,7 +594,7 @@
     "latitude": "49.78904000",
     "longitude": "13.73461000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -607,7 +607,7 @@
     "latitude": "49.48616000",
     "longitude": "13.58225000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -620,7 +620,7 @@
     "latitude": "49.64043000",
     "longitude": "13.51962000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -633,7 +633,7 @@
     "latitude": "49.71145000",
     "longitude": "13.21185000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -646,7 +646,7 @@
     "latitude": "49.29387000",
     "longitude": "13.14353000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -659,7 +659,7 @@
     "latitude": "49.50000000",
     "longitude": "12.91667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -672,7 +672,7 @@
     "latitude": "49.25000000",
     "longitude": "13.41667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -685,7 +685,7 @@
     "latitude": "49.58333000",
     "longitude": "13.50000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -698,7 +698,7 @@
     "latitude": "49.75000000",
     "longitude": "13.36667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -711,7 +711,7 @@
     "latitude": "49.91667000",
     "longitude": "13.25000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -724,7 +724,7 @@
     "latitude": "49.78333000",
     "longitude": "13.66667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -737,7 +737,7 @@
     "latitude": "49.76667000",
     "longitude": "12.75000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -750,7 +750,7 @@
     "latitude": "49.77594000",
     "longitude": "13.59060000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -763,7 +763,7 @@
     "latitude": "49.74747000",
     "longitude": "13.37759000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -776,7 +776,7 @@
     "latitude": "49.86816000",
     "longitude": "12.74378000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -789,7 +789,7 @@
     "latitude": "49.38993000",
     "longitude": "13.47106000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -802,7 +802,7 @@
     "latitude": "49.93449000",
     "longitude": "13.39035000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -815,7 +815,7 @@
     "latitude": "49.51029000",
     "longitude": "12.80261000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -828,7 +828,7 @@
     "latitude": "49.45827000",
     "longitude": "12.80678000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -841,7 +841,7 @@
     "latitude": "49.57298000",
     "longitude": "13.33350000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -854,7 +854,7 @@
     "latitude": "49.67488000",
     "longitude": "12.67366000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -867,7 +867,7 @@
     "latitude": "49.85677000",
     "longitude": "13.60570000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -880,7 +880,7 @@
     "latitude": "49.74270000",
     "longitude": "13.59459000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -893,7 +893,7 @@
     "latitude": "49.61371000",
     "longitude": "13.60556000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -906,7 +906,7 @@
     "latitude": "49.67555000",
     "longitude": "13.50394000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -919,7 +919,7 @@
     "latitude": "49.55348000",
     "longitude": "13.06976000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -932,7 +932,7 @@
     "latitude": "49.69768000",
     "longitude": "13.47350000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -945,7 +945,7 @@
     "latitude": "49.67051000",
     "longitude": "13.39963000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -958,7 +958,7 @@
     "latitude": "49.63909000",
     "longitude": "13.16474000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -971,7 +971,7 @@
     "latitude": "49.73552000",
     "longitude": "13.75755000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -984,7 +984,7 @@
     "latitude": "49.66878000",
     "longitude": "12.77546000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -997,7 +997,7 @@
     "latitude": "49.30326000",
     "longitude": "13.24623000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -1010,7 +1010,7 @@
     "latitude": "49.75565000",
     "longitude": "12.99700000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -1023,7 +1023,7 @@
     "latitude": "49.23106000",
     "longitude": "13.52018000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -1036,7 +1036,7 @@
     "latitude": "49.48136000",
     "longitude": "13.28417000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -1049,7 +1049,7 @@
     "latitude": "49.79528000",
     "longitude": "12.63365000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -1062,7 +1062,7 @@
     "latitude": "49.72425000",
     "longitude": "13.23534000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -1075,7 +1075,7 @@
     "latitude": "49.81584000",
     "longitude": "13.39499000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -1088,7 +1088,7 @@
     "latitude": "49.72988000",
     "longitude": "13.27628000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -1101,7 +1101,7 @@
     "latitude": "49.84167000",
     "longitude": "13.22943000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -1114,7 +1114,7 @@
     "latitude": "49.86024000",
     "longitude": "13.77262000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -1127,7 +1127,7 @@
     "latitude": "49.67840000",
     "longitude": "13.22564000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -1140,7 +1140,7 @@
     "latitude": "49.13743000",
     "longitude": "13.23520000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -1153,7 +1153,7 @@
     "latitude": "50.04491000",
     "longitude": "13.37502000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   }
 ]

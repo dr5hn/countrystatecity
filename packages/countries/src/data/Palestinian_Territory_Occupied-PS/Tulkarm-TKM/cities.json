@@ -9,7 +9,7 @@
     "latitude": "32.30728710",
     "longitude": "35.09887830",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Gaza",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "32.37010310",
     "longitude": "35.05193830",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Gaza",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "32.33255610",
     "longitude": "35.08935330",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Gaza",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "32.41117510",
     "longitude": "35.05059330",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Gaza",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "32.26158210",
     "longitude": "35.10968030",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Gaza",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "32.43341200",
     "longitude": "35.06370030",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Gaza",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "32.30796480",
     "longitude": "35.00802890",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Gaza",
     "translations": {}
   }
 ]

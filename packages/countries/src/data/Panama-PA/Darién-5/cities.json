@@ -9,7 +9,7 @@
     "latitude": "8.03003000",
     "longitude": "-77.58978000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Panama",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "8.04171000",
     "longitude": "-77.88682000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Panama",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "8.57508000",
     "longitude": "-78.25671000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Panama",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "7.84374000",
     "longitude": "-77.83830000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Panama",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "7.89343000",
     "longitude": "-77.52562000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Panama",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "8.06684000",
     "longitude": "-78.36436000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Panama",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "7.51826000",
     "longitude": "-78.16343000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Panama",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "8.40608000",
     "longitude": "-78.13964000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Panama",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "8.49909000",
     "longitude": "-77.97897000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Panama",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "8.84246000",
     "longitude": "-77.97539000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Panama",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "7.97876000",
     "longitude": "-77.48758000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Panama",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "8.65525000",
     "longitude": "-78.16140000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Panama",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "8.15835000",
     "longitude": "-77.69276000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Panama",
     "translations": {}
   }
 ]

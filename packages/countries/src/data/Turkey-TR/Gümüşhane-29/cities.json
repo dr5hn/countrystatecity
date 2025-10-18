@@ -9,7 +9,7 @@
     "latitude": "40.12682000",
     "longitude": "39.43424000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Istanbul",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "40.20692000",
     "longitude": "39.64626000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Istanbul",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "40.69516000",
     "longitude": "39.09468000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Istanbul",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "40.46843000",
     "longitude": "39.67441000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Istanbul",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "40.19064000",
     "longitude": "39.11747000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Istanbul",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "40.55071000",
     "longitude": "39.28344000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Istanbul",
     "translations": {}
   }
 ]

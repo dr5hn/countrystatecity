@@ -1,19 +1,5 @@
 [
   {
-    "id": 1509,
-    "name": "Åland Islands",
-    "country_id": 74,
-    "country_code": "FI",
-    "fips_code": null,
-    "iso2": "01",
-    "type": "region",
-    "latitude": "60.21662180",
-    "longitude": "19.94386380",
-    "native": "Åland Islands",
-    "timezone": "Europe/Mariehamn",
-    "translations": {}
-  },
-  {
     "id": 1511,
     "name": "Central Finland",
     "country_id": 74,

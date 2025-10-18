@@ -9,7 +9,7 @@
     "latitude": "4.89035000",
     "longitude": "114.94006000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Brunei",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "4.97032000",
     "longitude": "114.92989000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Brunei",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "5.02447000",
     "longitude": "115.04664000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Brunei",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "4.97058000",
     "longitude": "115.02078000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Brunei",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "5.01718000",
     "longitude": "115.05841000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Brunei",
     "translations": {}
   }
 ]

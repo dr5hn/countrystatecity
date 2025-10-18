@@ -9,7 +9,7 @@
     "latitude": "-3.83261000",
     "longitude": "-78.76076000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guayaquil",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-4.06685000",
     "longitude": "-78.95488000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guayaquil",
     "translations": {}
   }
 ]

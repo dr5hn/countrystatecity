@@ -108,7 +108,7 @@
     "latitude": "27.33333310",
     "longitude": "-102.00000010",
     "native": "Coahuila de Zaragoza",
-    "timezone": "America/Matamoros",
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -192,7 +192,7 @@
     "latitude": "24.16855450",
     "longitude": "-99.38737290",
     "native": "Hidalgo",
-    "timezone": "America/Monterrey",
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -388,7 +388,7 @@
     "latitude": "23.98915530",
     "longitude": "-98.70268250",
     "native": "Tamaulipas",
-    "timezone": "America/Monterrey",
+    "timezone": "America/Matamoros",
     "translations": {}
   },
   {

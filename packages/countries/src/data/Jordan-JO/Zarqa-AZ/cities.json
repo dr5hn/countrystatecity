@@ -9,7 +9,7 @@
     "latitude": "31.88209000",
     "longitude": "36.83017000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Amman",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "32.01778000",
     "longitude": "36.04639000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Amman",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "32.07275000",
     "longitude": "36.08796000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Amman",
     "translations": {}
   }
 ]

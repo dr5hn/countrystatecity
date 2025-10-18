@@ -9,7 +9,7 @@
     "latitude": "46.07290000",
     "longitude": "14.44741000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Ljubljana",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "46.07345000",
     "longitude": "14.55431000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Ljubljana",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "46.05108000",
     "longitude": "14.50513000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Ljubljana",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "46.08333000",
     "longitude": "14.53333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Ljubljana",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "46.05000000",
     "longitude": "14.53333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Ljubljana",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "46.06667000",
     "longitude": "14.61667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Ljubljana",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "46.05999000",
     "longitude": "14.46779000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Ljubljana",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "46.10559000",
     "longitude": "14.43329000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Ljubljana",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "46.04341000",
     "longitude": "14.67293000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Ljubljana",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "46.02412000",
     "longitude": "14.48891000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Ljubljana",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "46.00779000",
     "longitude": "14.46968000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Ljubljana",
     "translations": {}
   }
 ]

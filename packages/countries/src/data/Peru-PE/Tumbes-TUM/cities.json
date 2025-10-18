@@ -9,7 +9,7 @@
     "latitude": "-3.48139000",
     "longitude": "-80.24500000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Lima",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-4.07771000",
     "longitude": "-80.73690000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Lima",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-4.00000000",
     "longitude": "-80.75000000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Lima",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-3.75000000",
     "longitude": "-80.41667000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Lima",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "-3.66667000",
     "longitude": "-80.25000000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Lima",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "-3.56694000",
     "longitude": "-80.45153000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Lima",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "-3.50306000",
     "longitude": "-80.27306000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Lima",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "-3.68046000",
     "longitude": "-80.67819000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Lima",
     "translations": {}
   }
 ]

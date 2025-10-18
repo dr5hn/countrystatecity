@@ -9,7 +9,7 @@
     "latitude": "28.09455000",
     "longitude": "-12.05157000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Casablanca",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "25.66172000",
     "longitude": "-13.68419000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Casablanca",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "27.75000000",
     "longitude": "-11.00000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Casablanca",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "25.14276000",
     "longitude": "-12.37168000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Casablanca",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "27.83333000",
     "longitude": "-12.33333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Casablanca",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "26.73841000",
     "longitude": "-11.67194000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Casablanca",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "27.93901000",
     "longitude": "-12.92082000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Casablanca",
     "translations": {}
   }
 ]

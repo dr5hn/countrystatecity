@@ -24,7 +24,7 @@
     "latitude": "50.71141010",
     "longitude": "86.85721860",
     "native": "Алтай",
-    "timezone": "Asia/Barnaul",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -38,7 +38,7 @@
     "latitude": "50.71141010",
     "longitude": "86.85721860",
     "native": "Алтай",
-    "timezone": "Asia/Barnaul",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -52,7 +52,7 @@
     "latitude": "52.80323680",
     "longitude": "128.43729500",
     "native": "Амур",
-    "timezone": "Asia/Yakutsk",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -80,7 +80,7 @@
     "latitude": "46.34983080",
     "longitude": "48.03262030",
     "native": "Астрахань",
-    "timezone": "Europe/Astrakhan",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -94,7 +94,7 @@
     "latitude": "54.47475530",
     "longitude": "55.97845820",
     "native": "Башкортостан",
-    "timezone": "Asia/Yekaterinburg",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -136,7 +136,7 @@
     "latitude": "52.71824260",
     "longitude": "109.49214300",
     "native": "Бурятия",
-    "timezone": "Asia/Irkutsk",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -164,7 +164,7 @@
     "latitude": "55.15593120",
     "longitude": "61.40127260",
     "native": "Челябинск",
-    "timezone": "Asia/Yekaterinburg",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -262,7 +262,7 @@
     "latitude": "48.56016130",
     "longitude": "132.27756620",
     "native": "еврейский",
-    "timezone": "Asia/Vladivostok",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -374,7 +374,7 @@
     "latitude": "54.53357810",
     "longitude": "87.34286100",
     "native": "Кемерово",
-    "timezone": "Asia/Novokuznetsk",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -388,7 +388,7 @@
     "latitude": "51.63126840",
     "longitude": "136.12152400",
     "native": "Хабаровск",
-    "timezone": "Asia/Vladivostok",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -402,7 +402,7 @@
     "latitude": "53.43993790",
     "longitude": "90.06643030",
     "native": "Хакасия",
-    "timezone": "Asia/Krasnoyarsk",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -416,7 +416,7 @@
     "latitude": "61.87934280",
     "longitude": "68.64181560",
     "native": "Ханты-Мансийский",
-    "timezone": "Asia/Yekaterinburg",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -430,7 +430,7 @@
     "latitude": "58.60356610",
     "longitude": "49.66662410",
     "native": "Киров",
-    "timezone": "Europe/Kirov",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -500,7 +500,7 @@
     "latitude": "55.44093570",
     "longitude": "65.34211690",
     "native": "Курган",
-    "timezone": "Asia/Yekaterinburg",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -696,7 +696,7 @@
     "latitude": "54.96781440",
     "longitude": "82.95159890",
     "native": "Новосибирск",
-    "timezone": "Asia/Novosibirsk",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -724,7 +724,7 @@
     "latitude": "52.02692620",
     "longitude": "54.72766470",
     "native": "Оренбург",
-    "timezone": "Asia/Yekaterinburg",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -766,7 +766,7 @@
     "latitude": "58.59516030",
     "longitude": "56.31595460",
     "native": "Пермь",
-    "timezone": "Asia/Yekaterinburg",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -780,7 +780,7 @@
     "latitude": "45.08194560",
     "longitude": "134.72664500",
     "native": "Приморский",
-    "timezone": "Asia/Vladivostok",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -850,7 +850,7 @@
     "latitude": "66.94162600",
     "longitude": "129.64237100",
     "native": "Саха",
-    "timezone": "Asia/Yakutsk",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -892,7 +892,7 @@
     "latitude": "51.53001800",
     "longitude": "46.03468300",
     "native": "Саратов",
-    "timezone": "Europe/Saratov",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -934,7 +934,7 @@
     "latitude": "56.83910400",
     "longitude": "60.60825000",
     "native": "Свердловск",
-    "timezone": "Asia/Yekaterinburg",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -976,7 +976,7 @@
     "latitude": "58.61242790",
     "longitude": "82.04753150",
     "native": "Томск",
-    "timezone": "Asia/Tomsk",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -1004,7 +1004,7 @@
     "latitude": "51.40171490",
     "longitude": "93.85825930",
     "native": "Тува",
-    "timezone": "Asia/Krasnoyarsk",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -1032,7 +1032,7 @@
     "latitude": "57.15353400",
     "longitude": "65.54227400",
     "native": "Тюмень",
-    "timezone": "Asia/Yekaterinburg",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -1046,7 +1046,7 @@
     "latitude": "57.19611650",
     "longitude": "52.69598320",
     "native": "удмуртский",
-    "timezone": "Europe/Samara",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -1060,7 +1060,7 @@
     "latitude": "54.14631770",
     "longitude": "47.23249210",
     "native": "Ульяновск",
-    "timezone": "Europe/Ulyanovsk",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -1088,7 +1088,7 @@
     "latitude": "49.60483390",
     "longitude": "44.29035820",
     "native": "Волгоградская область",
-    "timezone": "Europe/Volgograd",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -1130,7 +1130,7 @@
     "latitude": "67.14716310",
     "longitude": "74.34154880",
     "native": "Ямало-Ненецкий",
-    "timezone": "Asia/Yekaterinburg",
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -1158,7 +1158,7 @@
     "latitude": "52.24852100",
     "longitude": "115.95632500",
     "native": "Забайкальский",
-    "timezone": "Asia/Chita",
+    "timezone": "Europe/Moscow",
     "translations": {}
   }
 ]

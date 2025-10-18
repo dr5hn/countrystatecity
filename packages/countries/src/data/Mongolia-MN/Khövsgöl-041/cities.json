@@ -9,7 +9,7 @@
     "latitude": "51.50265000",
     "longitude": "100.66395000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "49.63417000",
     "longitude": "100.16250000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "49.47833000",
     "longitude": "100.88944000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "51.50725000",
     "longitude": "100.66257000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   }
 ]

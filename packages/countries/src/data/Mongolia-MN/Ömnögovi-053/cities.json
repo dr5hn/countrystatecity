@@ -9,7 +9,7 @@
     "latitude": "43.57083000",
     "longitude": "104.42500000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "43.77345000",
     "longitude": "104.47998000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "42.41462000",
     "longitude": "105.05640000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   }
 ]

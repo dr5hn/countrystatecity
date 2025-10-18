@@ -9,7 +9,7 @@
     "latitude": "14.60804000",
     "longitude": "100.72404000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "14.65671000",
     "longitude": "100.90838000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "14.60758000",
     "longitude": "100.61578000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "14.58166000",
     "longitude": "101.05297000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "14.77706000",
     "longitude": "101.27151000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "14.49721000",
     "longitude": "100.93829000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "14.68880000",
     "longitude": "100.68527000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "14.38125000",
     "longitude": "100.86451000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "14.48283000",
     "longitude": "100.80463000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "14.71912000",
     "longitude": "100.80622000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "14.57549000",
     "longitude": "100.84390000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "14.82287000",
     "longitude": "101.13346000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "14.33435000",
     "longitude": "100.96458000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "14.61544000",
     "longitude": "100.72731000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "14.58617000",
     "longitude": "100.99758000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "14.34062000",
     "longitude": "100.86733000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "14.72526000",
     "longitude": "100.79536000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "14.53333000",
     "longitude": "100.91667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Bangkok",
     "translations": {}
   }
 ]

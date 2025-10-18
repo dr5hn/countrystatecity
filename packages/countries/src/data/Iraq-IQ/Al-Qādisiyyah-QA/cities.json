@@ -9,7 +9,7 @@
     "latitude": "32.06430000",
     "longitude": "45.24743000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baghdad",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "31.99289000",
     "longitude": "44.92552000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baghdad",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "31.96257000",
     "longitude": "44.60075000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baghdad",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "31.58376000",
     "longitude": "44.64675000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baghdad",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "31.74311000",
     "longitude": "44.61960000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baghdad",
     "translations": {}
   }
 ]

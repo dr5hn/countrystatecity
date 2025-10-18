@@ -9,7 +9,7 @@
     "latitude": "4.25671000",
     "longitude": "18.41583000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Bangui",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "4.80048000",
     "longitude": "18.12747000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Bangui",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "4.96075000",
     "longitude": "18.70350000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Bangui",
     "translations": {}
   }
 ]

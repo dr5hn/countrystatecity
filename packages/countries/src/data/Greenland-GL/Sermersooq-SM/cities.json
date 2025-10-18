@@ -9,7 +9,7 @@
     "latitude": "65.61452670",
     "longitude": "-37.65014660",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Nuuk",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "70.48634210",
     "longitude": "-21.97986600",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Nuuk",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "61.20651840",
     "longitude": "-48.18198510",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Nuuk",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "64.17910090",
     "longitude": "-51.74800910",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Nuuk",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "62.00259620",
     "longitude": "-49.70519590",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Nuuk",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "22.45700000",
     "longitude": "114.18400000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Hong_Kong",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "22.44900000",
     "longitude": "114.16000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Hong_Kong",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "26.56217000",
     "longitude": "31.74503000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Cairo",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "26.23568000",
     "longitude": "32.00347000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Cairo",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "26.47686000",
     "longitude": "31.80350000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Cairo",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "26.33826000",
     "longitude": "31.89161000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Cairo",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "26.67319000",
     "longitude": "31.49760000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Cairo",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "26.30683000",
     "longitude": "31.84574000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Cairo",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "26.53948000",
     "longitude": "31.67524000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Cairo",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "26.55695000",
     "longitude": "31.69478000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Cairo",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "26.76930000",
     "longitude": "31.50214000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Cairo",
     "translations": {}
   }
 ]

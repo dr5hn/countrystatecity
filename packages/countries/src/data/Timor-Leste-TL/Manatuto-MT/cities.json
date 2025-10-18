@@ -9,7 +9,7 @@
     "latitude": "-8.85472000",
     "longitude": "126.06556000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Dili",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-8.55000000",
     "longitude": "125.91667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Dili",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-8.74975000",
     "longitude": "125.91186000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Dili",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-8.52207000",
     "longitude": "126.01516000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Dili",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "-8.51139000",
     "longitude": "126.01306000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Dili",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "-8.86000000",
     "longitude": "125.94000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Dili",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "1.29683000",
     "longitude": "10.93691000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Malabo",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "1.86580000",
     "longitude": "10.76892000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Malabo",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "1.85592000",
     "longitude": "10.68994000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Malabo",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "1.69439000",
     "longitude": "11.03422000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Malabo",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "1.62742000",
     "longitude": "11.31346000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Malabo",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "1.12985000",
     "longitude": "11.26603000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Malabo",
     "translations": {}
   }
 ]

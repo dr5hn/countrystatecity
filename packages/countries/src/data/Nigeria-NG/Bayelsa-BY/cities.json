@@ -9,7 +9,7 @@
     "latitude": "4.97032000",
     "longitude": "6.10915000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "4.31231000",
     "longitude": "6.24091000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "4.92675000",
     "longitude": "6.26764000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   }
 ]

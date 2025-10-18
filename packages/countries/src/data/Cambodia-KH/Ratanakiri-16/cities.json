@@ -9,7 +9,7 @@
     "latitude": "13.73939000",
     "longitude": "106.98727000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Phnom_Penh",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "13.49146000",
     "longitude": "106.98022000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Phnom_Penh",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "13.93352000",
     "longitude": "107.31155000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Phnom_Penh",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "13.70749000",
     "longitude": "107.19442000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Phnom_Penh",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "13.68200000",
     "longitude": "107.03025000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Phnom_Penh",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "13.51772000",
     "longitude": "106.75142000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Phnom_Penh",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "13.84069000",
     "longitude": "107.03469000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Phnom_Penh",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "13.54328000",
     "longitude": "107.44636000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Phnom_Penh",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "14.29192000",
     "longitude": "107.24031000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Phnom_Penh",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "-20.96670000",
     "longitude": "167.23330000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Noumea",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-21.51670000",
     "longitude": "167.98330000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Noumea",
     "translations": {}
   }
 ]

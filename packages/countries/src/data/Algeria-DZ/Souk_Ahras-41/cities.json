@@ -9,7 +9,7 @@
     "latitude": "36.12868000",
     "longitude": "7.53376000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Algiers",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "36.28639000",
     "longitude": "7.95111000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Algiers",
     "translations": {}
   }
 ]

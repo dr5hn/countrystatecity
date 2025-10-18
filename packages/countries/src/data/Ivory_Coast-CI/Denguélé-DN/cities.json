@@ -9,7 +9,7 @@
     "latitude": "9.81241000",
     "longitude": "-7.51894000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Abidjan",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "9.60571000",
     "longitude": "-7.43774000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Abidjan",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "9.50511000",
     "longitude": "-7.56433000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Abidjan",
     "translations": {}
   }
 ]

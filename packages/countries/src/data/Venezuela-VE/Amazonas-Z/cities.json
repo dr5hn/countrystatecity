@@ -9,7 +9,7 @@
     "latitude": "2.71880000",
     "longitude": "-67.56046000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Caracas",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "2.73456000",
     "longitude": "-64.83032000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Caracas",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "5.66049000",
     "longitude": "-67.58343000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Caracas",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "1.92027000",
     "longitude": "-67.06089000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Caracas",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "4.04564000",
     "longitude": "-67.69934000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Caracas",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "5.32665000",
     "longitude": "-66.05402000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Caracas",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "10.04008510",
     "longitude": "125.46317660",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Manila",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "10.01931460",
     "longitude": "125.49702460",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Manila",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "9.96098390",
     "longitude": "125.54737950",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Manila",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "10.19620040",
     "longitude": "125.39681740",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Manila",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "10.36344940",
     "longitude": "125.40694540",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Manila",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "10.01778840",
     "longitude": "125.55115600",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Manila",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "10.28817520",
     "longitude": "125.50291620",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Manila",
     "translations": {}
   }
 ]

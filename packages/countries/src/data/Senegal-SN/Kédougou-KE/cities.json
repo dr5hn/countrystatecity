@@ -9,7 +9,7 @@
     "latitude": "12.59971000",
     "longitude": "-12.77619000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Dakar",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "12.55561000",
     "longitude": "-12.18076000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Dakar",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "12.81716000",
     "longitude": "-12.17834000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Dakar",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "13.00150000",
     "longitude": "-11.79627000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Dakar",
     "translations": {}
   }
 ]

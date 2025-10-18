@@ -10,7 +10,7 @@
     "latitude": "40.77277960",
     "longitude": "72.34196600",
     "native": "Andijan",
-    "timezone": "Asia/Tashkent",
+    "timezone": "Asia/Samarkand",
     "translations": {}
   },
   {
@@ -38,7 +38,7 @@
     "latitude": "40.50000000",
     "longitude": "71.25000000",
     "native": "Farg'ona",
-    "timezone": "Asia/Tashkent",
+    "timezone": "Asia/Samarkand",
     "translations": {}
   },
   {
@@ -52,7 +52,7 @@
     "latitude": "40.33190950",
     "longitude": "67.45511980",
     "native": "Jizzakh",
-    "timezone": "Asia/Tashkent",
+    "timezone": "Asia/Samarkand",
     "translations": {}
   },
   {
@@ -80,7 +80,7 @@
     "latitude": "40.95550610",
     "longitude": "71.10977490",
     "native": "Namangan",
-    "timezone": "Asia/Tashkent",
+    "timezone": "Asia/Samarkand",
     "translations": {}
   },
   {
@@ -136,7 +136,7 @@
     "latitude": "40.80293260",
     "longitude": "68.82428410",
     "native": "Sirdaryo",
-    "timezone": "Asia/Tashkent",
+    "timezone": "Asia/Samarkand",
     "translations": {}
   },
   {
@@ -164,7 +164,7 @@
     "latitude": "41.31233630",
     "longitude": "69.27870790",
     "native": "Tashkent",
-    "timezone": "Asia/Tashkent",
+    "timezone": "Asia/Samarkand",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "41.31233630",
     "longitude": "69.27870790",
     "native": "Toshkent",
-    "timezone": "Asia/Tashkent",
+    "timezone": "Asia/Samarkand",
     "translations": {}
   },
   {

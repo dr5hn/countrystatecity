@@ -9,7 +9,7 @@
     "latitude": "14.84097080",
     "longitude": "-61.16485230",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Martinique",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "14.84696630",
     "longitude": "-61.20427640",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Martinique",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "14.70841840",
     "longitude": "-61.11271220",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Martinique",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "14.81597180",
     "longitude": "-61.17170630",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Martinique",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "14.73804150",
     "longitude": "-61.02929560",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Martinique",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "14.79952560",
     "longitude": "-61.11513740",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Martinique",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "14.77958180",
     "longitude": "-61.09424580",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Martinique",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "14.67443270",
     "longitude": "-61.01692720",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Martinique",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "14.84743860",
     "longitude": "-61.16709460",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Martinique",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "14.77300930",
     "longitude": "-61.04959970",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Martinique",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "-14.30616430",
     "longitude": "-170.80691440",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Pago_Pago",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-14.25216850",
     "longitude": "-170.74187670",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Pago_Pago",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-14.29995700",
     "longitude": "-170.61763370",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Pago_Pago",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-14.27710880",
     "longitude": "-170.71442630",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Pago_Pago",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "-14.25578040",
     "longitude": "-170.76301810",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Pago_Pago",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "32.44017000",
     "longitude": "36.15265000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Amman",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "32.34289000",
     "longitude": "36.20804000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Amman",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "32.32341000",
     "longitude": "36.09087000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Amman",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "33.31405000",
     "longitude": "38.70342000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Amman",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "32.32696000",
     "longitude": "36.50159000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Amman",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "32.31449000",
     "longitude": "36.62826000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Amman",
     "translations": {}
   }
 ]

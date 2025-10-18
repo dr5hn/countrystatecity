@@ -9,7 +9,7 @@
     "latitude": "-5.24586000",
     "longitude": "39.76659000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Dar_es_Salaam",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-5.38333000",
     "longitude": "39.70000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Dar_es_Salaam",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-5.40000000",
     "longitude": "39.68333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Dar_es_Salaam",
     "translations": {}
   }
 ]

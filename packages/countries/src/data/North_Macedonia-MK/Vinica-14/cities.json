@@ -9,7 +9,7 @@
     "latitude": "41.83668000",
     "longitude": "22.57909000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Skopje",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "41.85068000",
     "longitude": "22.51132000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Skopje",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "41.88278000",
     "longitude": "22.50917000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Skopje",
     "translations": {}
   }
 ]

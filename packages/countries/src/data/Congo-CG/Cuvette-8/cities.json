@@ -9,7 +9,7 @@
     "latitude": "0.00694000",
     "longitude": "15.63333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Brazzaville",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-0.48193000",
     "longitude": "15.89988000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Brazzaville",
     "translations": {}
   }
 ]

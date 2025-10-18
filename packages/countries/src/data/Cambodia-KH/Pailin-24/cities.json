@@ -9,7 +9,7 @@
     "latitude": "12.97984000",
     "longitude": "102.63957000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Phnom_Penh",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "12.84895000",
     "longitude": "102.60928000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Phnom_Penh",
     "translations": {}
   }
 ]

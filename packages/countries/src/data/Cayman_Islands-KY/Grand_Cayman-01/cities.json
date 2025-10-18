@@ -9,7 +9,7 @@
     "latitude": "19.27966930",
     "longitude": "-81.27779990",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Cayman",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "19.29958980",
     "longitude": "-81.11961380",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Cayman",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "19.29023260",
     "longitude": "-81.44333720",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Cayman",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "19.33620470",
     "longitude": "-81.51398130",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Cayman",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "19.36651530",
     "longitude": "-81.43170260",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Cayman",
     "translations": {}
   }
 ]

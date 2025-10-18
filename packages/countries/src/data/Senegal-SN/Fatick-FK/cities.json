@@ -9,7 +9,7 @@
     "latitude": "14.18333000",
     "longitude": "-16.66667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Dakar",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "14.25909000",
     "longitude": "-16.49884000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Dakar",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "14.13333000",
     "longitude": "-16.46667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Dakar",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "14.26667000",
     "longitude": "-15.95000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Dakar",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "13.98333000",
     "longitude": "-16.26667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Dakar",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "14.35000000",
     "longitude": "-16.41667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Dakar",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "13.88333000",
     "longitude": "-16.36667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Dakar",
     "translations": {}
   }
 ]

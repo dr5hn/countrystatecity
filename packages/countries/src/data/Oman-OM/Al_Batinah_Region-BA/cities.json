@@ -9,7 +9,7 @@
     "latitude": "23.67872000",
     "longitude": "57.88605000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Muscat",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "23.30324000",
     "longitude": "57.52459000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Muscat",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "23.65270000",
     "longitude": "57.59926000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Muscat",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "23.39083000",
     "longitude": "57.42444000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Muscat",
     "translations": {}
   }
 ]

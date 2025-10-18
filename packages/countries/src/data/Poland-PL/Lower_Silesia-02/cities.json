@@ -9,7 +9,7 @@
     "latitude": "50.50589000",
     "longitude": "16.73986000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "51.03610000",
     "longitude": "16.96770000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "50.69075000",
     "longitude": "16.62300000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "51.12443000",
     "longitude": "17.54607000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "51.10097000",
     "longitude": "17.10442000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "50.90747000",
     "longitude": "14.95634000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "50.75514000",
     "longitude": "16.20494000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "51.26418000",
     "longitude": "15.56970000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "50.92203000",
     "longitude": "16.10111000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "50.51315000",
     "longitude": "16.57528000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "51.27299000",
     "longitude": "16.70815000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "50.59337000",
     "longitude": "16.71038000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "50.96048000",
     "longitude": "17.39702000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "50.30179000",
     "longitude": "16.64231000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "51.41867000",
     "longitude": "15.90172000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "51.27373000",
     "longitude": "15.93661000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "51.13218000",
     "longitude": "16.56773000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "50.86545000",
     "longitude": "15.68367000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "50.67477000",
     "longitude": "16.90871000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "51.63104000",
     "longitude": "17.35726000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "50.77083000",
     "longitude": "16.13050000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "51.04609000",
     "longitude": "17.24510000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "51.10573000",
     "longitude": "17.08108000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "51.17902000",
     "longitude": "17.19137000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "51.26776000",
     "longitude": "17.34205000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "50.40327000",
     "longitude": "16.39091000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "51.23543000",
     "longitude": "17.70919000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "50.76947000",
     "longitude": "16.35212000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "50.72820000",
     "longitude": "16.65141000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -386,7 +386,7 @@
     "latitude": "51.11853000",
     "longitude": "16.98596000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -399,7 +399,7 @@
     "latitude": "51.62773000",
     "longitude": "15.88198000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -412,7 +412,7 @@
     "latitude": "51.66361000",
     "longitude": "16.08450000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -425,7 +425,7 @@
     "latitude": "50.68743000",
     "longitude": "16.37173000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -438,7 +438,7 @@
     "latitude": "50.66606000",
     "longitude": "16.37585000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -451,7 +451,7 @@
     "latitude": "50.98804000",
     "longitude": "16.83363000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -464,7 +464,7 @@
     "latitude": "51.66638000",
     "longitude": "16.53494000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -477,7 +477,7 @@
     "latitude": "51.09369000",
     "longitude": "16.97819000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -490,7 +490,7 @@
     "latitude": "51.08703000",
     "longitude": "16.98629000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -503,7 +503,7 @@
     "latitude": "51.59909000",
     "longitude": "16.16741000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -516,7 +516,7 @@
     "latitude": "51.36063000",
     "longitude": "15.76452000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -529,7 +529,7 @@
     "latitude": "51.03081000",
     "longitude": "15.42017000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -542,7 +542,7 @@
     "latitude": "50.65327000",
     "longitude": "17.01027000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -555,7 +555,7 @@
     "latitude": "50.87569000",
     "longitude": "15.92322000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -568,7 +568,7 @@
     "latitude": "51.12163000",
     "longitude": "16.86621000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -581,7 +581,7 @@
     "latitude": "51.05132000",
     "longitude": "16.19347000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -594,7 +594,7 @@
     "latitude": "50.91340000",
     "longitude": "16.43241000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -607,7 +607,7 @@
     "latitude": "50.72005000",
     "longitude": "16.34645000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -620,7 +620,7 @@
     "latitude": "51.02102000",
     "longitude": "17.32095000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -633,7 +633,7 @@
     "latitude": "51.02134000",
     "longitude": "17.31649000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -646,7 +646,7 @@
     "latitude": "50.89973000",
     "longitude": "15.72899000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -659,7 +659,7 @@
     "latitude": "50.93507000",
     "longitude": "15.74306000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -672,7 +672,7 @@
     "latitude": "50.86421000",
     "longitude": "16.86873000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -685,7 +685,7 @@
     "latitude": "50.62758000",
     "longitude": "16.51812000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -698,7 +698,7 @@
     "latitude": "51.07182000",
     "longitude": "17.18193000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -711,7 +711,7 @@
     "latitude": "50.52541000",
     "longitude": "16.87921000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -724,7 +724,7 @@
     "latitude": "50.78314000",
     "longitude": "16.03037000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -737,7 +737,7 @@
     "latitude": "51.14132000",
     "longitude": "17.05212000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -750,7 +750,7 @@
     "latitude": "50.77669000",
     "longitude": "15.75594000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -763,7 +763,7 @@
     "latitude": "51.03098000",
     "longitude": "16.76767000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -776,7 +776,7 @@
     "latitude": "51.13999000",
     "longitude": "17.17798000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -789,7 +789,7 @@
     "latitude": "50.43488000",
     "longitude": "16.66145000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -802,7 +802,7 @@
     "latitude": "50.97054000",
     "longitude": "16.93508000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -815,7 +815,7 @@
     "latitude": "51.74542000",
     "longitude": "16.03575000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -828,7 +828,7 @@
     "latitude": "51.13090000",
     "longitude": "17.10175000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -841,7 +841,7 @@
     "latitude": "50.79313000",
     "longitude": "15.83559000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -854,7 +854,7 @@
     "latitude": "51.14447000",
     "longitude": "16.96937000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -867,7 +867,7 @@
     "latitude": "51.47641000",
     "longitude": "17.35917000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -880,7 +880,7 @@
     "latitude": "50.73434000",
     "longitude": "16.06991000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -893,7 +893,7 @@
     "latitude": "51.07085000",
     "longitude": "16.99475000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -906,7 +906,7 @@
     "latitude": "51.07293000",
     "longitude": "17.08881000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -919,7 +919,7 @@
     "latitude": "50.44297000",
     "longitude": "16.24397000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -932,7 +932,7 @@
     "latitude": "51.22231000",
     "longitude": "16.24809000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -945,7 +945,7 @@
     "latitude": "50.34371000",
     "longitude": "16.87946000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -958,7 +958,7 @@
     "latitude": "51.21006000",
     "longitude": "16.16190000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -971,7 +971,7 @@
     "latitude": "51.14419000",
     "longitude": "16.24208000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -984,7 +984,7 @@
     "latitude": "51.02431000",
     "longitude": "15.26413000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -997,7 +997,7 @@
     "latitude": "51.14228000",
     "longitude": "16.84773000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1010,7 +1010,7 @@
     "latitude": "50.40559000",
     "longitude": "16.29101000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1023,7 +1023,7 @@
     "latitude": "51.12014000",
     "longitude": "15.28768000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1036,7 +1036,7 @@
     "latitude": "50.70456000",
     "longitude": "16.00026000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1049,7 +1049,7 @@
     "latitude": "51.40089000",
     "longitude": "16.20149000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1062,7 +1062,7 @@
     "latitude": "51.01278000",
     "longitude": "15.50969000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1075,7 +1075,7 @@
     "latitude": "50.62464000",
     "longitude": "16.46052000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1088,7 +1088,7 @@
     "latitude": "51.11074000",
     "longitude": "15.58582000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1101,7 +1101,7 @@
     "latitude": "50.79088000",
     "longitude": "16.84457000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1114,7 +1114,7 @@
     "latitude": "51.15835000",
     "longitude": "15.04372000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1127,7 +1127,7 @@
     "latitude": "51.22038000",
     "longitude": "16.49365000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1140,7 +1140,7 @@
     "latitude": "50.84470000",
     "longitude": "16.02116000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1153,7 +1153,7 @@
     "latitude": "51.17198000",
     "longitude": "16.88441000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1166,7 +1166,7 @@
     "latitude": "51.14937000",
     "longitude": "16.94191000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1179,7 +1179,7 @@
     "latitude": "51.16333000",
     "longitude": "16.92837000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1192,7 +1192,7 @@
     "latitude": "51.39626000",
     "longitude": "17.66610000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1205,7 +1205,7 @@
     "latitude": "50.14778000",
     "longitude": "16.66712000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1218,7 +1218,7 @@
     "latitude": "51.18844000",
     "longitude": "16.73595000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1231,7 +1231,7 @@
     "latitude": "50.66589000",
     "longitude": "16.18883000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1244,7 +1244,7 @@
     "latitude": "51.52770000",
     "longitude": "17.27137000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1257,7 +1257,7 @@
     "latitude": "51.25601000",
     "longitude": "16.07231000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1270,7 +1270,7 @@
     "latitude": "51.16105000",
     "longitude": "17.17026000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1283,7 +1283,7 @@
     "latitude": "50.97054000",
     "longitude": "15.38567000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1296,7 +1296,7 @@
     "latitude": "51.18817000",
     "longitude": "16.78831000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1309,7 +1309,7 @@
     "latitude": "50.84123000",
     "longitude": "15.77894000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1322,7 +1322,7 @@
     "latitude": "50.72007000",
     "longitude": "16.83573000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1335,7 +1335,7 @@
     "latitude": "50.58008000",
     "longitude": "16.50164000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1348,7 +1348,7 @@
     "latitude": "51.19543000",
     "longitude": "15.39854000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1361,7 +1361,7 @@
     "latitude": "51.30137000",
     "longitude": "16.91465000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1374,7 +1374,7 @@
     "latitude": "51.21338000",
     "longitude": "17.38986000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1387,7 +1387,7 @@
     "latitude": "51.20672000",
     "longitude": "15.80040000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1400,7 +1400,7 @@
     "latitude": "51.06710000",
     "longitude": "15.37228000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1413,7 +1413,7 @@
     "latitude": "50.94660000",
     "longitude": "17.29260000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1426,7 +1426,7 @@
     "latitude": "51.08999000",
     "longitude": "17.05289000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1439,7 +1439,7 @@
     "latitude": "51.12753000",
     "longitude": "16.96186000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1452,7 +1452,7 @@
     "latitude": "51.36717000",
     "longitude": "16.23380000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1465,7 +1465,7 @@
     "latitude": "50.64576000",
     "longitude": "16.63965000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1478,7 +1478,7 @@
     "latitude": "51.06798000",
     "longitude": "17.01394000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1491,7 +1491,7 @@
     "latitude": "51.01078000",
     "longitude": "16.15273000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1504,7 +1504,7 @@
     "latitude": "51.16495000",
     "longitude": "17.09822000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1517,7 +1517,7 @@
     "latitude": "50.84963000",
     "longitude": "15.59887000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1530,7 +1530,7 @@
     "latitude": "51.24900000",
     "longitude": "15.04685000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1543,7 +1543,7 @@
     "latitude": "50.71287000",
     "longitude": "16.58232000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1556,7 +1556,7 @@
     "latitude": "51.13704000",
     "longitude": "16.95752000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1569,7 +1569,7 @@
     "latitude": "50.68357000",
     "longitude": "16.74359000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1582,7 +1582,7 @@
     "latitude": "51.14479000",
     "longitude": "15.23057000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1595,7 +1595,7 @@
     "latitude": "50.83261000",
     "longitude": "15.68161000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1608,7 +1608,7 @@
     "latitude": "50.40373000",
     "longitude": "16.51271000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1621,7 +1621,7 @@
     "latitude": "51.50391000",
     "longitude": "16.07261000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1634,345 +1634,7 @@
     "latitude": "51.15702000",
     "longitude": "17.02904000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87471,
-    "name": "Powiat bolesławiecki",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "51.32174000",
-    "longitude": "15.53215000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87495,
-    "name": "Powiat dzierżoniowski",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "50.73506000",
-    "longitude": "16.69192000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87520,
-    "name": "Powiat głogowski",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "51.67132000",
-    "longitude": "16.09486000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87519,
-    "name": "Powiat górowski",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "51.63666000",
-    "longitude": "16.54815000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87530,
-    "name": "Powiat jaworski",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "51.03967000",
-    "longitude": "16.16364000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87531,
-    "name": "Powiat jeleniogórski",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "50.89654000",
-    "longitude": "15.63835000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87534,
-    "name": "Powiat kamiennogórski",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "50.75603000",
-    "longitude": "16.00471000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87563,
-    "name": "Powiat kłodzki",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "50.38882000",
-    "longitude": "16.61185000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87565,
-    "name": "Powiat legnicki",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "51.24113000",
-    "longitude": "16.10744000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87575,
-    "name": "Powiat lubański",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "51.04506000",
-    "longitude": "15.27739000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87577,
-    "name": "Powiat lubiński",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "51.44172000",
-    "longitude": "16.24318000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87579,
-    "name": "Powiat lwówecki",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "51.01559000",
-    "longitude": "15.52144000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87586,
-    "name": "Powiat milicki",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "51.50792000",
-    "longitude": "17.28292000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87612,
-    "name": "Powiat oleśnicki",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "51.25458000",
-    "longitude": "17.51679000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87626,
-    "name": "Powiat oławski",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "50.96062000",
-    "longitude": "17.30601000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87639,
-    "name": "Powiat polkowicki",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "51.49982000",
-    "longitude": "16.01528000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87756,
-    "name": "Powiat średzki",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "51.12628000",
-    "longitude": "16.61904000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87686,
-    "name": "Powiat strzeliński",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "50.76688000",
-    "longitude": "17.10629000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87759,
-    "name": "Powiat świdnicki",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "50.87051000",
-    "longitude": "16.43043000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87709,
-    "name": "Powiat trzebnicki",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "51.37195000",
-    "longitude": "17.04989000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87714,
-    "name": "Powiat wałbrzyski",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "50.75340000",
-    "longitude": "16.19865000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87723,
-    "name": "Powiat wołowski",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "51.37202000",
-    "longitude": "16.61399000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87724,
-    "name": "Powiat wrocławski",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "51.04278000",
-    "longitude": "16.97115000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87744,
-    "name": "Powiat ząbkowicki",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "50.55669000",
-    "longitude": "16.87221000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87741,
-    "name": "Powiat zgorzelecki",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "51.16297000",
-    "longitude": "15.07863000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 87745,
-    "name": "Powiat złotoryjski",
-    "state_id": 1629,
-    "state_code": "02",
-    "country_id": 176,
-    "country_code": "PL",
-    "latitude": "51.09129000",
-    "longitude": "15.87948000",
-    "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1985,7 +1647,7 @@
     "latitude": "51.09164000",
     "longitude": "17.02470000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -1998,7 +1660,7 @@
     "latitude": "51.09607000",
     "longitude": "17.01770000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2011,7 +1673,7 @@
     "latitude": "51.18780000",
     "longitude": "16.90824000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2024,7 +1686,7 @@
     "latitude": "51.27307000",
     "longitude": "16.36532000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2037,7 +1699,7 @@
     "latitude": "51.37116000",
     "longitude": "16.96025000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2050,7 +1712,7 @@
     "latitude": "51.52530000",
     "longitude": "15.79441000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2063,7 +1725,7 @@
     "latitude": "50.68629000",
     "longitude": "17.16588000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2076,7 +1738,7 @@
     "latitude": "51.18712000",
     "longitude": "17.03173000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2089,7 +1751,7 @@
     "latitude": "51.14783000",
     "longitude": "17.12744000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2102,7 +1764,7 @@
     "latitude": "50.50426000",
     "longitude": "16.40061000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2115,7 +1777,7 @@
     "latitude": "51.05413000",
     "longitude": "17.10932000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2128,7 +1790,7 @@
     "latitude": "51.03308000",
     "longitude": "17.27205000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2141,7 +1803,7 @@
     "latitude": "51.13375000",
     "longitude": "17.07107000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2154,7 +1816,7 @@
     "latitude": "51.11669000",
     "longitude": "17.06126000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2167,7 +1829,7 @@
     "latitude": "51.12056000",
     "longitude": "17.03761000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2180,7 +1842,7 @@
     "latitude": "51.07660000",
     "longitude": "17.02582000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2193,7 +1855,7 @@
     "latitude": "51.12970000",
     "longitude": "17.03376000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2206,7 +1868,7 @@
     "latitude": "51.09145000",
     "longitude": "17.00207000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2219,7 +1881,7 @@
     "latitude": "51.08614000",
     "longitude": "17.00050000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2232,7 +1894,7 @@
     "latitude": "51.10247000",
     "longitude": "17.04827000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2245,7 +1907,7 @@
     "latitude": "51.14344000",
     "longitude": "17.01987000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2258,7 +1920,7 @@
     "latitude": "51.50981000",
     "longitude": "16.26363000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2271,7 +1933,7 @@
     "latitude": "51.41626000",
     "longitude": "16.42510000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2284,7 +1946,7 @@
     "latitude": "51.10995000",
     "longitude": "17.10200000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2297,7 +1959,7 @@
     "latitude": "51.03384000",
     "longitude": "17.14743000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2310,7 +1972,7 @@
     "latitude": "51.12217000",
     "longitude": "15.19375000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2323,7 +1985,7 @@
     "latitude": "51.07322000",
     "longitude": "16.88221000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2336,7 +1998,7 @@
     "latitude": "50.89992000",
     "longitude": "16.74441000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2349,7 +2011,7 @@
     "latitude": "51.15282000",
     "longitude": "17.07103000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2362,7 +2024,7 @@
     "latitude": "50.81830000",
     "longitude": "15.72315000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2375,7 +2037,7 @@
     "latitude": "51.16406000",
     "longitude": "16.59508000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2388,7 +2050,7 @@
     "latitude": "51.15375000",
     "longitude": "16.90020000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2401,7 +2063,7 @@
     "latitude": "50.93106000",
     "longitude": "16.37426000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2414,7 +2076,7 @@
     "latitude": "50.91602000",
     "longitude": "15.57286000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2427,7 +2089,7 @@
     "latitude": "50.84752000",
     "longitude": "16.19308000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2440,7 +2102,7 @@
     "latitude": "50.59986000",
     "longitude": "16.73896000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2453,7 +2115,7 @@
     "latitude": "51.10486000",
     "longitude": "17.15073000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2466,7 +2128,7 @@
     "latitude": "50.29554000",
     "longitude": "16.87397000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2479,7 +2141,7 @@
     "latitude": "50.96264000",
     "longitude": "16.35006000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2492,7 +2154,7 @@
     "latitude": "50.78157000",
     "longitude": "17.06477000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2505,7 +2167,7 @@
     "latitude": "51.07624000",
     "longitude": "15.06792000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2518,7 +2180,7 @@
     "latitude": "51.49966000",
     "longitude": "17.16811000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2531,7 +2193,7 @@
     "latitude": "50.84378000",
     "longitude": "16.48859000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2544,7 +2206,7 @@
     "latitude": "50.85974000",
     "longitude": "16.31966000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2557,7 +2219,7 @@
     "latitude": "50.90920000",
     "longitude": "15.34309000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2570,7 +2232,7 @@
     "latitude": "51.01375000",
     "longitude": "15.89516000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2583,7 +2245,7 @@
     "latitude": "51.02596000",
     "longitude": "17.11464000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2596,7 +2258,7 @@
     "latitude": "51.11567000",
     "longitude": "17.12535000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2609,7 +2271,7 @@
     "latitude": "51.30814000",
     "longitude": "17.71979000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2622,7 +2284,7 @@
     "latitude": "50.80352000",
     "longitude": "16.25655000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2635,7 +2297,7 @@
     "latitude": "51.19796000",
     "longitude": "16.61064000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2648,7 +2310,7 @@
     "latitude": "50.41343000",
     "longitude": "16.44743000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2661,7 +2323,7 @@
     "latitude": "50.82567000",
     "longitude": "15.52274000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2674,7 +2336,7 @@
     "latitude": "51.31076000",
     "longitude": "17.06331000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2687,7 +2349,7 @@
     "latitude": "51.36487000",
     "longitude": "17.46878000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2700,7 +2362,7 @@
     "latitude": "51.01948000",
     "longitude": "16.91998000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2713,7 +2375,7 @@
     "latitude": "50.75487000",
     "longitude": "16.68175000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2726,7 +2388,7 @@
     "latitude": "51.03740000",
     "longitude": "16.45469000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2739,7 +2401,7 @@
     "latitude": "50.69749000",
     "longitude": "16.44482000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2752,7 +2414,7 @@
     "latitude": "50.77141000",
     "longitude": "16.28432000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2765,7 +2427,7 @@
     "latitude": "51.56224000",
     "longitude": "16.69059000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2778,7 +2440,7 @@
     "latitude": "51.28753000",
     "longitude": "15.22894000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2791,7 +2453,7 @@
     "latitude": "50.81399000",
     "longitude": "17.20214000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2804,7 +2466,7 @@
     "latitude": "51.17093000",
     "longitude": "17.02164000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2817,7 +2479,7 @@
     "latitude": "50.93674000",
     "longitude": "17.17961000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2830,7 +2492,7 @@
     "latitude": "51.12944000",
     "longitude": "17.15472000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2843,7 +2505,7 @@
     "latitude": "51.09212000",
     "longitude": "15.92824000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2856,7 +2518,7 @@
     "latitude": "51.47032000",
     "longitude": "16.61390000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2869,7 +2531,7 @@
     "latitude": "51.01635000",
     "longitude": "15.67474000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2882,7 +2544,7 @@
     "latitude": "50.95194000",
     "longitude": "15.92185000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2895,7 +2557,7 @@
     "latitude": "51.05837000",
     "longitude": "17.04513000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2908,7 +2570,7 @@
     "latitude": "51.33656000",
     "longitude": "16.64429000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2921,7 +2583,7 @@
     "latitude": "51.10810000",
     "longitude": "17.03859000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2934,7 +2596,7 @@
     "latitude": "50.58969000",
     "longitude": "16.81239000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2947,7 +2609,7 @@
     "latitude": "51.12303000",
     "longitude": "17.07465000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2960,7 +2622,7 @@
     "latitude": "51.19134000",
     "longitude": "15.86533000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2973,7 +2635,7 @@
     "latitude": "51.16624000",
     "longitude": "17.13688000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2986,7 +2648,7 @@
     "latitude": "51.11970000",
     "longitude": "17.09194000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -2999,7 +2661,7 @@
     "latitude": "50.94116000",
     "longitude": "16.49466000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -3012,7 +2674,7 @@
     "latitude": "51.03308000",
     "longitude": "17.05662000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -3025,7 +2687,7 @@
     "latitude": "51.14942000",
     "longitude": "15.00835000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -3038,7 +2700,7 @@
     "latitude": "51.13833000",
     "longitude": "17.13365000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -3051,7 +2713,7 @@
     "latitude": "50.60122000",
     "longitude": "17.04065000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -3064,7 +2726,7 @@
     "latitude": "51.13769000",
     "longitude": "16.88923000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -3077,7 +2739,7 @@
     "latitude": "51.12637000",
     "longitude": "15.91979000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -3090,7 +2752,7 @@
     "latitude": "50.44472000",
     "longitude": "16.87586000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -3103,7 +2765,7 @@
     "latitude": "51.46672000",
     "longitude": "16.90564000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   },
   {
@@ -3116,7 +2778,7 @@
     "latitude": "50.98080000",
     "longitude": "17.03671000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Warsaw",
     "translations": {}
   }
 ]

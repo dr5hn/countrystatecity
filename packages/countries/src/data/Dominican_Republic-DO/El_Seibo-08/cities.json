@@ -9,7 +9,7 @@
     "latitude": "18.98364000",
     "longitude": "-69.04760000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santo_Domingo",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "18.86375000",
     "longitude": "-69.10868000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santo_Domingo",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "18.76559000",
     "longitude": "-69.03886000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santo_Domingo",
     "translations": {}
   }
 ]

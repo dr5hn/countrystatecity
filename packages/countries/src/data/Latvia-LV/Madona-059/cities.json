@@ -9,7 +9,7 @@
     "latitude": "56.96754000",
     "longitude": "26.30764000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Riga",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "56.89752000",
     "longitude": "25.63668000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Riga",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "56.90425000",
     "longitude": "26.71606000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Riga",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "56.85329000",
     "longitude": "26.21698000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Riga",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "12.58231690",
     "longitude": "-81.69261410",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Bogota",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "12.53759790",
     "longitude": "-81.72041550",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Bogota",
     "translations": {}
   }
 ]

@@ -10,7 +10,7 @@
     "latitude": "31.70539960",
     "longitude": "35.19368770",
     "native": "بيت لحم",
-    "timezone": "Asia/Hebron",
+    "timezone": "Asia/Gaza",
     "translations": {}
   },
   {
@@ -52,7 +52,7 @@
     "latitude": "31.53260010",
     "longitude": "35.06394750",
     "native": "الخليل",
-    "timezone": "Asia/Hebron",
+    "timezone": "Asia/Gaza",
     "translations": {}
   },
   {
@@ -66,7 +66,7 @@
     "latitude": "32.42637610",
     "longitude": "35.08568870",
     "native": "جنين",
-    "timezone": "Asia/Hebron",
+    "timezone": "Asia/Gaza",
     "translations": {}
   },
   {
@@ -80,7 +80,7 @@
     "latitude": "31.96764250",
     "longitude": "35.13542790",
     "native": "أريحا",
-    "timezone": "Asia/Hebron",
+    "timezone": "Asia/Gaza",
     "translations": {}
   },
   {
@@ -94,7 +94,7 @@
     "latitude": "31.80203280",
     "longitude": "34.95996640",
     "native": "القدس",
-    "timezone": "Asia/Jerusalem",
+    "timezone": "Asia/Gaza",
     "translations": {}
   },
   {
@@ -122,7 +122,7 @@
     "latitude": "32.22437550",
     "longitude": "35.20647930",
     "native": "نابلس",
-    "timezone": "Asia/Hebron",
+    "timezone": "Asia/Gaza",
     "translations": {}
   },
   {
@@ -150,7 +150,7 @@
     "latitude": "32.18103230",
     "longitude": "34.99369990",
     "native": "قلقيلية",
-    "timezone": "Asia/Hebron",
+    "timezone": "Asia/Gaza",
     "translations": {}
   },
   {
@@ -164,7 +164,7 @@
     "latitude": "31.29688990",
     "longitude": "34.11166850",
     "native": "رفح",
-    "timezone": "Africa/Cairo",
+    "timezone": "Asia/Gaza",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "31.94301450",
     "longitude": "34.86456510",
     "native": "رام الله",
-    "timezone": "Asia/Jerusalem",
+    "timezone": "Asia/Gaza",
     "translations": {}
   },
   {
@@ -192,7 +192,7 @@
     "latitude": "32.11122720",
     "longitude": "34.95787690",
     "native": "سلفيت",
-    "timezone": "Asia/Jerusalem",
+    "timezone": "Asia/Gaza",
     "translations": {}
   },
   {
@@ -206,7 +206,7 @@
     "latitude": "32.29380430",
     "longitude": "34.85109800",
     "native": "طوباس",
-    "timezone": "Asia/Jerusalem",
+    "timezone": "Asia/Gaza",
     "translations": {}
   },
   {
@@ -220,7 +220,7 @@
     "latitude": "32.32766720",
     "longitude": "34.92311080",
     "native": "طولكرم",
-    "timezone": "Asia/Jerusalem",
+    "timezone": "Asia/Gaza",
     "translations": {}
   }
 ]

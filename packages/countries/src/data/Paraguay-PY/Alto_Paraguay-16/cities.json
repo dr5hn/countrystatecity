@@ -9,7 +9,7 @@
     "latitude": "-19.91667000",
     "longitude": "-60.78333000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Asuncion",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-21.04153000",
     "longitude": "-57.87377000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Asuncion",
     "translations": {}
   }
 ]

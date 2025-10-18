@@ -9,7 +9,7 @@
     "latitude": "-34.75647000",
     "longitude": "-65.25379000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-32.06036000",
     "longitude": "-65.82477000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-32.56009000",
     "longitude": "-65.24270000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-33.27544000",
     "longitude": "-66.32017000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "-33.85940000",
     "longitude": "-65.18277000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "-33.18368000",
     "longitude": "-66.31270000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "-33.05258000",
     "longitude": "-65.62385000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "-32.36674000",
     "longitude": "-65.93642000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "-32.34288000",
     "longitude": "-65.01396000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "-32.91656000",
     "longitude": "-65.37535000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "-32.59825000",
     "longitude": "-66.12539000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "-33.29501000",
     "longitude": "-66.33563000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "-32.34286000",
     "longitude": "-65.20323000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "-32.73292000",
     "longitude": "-65.29109000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "-35.15282000",
     "longitude": "-65.94602000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "-32.66535000",
     "longitude": "-66.45052000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "-33.67571000",
     "longitude": "-65.45783000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   }
 ]

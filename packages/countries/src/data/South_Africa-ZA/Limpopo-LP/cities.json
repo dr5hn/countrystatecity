@@ -9,7 +9,7 @@
     "latitude": "-23.28609000",
     "longitude": "29.13964000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Johannesburg",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-23.48163000",
     "longitude": "29.18350000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Johannesburg",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-23.69339000",
     "longitude": "30.14002000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Johannesburg",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-23.64378000",
     "longitude": "30.22324000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Johannesburg",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "-23.30246000",
     "longitude": "30.71868000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Johannesburg",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "-24.20000000",
     "longitude": "29.50000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Johannesburg",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "-23.04385000",
     "longitude": "29.90319000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Johannesburg",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "-23.90000000",
     "longitude": "29.81667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Johannesburg",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "-24.70000000",
     "longitude": "28.40000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Johannesburg",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "-24.19436000",
     "longitude": "29.00974000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Johannesburg",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "-23.76661000",
     "longitude": "30.83600000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Johannesburg",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "-22.34881000",
     "longitude": "30.04074000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Johannesburg",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "-23.88782000",
     "longitude": "30.28708000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Johannesburg",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "-23.94299000",
     "longitude": "31.14107000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Johannesburg",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "-23.90449000",
     "longitude": "29.46885000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Johannesburg",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "-24.82806000",
     "longitude": "29.83803000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Johannesburg",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "-24.59165000",
     "longitude": "27.41155000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Johannesburg",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "-22.94564000",
     "longitude": "30.48497000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Johannesburg",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "-24.72459000",
     "longitude": "31.19939000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Johannesburg",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "-23.83322000",
     "longitude": "30.16351000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Johannesburg",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "-22.75467000",
     "longitude": "30.19360000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Johannesburg",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "-24.88333000",
     "longitude": "28.28333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Johannesburg",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "-24.20514000",
     "longitude": "27.97870000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Johannesburg",
     "translations": {}
   }
 ]

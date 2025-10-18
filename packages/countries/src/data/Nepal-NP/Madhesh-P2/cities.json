@@ -1,7 +1,7 @@
 [
   {
     "id": 153809,
-    "name": "Bara ",
+    "name": "Bara",
     "state_id": 5240,
     "state_code": "P2",
     "country_id": 154,
@@ -9,12 +9,12 @@
     "latitude": "27.10766310",
     "longitude": "84.73878940",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
     "id": 153807,
-    "name": "Dhanusha ",
+    "name": "Dhanusha",
     "state_id": 5240,
     "state_code": "P2",
     "country_id": 154,
@@ -22,12 +22,12 @@
     "latitude": "26.85112570",
     "longitude": "85.72433070",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
     "id": 153813,
-    "name": "Mahottari ",
+    "name": "Mahottari",
     "state_id": 5240,
     "state_code": "P2",
     "country_id": 154,
@@ -35,12 +35,12 @@
     "latitude": "26.88439340",
     "longitude": "85.21963240",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
     "id": 153814,
-    "name": "Parsa ",
+    "name": "Parsa",
     "state_id": 5240,
     "state_code": "P2",
     "country_id": 154,
@@ -48,12 +48,12 @@
     "latitude": "27.21960860",
     "longitude": "83.54541570",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
     "id": 153810,
-    "name": "Rautahat ",
+    "name": "Rautahat",
     "state_id": 5240,
     "state_code": "P2",
     "country_id": 154,
@@ -61,12 +61,12 @@
     "latitude": "26.98892410",
     "longitude": "85.00379450",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
     "id": 153811,
-    "name": "Saptari ",
+    "name": "Saptari",
     "state_id": 5240,
     "state_code": "P2",
     "country_id": 154,
@@ -74,12 +74,12 @@
     "latitude": "26.60706670",
     "longitude": "86.42052270",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
     "id": 153808,
-    "name": "Sarlahi ",
+    "name": "Sarlahi",
     "state_id": 5240,
     "state_code": "P2",
     "country_id": 154,
@@ -87,12 +87,12 @@
     "latitude": "26.96861190",
     "longitude": "85.23906480",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
     "id": 153812,
-    "name": "Siraha ",
+    "name": "Siraha",
     "state_id": 5240,
     "state_code": "P2",
     "country_id": 154,
@@ -100,7 +100,7 @@
     "latitude": "26.74287390",
     "longitude": "86.01304490",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   }
 ]

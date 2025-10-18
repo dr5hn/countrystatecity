@@ -9,7 +9,7 @@
     "latitude": "3.90045000",
     "longitude": "73.46623000",
     "native": null,
-    "timezone": null,
+    "timezone": "Indian/Maldives",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "4.21169000",
     "longitude": "73.54008000",
     "native": null,
-    "timezone": null,
+    "timezone": "Indian/Maldives",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "3.94231000",
     "longitude": "73.49070000",
     "native": null,
-    "timezone": null,
+    "timezone": "Indian/Maldives",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "4.17521000",
     "longitude": "73.50916000",
     "native": null,
-    "timezone": null,
+    "timezone": "Indian/Maldives",
     "translations": {}
   }
 ]

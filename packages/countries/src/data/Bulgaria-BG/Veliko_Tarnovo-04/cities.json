@@ -9,7 +9,7 @@
     "latitude": "43.20000000",
     "longitude": "25.30000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "43.03333000",
     "longitude": "25.61667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "42.93333000",
     "longitude": "25.88333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "43.12778000",
     "longitude": "25.70167000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "42.98333000",
     "longitude": "25.63333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "43.11111000",
     "longitude": "25.72833000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "42.91667000",
     "longitude": "25.95000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "43.21667000",
     "longitude": "25.75000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "43.13333000",
     "longitude": "25.85000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "43.28333000",
     "longitude": "25.35000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "43.35000000",
     "longitude": "25.58333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "43.26667000",
     "longitude": "25.98333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "43.16667000",
     "longitude": "25.20000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "43.53333000",
     "longitude": "25.35000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "43.08241000",
     "longitude": "25.63202000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "43.06667000",
     "longitude": "25.98333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "43.15000000",
     "longitude": "25.65000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "43.24278000",
     "longitude": "25.32194000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "43.37233000",
     "longitude": "25.63525000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "43.23333000",
     "longitude": "25.96667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "43.19167000",
     "longitude": "25.18111000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "43.61875000",
     "longitude": "25.35033000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "43.08124000",
     "longitude": "25.62904000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "43.05000000",
     "longitude": "25.90000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   }
 ]

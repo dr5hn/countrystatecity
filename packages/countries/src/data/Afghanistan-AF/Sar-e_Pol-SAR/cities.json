@@ -9,7 +9,7 @@
     "latitude": "35.41674000",
     "longitude": "65.98234000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kabul",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "35.48936000",
     "longitude": "66.66409000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kabul",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "35.54729000",
     "longitude": "65.56760000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kabul",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "35.84972000",
     "longitude": "66.43694000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kabul",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "36.21544000",
     "longitude": "65.93249000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kabul",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "35.69941000",
     "longitude": "66.06164000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kabul",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "35.94831000",
     "longitude": "66.42132000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kabul",
     "translations": {}
   }
 ]

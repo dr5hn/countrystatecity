@@ -9,7 +9,7 @@
     "latitude": "5.10658000",
     "longitude": "-75.94244000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Bogota",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "4.92284000",
     "longitude": "-75.94030000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Bogota",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "5.20087000",
     "longitude": "-75.86865000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Bogota",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "4.83916000",
     "longitude": "-75.66727000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Bogota",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "5.31569000",
     "longitude": "-75.79826000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Bogota",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "5.00332000",
     "longitude": "-76.00355000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Bogota",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "4.89972000",
     "longitude": "-75.88250000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Bogota",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "4.95238000",
     "longitude": "-75.75265000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Bogota",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "5.29622000",
     "longitude": "-75.88390000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Bogota",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "4.76896000",
     "longitude": "-75.72222000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Bogota",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "5.29453000",
     "longitude": "-76.06702000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Bogota",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "5.33957000",
     "longitude": "-75.73018000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Bogota",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "4.86806000",
     "longitude": "-75.62139000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Bogota",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "5.05321000",
     "longitude": "-75.99060000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Bogota",
     "translations": {}
   }
 ]

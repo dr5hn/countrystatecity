@@ -9,7 +9,7 @@
     "latitude": "-25.26263000",
     "longitude": "-57.25443000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Asuncion",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-25.05478000",
     "longitude": "-57.09873000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Asuncion",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-25.27876000",
     "longitude": "-57.17192000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Asuncion",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-25.38575000",
     "longitude": "-57.14217000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Asuncion",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "-25.23844000",
     "longitude": "-56.82693000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Asuncion",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "-25.15000000",
     "longitude": "-57.35000000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Asuncion",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "-25.38276000",
     "longitude": "-56.96088000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Asuncion",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "-25.30853000",
     "longitude": "-56.89986000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Asuncion",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "-25.46158000",
     "longitude": "-56.85333000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Asuncion",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "-25.46498000",
     "longitude": "-57.04183000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Asuncion",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "-25.31067000",
     "longitude": "-57.29628000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Asuncion",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "-25.41327000",
     "longitude": "-56.79708000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Asuncion",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "-25.26111000",
     "longitude": "-57.08329000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Asuncion",
     "translations": {}
   }
 ]

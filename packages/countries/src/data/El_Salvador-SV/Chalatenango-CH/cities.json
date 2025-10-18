@@ -9,7 +9,7 @@
     "latitude": "14.03333000",
     "longitude": "-88.93333000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/El_Salvador",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "14.13333000",
     "longitude": "-89.30000000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/El_Salvador",
     "translations": {}
   }
 ]

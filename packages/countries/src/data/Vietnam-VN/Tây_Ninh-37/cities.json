@@ -9,7 +9,7 @@
     "latitude": "10.60857000",
     "longitude": "106.67135000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "11.12889000",
     "longitude": "106.14296000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "10.68858000",
     "longitude": "106.45484000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "10.54148000",
     "longitude": "106.59636000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "10.57742000",
     "longitude": "106.67279000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "10.45214000",
     "longitude": "106.49015000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "11.31833000",
     "longitude": "106.25697000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "10.87838000",
     "longitude": "106.42422000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "10.86473000",
     "longitude": "106.25914000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "11.15737000",
     "longitude": "106.27307000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "11.26706000",
     "longitude": "106.14486000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "10.75166000",
     "longitude": "106.01729000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "11.58739000",
     "longitude": "106.28270000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "10.83380000",
     "longitude": "105.68848000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "10.60351000",
     "longitude": "105.96576000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "10.53182000",
     "longitude": "106.51644000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "10.66667000",
     "longitude": "106.16667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "10.65639000",
     "longitude": "106.34580000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "11.05720000",
     "longitude": "106.37539000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "10.88299000",
     "longitude": "105.80364000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "11.28333000",
     "longitude": "106.13333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "10.53589000",
     "longitude": "106.41366000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "11.31004000",
     "longitude": "106.09828000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "27.43050000",
     "longitude": "89.41334000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Thimphu",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "27.23330000",
     "longitude": "89.45000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Thimphu",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "27.43330000",
     "longitude": "89.65000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Thimphu",
     "translations": {}
   }
 ]

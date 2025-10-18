@@ -9,7 +9,7 @@
     "latitude": "15.55177000",
     "longitude": "32.53241000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Khartoum",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "15.64453000",
     "longitude": "32.47773000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Khartoum",
     "translations": {}
   }
 ]

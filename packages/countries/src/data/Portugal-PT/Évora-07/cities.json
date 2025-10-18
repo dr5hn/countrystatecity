@@ -9,7 +9,7 @@
     "latitude": "38.62924000",
     "longitude": "-7.36599000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Lisbon",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "38.76774000",
     "longitude": "-7.95831000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Lisbon",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "38.80553000",
     "longitude": "-7.45465000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Lisbon",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "38.84996000",
     "longitude": "-7.60117000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Lisbon",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "38.56667000",
     "longitude": "-7.90000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Lisbon",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "38.67103000",
     "longitude": "-8.29956000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Lisbon",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "38.92174000",
     "longitude": "-8.09972000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Lisbon",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "38.29778000",
     "longitude": "-7.22230000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Lisbon",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "38.29385000",
     "longitude": "-7.72762000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Lisbon",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "38.58010000",
     "longitude": "-7.59659000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Lisbon",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "38.42529000",
     "longitude": "-7.53494000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Lisbon",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "38.63975000",
     "longitude": "-8.54702000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Lisbon",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "38.33645000",
     "longitude": "-8.00011000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Lisbon",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "38.78790000",
     "longitude": "-7.41852000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Lisbon",
     "translations": {}
   }
 ]

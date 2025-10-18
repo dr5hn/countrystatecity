@@ -9,7 +9,7 @@
     "latitude": "-8.26785000",
     "longitude": "125.59699000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Dili",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-8.52047000",
     "longitude": "125.60837000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Dili",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-8.55861000",
     "longitude": "125.57361000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Dili",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-8.53007000",
     "longitude": "125.74163000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Dili",
     "translations": {}
   }
 ]

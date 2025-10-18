@@ -9,7 +9,7 @@
     "latitude": "33.53613000",
     "longitude": "70.34607000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Karachi",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "32.67087000",
     "longitude": "70.33917000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Karachi",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "34.09880000",
     "longitude": "71.14108000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Karachi",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "33.00059000",
     "longitude": "70.07117000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Karachi",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "32.95087000",
     "longitude": "69.95764000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Karachi",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "34.32959000",
     "longitude": "71.17852000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Karachi",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "32.30397000",
     "longitude": "69.68207000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Karachi",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "32.29889000",
     "longitude": "69.57250000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Karachi",
     "translations": {}
   }
 ]

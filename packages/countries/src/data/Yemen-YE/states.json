@@ -42,6 +42,20 @@
     "translations": {}
   },
   {
+    "id": 5467,
+    "name": "Ad Dali'",
+    "country_id": 245,
+    "country_code": "YE",
+    "fips_code": null,
+    "iso2": "DA",
+    "type": "governorate",
+    "latitude": "13.70000000",
+    "longitude": "44.73000000",
+    "native": "الضالع",
+    "timezone": "Asia/Aden",
+    "translations": {}
+  },
+  {
     "id": 1240,
     "name": "Al Bayda'",
     "country_id": 245,

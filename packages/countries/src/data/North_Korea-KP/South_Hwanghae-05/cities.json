@@ -9,7 +9,7 @@
     "latitude": "38.24306000",
     "longitude": "125.78000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Pyongyang",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "38.39917000",
     "longitude": "125.61556000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Pyongyang",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "38.25083000",
     "longitude": "125.09611000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Pyongyang",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "38.04056000",
     "longitude": "125.71472000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Pyongyang",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "37.97083000",
     "longitude": "126.55444000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Pyongyang",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "37.93472000",
     "longitude": "125.36194000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Pyongyang",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "38.04750000",
     "longitude": "125.55667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Pyongyang",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "37.90889000",
     "longitude": "126.16111000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Pyongyang",
     "translations": {}
   }
 ]

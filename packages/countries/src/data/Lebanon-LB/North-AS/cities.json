@@ -9,7 +9,7 @@
     "latitude": "34.25528000",
     "longitude": "35.65806000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Beirut",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "34.25083000",
     "longitude": "36.01056000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Beirut",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "34.43352000",
     "longitude": "35.84415000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Beirut",
     "translations": {}
   }
 ]

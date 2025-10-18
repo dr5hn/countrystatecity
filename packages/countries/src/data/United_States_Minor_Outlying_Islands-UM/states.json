@@ -10,7 +10,7 @@
     "latitude": "0.19362660",
     "longitude": "-176.47690800",
     "native": "Baker Island",
-    "timezone": "Etc/GMT+12",
+    "timezone": "Pacific/Midway",
     "translations": {}
   },
   {
@@ -24,7 +24,7 @@
     "latitude": "0.81132190",
     "longitude": "-176.61827360",
     "native": "Howland Island",
-    "timezone": "Etc/GMT+12",
+    "timezone": "Pacific/Midway",
     "translations": {}
   },
   {
@@ -38,7 +38,7 @@
     "latitude": "-0.37435030",
     "longitude": "-159.99672060",
     "native": "Jarvis Island",
-    "timezone": "Etc/GMT+11",
+    "timezone": "Pacific/Midway",
     "translations": {}
   },
   {
@@ -52,7 +52,7 @@
     "latitude": "16.72950350",
     "longitude": "-169.53364770",
     "native": "Johnston Atoll",
-    "timezone": "Pacific/Honolulu",
+    "timezone": "Pacific/Midway",
     "translations": {}
   },
   {
@@ -66,7 +66,7 @@
     "latitude": "6.38333300",
     "longitude": "-162.41666700",
     "native": "Kingman Reef",
-    "timezone": "Etc/GMT+11",
+    "timezone": "Pacific/Midway",
     "translations": {}
   },
   {
@@ -94,7 +94,7 @@
     "latitude": "18.41006890",
     "longitude": "-75.01146120",
     "native": "Navassa Island",
-    "timezone": "America/Port-au-Prince",
+    "timezone": "Pacific/Midway",
     "translations": {}
   },
   {
@@ -108,7 +108,7 @@
     "latitude": "5.88850260",
     "longitude": "-162.07866560",
     "native": "Palmyra atoll",
-    "timezone": "Etc/GMT+11",
+    "timezone": "Pacific/Midway",
     "translations": {}
   },
   {
@@ -122,7 +122,7 @@
     "latitude": "19.27961900",
     "longitude": "166.64993480",
     "native": "Wake Island",
-    "timezone": "Pacific/Wake",
+    "timezone": "Pacific/Midway",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "44.86995000",
     "longitude": "18.81012000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sarajevo",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "44.82837000",
     "longitude": "18.72420000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sarajevo",
     "translations": {}
   }
 ]

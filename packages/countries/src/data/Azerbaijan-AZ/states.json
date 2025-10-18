@@ -420,6 +420,20 @@
     "translations": {}
   },
   {
+    "id": 5472,
+    "name": "Khankendi",
+    "country_id": 16,
+    "country_code": "AZ",
+    "fips_code": null,
+    "iso2": "XA",
+    "type": "municipality",
+    "latitude": "39.82660000",
+    "longitude": "46.75560000",
+    "native": "Xankəndi",
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
     "id": 537,
     "name": "Khizi",
     "country_id": 16,
@@ -556,6 +570,34 @@
     "latitude": "40.77025630",
     "longitude": "47.04960150",
     "native": "Mingachevir",
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 5470,
+    "name": "Naftalan",
+    "country_id": 16,
+    "country_code": "AZ",
+    "fips_code": null,
+    "iso2": "NA",
+    "type": "municipality",
+    "latitude": "40.50610000",
+    "longitude": "46.82440000",
+    "native": "Naftalan",
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 5471,
+    "name": "Nakhchivan",
+    "country_id": 16,
+    "country_code": "AZ",
+    "fips_code": null,
+    "iso2": "NV",
+    "type": "municipality",
+    "latitude": "39.20890000",
+    "longitude": "45.41220000",
+    "native": "Naxçıvan",
     "timezone": "Asia/Baku",
     "translations": {}
   },
@@ -980,20 +1022,6 @@
     "translations": {}
   },
   {
-    "id": 538,
-    "name": "Yevlakh",
-    "country_id": 16,
-    "country_code": "AZ",
-    "fips_code": null,
-    "iso2": "YE",
-    "type": "municipality",
-    "latitude": "40.61151360",
-    "longitude": "47.14666860",
-    "native": "Yevlakh",
-    "timezone": "Asia/Baku",
-    "translations": {}
-  },
-  {
     "id": 523,
     "name": "Yevlakh",
     "country_id": 16,
@@ -1004,6 +1032,20 @@
     "latitude": "40.61151360",
     "longitude": "47.14666860",
     "native": "Yevlax",
+    "timezone": "Asia/Baku",
+    "translations": {}
+  },
+  {
+    "id": 538,
+    "name": "Yevlakh",
+    "country_id": 16,
+    "country_code": "AZ",
+    "fips_code": null,
+    "iso2": "YE",
+    "type": "municipality",
+    "latitude": "40.61151360",
+    "longitude": "47.14666860",
+    "native": "Yevlakh",
     "timezone": "Asia/Baku",
     "translations": {}
   },

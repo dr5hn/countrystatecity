@@ -9,7 +9,7 @@
     "latitude": "-24.13333000",
     "longitude": "19.11667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Windhoek",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-23.91667000",
     "longitude": "18.05000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Windhoek",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-24.83333000",
     "longitude": "16.98333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Windhoek",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-24.63333000",
     "longitude": "17.96667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Windhoek",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "-23.31700000",
     "longitude": "17.09000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Windhoek",
     "translations": {}
   }
 ]

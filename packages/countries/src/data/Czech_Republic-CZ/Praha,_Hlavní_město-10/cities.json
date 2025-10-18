@@ -9,7 +9,7 @@
     "latitude": "50.03498000",
     "longitude": "14.41518000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "50.10475000",
     "longitude": "14.57974000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "50.08760000",
     "longitude": "14.57199000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "50.02346000",
     "longitude": "14.41415000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "50.11210000",
     "longitude": "14.61036000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "50.09283000",
     "longitude": "14.55822000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "50.09272000",
     "longitude": "14.44711000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "50.13333000",
     "longitude": "14.55000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "50.13333000",
     "longitude": "14.51667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "50.10819000",
     "longitude": "14.47457000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "50.08774000",
     "longitude": "14.40449000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "50.01116000",
     "longitude": "14.40960000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "50.08804000",
     "longitude": "14.42076000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "50.08802000",
     "longitude": "14.42166000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "49.98357000",
     "longitude": "14.36110000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "50.11568000",
     "longitude": "14.61122000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "50.07521000",
     "longitude": "14.66898000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "50.11525000",
     "longitude": "14.50685000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "50.12484000",
     "longitude": "14.57191000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "50.08700000",
     "longitude": "14.42024000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "50.12674000",
     "longitude": "14.49363000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "50.06509000",
     "longitude": "14.41711000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "50.10938000",
     "longitude": "14.51667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Prague",
     "translations": {}
   }
 ]

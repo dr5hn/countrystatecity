@@ -9,7 +9,7 @@
     "latitude": "49.40000000",
     "longitude": "6.70000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "49.34615000",
     "longitude": "7.25527000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "49.23724000",
     "longitude": "7.25617000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "49.27732000",
     "longitude": "6.80131000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "49.52061000",
     "longitude": "6.67651000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "49.35557000",
     "longitude": "6.72781000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "49.30000000",
     "longitude": "6.78333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "49.40000000",
     "longitude": "6.96667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "49.55000000",
     "longitude": "7.25000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "49.32786000",
     "longitude": "7.09622000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "49.24075000",
     "longitude": "6.86817000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "49.15000000",
     "longitude": "7.20000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "49.20296000",
     "longitude": "6.84148000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "49.38260000",
     "longitude": "7.21046000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "49.25571000",
     "longitude": "6.88156000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "49.33632000",
     "longitude": "6.93036000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "49.32637000",
     "longitude": "7.33867000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "49.37362000",
     "longitude": "7.04758000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "49.28333000",
     "longitude": "7.23333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "49.15780000",
     "longitude": "7.03734000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "49.41122000",
     "longitude": "6.90988000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "49.50990000",
     "longitude": "6.74549000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "49.22074000",
     "longitude": "6.81195000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "49.24932000",
     "longitude": "6.90057000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "49.41714000",
     "longitude": "7.11804000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "49.45228000",
     "longitude": "7.05820000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "49.35000000",
     "longitude": "7.05000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "49.44331000",
     "longitude": "6.63874000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "49.49489000",
     "longitude": "6.58562000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -386,7 +386,7 @@
     "latitude": "49.38333000",
     "longitude": "6.78333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -399,7 +399,7 @@
     "latitude": "49.52166000",
     "longitude": "7.14070000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -412,7 +412,7 @@
     "latitude": "49.34449000",
     "longitude": "7.18045000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -425,7 +425,7 @@
     "latitude": "49.58693000",
     "longitude": "7.14283000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -438,7 +438,7 @@
     "latitude": "49.60762000",
     "longitude": "6.96986000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -451,7 +451,7 @@
     "latitude": "49.51257000",
     "longitude": "7.08382000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -464,7 +464,7 @@
     "latitude": "49.50593000",
     "longitude": "6.52502000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -477,7 +477,7 @@
     "latitude": "49.40133000",
     "longitude": "7.16424000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -490,7 +490,7 @@
     "latitude": "49.28550000",
     "longitude": "6.88723000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -503,7 +503,7 @@
     "latitude": "49.31667000",
     "longitude": "7.05000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -516,7 +516,7 @@
     "latitude": "49.30000000",
     "longitude": "6.93333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -529,7 +529,7 @@
     "latitude": "49.27102000",
     "longitude": "6.83457000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -542,7 +542,7 @@
     "latitude": "49.23262000",
     "longitude": "7.00982000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -555,7 +555,7 @@
     "latitude": "49.51585000",
     "longitude": "6.60742000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -568,7 +568,7 @@
     "latitude": "49.31366000",
     "longitude": "6.75154000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -581,7 +581,7 @@
     "latitude": "49.35430000",
     "longitude": "6.80487000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -594,7 +594,7 @@
     "latitude": "49.27697000",
     "longitude": "7.11672000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -607,7 +607,7 @@
     "latitude": "49.46633000",
     "longitude": "7.16814000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -620,7 +620,7 @@
     "latitude": "49.36667000",
     "longitude": "7.13333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -633,7 +633,7 @@
     "latitude": "49.43333000",
     "longitude": "6.85000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -646,7 +646,7 @@
     "latitude": "49.30000000",
     "longitude": "6.81667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -659,7 +659,7 @@
     "latitude": "49.31667000",
     "longitude": "7.13333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -672,7 +672,7 @@
     "latitude": "49.29882000",
     "longitude": "7.05696000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -685,7 +685,7 @@
     "latitude": "49.48374000",
     "longitude": "7.03691000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -698,7 +698,7 @@
     "latitude": "49.24187000",
     "longitude": "6.69840000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -711,7 +711,7 @@
     "latitude": "49.25162000",
     "longitude": "6.85873000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -724,7 +724,7 @@
     "latitude": "49.54122000",
     "longitude": "6.88774000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -737,7 +737,7 @@
     "latitude": "49.26667000",
     "longitude": "6.78333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -750,7 +750,7 @@
     "latitude": "49.32749000",
     "longitude": "6.71102000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -763,7 +763,7 @@
     "latitude": "49.55000000",
     "longitude": "6.81667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   },
   {
@@ -776,7 +776,7 @@
     "latitude": "49.53011000",
     "longitude": "6.54064000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Berlin",
     "translations": {}
   }
 ]

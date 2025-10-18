@@ -9,7 +9,7 @@
     "latitude": "34.17817000",
     "longitude": "-82.37901000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "34.22257000",
     "longitude": "-82.45871000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "33.56042000",
     "longitude": "-81.71955000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "33.54437000",
     "longitude": "-81.63474000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "33.00793000",
     "longitude": "-81.30844000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "32.98811000",
     "longitude": "-81.35820000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "34.50344000",
     "longitude": "-82.65013000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "34.51909000",
     "longitude": "-82.63788000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "33.45128000",
     "longitude": "-79.56090000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "34.95818000",
     "longitude": "-81.99066000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "34.84595000",
     "longitude": "-82.64152000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "33.03767000",
     "longitude": "-79.61313000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "33.29710000",
     "longitude": "-81.03482000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "33.21477000",
     "longitude": "-81.05423000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "33.24487000",
     "longitude": "-81.35872000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "33.26606000",
     "longitude": "-81.43502000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "33.90792000",
     "longitude": "-81.54733000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "33.91014000",
     "longitude": "-81.53733000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "32.43158000",
     "longitude": "-80.66983000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "32.35706000",
     "longitude": "-80.69217000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "34.52289000",
     "longitude": "-82.49429000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "33.53097000",
     "longitude": "-81.94484000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "34.61738000",
     "longitude": "-79.68478000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "34.88540000",
     "longitude": "-82.45596000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "33.19768000",
     "longitude": "-79.95099000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "34.21821000",
     "longitude": "-80.24841000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "35.12124000",
     "longitude": "-81.51592000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "33.35793000",
     "longitude": "-81.27066000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "32.23715000",
     "longitude": "-80.86039000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -386,7 +386,7 @@
     "latitude": "34.21432000",
     "longitude": "-80.97398000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -399,7 +399,7 @@
     "latitude": "35.04651000",
     "longitude": "-81.98177000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -412,7 +412,7 @@
     "latitude": "33.31989000",
     "longitude": "-80.00036000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -425,7 +425,7 @@
     "latitude": "33.50682000",
     "longitude": "-80.82342000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -438,7 +438,7 @@
     "latitude": "34.72569000",
     "longitude": "-81.68343000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -451,7 +451,7 @@
     "latitude": "33.51541000",
     "longitude": "-81.84900000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -464,7 +464,7 @@
     "latitude": "32.43575000",
     "longitude": "-80.72400000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -477,7 +477,7 @@
     "latitude": "33.67486000",
     "longitude": "-80.78028000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -490,7 +490,7 @@
     "latitude": "34.09234000",
     "longitude": "-82.59569000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -503,7 +503,7 @@
     "latitude": "34.24654000",
     "longitude": "-80.60702000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -516,7 +516,7 @@
     "latitude": "33.90182000",
     "longitude": "-80.45036000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -529,7 +529,7 @@
     "latitude": "34.85292000",
     "longitude": "-80.91119000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -542,7 +542,7 @@
     "latitude": "33.96571000",
     "longitude": "-81.07398000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -555,7 +555,7 @@
     "latitude": "34.53205000",
     "longitude": "-82.70402000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -568,7 +568,7 @@
     "latitude": "34.72427000",
     "longitude": "-82.78125000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -581,7 +581,7 @@
     "latitude": "34.16598000",
     "longitude": "-81.34982000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -594,7 +594,7 @@
     "latitude": "32.77657000",
     "longitude": "-79.93092000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -607,7 +607,7 @@
     "latitude": "32.74917000",
     "longitude": "-79.94202000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -620,7 +620,7 @@
     "latitude": "34.69766000",
     "longitude": "-79.88340000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -633,7 +633,7 @@
     "latitude": "35.04820000",
     "longitude": "-81.62039000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -646,7 +646,7 @@
     "latitude": "33.95571000",
     "longitude": "-80.45814000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -659,7 +659,7 @@
     "latitude": "34.70486000",
     "longitude": "-81.21426000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -672,7 +672,7 @@
     "latitude": "34.69206000",
     "longitude": "-81.15953000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -685,7 +685,7 @@
     "latitude": "34.73599000",
     "longitude": "-80.08812000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -698,7 +698,7 @@
     "latitude": "34.63978000",
     "longitude": "-80.15872000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -711,7 +711,7 @@
     "latitude": "34.86151000",
     "longitude": "-82.43151000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -724,7 +724,7 @@
     "latitude": "33.66581000",
     "longitude": "-80.21640000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -737,7 +737,7 @@
     "latitude": "33.49680000",
     "longitude": "-81.89206000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -750,7 +750,7 @@
     "latitude": "34.68344000",
     "longitude": "-82.83737000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -763,7 +763,7 @@
     "latitude": "34.47263000",
     "longitude": "-81.88066000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -776,7 +776,7 @@
     "latitude": "35.11125000",
     "longitude": "-81.22646000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -789,7 +789,7 @@
     "latitude": "32.84343000",
     "longitude": "-80.64968000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -802,7 +802,7 @@
     "latitude": "34.00071000",
     "longitude": "-81.03481000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -815,7 +815,7 @@
     "latitude": "33.83600000",
     "longitude": "-79.04781000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -828,7 +828,7 @@
     "latitude": "35.01679000",
     "longitude": "-81.80399000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -841,7 +841,7 @@
     "latitude": "34.01682000",
     "longitude": "-80.43008000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -854,7 +854,7 @@
     "latitude": "34.29988000",
     "longitude": "-79.87617000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -867,7 +867,7 @@
     "latitude": "34.33235000",
     "longitude": "-79.95769000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -880,7 +880,7 @@
     "latitude": "33.32265000",
     "longitude": "-81.14232000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -893,7 +893,7 @@
     "latitude": "34.06404000",
     "longitude": "-80.95815000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -906,7 +906,7 @@
     "latitude": "34.41655000",
     "longitude": "-79.37116000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -919,7 +919,7 @@
     "latitude": "34.39152000",
     "longitude": "-79.37893000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -932,7 +932,7 @@
     "latitude": "33.07949000",
     "longitude": "-80.40556000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -945,7 +945,7 @@
     "latitude": "34.33345000",
     "longitude": "-82.38790000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -958,7 +958,7 @@
     "latitude": "34.93790000",
     "longitude": "-82.14511000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -971,7 +971,7 @@
     "latitude": "34.82484000",
     "longitude": "-82.41929000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -984,7 +984,7 @@
     "latitude": "34.82984000",
     "longitude": "-82.60152000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -997,7 +997,7 @@
     "latitude": "35.08013000",
     "longitude": "-81.63287000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1010,7 +1010,7 @@
     "latitude": "33.92544000",
     "longitude": "-80.29619000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1023,7 +1023,7 @@
     "latitude": "33.78958000",
     "longitude": "-81.92956000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1036,7 +1036,7 @@
     "latitude": "33.77229000",
     "longitude": "-81.96658000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1049,7 +1049,7 @@
     "latitude": "33.47654000",
     "longitude": "-80.89870000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1062,7 +1062,7 @@
     "latitude": "34.67293000",
     "longitude": "-80.71896000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1075,7 +1075,7 @@
     "latitude": "32.75489000",
     "longitude": "-81.24205000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1088,7 +1088,7 @@
     "latitude": "34.71764000",
     "longitude": "-81.19370000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1101,7 +1101,7 @@
     "latitude": "32.95905000",
     "longitude": "-81.23650000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1114,7 +1114,7 @@
     "latitude": "34.39511000",
     "longitude": "-81.12123000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1127,7 +1127,7 @@
     "latitude": "34.95651000",
     "longitude": "-82.01011000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1140,7 +1140,7 @@
     "latitude": "34.80484000",
     "longitude": "-82.22956000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1153,7 +1153,7 @@
     "latitude": "34.19543000",
     "longitude": "-79.76256000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1166,7 +1166,7 @@
     "latitude": "34.02439000",
     "longitude": "-79.70282000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1179,7 +1179,7 @@
     "latitude": "32.65518000",
     "longitude": "-79.94037000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1192,7 +1192,7 @@
     "latitude": "34.01932000",
     "longitude": "-80.98981000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1205,7 +1205,7 @@
     "latitude": "33.72239000",
     "longitude": "-78.95809000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1218,7 +1218,7 @@
     "latitude": "35.00737000",
     "longitude": "-80.94508000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1231,7 +1231,7 @@
     "latitude": "34.68901000",
     "longitude": "-82.19567000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1244,7 +1244,7 @@
     "latitude": "33.84571000",
     "longitude": "-80.76592000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1257,7 +1257,7 @@
     "latitude": "35.07179000",
     "longitude": "-81.64982000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1270,7 +1270,7 @@
     "latitude": "34.80012000",
     "longitude": "-82.42429000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1283,7 +1283,7 @@
     "latitude": "33.59295000",
     "longitude": "-79.00865000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1296,7 +1296,7 @@
     "latitude": "33.81710000",
     "longitude": "-81.10093000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1309,7 +1309,7 @@
     "latitude": "33.37683000",
     "longitude": "-79.29450000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1322,7 +1322,7 @@
     "latitude": "33.41275000",
     "longitude": "-79.29934000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1335,7 +1335,7 @@
     "latitude": "33.52597000",
     "longitude": "-81.83011000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1348,7 +1348,7 @@
     "latitude": "34.73401000",
     "longitude": "-82.44374000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1361,7 +1361,7 @@
     "latitude": "32.98101000",
     "longitude": "-80.03259000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1374,7 +1374,7 @@
     "latitude": "33.56375000",
     "longitude": "-81.80789000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1387,7 +1387,7 @@
     "latitude": "34.57514000",
     "longitude": "-80.90202000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1400,7 +1400,7 @@
     "latitude": "34.85262000",
     "longitude": "-82.39401000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1413,7 +1413,7 @@
     "latitude": "34.89431000",
     "longitude": "-82.37072000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1426,7 +1426,7 @@
     "latitude": "34.19540000",
     "longitude": "-82.16179000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1439,7 +1439,7 @@
     "latitude": "34.15383000",
     "longitude": "-82.12593000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1452,7 +1452,7 @@
     "latitude": "34.93873000",
     "longitude": "-82.22706000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1465,7 +1465,7 @@
     "latitude": "32.87794000",
     "longitude": "-81.12761000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1478,7 +1478,7 @@
     "latitude": "32.77628000",
     "longitude": "-81.14070000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1491,7 +1491,7 @@
     "latitude": "32.91851000",
     "longitude": "-80.02203000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1504,7 +1504,7 @@
     "latitude": "32.28714000",
     "longitude": "-81.08067000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1517,7 +1517,7 @@
     "latitude": "34.37404000",
     "longitude": "-80.07340000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1530,7 +1530,7 @@
     "latitude": "32.21632000",
     "longitude": "-80.75261000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1543,7 +1543,7 @@
     "latitude": "32.19382000",
     "longitude": "-80.73816000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1556,7 +1556,7 @@
     "latitude": "33.32266000",
     "longitude": "-80.41370000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1569,7 +1569,7 @@
     "latitude": "32.73434000",
     "longitude": "-80.24177000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1582,7 +1582,7 @@
     "latitude": "34.47066000",
     "longitude": "-82.67069000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1595,7 +1595,7 @@
     "latitude": "34.44650000",
     "longitude": "-82.39151000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1608,7 +1608,7 @@
     "latitude": "33.90432000",
     "longitude": "-80.87703000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1621,7 +1621,7 @@
     "latitude": "33.90448000",
     "longitude": "-78.97615000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1634,7 +1634,7 @@
     "latitude": "35.00737000",
     "longitude": "-81.02174000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1647,7 +1647,7 @@
     "latitude": "35.04706000",
     "longitude": "-82.09011000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1660,7 +1660,7 @@
     "latitude": "35.04151000",
     "longitude": "-82.10428000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1673,7 +1673,7 @@
     "latitude": "34.08598000",
     "longitude": "-81.18315000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1686,7 +1686,7 @@
     "latitude": "34.69376000",
     "longitude": "-80.82229000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1699,7 +1699,7 @@
     "latitude": "32.78684000",
     "longitude": "-79.79480000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1712,7 +1712,7 @@
     "latitude": "34.30650000",
     "longitude": "-82.66374000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1725,7 +1725,7 @@
     "latitude": "33.32542000",
     "longitude": "-81.78789000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1738,7 +1738,7 @@
     "latitude": "32.72374000",
     "longitude": "-79.96284000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1751,7 +1751,7 @@
     "latitude": "32.42195000",
     "longitude": "-81.02327000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1764,7 +1764,7 @@
     "latitude": "34.41491000",
     "longitude": "-81.81240000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1777,7 +1777,7 @@
     "latitude": "33.81794000",
     "longitude": "-79.44922000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1790,7 +1790,7 @@
     "latitude": "33.83208000",
     "longitude": "-81.80094000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1803,7 +1803,7 @@
     "latitude": "34.83317000",
     "longitude": "-82.42762000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1816,7 +1816,7 @@
     "latitude": "34.55182000",
     "longitude": "-80.58368000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1829,7 +1829,7 @@
     "latitude": "34.33876000",
     "longitude": "-80.59026000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1842,7 +1842,7 @@
     "latitude": "32.60824000",
     "longitude": "-80.08482000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1855,7 +1855,7 @@
     "latitude": "33.66766000",
     "longitude": "-79.83063000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1868,7 +1868,7 @@
     "latitude": "32.98573000",
     "longitude": "-80.10981000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1881,7 +1881,7 @@
     "latitude": "33.87100000",
     "longitude": "-79.75535000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1894,7 +1894,7 @@
     "latitude": "34.12048000",
     "longitude": "-81.26450000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1907,7 +1907,7 @@
     "latitude": "34.28455000",
     "longitude": "-82.59457000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1920,7 +1920,7 @@
     "latitude": "35.10848000",
     "longitude": "-81.04285000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1933,7 +1933,7 @@
     "latitude": "33.84683000",
     "longitude": "-80.35008000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1946,7 +1946,7 @@
     "latitude": "34.72043000",
     "longitude": "-80.77090000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1959,7 +1959,7 @@
     "latitude": "34.68670000",
     "longitude": "-80.70543000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1972,7 +1972,7 @@
     "latitude": "34.70931000",
     "longitude": "-80.79479000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1985,7 +1985,7 @@
     "latitude": "35.17511000",
     "longitude": "-82.18928000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -1998,7 +1998,7 @@
     "latitude": "33.51791000",
     "longitude": "-81.84400000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2011,7 +2011,7 @@
     "latitude": "34.33710000",
     "longitude": "-79.43116000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2024,7 +2024,7 @@
     "latitude": "32.45019000",
     "longitude": "-80.78483000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2037,7 +2037,7 @@
     "latitude": "34.49901000",
     "longitude": "-82.01426000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2050,7 +2050,7 @@
     "latitude": "34.48357000",
     "longitude": "-82.00593000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2063,7 +2063,7 @@
     "latitude": "34.16329000",
     "longitude": "-80.25452000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2076,7 +2076,7 @@
     "latitude": "33.91653000",
     "longitude": "-81.51344000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2089,7 +2089,7 @@
     "latitude": "34.89070000",
     "longitude": "-80.95647000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2102,7 +2102,7 @@
     "latitude": "33.98154000",
     "longitude": "-81.23621000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2115,7 +2115,7 @@
     "latitude": "33.90233000",
     "longitude": "-81.27219000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2128,7 +2128,7 @@
     "latitude": "34.78789000",
     "longitude": "-82.69236000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2141,7 +2141,7 @@
     "latitude": "33.00684000",
     "longitude": "-80.15537000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2154,7 +2154,7 @@
     "latitude": "33.87323000",
     "longitude": "-78.61418000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2167,7 +2167,7 @@
     "latitude": "34.05628000",
     "longitude": "-78.89030000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2180,7 +2180,7 @@
     "latitude": "34.22737000",
     "longitude": "-80.68925000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2193,7 +2193,7 @@
     "latitude": "34.94817000",
     "longitude": "-82.12733000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2206,7 +2206,7 @@
     "latitude": "33.69516000",
     "longitude": "-80.21091000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2219,7 +2219,7 @@
     "latitude": "34.17822000",
     "longitude": "-79.40061000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2232,7 +2232,7 @@
     "latitude": "34.08006000",
     "longitude": "-79.36251000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2245,7 +2245,7 @@
     "latitude": "34.60199000",
     "longitude": "-79.67863000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2258,7 +2258,7 @@
     "latitude": "34.77873000",
     "longitude": "-82.31012000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2271,7 +2271,7 @@
     "latitude": "35.08401000",
     "longitude": "-81.85983000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2284,7 +2284,7 @@
     "latitude": "34.66877000",
     "longitude": "-79.54533000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2297,7 +2297,7 @@
     "latitude": "33.91346000",
     "longitude": "-82.29346000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2310,7 +2310,7 @@
     "latitude": "33.89955000",
     "longitude": "-82.30988000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2323,7 +2323,7 @@
     "latitude": "32.71796000",
     "longitude": "-80.23899000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2336,7 +2336,7 @@
     "latitude": "34.71610000",
     "longitude": "-81.58500000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2349,7 +2349,7 @@
     "latitude": "33.19632000",
     "longitude": "-80.01429000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2362,7 +2362,7 @@
     "latitude": "32.79407000",
     "longitude": "-79.86259000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2375,7 +2375,7 @@
     "latitude": "34.20572000",
     "longitude": "-79.25449000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2388,7 +2388,7 @@
     "latitude": "33.60125000",
     "longitude": "-81.94428000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2401,7 +2401,7 @@
     "latitude": "33.55100000",
     "longitude": "-79.04143000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2414,7 +2414,7 @@
     "latitude": "33.68906000",
     "longitude": "-78.88669000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2427,7 +2427,7 @@
     "latitude": "33.42153000",
     "longitude": "-81.68567000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2440,7 +2440,7 @@
     "latitude": "34.27458000",
     "longitude": "-81.61872000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2453,7 +2453,7 @@
     "latitude": "34.28981000",
     "longitude": "-81.60012000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2466,7 +2466,7 @@
     "latitude": "34.98986000",
     "longitude": "-81.10091000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2479,7 +2479,7 @@
     "latitude": "34.17513000",
     "longitude": "-82.02401000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2492,7 +2492,7 @@
     "latitude": "33.50180000",
     "longitude": "-81.96512000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2505,7 +2505,7 @@
     "latitude": "32.85462000",
     "longitude": "-79.97481000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2518,7 +2518,7 @@
     "latitude": "34.39377000",
     "longitude": "-80.06951000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2531,7 +2531,7 @@
     "latitude": "33.81601000",
     "longitude": "-78.68002000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2544,7 +2544,7 @@
     "latitude": "34.56622000",
     "longitude": "-82.68402000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2557,7 +2557,7 @@
     "latitude": "33.98090000",
     "longitude": "-81.14286000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2570,7 +2570,7 @@
     "latitude": "33.98293000",
     "longitude": "-80.48842000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2583,7 +2583,7 @@
     "latitude": "34.75351000",
     "longitude": "-83.06588000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2596,7 +2596,7 @@
     "latitude": "33.49182000",
     "longitude": "-80.85565000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2609,7 +2609,7 @@
     "latitude": "33.43899000",
     "longitude": "-80.80030000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2622,7 +2622,7 @@
     "latitude": "34.89902000",
     "longitude": "-81.76177000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2635,7 +2635,7 @@
     "latitude": "34.77321000",
     "longitude": "-80.39173000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2648,7 +2648,7 @@
     "latitude": "33.99600000",
     "longitude": "-79.57006000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2661,7 +2661,7 @@
     "latitude": "34.85067000",
     "longitude": "-82.45346000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2674,7 +2674,7 @@
     "latitude": "34.65177000",
     "longitude": "-82.78375000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2687,7 +2687,7 @@
     "latitude": "34.88345000",
     "longitude": "-82.70736000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2700,7 +2700,7 @@
     "latitude": "34.88752000",
     "longitude": "-82.72532000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2713,7 +2713,7 @@
     "latitude": "34.70234000",
     "longitude": "-82.46457000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2726,7 +2726,7 @@
     "latitude": "33.91043000",
     "longitude": "-81.10454000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2739,7 +2739,7 @@
     "latitude": "32.37908000",
     "longitude": "-80.69261000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2752,7 +2752,7 @@
     "latitude": "34.79178000",
     "longitude": "-82.49291000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2765,7 +2765,7 @@
     "latitude": "33.83321000",
     "longitude": "-80.41425000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2778,7 +2778,7 @@
     "latitude": "34.20931000",
     "longitude": "-81.53316000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2791,7 +2791,7 @@
     "latitude": "32.76323000",
     "longitude": "-80.25010000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2804,7 +2804,7 @@
     "latitude": "33.93209000",
     "longitude": "-81.23843000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2817,7 +2817,7 @@
     "latitude": "33.82073000",
     "longitude": "-79.01892000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2830,7 +2830,7 @@
     "latitude": "34.02180000",
     "longitude": "-80.90304000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2843,7 +2843,7 @@
     "latitude": "32.48074000",
     "longitude": "-80.98039000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2856,7 +2856,7 @@
     "latitude": "33.09572000",
     "longitude": "-80.31537000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2869,7 +2869,7 @@
     "latitude": "34.92487000",
     "longitude": "-81.02508000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2882,7 +2882,7 @@
     "latitude": "34.87957000",
     "longitude": "-81.96621000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2895,7 +2895,7 @@
     "latitude": "34.04543000",
     "longitude": "-81.12926000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2908,7 +2908,7 @@
     "latitude": "33.18600000",
     "longitude": "-80.57565000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2921,7 +2921,7 @@
     "latitude": "33.66488000",
     "longitude": "-80.77787000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2934,7 +2934,7 @@
     "latitude": "33.40433000",
     "longitude": "-79.92174000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2947,7 +2947,7 @@
     "latitude": "34.00152000",
     "longitude": "-81.77205000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2960,7 +2960,7 @@
     "latitude": "34.00614000",
     "longitude": "-81.72692000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2973,7 +2973,7 @@
     "latitude": "33.03545000",
     "longitude": "-80.12787000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2986,7 +2986,7 @@
     "latitude": "34.87790000",
     "longitude": "-82.42401000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -2999,7 +2999,7 @@
     "latitude": "34.96123000",
     "longitude": "-81.96733000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3012,7 +3012,7 @@
     "latitude": "32.57713000",
     "longitude": "-80.17065000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3025,7 +3025,7 @@
     "latitude": "34.68566000",
     "longitude": "-82.95320000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3038,7 +3038,7 @@
     "latitude": "34.04876000",
     "longitude": "-81.14648000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3051,7 +3051,7 @@
     "latitude": "32.38353000",
     "longitude": "-80.73594000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3064,7 +3064,7 @@
     "latitude": "34.73706000",
     "longitude": "-82.25428000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3077,7 +3077,7 @@
     "latitude": "35.03472000",
     "longitude": "-82.49265000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3090,7 +3090,7 @@
     "latitude": "33.68350000",
     "longitude": "-78.99837000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3103,7 +3103,7 @@
     "latitude": "33.91099000",
     "longitude": "-81.13565000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3116,7 +3116,7 @@
     "latitude": "33.90571000",
     "longitude": "-80.34619000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3129,7 +3129,7 @@
     "latitude": "34.98595000",
     "longitude": "-81.99455000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3142,7 +3142,7 @@
     "latitude": "34.94957000",
     "longitude": "-81.93205000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3155,7 +3155,7 @@
     "latitude": "34.93126000",
     "longitude": "-81.99068000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3168,7 +3168,7 @@
     "latitude": "33.95932000",
     "longitude": "-81.10898000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3181,7 +3181,7 @@
     "latitude": "33.95765000",
     "longitude": "-80.53481000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3194,7 +3194,7 @@
     "latitude": "32.76323000",
     "longitude": "-79.83675000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3207,7 +3207,7 @@
     "latitude": "33.01850000",
     "longitude": "-80.17565000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3220,7 +3220,7 @@
     "latitude": "33.92044000",
     "longitude": "-80.34147000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3233,7 +3233,7 @@
     "latitude": "33.91617000",
     "longitude": "-80.38232000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3246,7 +3246,7 @@
     "latitude": "33.60600000",
     "longitude": "-78.97309000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3259,7 +3259,7 @@
     "latitude": "34.92039000",
     "longitude": "-82.29623000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3272,7 +3272,7 @@
     "latitude": "35.02431000",
     "longitude": "-81.02785000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3285,7 +3285,7 @@
     "latitude": "35.06845000",
     "longitude": "-82.36845000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3298,7 +3298,7 @@
     "latitude": "34.13488000",
     "longitude": "-79.93979000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3311,7 +3311,7 @@
     "latitude": "34.96762000",
     "longitude": "-82.44345000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3324,7 +3324,7 @@
     "latitude": "34.71541000",
     "longitude": "-81.62371000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3337,7 +3337,7 @@
     "latitude": "34.68928000",
     "longitude": "-81.61942000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3350,7 +3350,7 @@
     "latitude": "34.67816000",
     "longitude": "-82.93154000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3363,7 +3363,7 @@
     "latitude": "35.01595000",
     "longitude": "-81.97483000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3376,7 +3376,7 @@
     "latitude": "32.85044000",
     "longitude": "-81.07927000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3389,7 +3389,7 @@
     "latitude": "34.90373000",
     "longitude": "-82.33317000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3402,7 +3402,7 @@
     "latitude": "34.76482000",
     "longitude": "-83.06404000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3415,7 +3415,7 @@
     "latitude": "32.90517000",
     "longitude": "-80.66677000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3428,7 +3428,7 @@
     "latitude": "34.39845000",
     "longitude": "-82.24679000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3441,7 +3441,7 @@
     "latitude": "33.55097000",
     "longitude": "-81.80400000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3454,7 +3454,7 @@
     "latitude": "34.51641000",
     "longitude": "-81.98580000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3467,7 +3467,7 @@
     "latitude": "33.89266000",
     "longitude": "-80.51814000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3480,7 +3480,7 @@
     "latitude": "33.88377000",
     "longitude": "-80.51258000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3493,7 +3493,7 @@
     "latitude": "34.82651000",
     "longitude": "-82.43901000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3506,7 +3506,7 @@
     "latitude": "34.95095000",
     "longitude": "-82.10594000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3519,7 +3519,7 @@
     "latitude": "33.99349000",
     "longitude": "-81.07398000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3532,7 +3532,7 @@
     "latitude": "34.66482000",
     "longitude": "-83.09654000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3545,7 +3545,7 @@
     "latitude": "34.50291000",
     "longitude": "-81.61149000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3558,7 +3558,7 @@
     "latitude": "33.50210000",
     "longitude": "-80.83315000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3571,7 +3571,7 @@
     "latitude": "33.61993000",
     "longitude": "-79.72771000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3584,7 +3584,7 @@
     "latitude": "34.61845000",
     "longitude": "-82.47791000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3597,7 +3597,7 @@
     "latitude": "33.40265000",
     "longitude": "-81.42011000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3610,7 +3610,7 @@
     "latitude": "34.38070000",
     "longitude": "-81.08648000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3623,7 +3623,7 @@
     "latitude": "34.36181000",
     "longitude": "-81.08537000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3636,7 +3636,7 @@
     "latitude": "34.05932000",
     "longitude": "-80.93092000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3649,7 +3649,7 @@
     "latitude": "34.73957000",
     "longitude": "-82.03705000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3662,7 +3662,7 @@
     "latitude": "34.99430000",
     "longitude": "-81.24202000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -3675,7 +3675,7 @@
     "latitude": "34.97475000",
     "longitude": "-81.18442000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   }
 ]

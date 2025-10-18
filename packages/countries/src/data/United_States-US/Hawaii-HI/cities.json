@@ -9,7 +9,7 @@
     "latitude": "21.44472000",
     "longitude": "-157.83778000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "21.38222000",
     "longitude": "-157.93361000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "21.90738000",
     "longitude": "-159.58322000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "21.31556000",
     "longitude": "-158.00722000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "21.33999000",
     "longitude": "-158.03039000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "21.34127000",
     "longitude": "-158.03970000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "21.92581000",
     "longitude": "-159.48818000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "19.52694000",
     "longitude": "-154.99306000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "22.14226000",
     "longitude": "-159.31388000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "19.49694000",
     "longitude": "-155.92167000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "21.28906000",
     "longitude": "-157.71734000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "19.51222000",
     "longitude": "-155.08028000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "20.92187000",
     "longitude": "-156.30508000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "21.37944000",
     "longitude": "-157.92167000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "21.37848000",
     "longitude": "-157.91388000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "21.59284000",
     "longitude": "-158.10339000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "20.75806000",
     "longitude": "-155.99028000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "21.99773000",
     "longitude": "-159.35918000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "21.90733000",
     "longitude": "-159.59440000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "21.91633000",
     "longitude": "-159.58995000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "21.60760000",
     "longitude": "-157.90868000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "19.60240000",
     "longitude": "-155.52289000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "19.53806000",
     "longitude": "-155.05222000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "19.54306000",
     "longitude": "-154.91583000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "19.06861000",
     "longitude": "-155.76500000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "19.59333000",
     "longitude": "-154.97306000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "20.24122000",
     "longitude": "-155.83351000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "21.43054000",
     "longitude": "-157.81611000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "21.33967000",
     "longitude": "-157.96018000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -386,7 +386,7 @@
     "latitude": "19.72991000",
     "longitude": "-155.09073000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -399,7 +399,7 @@
     "latitude": "19.61979000",
     "longitude": "-155.94831000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -412,7 +412,7 @@
     "latitude": "19.54639000",
     "longitude": "-155.93194000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -425,7 +425,7 @@
     "latitude": "19.45627000",
     "longitude": "-155.86466000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -438,7 +438,7 @@
     "latitude": "20.07931000",
     "longitude": "-155.46691000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -451,7 +451,7 @@
     "latitude": "21.30694000",
     "longitude": "-157.85833000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -464,7 +464,7 @@
     "latitude": "21.45543000",
     "longitude": "-157.96138000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -477,7 +477,7 @@
     "latitude": "21.32776000",
     "longitude": "-157.98301000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -490,7 +490,7 @@
     "latitude": "21.55445000",
     "longitude": "-157.85103000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -503,7 +503,7 @@
     "latitude": "20.92881000",
     "longitude": "-156.69422000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -516,7 +516,7 @@
     "latitude": "20.93090000",
     "longitude": "-156.68778000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -529,7 +529,7 @@
     "latitude": "21.45759000",
     "longitude": "-157.84431000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -542,7 +542,7 @@
     "latitude": "19.57181000",
     "longitude": "-155.96172000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -555,7 +555,7 @@
     "latitude": "21.68048000",
     "longitude": "-157.95237000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -568,7 +568,7 @@
     "latitude": "20.88953000",
     "longitude": "-156.47432000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -581,7 +581,7 @@
     "latitude": "21.40241000",
     "longitude": "-157.74054000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -594,7 +594,7 @@
     "latitude": "19.64016000",
     "longitude": "-155.99912000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -607,7 +607,7 @@
     "latitude": "21.92416000",
     "longitude": "-159.52686000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -620,7 +620,7 @@
     "latitude": "19.72861000",
     "longitude": "-155.98167000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -633,7 +633,7 @@
     "latitude": "21.18569000",
     "longitude": "-156.95944000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -646,7 +646,7 @@
     "latitude": "21.39994000",
     "longitude": "-157.79895000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -659,7 +659,7 @@
     "latitude": "22.07521000",
     "longitude": "-159.31895000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -672,7 +672,7 @@
     "latitude": "20.23389000",
     "longitude": "-155.80194000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -685,7 +685,7 @@
     "latitude": "21.33555000",
     "longitude": "-158.05820000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -698,7 +698,7 @@
     "latitude": "22.01108000",
     "longitude": "-159.70544000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -711,7 +711,7 @@
     "latitude": "21.09363000",
     "longitude": "-157.02613000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -724,7 +724,7 @@
     "latitude": "19.62265000",
     "longitude": "-155.03744000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -737,7 +737,7 @@
     "latitude": "19.52083000",
     "longitude": "-155.92250000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -750,7 +750,7 @@
     "latitude": "21.96686000",
     "longitude": "-159.71186000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -763,7 +763,7 @@
     "latitude": "20.70711000",
     "longitude": "-156.35446000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -776,7 +776,7 @@
     "latitude": "20.76462000",
     "longitude": "-156.44578000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -789,7 +789,7 @@
     "latitude": "22.21208000",
     "longitude": "-159.41342000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -802,7 +802,7 @@
     "latitude": "21.33993000",
     "longitude": "-158.12562000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -815,7 +815,7 @@
     "latitude": "21.90690000",
     "longitude": "-159.46994000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -828,7 +828,7 @@
     "latitude": "21.15306000",
     "longitude": "-157.03677000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -841,7 +841,7 @@
     "latitude": "20.79094000",
     "longitude": "-156.32695000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -854,7 +854,7 @@
     "latitude": "19.60361000",
     "longitude": "-155.05722000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -867,7 +867,7 @@
     "latitude": "21.64547000",
     "longitude": "-157.92250000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -880,7 +880,7 @@
     "latitude": "20.87429000",
     "longitude": "-156.67663000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -893,7 +893,7 @@
     "latitude": "20.82757000",
     "longitude": "-156.92399000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -906,7 +906,7 @@
     "latitude": "21.92159000",
     "longitude": "-159.50376000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -919,7 +919,7 @@
     "latitude": "19.46972000",
     "longitude": "-154.91778000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -932,7 +932,7 @@
     "latitude": "21.98121000",
     "longitude": "-159.37210000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -945,7 +945,7 @@
     "latitude": "21.41629000",
     "longitude": "-158.17531000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -958,7 +958,7 @@
     "latitude": "21.46627000",
     "longitude": "-158.21037000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -971,7 +971,7 @@
     "latitude": "21.47583000",
     "longitude": "-158.19918000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -984,7 +984,7 @@
     "latitude": "21.34694000",
     "longitude": "-158.08583000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -997,7 +997,7 @@
     "latitude": "20.85694000",
     "longitude": "-156.31306000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1010,7 +1010,7 @@
     "latitude": "21.44336000",
     "longitude": "-157.74981000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1023,7 +1023,7 @@
     "latitude": "20.80332290",
     "longitude": "-156.66763530",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1036,7 +1036,7 @@
     "latitude": "21.37278000",
     "longitude": "-157.77056000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1049,7 +1049,7 @@
     "latitude": "21.45000000",
     "longitude": "-158.00111000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1062,7 +1062,7 @@
     "latitude": "21.57967000",
     "longitude": "-158.15313000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1075,7 +1075,7 @@
     "latitude": "19.55583000",
     "longitude": "-155.10806000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1088,7 +1088,7 @@
     "latitude": "21.39362000",
     "longitude": "-158.15429000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1101,7 +1101,7 @@
     "latitude": "19.50611000",
     "longitude": "-154.91194000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1114,7 +1114,7 @@
     "latitude": "20.97533000",
     "longitude": "-156.67826000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1127,7 +1127,7 @@
     "latitude": "21.31066000",
     "longitude": "-158.03638000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1140,7 +1140,7 @@
     "latitude": "19.56084000",
     "longitude": "-155.01527000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1153,7 +1153,7 @@
     "latitude": "19.20297000",
     "longitude": "-155.47860000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1166,7 +1166,7 @@
     "latitude": "20.90333000",
     "longitude": "-156.36944000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1179,7 +1179,7 @@
     "latitude": "19.78718000",
     "longitude": "-155.09326000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1192,7 +1192,7 @@
     "latitude": "21.39734000",
     "longitude": "-157.97516000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1205,7 +1205,7 @@
     "latitude": "19.83361000",
     "longitude": "-155.10722000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1218,7 +1218,7 @@
     "latitude": "22.21758000",
     "longitude": "-159.47888000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1231,7 +1231,7 @@
     "latitude": "21.96888000",
     "longitude": "-159.40012000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1244,7 +1244,7 @@
     "latitude": "20.83667000",
     "longitude": "-156.33667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1257,7 +1257,7 @@
     "latitude": "21.57045000",
     "longitude": "-157.87557000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1270,7 +1270,7 @@
     "latitude": "21.65456000",
     "longitude": "-158.06065000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1283,7 +1283,7 @@
     "latitude": "21.39392000",
     "longitude": "-158.02670000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1296,7 +1296,7 @@
     "latitude": "21.49837000",
     "longitude": "-158.06515000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1309,7 +1309,7 @@
     "latitude": "21.39806000",
     "longitude": "-158.03028000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1322,7 +1322,7 @@
     "latitude": "19.44276000",
     "longitude": "-155.23398000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1335,7 +1335,7 @@
     "latitude": "21.50279000",
     "longitude": "-158.02464000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1348,7 +1348,7 @@
     "latitude": "21.57688000",
     "longitude": "-158.13154000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1361,7 +1361,7 @@
     "latitude": "21.43785000",
     "longitude": "-158.18555000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1374,7 +1374,7 @@
     "latitude": "20.93022000",
     "longitude": "-156.50458000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1387,7 +1387,7 @@
     "latitude": "20.85806000",
     "longitude": "-156.50694000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1400,7 +1400,7 @@
     "latitude": "19.93942000",
     "longitude": "-155.78931000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1413,7 +1413,7 @@
     "latitude": "20.68973000",
     "longitude": "-156.44190000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1426,7 +1426,7 @@
     "latitude": "22.05271000",
     "longitude": "-159.33781000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1439,7 +1439,7 @@
     "latitude": "22.07244000",
     "longitude": "-159.37677000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1452,7 +1452,7 @@
     "latitude": "20.89133000",
     "longitude": "-156.50604000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1465,7 +1465,7 @@
     "latitude": "21.40472000",
     "longitude": "-157.94333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1478,7 +1478,7 @@
     "latitude": "21.34614000",
     "longitude": "-157.72380000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1491,7 +1491,7 @@
     "latitude": "21.33407000",
     "longitude": "-157.70003000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1504,7 +1504,7 @@
     "latitude": "20.02323000",
     "longitude": "-155.67288000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1517,7 +1517,7 @@
     "latitude": "19.74472000",
     "longitude": "-155.09500000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1530,7 +1530,7 @@
     "latitude": "21.38667000",
     "longitude": "-158.00917000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1543,7 +1543,7 @@
     "latitude": "21.46485000",
     "longitude": "-158.01331000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1556,7 +1556,7 @@
     "latitude": "21.41823000",
     "longitude": "-157.99906000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   },
   {
@@ -1569,7 +1569,7 @@
     "latitude": "21.51429000",
     "longitude": "-158.02464000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Honolulu",
     "translations": {}
   }
 ]

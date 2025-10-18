@@ -9,7 +9,7 @@
     "latitude": "60.15000000",
     "longitude": "14.80000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "61.22774000",
     "longitude": "14.03935000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "60.14274000",
     "longitude": "16.16295000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "60.73726000",
     "longitude": "15.45291000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "60.48580000",
     "longitude": "15.43714000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "60.26255000",
     "longitude": "16.01034000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "60.56061000",
     "longitude": "15.13281000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "60.40993000",
     "longitude": "15.59575000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "60.60357000",
     "longitude": "15.62597000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "60.59856000",
     "longitude": "15.07745000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "60.07465000",
     "longitude": "15.00784000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "60.68751000",
     "longitude": "15.48507000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "60.27973000",
     "longitude": "15.98855000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "60.30000000",
     "longitude": "16.41667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "60.67688000",
     "longitude": "15.09487000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "60.53333000",
     "longitude": "14.36667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "60.13333000",
     "longitude": "16.21667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "60.45238000",
     "longitude": "16.03831000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "60.73030000",
     "longitude": "14.99994000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "60.14959000",
     "longitude": "15.18776000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "60.68329000",
     "longitude": "13.71542000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "60.50000000",
     "longitude": "14.96667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "61.00704000",
     "longitude": "14.54316000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "60.28333000",
     "longitude": "14.96667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "60.50944000",
     "longitude": "15.54128000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "61.12034000",
     "longitude": "14.61550000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "60.88632000",
     "longitude": "15.11787000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "60.43333000",
     "longitude": "15.50000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "60.34778000",
     "longitude": "15.75051000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -386,7 +386,7 @@
     "latitude": "60.78333000",
     "longitude": "14.85000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -399,7 +399,7 @@
     "latitude": "60.70000000",
     "longitude": "15.05000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -412,7 +412,7 @@
     "latitude": "60.14181000",
     "longitude": "15.41416000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -425,7 +425,7 @@
     "latitude": "60.74022000",
     "longitude": "15.90173000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -438,7 +438,7 @@
     "latitude": "60.50893000",
     "longitude": "14.22458000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   },
   {
@@ -451,7 +451,7 @@
     "latitude": "60.91667000",
     "longitude": "15.01667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Stockholm",
     "translations": {}
   }
 ]

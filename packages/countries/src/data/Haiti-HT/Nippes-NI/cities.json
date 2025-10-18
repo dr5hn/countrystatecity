@@ -9,7 +9,7 @@
     "latitude": "18.41667000",
     "longitude": "-73.50000000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Port-au-Prince",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "18.48255000",
     "longitude": "-73.63884000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Port-au-Prince",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "18.44599000",
     "longitude": "-73.08957000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Port-au-Prince",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "18.52535000",
     "longitude": "-73.50815000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Port-au-Prince",
     "translations": {}
   }
 ]

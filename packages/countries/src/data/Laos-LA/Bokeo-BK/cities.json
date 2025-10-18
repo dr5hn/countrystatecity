@@ -9,7 +9,7 @@
     "latitude": "20.24670000",
     "longitude": "100.45401000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Vientiane",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "20.27000000",
     "longitude": "100.41780000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Vientiane",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "20.38763000",
     "longitude": "100.62687000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Vientiane",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "20.67585000",
     "longitude": "100.52639000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Vientiane",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "20.09108000",
     "longitude": "100.59940000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Vientiane",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "20.18744000",
     "longitude": "100.92600000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Vientiane",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "20.53465000",
     "longitude": "100.29624000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Vientiane",
     "translations": {}
   }
 ]

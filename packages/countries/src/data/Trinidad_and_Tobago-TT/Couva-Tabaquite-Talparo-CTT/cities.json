@@ -9,7 +9,7 @@
     "latitude": "10.42248000",
     "longitude": "-61.46748000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Port_of_Spain",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "10.38824000",
     "longitude": "-61.29704000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Port_of_Spain",
     "translations": {}
   }
 ]

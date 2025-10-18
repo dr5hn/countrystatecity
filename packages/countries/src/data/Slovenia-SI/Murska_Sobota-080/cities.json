@@ -9,7 +9,7 @@
     "latitude": "46.61889000",
     "longitude": "16.15028000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Ljubljana",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "46.66667000",
     "longitude": "16.13333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Ljubljana",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "46.63806000",
     "longitude": "16.14139000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Ljubljana",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "46.66250000",
     "longitude": "16.16639000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Ljubljana",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "46.65167000",
     "longitude": "16.20417000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Ljubljana",
     "translations": {}
   }
 ]

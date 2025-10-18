@@ -9,7 +9,7 @@
     "latitude": "-17.91667000",
     "longitude": "15.95000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Windhoek",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-17.78333000",
     "longitude": "15.76667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Windhoek",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-17.78833000",
     "longitude": "15.70436000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Windhoek",
     "translations": {}
   }
 ]

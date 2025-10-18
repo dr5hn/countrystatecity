@@ -9,7 +9,7 @@
     "latitude": "25.58580000",
     "longitude": "56.24792000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Dubai",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "25.59246000",
     "longitude": "56.26176000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Dubai",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "25.61955000",
     "longitude": "56.27291000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Dubai",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "25.11641000",
     "longitude": "56.34141000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Dubai",
     "translations": {}
   }
 ]

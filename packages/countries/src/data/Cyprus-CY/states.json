@@ -38,7 +38,7 @@
     "latitude": "34.86974840",
     "longitude": "33.60920970",
     "native": "Larnaca (Larnaka)",
-    "timezone": "Asia/Nicosia",
+    "timezone": "Asia/Famagusta",
     "translations": {}
   },
   {
@@ -52,7 +52,7 @@
     "latitude": "34.69114850",
     "longitude": "33.00783840",
     "native": "Λεουμασό (Leymasun)",
-    "timezone": "Asia/Nicosia",
+    "timezone": "Asia/Famagusta",
     "translations": {}
   },
   {
@@ -66,7 +66,7 @@
     "latitude": "35.15654640",
     "longitude": "33.37056260",
     "native": "Λευκωσία (Λευκωσία)",
-    "timezone": "Asia/Nicosia",
+    "timezone": "Asia/Famagusta",
     "translations": {}
   },
   {
@@ -80,7 +80,7 @@
     "latitude": "34.78129780",
     "longitude": "32.42140970",
     "native": "Paphos (PAFOS)",
-    "timezone": "Asia/Nicosia",
+    "timezone": "Asia/Famagusta",
     "translations": {}
   }
 ]

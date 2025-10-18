@@ -112,6 +112,20 @@
     "translations": {}
   },
   {
+    "id": 5465,
+    "name": "Sidama",
+    "country_id": 70,
+    "country_code": "ET",
+    "fips_code": null,
+    "iso2": "SI",
+    "type": "region",
+    "latitude": "6.50000000",
+    "longitude": "38.50000000",
+    "native": "ሲዳማ",
+    "timezone": "Africa/Addis_Ababa",
+    "translations": {}
+  },
+  {
     "id": 2,
     "name": "Somali",
     "country_id": 70,
@@ -136,6 +150,20 @@
     "latitude": "6.51569110",
     "longitude": "36.95410700",
     "native": "ደቡብ ብሔር ብሔረሰቦችና ሕዝቦች",
+    "timezone": "Africa/Addis_Ababa",
+    "translations": {}
+  },
+  {
+    "id": 5466,
+    "name": "Southwest Ethiopia Peoples",
+    "country_id": 70,
+    "country_code": "ET",
+    "fips_code": null,
+    "iso2": "SW",
+    "type": "region",
+    "latitude": "7.30000000",
+    "longitude": "36.20000000",
+    "native": "ደቡብ ምዕራብ የኢትዮጵያ ሕዝቦች",
     "timezone": "Africa/Addis_Ababa",
     "translations": {}
   },

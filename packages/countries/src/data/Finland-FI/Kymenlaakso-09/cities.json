@@ -9,7 +9,7 @@
     "latitude": "60.68333000",
     "longitude": "26.83333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "60.71667000",
     "longitude": "26.46667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "60.56974000",
     "longitude": "27.19794000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "60.89488000",
     "longitude": "26.33869000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "61.05251000",
     "longitude": "26.48117000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "60.52156000",
     "longitude": "26.93125000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "60.46640000",
     "longitude": "26.94582000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "60.86667000",
     "longitude": "26.70000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "60.66667000",
     "longitude": "27.70000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "60.49349000",
     "longitude": "26.54346000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "60.57940000",
     "longitude": "27.70354000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   }
 ]

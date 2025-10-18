@@ -9,7 +9,7 @@
     "latitude": "45.80833000",
     "longitude": "15.81667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "45.90657000",
     "longitude": "15.85087000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "45.83333000",
     "longitude": "16.30000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "45.86666000",
     "longitude": "15.77102000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -61,7 +61,33 @@
     "latitude": "45.84013000",
     "longitude": "15.68792000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
+    "translations": {}
+  },
+  {
+    "id": 54419,
+    "name": "Brezovica",
+    "state_id": 736,
+    "state_code": "01",
+    "country_id": 55,
+    "country_code": "HR",
+    "latitude": "45.72919000",
+    "longitude": "15.91069000",
+    "native": null,
+    "timezone": "Europe/Zagreb",
+    "translations": {}
+  },
+  {
+    "id": 54438,
+    "name": "Centar",
+    "state_id": 736,
+    "state_code": "01",
+    "country_id": 55,
+    "country_code": "HR",
+    "latitude": "45.81313000",
+    "longitude": "15.97753000",
+    "native": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -74,7 +100,7 @@
     "latitude": "45.90778000",
     "longitude": "15.85444000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -87,7 +113,7 @@
     "latitude": "45.71194000",
     "longitude": "16.02694000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -100,7 +126,7 @@
     "latitude": "45.66667000",
     "longitude": "15.76667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -113,7 +139,20 @@
     "latitude": "45.73971000",
     "longitude": "15.85975000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
+    "translations": {}
+  },
+  {
+    "id": 54470,
+    "name": "Dubrava",
+    "state_id": 736,
+    "state_code": "01",
+    "country_id": 55,
+    "country_code": "HR",
+    "latitude": "45.83361000",
+    "longitude": "16.06361000",
+    "native": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -126,7 +165,7 @@
     "latitude": "45.87899000",
     "longitude": "16.63467000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -139,7 +178,7 @@
     "latitude": "45.91667000",
     "longitude": "15.90000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -152,7 +191,7 @@
     "latitude": "45.83333000",
     "longitude": "16.31667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -165,7 +204,7 @@
     "latitude": "45.80900000",
     "longitude": "16.24123000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -178,7 +217,7 @@
     "latitude": "45.66667000",
     "longitude": "15.66667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -191,7 +230,7 @@
     "latitude": "45.80000000",
     "longitude": "15.70000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -204,7 +243,7 @@
     "latitude": "45.96667000",
     "longitude": "16.25000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -217,7 +256,7 @@
     "latitude": "45.70000000",
     "longitude": "16.08333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -230,7 +269,7 @@
     "latitude": "45.86667000",
     "longitude": "16.43333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -243,7 +282,7 @@
     "latitude": "45.86667000",
     "longitude": "15.80000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -256,7 +295,7 @@
     "latitude": "45.91111000",
     "longitude": "16.48278000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -269,7 +308,59 @@
     "latitude": "45.70000000",
     "longitude": "16.05000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
+    "translations": {}
+  },
+  {
+    "id": 54579,
+    "name": "Gradska četvrt Donji grad",
+    "state_id": 736,
+    "state_code": "01",
+    "country_id": 55,
+    "country_code": "HR",
+    "latitude": "45.80834000",
+    "longitude": "15.96949000",
+    "native": null,
+    "timezone": "Europe/Zagreb",
+    "translations": {}
+  },
+  {
+    "id": 54580,
+    "name": "Gradska četvrt Gornji Grad - Medvescak",
+    "state_id": 736,
+    "state_code": "01",
+    "country_id": 55,
+    "country_code": "HR",
+    "latitude": "45.82820000",
+    "longitude": "15.97938000",
+    "native": null,
+    "timezone": "Europe/Zagreb",
+    "translations": {}
+  },
+  {
+    "id": 54581,
+    "name": "Gradska četvrt Podsljeme",
+    "state_id": 736,
+    "state_code": "01",
+    "country_id": 55,
+    "country_code": "HR",
+    "latitude": "45.86097000",
+    "longitude": "15.97996000",
+    "native": null,
+    "timezone": "Europe/Zagreb",
+    "translations": {}
+  },
+  {
+    "id": 54596,
+    "name": "Horvati",
+    "state_id": 736,
+    "state_code": "01",
+    "country_id": 55,
+    "country_code": "HR",
+    "latitude": "45.70000000",
+    "longitude": "15.81667000",
+    "native": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -282,7 +373,7 @@
     "latitude": "45.87583000",
     "longitude": "15.85361000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -295,7 +386,20 @@
     "latitude": "45.93611000",
     "longitude": "15.85559000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
+    "translations": {}
+  },
+  {
+    "id": 54615,
+    "name": "Jankomir",
+    "state_id": 736,
+    "state_code": "01",
+    "country_id": 55,
+    "country_code": "HR",
+    "latitude": "45.79167000",
+    "longitude": "15.90000000",
+    "native": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -308,7 +412,33 @@
     "latitude": "45.66833000",
     "longitude": "15.64861000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
+    "translations": {}
+  },
+  {
+    "id": 54623,
+    "name": "Ježdovec",
+    "state_id": 736,
+    "state_code": "01",
+    "country_id": 55,
+    "country_code": "HR",
+    "latitude": "45.78333000",
+    "longitude": "15.85000000",
+    "native": null,
+    "timezone": "Europe/Zagreb",
+    "translations": {}
+  },
+  {
+    "id": 54636,
+    "name": "Kašina",
+    "state_id": 736,
+    "state_code": "01",
+    "country_id": 55,
+    "country_code": "HR",
+    "latitude": "45.91134000",
+    "longitude": "16.12436000",
+    "native": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -321,7 +451,7 @@
     "latitude": "45.77010000",
     "longitude": "15.80864000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -334,7 +464,7 @@
     "latitude": "45.66500000",
     "longitude": "16.52333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -347,7 +477,7 @@
     "latitude": "45.67694000",
     "longitude": "16.14500000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -360,7 +490,20 @@
     "latitude": "45.85500000",
     "longitude": "16.33000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
+    "translations": {}
+  },
+  {
+    "id": 54707,
+    "name": "Lučko",
+    "state_id": 736,
+    "state_code": "01",
+    "country_id": 55,
+    "country_code": "HR",
+    "latitude": "45.76111000",
+    "longitude": "15.87028000",
+    "native": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -373,7 +516,7 @@
     "latitude": "45.95795000",
     "longitude": "15.81954000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -386,7 +529,7 @@
     "latitude": "45.70444000",
     "longitude": "15.99000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -399,7 +542,7 @@
     "latitude": "45.79639000",
     "longitude": "16.34639000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -412,7 +555,7 @@
     "latitude": "45.75000000",
     "longitude": "16.06667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -425,7 +568,20 @@
     "latitude": "45.66667000",
     "longitude": "16.09556000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
+    "translations": {}
+  },
+  {
+    "id": 54760,
+    "name": "Novi Zagreb",
+    "state_id": 736,
+    "state_code": "01",
+    "country_id": 55,
+    "country_code": "HR",
+    "latitude": "45.78333000",
+    "longitude": "15.98333000",
+    "native": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -438,7 +594,7 @@
     "latitude": "45.70000000",
     "longitude": "16.11667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -451,7 +607,20 @@
     "latitude": "45.65250000",
     "longitude": "16.53639000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
+    "translations": {}
+  },
+  {
+    "id": 54771,
+    "name": "Odra",
+    "state_id": 736,
+    "state_code": "01",
+    "country_id": 55,
+    "country_code": "HR",
+    "latitude": "45.72979000",
+    "longitude": "15.99240000",
+    "native": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -464,7 +633,7 @@
     "latitude": "45.83759000",
     "longitude": "16.53683000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -477,7 +646,7 @@
     "latitude": "45.81618000",
     "longitude": "15.80246000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -490,7 +659,7 @@
     "latitude": "45.90500000",
     "longitude": "15.80056000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -503,7 +672,7 @@
     "latitude": "45.97456000",
     "longitude": "16.38697000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -516,7 +685,7 @@
     "latitude": "45.87944000",
     "longitude": "15.73806000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -529,7 +698,7 @@
     "latitude": "45.91567000",
     "longitude": "15.78049000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -542,7 +711,7 @@
     "latitude": "45.79389000",
     "longitude": "15.82222000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -555,7 +724,7 @@
     "latitude": "45.73806000",
     "longitude": "15.79722000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -568,7 +737,7 @@
     "latitude": "45.76667000",
     "longitude": "15.66667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -581,7 +750,46 @@
     "latitude": "45.80306000",
     "longitude": "15.71806000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
+    "translations": {}
+  },
+  {
+    "id": 54885,
+    "name": "Sesvete",
+    "state_id": 736,
+    "state_code": "01",
+    "country_id": 55,
+    "country_code": "HR",
+    "latitude": "45.83333000",
+    "longitude": "16.13333000",
+    "native": null,
+    "timezone": "Europe/Zagreb",
+    "translations": {}
+  },
+  {
+    "id": 54912,
+    "name": "Stenjevec",
+    "state_id": 736,
+    "state_code": "01",
+    "country_id": 55,
+    "country_code": "HR",
+    "latitude": "45.80846000",
+    "longitude": "15.88245000",
+    "native": null,
+    "timezone": "Europe/Zagreb",
+    "translations": {}
+  },
+  {
+    "id": 54917,
+    "name": "Strmec",
+    "state_id": 736,
+    "state_code": "01",
+    "country_id": 55,
+    "country_code": "HR",
+    "latitude": "45.70843000",
+    "longitude": "15.91674000",
+    "native": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -594,7 +802,7 @@
     "latitude": "45.75314000",
     "longitude": "15.84078000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -607,7 +815,7 @@
     "latitude": "45.79617000",
     "longitude": "15.77971000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -620,7 +828,7 @@
     "latitude": "45.79833000",
     "longitude": "15.78056000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -633,7 +841,7 @@
     "latitude": "45.71250000",
     "longitude": "16.07556000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -646,7 +854,7 @@
     "latitude": "45.73639000",
     "longitude": "16.03111000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -659,7 +867,7 @@
     "latitude": "45.78752000",
     "longitude": "16.28139000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -672,7 +880,33 @@
     "latitude": "45.88333000",
     "longitude": "16.42167000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
+    "translations": {}
+  },
+  {
+    "id": 55003,
+    "name": "Zadvorsko",
+    "state_id": 736,
+    "state_code": "01",
+    "country_id": 55,
+    "country_code": "HR",
+    "latitude": "45.71978000",
+    "longitude": "15.90880000",
+    "native": null,
+    "timezone": "Europe/Zagreb",
+    "translations": {}
+  },
+  {
+    "id": 55004,
+    "name": "Zagreb",
+    "state_id": 736,
+    "state_code": "01",
+    "country_id": 55,
+    "country_code": "HR",
+    "latitude": "45.81444000",
+    "longitude": "15.97798000",
+    "native": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -685,7 +919,7 @@
     "latitude": "45.85639000",
     "longitude": "15.80778000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -698,7 +932,7 @@
     "latitude": "45.86667000",
     "longitude": "15.75000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "7.70237000",
     "longitude": "-1.21979430",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Accra",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "8.39635790",
     "longitude": "-1.82000070",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Accra",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "7.98971320",
     "longitude": "-2.00711150",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Accra",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "7.56603310",
     "longitude": "-1.72365200",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Accra",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "7.62405120",
     "longitude": "-1.79974460",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Accra",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "8.22620000",
     "longitude": "-0.65360000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Accra",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "8.07359930",
     "longitude": "-1.29055410",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Accra",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "7.78300000",
     "longitude": "-0.21700000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Accra",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "7.73420000",
     "longitude": "-0.68180000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Accra",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "7.58968560",
     "longitude": "-1.95122140",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Accra",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "7.70428020",
     "longitude": "-2.08140570",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Accra",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "-6.26703000",
     "longitude": "14.24010000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Luanda",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-7.23116000",
     "longitude": "12.86660000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Luanda",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-6.13490000",
     "longitude": "12.36894000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Luanda",
     "translations": {}
   }
 ]

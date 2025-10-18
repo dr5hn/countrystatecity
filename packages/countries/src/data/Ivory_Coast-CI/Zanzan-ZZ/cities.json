@@ -9,7 +9,7 @@
     "latitude": "8.04020000",
     "longitude": "-2.80003000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Abidjan",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "9.26927000",
     "longitude": "-2.99510000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Abidjan",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "9.47841000",
     "longitude": "-3.31238000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Abidjan",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "7.87132000",
     "longitude": "-3.07068000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Abidjan",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "6.62103000",
     "longitude": "-5.91144000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Abidjan",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "7.80335000",
     "longitude": "-3.16832000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Abidjan",
     "translations": {}
   }
 ]

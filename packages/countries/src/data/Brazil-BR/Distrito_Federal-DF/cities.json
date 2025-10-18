@@ -9,7 +9,7 @@
     "latitude": "-15.77972000",
     "longitude": "-47.92972000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Sao_Paulo",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-15.61791000",
     "longitude": "-47.64874000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Sao_Paulo",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "6.81968910",
     "longitude": "-2.80770500",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Accra",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "6.68210000",
     "longitude": "-2.43997530",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Accra",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "6.94774860",
     "longitude": "-2.76757160",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Accra",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "6.93215810",
     "longitude": "-2.35521890",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Accra",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "7.22603010",
     "longitude": "-2.30456560",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Accra",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "7.19537930",
     "longitude": "-2.12586610",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Accra",
     "translations": {}
   }
 ]

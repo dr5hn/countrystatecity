@@ -9,7 +9,7 @@
     "latitude": "13.00917000",
     "longitude": "42.73944000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Asmara",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "13.93088000",
     "longitude": "41.69380000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Asmara",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "36.32162000",
     "longitude": "74.69502000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Karachi",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "35.91869000",
     "longitude": "74.31245000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Karachi",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "35.29787000",
     "longitude": "75.63372000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Karachi",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "7.30222000",
     "longitude": "-8.53083000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Monrovia",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "7.57944000",
     "longitude": "-8.53778000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Monrovia",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "7.36215000",
     "longitude": "-8.71326000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Monrovia",
     "translations": {}
   }
 ]

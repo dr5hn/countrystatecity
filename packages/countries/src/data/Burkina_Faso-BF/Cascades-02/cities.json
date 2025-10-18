@@ -9,7 +9,7 @@
     "latitude": "10.63333000",
     "longitude": "-4.76667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Ouagadougou",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "10.33333000",
     "longitude": "-4.41667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Ouagadougou",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "10.66667000",
     "longitude": "-5.20000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Ouagadougou",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "10.66667000",
     "longitude": "-5.16667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Ouagadougou",
     "translations": {}
   }
 ]

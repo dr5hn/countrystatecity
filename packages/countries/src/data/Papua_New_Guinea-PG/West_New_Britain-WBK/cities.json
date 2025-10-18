@@ -9,7 +9,7 @@
     "latitude": "-6.20655000",
     "longitude": "149.54744000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Bougainville",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-6.08333000",
     "longitude": "149.91667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Bougainville",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-5.55085000",
     "longitude": "150.13766000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Bougainville",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-5.66667000",
     "longitude": "149.58333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Bougainville",
     "translations": {}
   }
 ]

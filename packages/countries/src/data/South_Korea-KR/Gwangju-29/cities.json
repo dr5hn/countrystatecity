@@ -9,7 +9,7 @@
     "latitude": "35.15472000",
     "longitude": "126.91556000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Seoul",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "35.16158000",
     "longitude": "126.80810000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Seoul",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "35.12725000",
     "longitude": "126.83149000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Seoul",
     "translations": {}
   }
 ]

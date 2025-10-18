@@ -9,7 +9,7 @@
     "latitude": "-20.96456720",
     "longitude": "55.41835300",
     "native": null,
-    "timezone": null,
+    "timezone": "Indian/Reunion",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-20.94628420",
     "longitude": "55.44095870",
     "native": null,
-    "timezone": null,
+    "timezone": "Indian/Reunion",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-20.95063790",
     "longitude": "55.51114750",
     "native": null,
-    "timezone": null,
+    "timezone": "Indian/Reunion",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "40.48972000",
     "longitude": "68.78417000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Samarkand",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "40.84361000",
     "longitude": "68.66167000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Samarkand",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "40.27500000",
     "longitude": "68.82250000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Samarkand",
     "translations": {}
   }
 ]

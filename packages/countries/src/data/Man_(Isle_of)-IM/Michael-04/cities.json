@@ -9,7 +9,7 @@
     "latitude": "54.30481210",
     "longitude": "-4.62075260",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Isle_of_Man",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "54.35905280",
     "longitude": "-4.54065860",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Isle_of_Man",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "54.27427780",
     "longitude": "-4.64273250",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Isle_of_Man",
     "translations": {}
   }
 ]

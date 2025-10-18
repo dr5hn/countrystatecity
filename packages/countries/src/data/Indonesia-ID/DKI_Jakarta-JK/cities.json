@@ -9,7 +9,7 @@
     "latitude": "-6.15999160",
     "longitude": "106.67485740",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Jakarta",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-6.18222610",
     "longitude": "106.79526480",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Jakarta",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-6.28392950",
     "longitude": "106.71967730",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Jakarta",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-6.26097100",
     "longitude": "106.82261800",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Jakarta",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "-6.13570900",
     "longitude": "106.75949840",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Jakarta",
     "translations": {}
   }
 ]

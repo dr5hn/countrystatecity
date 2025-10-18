@@ -9,7 +9,7 @@
     "latitude": "11.06160000",
     "longitude": "-0.24169000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Accra",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "10.78556000",
     "longitude": "-0.85139000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Accra",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "10.89557000",
     "longitude": "-1.09210000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Accra",
     "translations": {}
   }
 ]

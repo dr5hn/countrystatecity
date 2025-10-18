@@ -9,7 +9,7 @@
     "latitude": "32.38100000",
     "longitude": "-64.67400000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Bermuda",
     "translations": {}
   },
   {
@@ -20,9 +20,9 @@
     "country_id": 25,
     "country_code": "BM",
     "latitude": "32.33280000",
-    "longitude": "64.68810000",
+    "longitude": "-64.68810000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Bermuda",
     "translations": {}
   }
 ]

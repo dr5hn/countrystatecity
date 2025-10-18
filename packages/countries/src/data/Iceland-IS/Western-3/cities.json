@@ -9,7 +9,7 @@
     "latitude": "64.32179000",
     "longitude": "-22.07490000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Reykjavik",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "64.71446000",
     "longitude": "-21.23788000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Reykjavik",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "64.53834000",
     "longitude": "-21.92064000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Reykjavik",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "65.10121000",
     "longitude": "-21.72871000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Reykjavik",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "64.85846000",
     "longitude": "-22.54557000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Reykjavik",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "64.99069000",
     "longitude": "-22.78948000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Reykjavik",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "64.44265000",
     "longitude": "-21.61086000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Reykjavik",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "64.89429000",
     "longitude": "-23.70918000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Reykjavik",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "64.51667000",
     "longitude": "-21.50000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Reykjavik",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "64.86667000",
     "longitude": "-23.50000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Reykjavik",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "65.07537000",
     "longitude": "-22.72977000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Reykjavik",
     "translations": {}
   }
 ]

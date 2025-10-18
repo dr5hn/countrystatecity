@@ -9,7 +9,7 @@
     "latitude": "-2.49077000",
     "longitude": "28.84281000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Kinshasa",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-2.49682000",
     "longitude": "28.79081000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Kinshasa",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-3.39534000",
     "longitude": "29.13779000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Kinshasa",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "45.00000000",
     "longitude": "72.78333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "43.60334000",
     "longitude": "73.75919000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "43.03882000",
     "longitude": "74.71287000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "42.74400000",
     "longitude": "73.46848000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "43.17869000",
     "longitude": "70.46768000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "44.22744000",
     "longitude": "73.79555000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "42.94197000",
     "longitude": "72.76098000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "42.91010000",
     "longitude": "72.72066000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "42.86976000",
     "longitude": "73.18463000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "44.28461000",
     "longitude": "72.93920000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "45.41611000",
     "longitude": "73.68444000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "42.90573000",
     "longitude": "73.26972000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "43.00000000",
     "longitude": "71.50000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "44.83056000",
     "longitude": "70.00194000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "42.90000000",
     "longitude": "71.36667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "43.56222000",
     "longitude": "69.73428000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "62.80250000",
     "longitude": "-116.04639000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "67.43863000",
     "longitude": "-134.88543000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "60.00439000",
     "longitude": "-111.88871000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "60.81555000",
     "longitude": "-115.79993000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "68.34986000",
     "longitude": "-133.72181000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "65.28201000",
     "longitude": "-126.83290000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "62.45411000",
     "longitude": "-114.37248000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   }
 ]

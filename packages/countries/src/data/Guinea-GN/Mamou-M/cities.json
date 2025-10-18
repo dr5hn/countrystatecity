@@ -9,7 +9,7 @@
     "latitude": "10.75000000",
     "longitude": "-12.30000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Conakry",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "10.37546000",
     "longitude": "-12.09148000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Conakry",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "10.45900000",
     "longitude": "-11.81500000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Conakry",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "10.83333000",
     "longitude": "-12.58333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Conakry",
     "translations": {}
   }
 ]

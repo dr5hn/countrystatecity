@@ -9,7 +9,7 @@
     "latitude": "-24.76234000",
     "longitude": "25.79950000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Gaborone",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-25.41667000",
     "longitude": "25.55000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Gaborone",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-24.48333000",
     "longitude": "25.88333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Gaborone",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-25.01667000",
     "longitude": "25.73333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Gaborone",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "-24.87158000",
     "longitude": "25.86989000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Gaborone",
     "translations": {}
   }
 ]

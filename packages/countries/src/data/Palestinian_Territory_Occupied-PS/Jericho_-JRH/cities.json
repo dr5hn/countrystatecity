@@ -9,7 +9,7 @@
     "latitude": "31.94809930",
     "longitude": "35.45056430",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Gaza",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "32.14143230",
     "longitude": "35.44660250",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Gaza",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "31.85950700",
     "longitude": "35.44390820",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Gaza",
     "translations": {}
   }
 ]

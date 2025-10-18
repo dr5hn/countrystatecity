@@ -9,7 +9,7 @@
     "latitude": "-5.75611000",
     "longitude": "-78.44111000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Lima",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-5.73639000",
     "longitude": "-78.42556000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Lima",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-6.23169000",
     "longitude": "-77.86903000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Lima",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-4.16515000",
     "longitude": "-78.03840000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Lima",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "-5.61111000",
     "longitude": "-78.43500000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Lima",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "-5.09006000",
     "longitude": "-78.39972000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Lima",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "-5.68341000",
     "longitude": "-77.87308000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Lima",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "-6.27480000",
     "longitude": "-77.81067000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Lima",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "-6.41667000",
     "longitude": "-78.00000000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Lima",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "-6.33333000",
     "longitude": "-77.41667000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Lima",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "-5.77031000",
     "longitude": "-78.32850000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Lima",
     "translations": {}
   }
 ]

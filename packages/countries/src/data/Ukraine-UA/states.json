@@ -10,7 +10,7 @@
     "latitude": "45.68569520",
     "longitude": "33.93294110",
     "native": "Автономна Республіка Криму",
-    "timezone": "Europe/Simferopol",
+    "timezone": "Europe/Kiev",
     "translations": {}
   },
   {
@@ -276,7 +276,7 @@
     "latitude": "44.60544340",
     "longitude": "33.52208420",
     "native": "Севастополь",
-    "timezone": "Europe/Simferopol",
+    "timezone": "Europe/Kiev",
     "translations": {}
   },
   {
@@ -346,7 +346,7 @@
     "latitude": "48.29536640",
     "longitude": "23.44660920",
     "native": "Закарпака",
-    "timezone": "Europe/Uzhgorod",
+    "timezone": "Europe/Kiev",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "47.85355860",
     "longitude": "35.16998770",
     "native": "Zaporizka",
-    "timezone": "Europe/Zaporozhye",
+    "timezone": "Europe/Kiev",
     "translations": {}
   },
   {
