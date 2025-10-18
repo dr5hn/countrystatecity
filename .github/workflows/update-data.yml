@@ -59,19 +59,27 @@ jobs:
           cd packages/countries
           node scripts/generate-data.cjs /tmp/countries-data.json
       
+      - name: Regenerate timezone data
+        run: |
+          cd packages/timezones
+          node scripts/generate-data.cjs
+      
       - name: Collect new data statistics
         id: data-stats
         run: |
           echo "=== New Data Statistics ===" > /tmp/data-stats-after.txt
           echo "Countries: $(cat packages/countries/src/data/countries.json | grep -o '"id"' | wc -l)" >> /tmp/data-stats-after.txt
           echo "Data files: $(find packages/countries/src/data -type f | wc -l)" >> /tmp/data-stats-after.txt
+          echo "Timezones: $(grep -c '"zoneName"' packages/timezones/src/data/timezones.json)" >> /tmp/data-stats-after.txt
           cat /tmp/data-stats-after.txt
           
           # Export for PR description
           COUNTRIES=$(cat packages/countries/src/data/countries.json | grep -o '"id"' | wc -l)
           FILES=$(find packages/countries/src/data -type f | wc -l)
+          TIMEZONES=$(grep -c '"zoneName"' packages/timezones/src/data/timezones.json)
           echo "countries=$COUNTRIES" >> $GITHUB_OUTPUT
           echo "files=$FILES" >> $GITHUB_OUTPUT
+          echo "timezones=$TIMEZONES" >> $GITHUB_OUTPUT
       
       - name: Build and test with new data
         run: |
@@ -86,7 +94,7 @@ jobs:
       - name: Check for changes
         id: check-changes
         run: |
-          git add packages/countries/src/data
+          git add packages/countries/src/data packages/timezones/src/data
           if git diff --cached --quiet; then
             echo "changed=false" >> $GITHUB_OUTPUT
             echo "No data changes detected"
@@ -100,7 +108,7 @@ jobs:
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: 'chore: update countries/states/cities data'
+          commit-message: 'chore: update countries/states/cities and timezone data'
           title: '🔄 Automated Data Update from countries-states-cities-database'
           body: |
             ## Automated Data Update
@@ -110,10 +118,12 @@ jobs:
             ### Statistics
             - Countries: ${{ steps.data-stats.outputs.countries }}
             - Total data files: ${{ steps.data-stats.outputs.files }}
+            - Timezones: ${{ steps.data-stats.outputs.timezones }}
             
             ### Changes
             - Downloaded latest dataset from source repository
-            - Regenerated split data structure
+            - Regenerated countries/states/cities split data structure
+            - Regenerated timezone data from updated country metadata
             - All tests passing ✅
             
             ### Verification

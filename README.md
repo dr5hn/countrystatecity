@@ -21,7 +21,23 @@ Complete countries, states, and cities database with lazy loading and iOS compat
 npm install @countrystatecity/countries
 ```
 
+### @countrystatecity/timezones [![npm](https://img.shields.io/npm/v/@countrystatecity/timezones)](https://www.npmjs.com/package/@countrystatecity/timezones)
+
+Comprehensive timezone data with conversion utilities and iOS compatibility.
+
+- **Location:** [`packages/timezones`](./packages/timezones)
+- **Documentation:** [README](./packages/timezones/README.md)
+- **Bundle Size:** <20KB initial load
+- **Data:** 392 IANA timezones, 223 countries, 131 abbreviations
+- **Status:** ✅ Implemented
+
+```bash
+npm install @countrystatecity/timezones
+```
+
 ## 🚀 Quick Start
+
+### Countries, States, and Cities
 
 ```typescript
 import { getCountries, getStatesOfCountry, getCitiesOfState } from '@countrystatecity/countries';
@@ -34,6 +50,25 @@ const states = await getStatesOfCountry('US');
 
 // Get cities in a state
 const cities = await getCitiesOfState('US', 'CA');
+```
+
+### Timezones
+
+```typescript
+import { getTimezones, getTimezonesByCountry, convertTime } from '@countrystatecity/timezones';
+
+// Get all timezones
+const timezones = await getTimezones();
+
+// Get timezones for a country
+const usTimezones = await getTimezonesByCountry('US');
+
+// Convert time between timezones
+const converted = await convertTime(
+  '2025-10-18 14:00',
+  'America/New_York',
+  'Asia/Tokyo'
+);
 ```
 
 ## ✨ Key Features
