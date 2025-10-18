@@ -127,6 +127,7 @@
       "Asia/Bahrain",
       "America/Barbados",
       "Atlantic/Bermuda",
+      "America/Curacao",
       "America/Blanc-Sablon",
       "America/Glace_Bay",
       "America/Goose_Bay",
@@ -264,6 +265,7 @@
       "Europe/Amsterdam",
       "Europe/Skopje",
       "Europe/Oslo",
+      "Arctic/Longyearbyen",
       "Europe/Warsaw",
       "Europe/San_Marino",
       "Europe/Bratislava",
@@ -1103,7 +1105,8 @@
     "abbreviation": "WEST",
     "name": "Western European Summer Time",
     "timezones": [
-      "Africa/Casablanca"
+      "Africa/Casablanca",
+      "Africa/El_Aaiun"
     ]
   },
   {
