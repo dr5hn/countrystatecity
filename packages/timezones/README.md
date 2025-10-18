@@ -371,6 +371,27 @@ async function checkDSTStatus(countryCode: string) {
 | Load abbreviations | ~5KB |
 | **Typical usage** | **~10KB** |
 
+## 📊 Data Coverage
+
+- **390 IANA Timezones**: Covers 90.7% of canonical IANA timezones
+- **223 Countries**: All countries with complete metadata
+- **99%+ Population Coverage**: Includes all major populated regions
+
+### What's Included
+✅ All major countries and territories  
+✅ All business and residential timezones  
+✅ Complete DST information  
+✅ Historical timezone data  
+
+### What's Not Included
+❌ Antarctica research station timezones (11)  
+❌ Some small dependent territories (16)  
+❌ Some disputed/unrecognized territories (12)  
+
+See [TIMEZONE_COVERAGE.md](./TIMEZONE_COVERAGE.md) for detailed analysis.
+
+**Note**: Timezone data is automatically sourced from the countries package and updates weekly. This ensures data accuracy while maintaining 99%+ real-world coverage.
+
 ## 🔗 Related Packages
 
 Part of the [@countrystatecity](https://github.com/dr5hn/countrystatecity) ecosystem:
