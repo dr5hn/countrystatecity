@@ -61,12 +61,19 @@ jobs:
       
       - name: Check bundle sizes
         run: |
-          echo "=== Bundle Sizes ==="
+          echo "=== Countries Bundle Sizes ==="
           du -sh packages/countries/dist/index.js
           du -sh packages/countries/dist/index.cjs
           du -sh packages/countries/dist/data/countries.json
-          echo "=== Total dist size ==="
+          echo "=== Countries Total dist size ==="
           du -sh packages/countries/dist/
+          echo ""
+          echo "=== Timezones Bundle Sizes ==="
+          du -sh packages/timezones/dist/index.js
+          du -sh packages/timezones/dist/index.cjs
+          du -sh packages/timezones/dist/data/timezones.json
+          echo "=== Timezones Total dist size ==="
+          du -sh packages/timezones/dist/
       
       - name: Upload build artifacts
         uses: actions/upload-artifact@v4
@@ -100,4 +107,6 @@ jobs:
         run: pnpm build
       
       - name: Run iOS compatibility tests
-        run: pnpm --filter "@countrystatecity/countries" run test:ios
+        run: |
+          pnpm --filter "@countrystatecity/countries" run test:ios
+          pnpm --filter "@countrystatecity/timezones" run test:ios
