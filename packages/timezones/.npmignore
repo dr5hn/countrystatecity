@@ -1,0 +1,22 @@
+# Source files
+src/
+scripts/
+tests/
+
+# Config files
+*.config.ts
+*.config.js
+tsconfig*.json
+.eslintrc*
+.prettierrc*
+
+# Development
+node_modules/
+.git/
+.github/
+*.log
+*.lock
+coverage/
+
+# Keep only dist in published package
+!dist/
