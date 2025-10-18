@@ -9,7 +9,7 @@
     "latitude": "-18.47460000",
     "longitude": "-70.29792000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santiago",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-19.01666667",
     "longitude": "-69.86666667",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santiago",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-17.56666667",
     "longitude": "-69.50000000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santiago",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-18.19640000",
     "longitude": "-69.55920000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santiago",
     "translations": {}
   }
 ]

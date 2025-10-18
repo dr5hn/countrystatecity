@@ -9,7 +9,7 @@
     "latitude": "41.07463000",
     "longitude": "24.24545000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "39.53910500",
     "longitude": "24.98451130",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "40.84995000",
     "longitude": "25.87644000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "40.96346000",
     "longitude": "24.36007000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "41.08139000",
     "longitude": "25.55186000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "41.07000000",
     "longitude": "25.59041000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "41.08131000",
     "longitude": "25.69494000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "40.96279000",
     "longitude": "24.80441000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "38.37451400",
     "longitude": "26.08940520",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "41.13056000",
     "longitude": "24.20843000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "40.93328000",
     "longitude": "24.71088000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "40.98556000",
     "longitude": "24.69389000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "41.34806000",
     "longitude": "26.49611000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "41.15283000",
     "longitude": "24.14730000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "41.27558000",
     "longitude": "24.97237000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "40.82030000",
     "longitude": "24.24373000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "40.84666000",
     "longitude": "24.25431000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "40.91389000",
     "longitude": "24.25139000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "40.98333000",
     "longitude": "24.80000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "40.89305000",
     "longitude": "26.17234000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "41.11667000",
     "longitude": "25.63333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "41.06013000",
     "longitude": "24.04724000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "37.57978470",
     "longitude": "26.31761320",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "41.08266000",
     "longitude": "24.18968000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "41.06165000",
     "longitude": "24.96248000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "41.12747000",
     "longitude": "25.18573000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "37.59739620",
     "longitude": "25.94166430",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "40.94931000",
     "longitude": "24.78859000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "41.05000000",
     "longitude": "24.18333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -386,7 +386,7 @@
     "latitude": "41.14653000",
     "longitude": "23.90667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -399,7 +399,7 @@
     "latitude": "41.17280000",
     "longitude": "24.21527000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -412,7 +412,7 @@
     "latitude": "41.10543000",
     "longitude": "24.08570000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -425,7 +425,7 @@
     "latitude": "40.47501000",
     "longitude": "25.47456000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -438,7 +438,7 @@
     "latitude": "41.64551000",
     "longitude": "26.47676000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -451,7 +451,7 @@
     "latitude": "41.35000000",
     "longitude": "23.86667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -464,7 +464,7 @@
     "latitude": "40.93959000",
     "longitude": "24.40687000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -477,7 +477,7 @@
     "latitude": "41.56225000",
     "longitude": "26.51470000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -490,7 +490,7 @@
     "latitude": "40.85591000",
     "longitude": "24.70595000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -503,7 +503,7 @@
     "latitude": "41.14788000",
     "longitude": "24.93869000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -516,7 +516,7 @@
     "latitude": "40.92690000",
     "longitude": "24.30805000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -529,7 +529,7 @@
     "latitude": "41.11917000",
     "longitude": "25.40535000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -542,7 +542,7 @@
     "latitude": "41.01396000",
     "longitude": "24.29647000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -555,7 +555,7 @@
     "latitude": "41.57542000",
     "longitude": "26.22905000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -568,7 +568,7 @@
     "latitude": "41.09900000",
     "longitude": "24.28915000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -581,7 +581,7 @@
     "latitude": "41.45102000",
     "longitude": "26.46067000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -594,7 +594,7 @@
     "latitude": "41.26957000",
     "longitude": "26.38522000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -607,7 +607,7 @@
     "latitude": "39.90904130",
     "longitude": "25.07552530",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -620,7 +620,7 @@
     "latitude": "39.17107260",
     "longitude": "25.04098590",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -633,7 +633,7 @@
     "latitude": "40.62741000",
     "longitude": "24.57650000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -646,7 +646,7 @@
     "latitude": "41.06413000",
     "longitude": "25.68570000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -659,7 +659,7 @@
     "latitude": "41.19351000",
     "longitude": "23.81570000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -672,12 +672,12 @@
     "latitude": "41.24384000",
     "longitude": "24.92084000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
     "id": 154261,
-    "name": "Mytilene ",
+    "name": "Mytilene",
     "state_id": 2120,
     "state_code": "A2",
     "country_id": 85,
@@ -685,7 +685,7 @@
     "latitude": "39.09953820",
     "longitude": "26.51545290",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -698,7 +698,7 @@
     "latitude": "40.86442000",
     "longitude": "24.31650000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -711,7 +711,7 @@
     "latitude": "40.96148000",
     "longitude": "24.51132000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -724,7 +724,7 @@
     "latitude": "40.90621000",
     "longitude": "24.70726000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -737,7 +737,7 @@
     "latitude": "40.83854000",
     "longitude": "24.30130000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -750,7 +750,7 @@
     "latitude": "41.58449000",
     "longitude": "26.54318000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -763,7 +763,7 @@
     "latitude": "41.51131000",
     "longitude": "26.45740000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -776,7 +776,7 @@
     "latitude": "40.94739000",
     "longitude": "24.14311000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -789,7 +789,7 @@
     "latitude": "38.51457460",
     "longitude": "26.21526900",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -802,7 +802,7 @@
     "latitude": "41.50306000",
     "longitude": "26.52972000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -815,7 +815,7 @@
     "latitude": "41.30506000",
     "longitude": "24.89438000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -828,7 +828,7 @@
     "latitude": "40.90495000",
     "longitude": "24.35083000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -841,7 +841,7 @@
     "latitude": "40.94338000",
     "longitude": "24.17747000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -854,7 +854,7 @@
     "latitude": "40.76663000",
     "longitude": "23.90039000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -867,7 +867,7 @@
     "latitude": "41.26667000",
     "longitude": "24.50000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -880,7 +880,7 @@
     "latitude": "40.95755000",
     "longitude": "26.26577000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -893,7 +893,7 @@
     "latitude": "41.10056000",
     "longitude": "24.89847000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -906,7 +906,7 @@
     "latitude": "41.08742000",
     "longitude": "24.84092000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -919,7 +919,7 @@
     "latitude": "41.19470000",
     "longitude": "24.01731000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -932,7 +932,7 @@
     "latitude": "40.71633000",
     "longitude": "24.72859000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -945,7 +945,7 @@
     "latitude": "40.74090000",
     "longitude": "24.57787000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -958,7 +958,7 @@
     "latitude": "41.18333000",
     "longitude": "23.96667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -971,7 +971,7 @@
     "latitude": "38.54144180",
     "longitude": "25.55847730",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -984,7 +984,7 @@
     "latitude": "41.62490000",
     "longitude": "26.42771000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -997,7 +997,7 @@
     "latitude": "37.71356740",
     "longitude": "25.63515040",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -1010,7 +1010,7 @@
     "latitude": "40.47333000",
     "longitude": "25.52222000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -1023,7 +1023,7 @@
     "latitude": "41.02861000",
     "longitude": "25.69306000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -1036,7 +1036,7 @@
     "latitude": "41.13382000",
     "longitude": "24.99408000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -1049,7 +1049,7 @@
     "latitude": "41.11067000",
     "longitude": "24.02755000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -1062,7 +1062,7 @@
     "latitude": "41.23333000",
     "longitude": "24.86667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -1075,7 +1075,7 @@
     "latitude": "41.19194000",
     "longitude": "26.29944000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -1088,7 +1088,7 @@
     "latitude": "40.77806000",
     "longitude": "24.70944000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -1101,7 +1101,7 @@
     "latitude": "41.02878000",
     "longitude": "26.29455000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -1114,7 +1114,7 @@
     "latitude": "41.31661000",
     "longitude": "24.00215000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -1127,7 +1127,7 @@
     "latitude": "39.17605250",
     "longitude": "25.89404220",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -1140,7 +1140,7 @@
     "latitude": "41.13488000",
     "longitude": "24.88800000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -1153,7 +1153,7 @@
     "latitude": "41.19206000",
     "longitude": "24.10385000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -1166,7 +1166,7 @@
     "latitude": "40.97437000",
     "longitude": "25.42022000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   },
   {
@@ -1179,7 +1179,7 @@
     "latitude": "41.01320000",
     "longitude": "24.38132000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Athens",
     "translations": {}
   }
 ]

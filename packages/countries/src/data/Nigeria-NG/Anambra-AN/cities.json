@@ -9,7 +9,7 @@
     "latitude": "6.10045000",
     "longitude": "7.06100000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "6.01277000",
     "longitude": "6.74768000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "6.21269000",
     "longitude": "7.07199000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "6.17146000",
     "longitude": "7.00525000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "6.01798000",
     "longitude": "7.02027000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "5.85475000",
     "longitude": "6.85944000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "6.15038000",
     "longitude": "6.83042000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "6.01962000",
     "longitude": "6.91729000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "6.14978000",
     "longitude": "6.78569000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "5.95753000",
     "longitude": "6.85305000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "5.93576000",
     "longitude": "7.07930000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "5.90016000",
     "longitude": "6.84312000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   }
 ]

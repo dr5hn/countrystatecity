@@ -9,7 +9,7 @@
     "latitude": "57.98306000",
     "longitude": "26.75639000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tallinn",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "57.98058000",
     "longitude": "26.76151000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tallinn",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "58.06028000",
     "longitude": "27.06944000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tallinn",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "58.08368000",
     "longitude": "26.98242000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tallinn",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "58.09806000",
     "longitude": "27.46361000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tallinn",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "58.10777000",
     "longitude": "27.38580000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tallinn",
     "translations": {}
   }
 ]

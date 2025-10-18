@@ -9,7 +9,7 @@
     "latitude": "-33.11651000",
     "longitude": "-58.31067000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Montevideo",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-32.97974000",
     "longitude": "-58.05858000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Montevideo",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-32.66523000",
     "longitude": "-58.13320000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Montevideo",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-32.69844000",
     "longitude": "-57.62693000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Montevideo",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "1.32940000",
     "longitude": "103.80210000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Singapore",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "1.27800000",
     "longitude": "103.85200000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Singapore",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "1.31820000",
     "longitude": "103.88710000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Singapore",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "1.31060000",
     "longitude": "103.86600000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Singapore",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "1.30300000",
     "longitude": "103.90720000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Singapore",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "1.32010000",
     "longitude": "103.84390000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Singapore",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "1.30360000",
     "longitude": "103.83180000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Singapore",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "1.28190000",
     "longitude": "103.83900000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Singapore",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "1.30490000",
     "longitude": "103.85200000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Singapore",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "1.28967000",
     "longitude": "103.85007000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Singapore",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "1.27640000",
     "longitude": "103.84340000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Singapore",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "1.33540000",
     "longitude": "103.84970000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Singapore",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "11.85812000",
     "longitude": "-86.23922000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Managua",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "11.85672000",
     "longitude": "-86.21552000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Managua",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "11.77756000",
     "longitude": "-86.37374000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Managua",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "11.84962000",
     "longitude": "-86.19903000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Managua",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "11.73426000",
     "longitude": "-86.19279000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Managua",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "11.82311000",
     "longitude": "-86.12781000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Managua",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "11.91784000",
     "longitude": "-86.27474000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Managua",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "11.90949000",
     "longitude": "-86.20351000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Managua",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "11.74321000",
     "longitude": "-86.21413000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Managua",
     "translations": {}
   }
 ]

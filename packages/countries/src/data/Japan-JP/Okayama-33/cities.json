@@ -9,7 +9,7 @@
     "latitude": "34.83767000",
     "longitude": "134.01792000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tokyo",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "34.53607000",
     "longitude": "133.59456000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tokyo",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "34.79504000",
     "longitude": "134.23510000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tokyo",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "34.60000000",
     "longitude": "133.46667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tokyo",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "34.65033000",
     "longitude": "133.47371000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tokyo",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "34.53745000",
     "longitude": "133.58967000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tokyo",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "34.50597000",
     "longitude": "133.50391000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tokyo",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "34.51520000",
     "longitude": "133.50618000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tokyo",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "34.58333000",
     "longitude": "133.76667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tokyo",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "34.55466000",
     "longitude": "133.74826000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tokyo",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "35.13549000",
     "longitude": "133.69358000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tokyo",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "35.04419000",
     "longitude": "134.23052000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tokyo",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "34.98333000",
     "longitude": "133.46667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tokyo",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "35.01571000",
     "longitude": "133.44900000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tokyo",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "34.65000000",
     "longitude": "133.93333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tokyo",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "34.71251000",
     "longitude": "133.92329000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tokyo",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "34.66539000",
     "longitude": "134.14161000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tokyo",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "34.67534000",
     "longitude": "133.75091000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tokyo",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "34.70269000",
     "longitude": "133.70218000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tokyo",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "34.78333000",
     "longitude": "133.61667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tokyo",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "34.82103000",
     "longitude": "133.52435000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tokyo",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "34.51745000",
     "longitude": "133.94574000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tokyo",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "34.52507000",
     "longitude": "133.93769000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tokyo",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "35.05215000",
     "longitude": "133.99885000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tokyo",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "35.14048000",
     "longitude": "134.03181000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tokyo",
     "translations": {}
   }
 ]

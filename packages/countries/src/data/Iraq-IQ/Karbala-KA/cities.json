@@ -9,7 +9,7 @@
     "latitude": "32.54671000",
     "longitude": "44.22765000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baghdad",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "32.61603000",
     "longitude": "44.02488000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baghdad",
     "translations": {}
   }
 ]

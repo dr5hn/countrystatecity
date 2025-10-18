@@ -9,7 +9,7 @@
     "latitude": "24.60769000",
     "longitude": "93.77998000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "24.57390000",
     "longitude": "94.29130000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "24.33333000",
     "longitude": "93.68333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "24.79110000",
     "longitude": "93.93480000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "24.60998000",
     "longitude": "93.88873000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "24.79410040",
     "longitude": "93.11709860",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "24.49820000",
     "longitude": "93.98126000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "24.85996860",
     "longitude": "94.50586430",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "24.08950000",
     "longitude": "93.99010000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "24.84911310",
     "longitude": "93.59673660",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "24.14370000",
     "longitude": "93.52700000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "25.26705000",
     "longitude": "94.02237000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "24.97548000",
     "longitude": "93.51563000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "24.39450000",
     "longitude": "94.10530000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "24.62205000",
     "longitude": "94.01001000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "25.04828000",
     "longitude": "94.35883000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   }
 ]

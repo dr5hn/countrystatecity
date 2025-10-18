@@ -9,7 +9,7 @@
     "latitude": "54.13350000",
     "longitude": "-165.77686000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "54.85000000",
     "longitude": "-163.41667000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "52.16298000",
     "longitude": "-174.28505000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Adak",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "59.77667000",
     "longitude": "-151.83139000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "61.21806000",
     "longitude": "-149.90028000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "61.16667000",
     "longitude": "-149.25056000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "64.80000000",
     "longitude": "-147.53333000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "71.29058000",
     "longitude": "-156.78872000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "60.16417000",
     "longitude": "-149.39500000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "60.79222000",
     "longitude": "-161.75583000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "60.75056000",
     "longitude": "-160.50056000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "61.52139000",
     "longitude": "-149.95444000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "58.75056000",
     "longitude": "-156.83333000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "61.54222000",
     "longitude": "-149.03333000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "61.52778000",
     "longitude": "-165.58639000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "56.41331000",
     "longitude": "-132.32009000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "60.36861000",
     "longitude": "-151.30639000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "64.85694000",
     "longitude": "-147.80278000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "60.54320000",
     "longitude": "-145.75867000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "55.47639000",
     "longitude": "-133.14833000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "63.87217000",
     "longitude": "-145.21773000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "63.78889000",
     "longitude": "-150.19167000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "59.67611000",
     "longitude": "-151.55750000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "59.03972000",
     "longitude": "-158.45750000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "59.76193000",
     "longitude": "-158.31848000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "53.88980000",
     "longitude": "-166.54220000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "61.32139000",
     "longitude": "-149.56778000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "64.66327000",
     "longitude": "-147.05442000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "61.25703000",
     "longitude": "-149.63139000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -386,7 +386,7 @@
     "latitude": "64.84722000",
     "longitude": "-148.01444000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -399,7 +399,7 @@
     "latitude": "64.83778000",
     "longitude": "-147.71639000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -412,7 +412,7 @@
     "latitude": "64.83333000",
     "longitude": "-146.41667000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -425,7 +425,7 @@
     "latitude": "61.63891000",
     "longitude": "-149.14215000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -438,7 +438,7 @@
     "latitude": "64.90822000",
     "longitude": "-147.69866000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -451,7 +451,7 @@
     "latitude": "61.74402000",
     "longitude": "-149.23613000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -464,7 +464,7 @@
     "latitude": "59.73611000",
     "longitude": "-151.29528000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -477,7 +477,7 @@
     "latitude": "61.57278000",
     "longitude": "-149.24083000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -490,7 +490,7 @@
     "latitude": "60.94250000",
     "longitude": "-149.16639000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -503,7 +503,7 @@
     "latitude": "59.23595000",
     "longitude": "-135.44533000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -516,7 +516,7 @@
     "latitude": "59.25056000",
     "longitude": "-135.50056000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -529,7 +529,7 @@
     "latitude": "63.85694000",
     "longitude": "-148.96611000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -542,7 +542,7 @@
     "latitude": "59.64250000",
     "longitude": "-151.54940000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -555,7 +555,7 @@
     "latitude": "57.94807000",
     "longitude": "-134.94153000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -568,7 +568,7 @@
     "latitude": "61.53111000",
     "longitude": "-166.09667000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -581,7 +581,7 @@
     "latitude": "61.63028000",
     "longitude": "-149.81806000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -594,7 +594,7 @@
     "latitude": "58.30194000",
     "longitude": "-134.41972000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -607,7 +607,7 @@
     "latitude": "60.41833000",
     "longitude": "-151.29000000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -620,7 +620,7 @@
     "latitude": "60.55444000",
     "longitude": "-151.25833000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -633,7 +633,7 @@
     "latitude": "60.41667000",
     "longitude": "-151.25056000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -646,7 +646,7 @@
     "latitude": "55.34180000",
     "longitude": "-131.64757000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -659,7 +659,7 @@
     "latitude": "55.50056000",
     "longitude": "-131.41667000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -672,7 +672,7 @@
     "latitude": "55.06087000",
     "longitude": "-162.31853000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -685,7 +685,7 @@
     "latitude": "61.51262000",
     "longitude": "-149.60012000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -698,7 +698,7 @@
     "latitude": "57.78852000",
     "longitude": "-152.40533000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -711,7 +711,7 @@
     "latitude": "57.33333000",
     "longitude": "-153.33333000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -724,7 +724,7 @@
     "latitude": "57.76587000",
     "longitude": "-152.60004000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -737,7 +737,7 @@
     "latitude": "66.89846000",
     "longitude": "-162.59809000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -750,7 +750,7 @@
     "latitude": "57.00056000",
     "longitude": "-158.00056000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -763,7 +763,7 @@
     "latitude": "61.60713000",
     "longitude": "-149.30861000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -776,7 +776,7 @@
     "latitude": "61.62611000",
     "longitude": "-148.94556000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -789,7 +789,7 @@
     "latitude": "61.87811100",
     "longitude": "162.08500000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -802,7 +802,7 @@
     "latitude": "62.50056000",
     "longitude": "-150.00556000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -815,7 +815,7 @@
     "latitude": "61.62472000",
     "longitude": "-149.60111000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -828,7 +828,7 @@
     "latitude": "55.12848000",
     "longitude": "-131.57519000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -841,7 +841,7 @@
     "latitude": "60.69028000",
     "longitude": "-151.28889000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -854,7 +854,7 @@
     "latitude": "64.50111000",
     "longitude": "-165.40639000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -867,7 +867,7 @@
     "latitude": "64.83333000",
     "longitude": "-163.75056000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -880,7 +880,7 @@
     "latitude": "64.75111000",
     "longitude": "-147.34944000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -893,7 +893,7 @@
     "latitude": "69.25056000",
     "longitude": "-152.00056000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -906,7 +906,7 @@
     "latitude": "66.83333000",
     "longitude": "-161.00056000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -919,7 +919,7 @@
     "latitude": "61.59941000",
     "longitude": "-149.11456000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -932,7 +932,7 @@
     "latitude": "56.81250000",
     "longitude": "-132.95556000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -945,7 +945,7 @@
     "latitude": "56.76529000",
     "longitude": "-133.19313000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -958,7 +958,7 @@
     "latitude": "70.25528000",
     "longitude": "-148.33722000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -971,7 +971,7 @@
     "latitude": "60.53194000",
     "longitude": "-151.08528000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -984,7 +984,7 @@
     "latitude": "64.52399000",
     "longitude": "-146.90210000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -997,7 +997,7 @@
     "latitude": "55.33655000",
     "longitude": "-160.49880000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -1010,7 +1010,7 @@
     "latitude": "60.10426000",
     "longitude": "-149.44350000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -1023,7 +1023,7 @@
     "latitude": "57.05315000",
     "longitude": "-135.33088000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -1036,7 +1036,7 @@
     "latitude": "57.08255000",
     "longitude": "-135.26917000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -1049,7 +1049,7 @@
     "latitude": "59.46852000",
     "longitude": "-135.30596000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -1062,7 +1062,7 @@
     "latitude": "60.48778000",
     "longitude": "-151.05833000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -1075,7 +1075,7 @@
     "latitude": "63.75056000",
     "longitude": "-143.25056000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -1088,7 +1088,7 @@
     "latitude": "60.53722000",
     "longitude": "-150.76472000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -1101,7 +1101,7 @@
     "latitude": "61.77789000",
     "longitude": "-148.76450000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -1114,7 +1114,7 @@
     "latitude": "61.62694000",
     "longitude": "-149.42806000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -1127,7 +1127,7 @@
     "latitude": "63.33667000",
     "longitude": "-142.98556000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -1140,7 +1140,7 @@
     "latitude": "53.87413000",
     "longitude": "-166.53408000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -1153,7 +1153,7 @@
     "latitude": "61.13083000",
     "longitude": "-146.34833000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -1166,7 +1166,7 @@
     "latitude": "61.50056000",
     "longitude": "-144.50056000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -1179,7 +1179,7 @@
     "latitude": "61.58090000",
     "longitude": "-149.44150000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -1192,7 +1192,7 @@
     "latitude": "61.74722000",
     "longitude": "-150.03750000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -1205,7 +1205,7 @@
     "latitude": "56.47083000",
     "longitude": "-132.37667000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -1218,7 +1218,7 @@
     "latitude": "62.16129000",
     "longitude": "-149.85075000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -1231,7 +1231,7 @@
     "latitude": "59.66667000",
     "longitude": "-139.13333000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   },
   {
@@ -1244,7 +1244,7 @@
     "latitude": "65.70000000",
     "longitude": "-152.71667000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Anchorage",
     "translations": {}
   }
 ]

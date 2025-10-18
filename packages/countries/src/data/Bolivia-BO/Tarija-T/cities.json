@@ -9,7 +9,7 @@
     "latitude": "-22.73206000",
     "longitude": "-64.33724000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/La_Paz",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-21.52661000",
     "longitude": "-64.17299000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/La_Paz",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-22.16667000",
     "longitude": "-64.33333000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/La_Paz",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-21.66667000",
     "longitude": "-65.00000000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/La_Paz",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "-21.58333000",
     "longitude": "-64.58333000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/La_Paz",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "-21.66667000",
     "longitude": "-63.00000000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/La_Paz",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "-21.16667000",
     "longitude": "-64.91667000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/La_Paz",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "-21.58333000",
     "longitude": "-64.16667000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/La_Paz",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "-21.53549000",
     "longitude": "-64.72956000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/La_Paz",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "-21.26235000",
     "longitude": "-63.46903000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/La_Paz",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "-22.01643000",
     "longitude": "-63.67753000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/La_Paz",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "43.92750000",
     "longitude": "21.37000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Belgrade",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "44.09472620",
     "longitude": "21.39913490",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Belgrade",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "44.86649000",
     "longitude": "19.70943000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Belgrade",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "44.80117000",
     "longitude": "19.50902000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Belgrade",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "44.52223000",
     "longitude": "21.76030000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Belgrade",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "44.60049000",
     "longitude": "20.08539000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Belgrade",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "43.97713000",
     "longitude": "21.26121000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Belgrade",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "43.86083000",
     "longitude": "21.40778000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Belgrade",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "43.86577250",
     "longitude": "21.02877540",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Belgrade",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "44.24526320",
     "longitude": "21.15803640",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Belgrade",
     "translations": {}
   }
 ]

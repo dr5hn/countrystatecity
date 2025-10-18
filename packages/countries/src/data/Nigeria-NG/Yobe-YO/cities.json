@@ -9,7 +9,7 @@
     "latitude": "11.74697000",
     "longitude": "11.96083000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "11.74449000",
     "longitude": "12.18545000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "12.49536000",
     "longitude": "11.49977000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "11.55410000",
     "longitude": "11.40600000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "11.37700000",
     "longitude": "11.23746000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "12.87398000",
     "longitude": "11.04057000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "12.89439000",
     "longitude": "11.92649000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "11.48451000",
     "longitude": "12.31264000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "12.63958000",
     "longitude": "10.70422000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "11.49959000",
     "longitude": "11.93396000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "12.67479000",
     "longitude": "11.06690000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "13.15498000",
     "longitude": "10.63468000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "11.98022000",
     "longitude": "11.44002000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "13.13639000",
     "longitude": "10.04924000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "12.87695000",
     "longitude": "10.45536000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "11.71391000",
     "longitude": "11.08108000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lagos",
     "translations": {}
   }
 ]

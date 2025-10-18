@@ -9,7 +9,7 @@
     "latitude": "15.27220000",
     "longitude": "43.83930000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "15.02670000",
     "longitude": "43.85000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "15.02060000",
     "longitude": "44.50440000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "15.50253000",
     "longitude": "44.18158000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "15.79950000",
     "longitude": "44.24660000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "15.32931000",
     "longitude": "44.57739000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "15.04810000",
     "longitude": "44.87180000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "15.45050000",
     "longitude": "44.37820000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "15.21500000",
     "longitude": "44.04980000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "15.03510000",
     "longitude": "44.25140000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "15.50662000",
     "longitude": "44.06030000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "15.19190000",
     "longitude": "44.51950000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "15.27490000",
     "longitude": "44.76860000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "15.07170000",
     "longitude": "43.68620000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "15.75160000",
     "longitude": "44.57460000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "15.07120000",
     "longitude": "43.58270000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -217,20 +217,7 @@
     "latitude": "15.31637000",
     "longitude": "44.30880000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 130964,
-    "name": "Sanaa",
-    "state_id": 1236,
-    "state_code": "SN",
-    "country_id": 245,
-    "country_code": "YE",
-    "latitude": "15.35472000",
-    "longitude": "44.20667000",
-    "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -243,7 +230,7 @@
     "latitude": "15.22520000",
     "longitude": "44.30570000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -256,7 +243,7 @@
     "latitude": "15.17177000",
     "longitude": "44.32442000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   }
 ]

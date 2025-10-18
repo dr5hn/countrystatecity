@@ -178,7 +178,7 @@
     "latitude": "22.35062700",
     "longitude": "114.18491610",
     "native": "Hong Kong SAR",
-    "timezone": "Asia/Hong_Kong",
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -290,7 +290,7 @@
     "latitude": "22.31452850",
     "longitude": "113.94724460",
     "native": "Macau SAR",
-    "timezone": "Asia/Hong_Kong",
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -402,7 +402,7 @@
     "latitude": "23.97393740",
     "longitude": "120.98201790",
     "native": "Taiwan",
-    "timezone": "Asia/Taipei",
+    "timezone": "Asia/Shanghai",
     "translations": {}
   },
   {
@@ -430,7 +430,7 @@
     "latitude": "42.48049530",
     "longitude": "85.46334640",
     "native": "Xinjiang",
-    "timezone": "Asia/Shanghai",
+    "timezone": "Asia/Urumqi",
     "translations": {}
   },
   {

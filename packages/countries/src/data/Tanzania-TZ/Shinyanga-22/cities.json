@@ -9,7 +9,7 @@
     "latitude": "-3.90000000",
     "longitude": "32.93333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Dar_es_Salaam",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-3.83333000",
     "longitude": "32.60000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Dar_es_Salaam",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-3.61667000",
     "longitude": "33.86667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Dar_es_Salaam",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-3.28333000",
     "longitude": "32.85000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Dar_es_Salaam",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "-3.55000000",
     "longitude": "33.60000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Dar_es_Salaam",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "-3.55000000",
     "longitude": "33.40000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Dar_es_Salaam",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "-3.66393000",
     "longitude": "33.42118000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Dar_es_Salaam",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "-3.51667000",
     "longitude": "33.51667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Dar_es_Salaam",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "-3.88333000",
     "longitude": "33.20000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Dar_es_Salaam",
     "translations": {}
   }
 ]

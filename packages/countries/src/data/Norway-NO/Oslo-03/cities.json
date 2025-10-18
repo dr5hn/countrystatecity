@@ -9,7 +9,7 @@
     "latitude": "59.91273000",
     "longitude": "10.74609000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "59.92105000",
     "longitude": "10.68017000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Oslo",
     "translations": {}
   }
 ]

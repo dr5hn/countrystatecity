@@ -9,7 +9,7 @@
     "latitude": "49.56500000",
     "longitude": "6.16361000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Luxembourg",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "49.65507000",
     "longitude": "6.11874000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Luxembourg",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "49.61111000",
     "longitude": "6.05000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Luxembourg",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "49.58194000",
     "longitude": "6.22667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Luxembourg",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "49.56278000",
     "longitude": "6.15389000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Luxembourg",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "49.67207000",
     "longitude": "6.14202000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Luxembourg",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "49.65278000",
     "longitude": "6.14139000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Luxembourg",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "49.56806000",
     "longitude": "6.15139000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Luxembourg",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "49.58769000",
     "longitude": "6.17065000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Luxembourg",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "49.62389000",
     "longitude": "6.14944000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Luxembourg",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "49.61167000",
     "longitude": "6.13000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Luxembourg",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "49.58528000",
     "longitude": "6.25556000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Luxembourg",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "49.68028000",
     "longitude": "6.13000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Luxembourg",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "49.65196000",
     "longitude": "6.26199000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Luxembourg",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "49.65722000",
     "longitude": "6.00028000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Luxembourg",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "49.61471000",
     "longitude": "6.22221000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Luxembourg",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "49.61014000",
     "longitude": "6.25903000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Luxembourg",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "49.62056000",
     "longitude": "6.26861000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Luxembourg",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "49.67694000",
     "longitude": "6.12389000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Luxembourg",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "49.62056000",
     "longitude": "6.07333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Luxembourg",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "49.66321000",
     "longitude": "6.13224000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Luxembourg",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "49.54083000",
     "longitude": "6.20083000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Luxembourg",
     "translations": {}
   }
 ]

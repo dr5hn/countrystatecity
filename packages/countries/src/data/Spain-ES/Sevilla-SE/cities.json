@@ -9,7 +9,7 @@
     "latitude": "37.25273000",
     "longitude": "-4.99269000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "38.03333000",
     "longitude": "-5.71667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "37.42354000",
     "longitude": "-6.16675000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "37.33791000",
     "longitude": "-5.83951000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "37.51780000",
     "longitude": "-5.98185000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -74,20 +74,7 @@
     "latitude": "37.61506000",
     "longitude": "-5.66694000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 151451,
-    "name": "Algaba La",
-    "state_id": 1193,
-    "state_code": "SE",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "37.45874610",
-    "longitude": "-6.01363170",
-    "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -100,7 +87,7 @@
     "latitude": "37.01516000",
     "longitude": "-5.14949000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -113,7 +100,7 @@
     "latitude": "37.87221000",
     "longitude": "-6.08085000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -126,7 +113,7 @@
     "latitude": "37.31099000",
     "longitude": "-6.10998000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -139,7 +126,7 @@
     "latitude": "37.18733690",
     "longitude": "-5.58273340",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -152,7 +139,7 @@
     "latitude": "37.30422000",
     "longitude": "-6.24963000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -165,7 +152,7 @@
     "latitude": "37.51914000",
     "longitude": "-6.26988000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -178,7 +165,7 @@
     "latitude": "37.30785000",
     "longitude": "-4.67296000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -191,7 +178,7 @@
     "latitude": "37.35289000",
     "longitude": "-6.19663000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -204,7 +191,7 @@
     "latitude": "37.34014000",
     "longitude": "-6.13719000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -217,7 +204,7 @@
     "latitude": "37.37358000",
     "longitude": "-6.07233000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -230,7 +217,7 @@
     "latitude": "37.54944000",
     "longitude": "-5.87139000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -243,20 +230,7 @@
     "latitude": "37.58440000",
     "longitude": "-5.96654000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 151453,
-    "name": "Cabezas de San Juan Las",
-    "state_id": 1193,
-    "state_code": "SE",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "36.98028730",
-    "longitude": "-5.93832910",
-    "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -269,20 +243,7 @@
     "latitude": "37.40202000",
     "longitude": "-6.03314000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 151454,
-    "name": "Campana La",
-    "state_id": 1193,
-    "state_code": "SE",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "37.56874130",
-    "longitude": "-5.42668520",
-    "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -295,7 +256,7 @@
     "latitude": "37.59924000",
     "longitude": "-5.21016000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -308,7 +269,7 @@
     "latitude": "37.61032000",
     "longitude": "-5.82472000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -321,7 +282,7 @@
     "latitude": "37.47125000",
     "longitude": "-5.64608000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -334,7 +295,7 @@
     "latitude": "37.37007000",
     "longitude": "-6.32923000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -347,7 +308,7 @@
     "latitude": "37.29389000",
     "longitude": "-4.75972000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -360,7 +321,7 @@
     "latitude": "37.67576000",
     "longitude": "-5.98886000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -373,7 +334,7 @@
     "latitude": "37.40955000",
     "longitude": "-6.05515000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -386,7 +347,7 @@
     "latitude": "37.38594000",
     "longitude": "-6.05258000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -399,20 +360,7 @@
     "latitude": "37.38627000",
     "longitude": "-6.33443000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 151455,
-    "name": "Castillo de las Guardas El",
-    "state_id": 1193,
-    "state_code": "SE",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "37.69231710",
-    "longitude": "-6.31529690",
-    "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -425,7 +373,7 @@
     "latitude": "37.93333000",
     "longitude": "-5.75000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -438,7 +386,7 @@
     "latitude": "37.86667000",
     "longitude": "-5.61667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -451,7 +399,7 @@
     "latitude": "37.28766000",
     "longitude": "-6.05410000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -464,20 +412,7 @@
     "latitude": "36.97335000",
     "longitude": "-5.44022000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 151456,
-    "name": "Coronil El",
-    "state_id": 1193,
-    "state_code": "SE",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "37.07936530",
-    "longitude": "-5.63379830",
-    "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -490,20 +425,7 @@
     "latitude": "37.10033910",
     "longitude": "-4.98574960",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 151478,
-    "name": "Cuervo de Sevilla El",
-    "state_id": 1193,
-    "state_code": "SE",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "36.85279760",
-    "longitude": "-6.03852350",
-    "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -516,7 +438,7 @@
     "latitude": "37.28287000",
     "longitude": "-5.92088000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -529,7 +451,150 @@
     "latitude": "37.54220000",
     "longitude": "-5.08260000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
+    "translations": {}
+  },
+  {
+    "id": 151455,
+    "name": "El Castillo de las Guardas",
+    "state_id": 1193,
+    "state_code": "SE",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "37.69231710",
+    "longitude": "-6.31529690",
+    "native": null,
+    "timezone": "Europe/Madrid",
+    "translations": {}
+  },
+  {
+    "id": 151456,
+    "name": "El Coronil",
+    "state_id": 1193,
+    "state_code": "SE",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "37.07936530",
+    "longitude": "-5.63379830",
+    "native": null,
+    "timezone": "Europe/Madrid",
+    "translations": {}
+  },
+  {
+    "id": 151478,
+    "name": "El Cuervo de Sevilla",
+    "state_id": 1193,
+    "state_code": "SE",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "36.85279760",
+    "longitude": "-6.03852350",
+    "native": null,
+    "timezone": "Europe/Madrid",
+    "translations": {}
+  },
+  {
+    "id": 151458,
+    "name": "El Garrobo",
+    "state_id": 1193,
+    "state_code": "SE",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "37.62765450",
+    "longitude": "-6.17258560",
+    "native": null,
+    "timezone": "Europe/Madrid",
+    "translations": {}
+  },
+  {
+    "id": 151462,
+    "name": "El Madroño",
+    "state_id": 1193,
+    "state_code": "SE",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "37.65271470",
+    "longitude": "-6.47165800",
+    "native": null,
+    "timezone": "Europe/Madrid",
+    "translations": {}
+  },
+  {
+    "id": 151466,
+    "name": "El Pedroso",
+    "state_id": 1193,
+    "state_code": "SE",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "37.84156670",
+    "longitude": "-5.76553430",
+    "native": null,
+    "timezone": "Europe/Madrid",
+    "translations": {}
+  },
+  {
+    "id": 151470,
+    "name": "El Real de la Jara",
+    "state_id": 1193,
+    "state_code": "SE",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "37.94872530",
+    "longitude": "-6.15402410",
+    "native": null,
+    "timezone": "Europe/Madrid",
+    "translations": {}
+  },
+  {
+    "id": 151473,
+    "name": "El Ronquillo",
+    "state_id": 1193,
+    "state_code": "SE",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "37.72611180",
+    "longitude": "-6.17722680",
+    "native": null,
+    "timezone": "Europe/Madrid",
+    "translations": {}
+  },
+  {
+    "id": 151474,
+    "name": "El Rubio",
+    "state_id": 1193,
+    "state_code": "SE",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "37.35377700",
+    "longitude": "-4.99094780",
+    "native": null,
+    "timezone": "Europe/Madrid",
+    "translations": {}
+  },
+  {
+    "id": 151475,
+    "name": "El Saucejo",
+    "state_id": 1193,
+    "state_code": "SE",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "37.07419080",
+    "longitude": "-5.09761610",
+    "native": null,
+    "timezone": "Europe/Madrid",
+    "translations": {}
+  },
+  {
+    "id": 151476,
+    "name": "El Viso del Alcor",
+    "state_id": 1193,
+    "state_code": "SE",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "37.38868620",
+    "longitude": "-5.72178110",
+    "native": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -542,7 +607,7 @@
     "latitude": "37.38154000",
     "longitude": "-6.12578000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -555,7 +620,7 @@
     "latitude": "37.29263000",
     "longitude": "-4.87896000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -568,20 +633,7 @@
     "latitude": "37.46409000",
     "longitude": "-5.34615000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 151458,
-    "name": "Garrobo El",
-    "state_id": 1193,
-    "state_code": "SE",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "37.62765450",
-    "longitude": "-6.17258560",
-    "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -594,7 +646,7 @@
     "latitude": "37.33481000",
     "longitude": "-6.02601000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -607,7 +659,7 @@
     "latitude": "37.52957000",
     "longitude": "-6.15479000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -620,7 +672,7 @@
     "latitude": "37.25150000",
     "longitude": "-4.91442000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -633,7 +685,7 @@
     "latitude": "37.38647000",
     "longitude": "-6.07729000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -646,7 +698,7 @@
     "latitude": "38.10000000",
     "longitude": "-5.81667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -659,7 +711,7 @@
     "latitude": "37.54262000",
     "longitude": "-6.05626000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -672,7 +724,7 @@
     "latitude": "37.36396000",
     "longitude": "-4.84979000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -685,7 +737,7 @@
     "latitude": "37.35665510",
     "longitude": "-6.27733950",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -698,12 +750,38 @@
     "latitude": "37.13325080",
     "longitude": "-6.16583510",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
+    "translations": {}
+  },
+  {
+    "id": 151451,
+    "name": "La Algaba",
+    "state_id": 1193,
+    "state_code": "SE",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "37.45874610",
+    "longitude": "-6.01363170",
+    "native": null,
+    "timezone": "Europe/Madrid",
+    "translations": {}
+  },
+  {
+    "id": 151454,
+    "name": "La Campana",
+    "state_id": 1193,
+    "state_code": "SE",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "37.56874130",
+    "longitude": "-5.42668520",
+    "native": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
     "id": 151460,
-    "name": "Lantejuela La",
+    "name": "La Lantejuela",
     "state_id": 1193,
     "state_code": "SE",
     "country_id": 207,
@@ -711,7 +789,111 @@
     "latitude": "37.35444580",
     "longitude": "-5.22275260",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
+    "translations": {}
+  },
+  {
+    "id": 151461,
+    "name": "La Luisiana",
+    "state_id": 1193,
+    "state_code": "SE",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "37.52628410",
+    "longitude": "-5.24885730",
+    "native": null,
+    "timezone": "Europe/Madrid",
+    "translations": {}
+  },
+  {
+    "id": 151467,
+    "name": "La Puebla de Cazalla",
+    "state_id": 1193,
+    "state_code": "SE",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "37.22236530",
+    "longitude": "-5.31417140",
+    "native": null,
+    "timezone": "Europe/Madrid",
+    "translations": {}
+  },
+  {
+    "id": 151468,
+    "name": "La Puebla de los Infantes",
+    "state_id": 1193,
+    "state_code": "SE",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "37.78039300",
+    "longitude": "-5.38957780",
+    "native": null,
+    "timezone": "Europe/Madrid",
+    "translations": {}
+  },
+  {
+    "id": 151469,
+    "name": "La Puebla del Río",
+    "state_id": 1193,
+    "state_code": "SE",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "37.26940650",
+    "longitude": "-6.06313300",
+    "native": null,
+    "timezone": "Europe/Madrid",
+    "translations": {}
+  },
+  {
+    "id": 151471,
+    "name": "La Rinconada",
+    "state_id": 1193,
+    "state_code": "SE",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "37.48726810",
+    "longitude": "-5.98164240",
+    "native": null,
+    "timezone": "Europe/Madrid",
+    "translations": {}
+  },
+  {
+    "id": 151472,
+    "name": "La Roda de Andalucía",
+    "state_id": 1193,
+    "state_code": "SE",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "37.20133850",
+    "longitude": "-4.77863780",
+    "native": null,
+    "timezone": "Europe/Madrid",
+    "translations": {}
+  },
+  {
+    "id": 151453,
+    "name": "Las Cabezas de San Juan",
+    "state_id": 1193,
+    "state_code": "SE",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "36.98028730",
+    "longitude": "-5.93832910",
+    "native": null,
+    "timezone": "Europe/Madrid",
+    "translations": {}
+  },
+  {
+    "id": 151464,
+    "name": "Las Navas de la Concepción",
+    "state_id": 1193,
+    "state_code": "SE",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "37.93324890",
+    "longitude": "-5.46555420",
+    "native": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -724,7 +906,7 @@
     "latitude": "36.92077000",
     "longitude": "-6.07529000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -737,7 +919,7 @@
     "latitude": "37.26926000",
     "longitude": "-4.82759000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -750,33 +932,7 @@
     "latitude": "37.65896000",
     "longitude": "-5.52751000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 151461,
-    "name": "Luisiana La",
-    "state_id": 1193,
-    "state_code": "SE",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "37.52628410",
-    "longitude": "-5.24885730",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 151462,
-    "name": "Madroño El",
-    "state_id": 1193,
-    "state_code": "SE",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "37.65271470",
-    "longitude": "-6.47165800",
-    "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -789,7 +945,7 @@
     "latitude": "37.37301000",
     "longitude": "-5.74951000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -802,7 +958,7 @@
     "latitude": "37.34461000",
     "longitude": "-6.06391000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -815,7 +971,7 @@
     "latitude": "37.32900000",
     "longitude": "-5.41681000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -828,7 +984,7 @@
     "latitude": "37.37120000",
     "longitude": "-4.95949000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -841,7 +997,7 @@
     "latitude": "37.10867000",
     "longitude": "-4.96347000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -854,7 +1010,7 @@
     "latitude": "37.15622950",
     "longitude": "-5.71915640",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -867,7 +1023,7 @@
     "latitude": "36.99531000",
     "longitude": "-5.57145000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -880,20 +1036,7 @@
     "latitude": "37.12084000",
     "longitude": "-5.45403000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 151464,
-    "name": "Navas de la Concepción Las",
-    "state_id": 1193,
-    "state_code": "SE",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "37.93324890",
-    "longitude": "-5.46555420",
-    "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -906,7 +1049,7 @@
     "latitude": "37.41802000",
     "longitude": "-6.15603000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -919,7 +1062,7 @@
     "latitude": "37.23760000",
     "longitude": "-5.10311000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -932,7 +1075,7 @@
     "latitude": "37.15846360",
     "longitude": "-5.92448080",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -945,7 +1088,7 @@
     "latitude": "37.32225000",
     "longitude": "-6.05863000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -958,7 +1101,7 @@
     "latitude": "37.29047000",
     "longitude": "-5.49703000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -971,20 +1114,7 @@
     "latitude": "37.22604000",
     "longitude": "-4.89420000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 151466,
-    "name": "Pedroso El",
-    "state_id": 1193,
-    "state_code": "SE",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "37.84156670",
-    "longitude": "-5.76553430",
-    "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -997,7 +1127,7 @@
     "latitude": "37.70892000",
     "longitude": "-5.34504000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1010,7 +1140,7 @@
     "latitude": "37.30337000",
     "longitude": "-6.30097000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1023,111 +1153,7 @@
     "latitude": "36.97226000",
     "longitude": "-5.22230000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 151467,
-    "name": "Puebla de Cazalla La",
-    "state_id": 1193,
-    "state_code": "SE",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "37.22236530",
-    "longitude": "-5.31417140",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 151468,
-    "name": "Puebla de los Infantes La",
-    "state_id": 1193,
-    "state_code": "SE",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "37.78039300",
-    "longitude": "-5.38957780",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 151469,
-    "name": "Puebla del Río La",
-    "state_id": 1193,
-    "state_code": "SE",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "37.26940650",
-    "longitude": "-6.06313300",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 151470,
-    "name": "Real de la Jara El",
-    "state_id": 1193,
-    "state_code": "SE",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "37.94872530",
-    "longitude": "-6.15402410",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 151471,
-    "name": "Rinconada La",
-    "state_id": 1193,
-    "state_code": "SE",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "37.48726810",
-    "longitude": "-5.98164240",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 151472,
-    "name": "Roda de Andalucía La",
-    "state_id": 1193,
-    "state_code": "SE",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "37.20133850",
-    "longitude": "-4.77863780",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 151473,
-    "name": "Ronquillo El",
-    "state_id": 1193,
-    "state_code": "SE",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "37.72611180",
-    "longitude": "-6.17722680",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 151474,
-    "name": "Rubio El",
-    "state_id": 1193,
-    "state_code": "SE",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "37.35377700",
-    "longitude": "-4.99094780",
-    "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1140,7 +1166,7 @@
     "latitude": "37.42060000",
     "longitude": "-6.11049000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1153,7 +1179,7 @@
     "latitude": "37.35813000",
     "longitude": "-6.03731000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1166,7 +1192,7 @@
     "latitude": "38.00000000",
     "longitude": "-5.65000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1179,7 +1205,7 @@
     "latitude": "37.38758000",
     "longitude": "-6.20346000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1192,20 +1218,7 @@
     "latitude": "37.43553000",
     "longitude": "-6.04106000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 151475,
-    "name": "Saucejo El",
-    "state_id": 1193,
-    "state_code": "SE",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "37.07419080",
-    "longitude": "-5.09761610",
-    "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1218,7 +1231,7 @@
     "latitude": "37.38283000",
     "longitude": "-5.97317000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1231,7 +1244,7 @@
     "latitude": "37.60904000",
     "longitude": "-5.73403000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1244,7 +1257,7 @@
     "latitude": "37.37281000",
     "longitude": "-6.04589000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1257,7 +1270,7 @@
     "latitude": "37.36881000",
     "longitude": "-6.15847000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1270,7 +1283,7 @@
     "latitude": "37.18516000",
     "longitude": "-5.78093000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1283,7 +1296,7 @@
     "latitude": "37.41618000",
     "longitude": "-6.07422000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1296,7 +1309,7 @@
     "latitude": "37.24481000",
     "longitude": "-6.30665000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1309,7 +1322,7 @@
     "latitude": "37.04955000",
     "longitude": "-5.17540000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1322,7 +1335,7 @@
     "latitude": "37.39623000",
     "longitude": "-6.14077000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1335,7 +1348,7 @@
     "latitude": "37.65502000",
     "longitude": "-5.71369000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1348,20 +1361,7 @@
     "latitude": "37.58919000",
     "longitude": "-5.87443000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 151476,
-    "name": "Viso del Alcor El",
-    "state_id": 1193,
-    "state_code": "SE",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "37.38868620",
-    "longitude": "-5.72178110",
-    "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   }
 ]

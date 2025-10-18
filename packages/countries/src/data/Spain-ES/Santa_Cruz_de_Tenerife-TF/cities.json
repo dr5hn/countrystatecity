@@ -9,7 +9,7 @@
     "latitude": "28.12271000",
     "longitude": "-16.72600000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "28.18778000",
     "longitude": "-17.19678000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "28.06205000",
     "longitude": "-17.24073000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "28.33971000",
     "longitude": "-16.42244000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "28.46671860",
     "longitude": "-16.27971730",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "28.09962000",
     "longitude": "-16.68102000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "28.82708000",
     "longitude": "-17.80377000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "28.65000000",
     "longitude": "-17.78333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "28.63011000",
     "longitude": "-17.78953000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "28.37458000",
     "longitude": "-16.86098000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -139,7 +139,72 @@
     "latitude": "28.35480000",
     "longitude": "-16.37268000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
+    "translations": {}
+  },
+  {
+    "id": 152454,
+    "name": "El Paso",
+    "state_id": 5112,
+    "state_code": "TF",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "28.65176560",
+    "longitude": "-17.87999020",
+    "native": null,
+    "timezone": "Atlantic/Canary",
+    "translations": {}
+  },
+  {
+    "id": 152465,
+    "name": "El Pinar de El Hierro",
+    "state_id": 5112,
+    "state_code": "TF",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "27.69309740",
+    "longitude": "-18.01244690",
+    "native": null,
+    "timezone": "Atlantic/Canary",
+    "translations": {}
+  },
+  {
+    "id": 152456,
+    "name": "El Rosario",
+    "state_id": 5112,
+    "state_code": "TF",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "28.46362960",
+    "longitude": "-16.25184670",
+    "native": null,
+    "timezone": "Atlantic/Canary",
+    "translations": {}
+  },
+  {
+    "id": 152458,
+    "name": "El Sauzal",
+    "state_id": 5112,
+    "state_code": "TF",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "28.47941470",
+    "longitude": "-16.43653990",
+    "native": null,
+    "timezone": "Atlantic/Canary",
+    "translations": {}
+  },
+  {
+    "id": 152460,
+    "name": "El Tanque",
+    "state_id": 5112,
+    "state_code": "TF",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "28.35702480",
+    "longitude": "-16.78023090",
+    "native": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -152,7 +217,7 @@
     "latitude": "28.23638000",
     "longitude": "-16.43886000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -165,7 +230,7 @@
     "latitude": "27.75404000",
     "longitude": "-18.00367000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -178,7 +243,7 @@
     "latitude": "28.49236000",
     "longitude": "-17.84529000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -191,7 +256,7 @@
     "latitude": "28.37365000",
     "longitude": "-16.76342000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -204,7 +269,7 @@
     "latitude": "28.81667000",
     "longitude": "-17.93333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -217,20 +282,7 @@
     "latitude": "28.11882000",
     "longitude": "-16.57599000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 152449,
-    "name": "Guancha La",
-    "state_id": 5112,
-    "state_code": "TF",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "28.46741910",
-    "longitude": "-16.28016110",
-    "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -243,7 +295,7 @@
     "latitude": "28.21154000",
     "longitude": "-16.77947000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -256,7 +308,7 @@
     "latitude": "28.31122000",
     "longitude": "-16.41276000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -269,7 +321,7 @@
     "latitude": "28.16766000",
     "longitude": "-17.19051000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -282,7 +334,59 @@
     "latitude": "28.37241000",
     "longitude": "-16.71188000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
+    "translations": {}
+  },
+  {
+    "id": 152449,
+    "name": "La Guancha",
+    "state_id": 5112,
+    "state_code": "TF",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "28.46741910",
+    "longitude": "-16.28016110",
+    "native": null,
+    "timezone": "Atlantic/Canary",
+    "translations": {}
+  },
+  {
+    "id": 152452,
+    "name": "La Matanza de Acentejo",
+    "state_id": 5112,
+    "state_code": "TF",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "28.44814830",
+    "longitude": "-16.45796610",
+    "native": null,
+    "timezone": "Atlantic/Canary",
+    "translations": {}
+  },
+  {
+    "id": 152453,
+    "name": "La Orotava",
+    "state_id": 5112,
+    "state_code": "TF",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "28.38900040",
+    "longitude": "-16.52388020",
+    "native": null,
+    "timezone": "Atlantic/Canary",
+    "translations": {}
+  },
+  {
+    "id": 152463,
+    "name": "La Victoria de Acentejo",
+    "state_id": 5112,
+    "state_code": "TF",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "28.43403440",
+    "longitude": "-16.47093680",
+    "native": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -295,59 +399,7 @@
     "latitude": "28.61835150",
     "longitude": "-17.89985660",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 152452,
-    "name": "Matanza de Acentejo La",
-    "state_id": 5112,
-    "state_code": "TF",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "28.44814830",
-    "longitude": "-16.45796610",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 152453,
-    "name": "Orotava La",
-    "state_id": 5112,
-    "state_code": "TF",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "28.38900040",
-    "longitude": "-16.52388020",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 152454,
-    "name": "Paso El",
-    "state_id": 5112,
-    "state_code": "TF",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "28.65176560",
-    "longitude": "-17.87999020",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 152465,
-    "name": "Pinar de El Hierro El",
-    "state_id": 5112,
-    "state_code": "TF",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "27.69309740",
-    "longitude": "-18.01244690",
-    "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -360,7 +412,7 @@
     "latitude": "28.41397000",
     "longitude": "-16.54867000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -373,7 +425,7 @@
     "latitude": "28.77490000",
     "longitude": "-17.97741000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -386,7 +438,7 @@
     "latitude": "28.73333000",
     "longitude": "-17.73333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -399,20 +451,7 @@
     "latitude": "28.38521270",
     "longitude": "-16.58410460",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 152456,
-    "name": "Rosario El",
-    "state_id": 5112,
-    "state_code": "TF",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "28.46362960",
-    "longitude": "-16.25184670",
-    "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -425,7 +464,7 @@
     "latitude": "28.78422180",
     "longitude": "-17.79915450",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -438,7 +477,7 @@
     "latitude": "28.48740090",
     "longitude": "-16.31590610",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -451,7 +490,7 @@
     "latitude": "28.39276000",
     "longitude": "-16.65015000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -464,7 +503,7 @@
     "latitude": "28.09826000",
     "longitude": "-16.61708000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -477,7 +516,7 @@
     "latitude": "28.09163000",
     "longitude": "-17.11331000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -490,7 +529,7 @@
     "latitude": "28.68351000",
     "longitude": "-17.76421000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -503,7 +542,7 @@
     "latitude": "28.46824000",
     "longitude": "-16.25462000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -516,7 +555,7 @@
     "latitude": "28.42613000",
     "longitude": "-16.48876000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -529,20 +568,7 @@
     "latitude": "28.29400000",
     "longitude": "-16.81618000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 152458,
-    "name": "Sauzal El",
-    "state_id": 5112,
-    "state_code": "TF",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "28.47941470",
-    "longitude": "-16.43653990",
-    "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -555,7 +581,7 @@
     "latitude": "28.36626140",
     "longitude": "-16.81791850",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -568,20 +594,7 @@
     "latitude": "28.47688000",
     "longitude": "-16.41016000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 152460,
-    "name": "Tanque El",
-    "state_id": 5112,
-    "state_code": "TF",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "28.35702480",
-    "longitude": "-16.78023090",
-    "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -594,7 +607,7 @@
     "latitude": "28.64186000",
     "longitude": "-17.93394000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -607,7 +620,7 @@
     "latitude": "28.51667000",
     "longitude": "-16.31667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -620,7 +633,7 @@
     "latitude": "28.70000000",
     "longitude": "-17.95000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -633,7 +646,7 @@
     "latitude": "28.08496250",
     "longitude": "-17.33388390",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -646,7 +659,7 @@
     "latitude": "28.18019910",
     "longitude": "-17.26590080",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -659,20 +672,7 @@
     "latitude": "27.80628000",
     "longitude": "-17.91578000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 152463,
-    "name": "Victoria de Acentejo La",
-    "state_id": 5112,
-    "state_code": "TF",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "28.43403440",
-    "longitude": "-16.47093680",
-    "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -685,7 +685,7 @@
     "latitude": "28.15623000",
     "longitude": "-16.63592000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -698,7 +698,7 @@
     "latitude": "28.62207120",
     "longitude": "-17.78067530",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   }
 ]

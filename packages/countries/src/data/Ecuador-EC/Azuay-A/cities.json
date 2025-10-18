@@ -9,7 +9,7 @@
     "latitude": "-3.13349000",
     "longitude": "-79.26893000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guayaquil",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-2.90055000",
     "longitude": "-79.00453000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guayaquil",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-2.89264000",
     "longitude": "-78.77814000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guayaquil",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-2.85000000",
     "longitude": "-78.78333000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guayaquil",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "-2.86667000",
     "longitude": "-78.88333000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guayaquil",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "-2.91667000",
     "longitude": "-78.85000000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guayaquil",
     "translations": {}
   }
 ]

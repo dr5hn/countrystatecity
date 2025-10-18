@@ -9,7 +9,7 @@
     "latitude": "36.90500000",
     "longitude": "66.18341000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kabul",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "35.97744000",
     "longitude": "65.37828000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kabul",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "37.41853000",
     "longitude": "66.04358000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kabul",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "36.66757000",
     "longitude": "65.75290000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kabul",
     "translations": {}
   }
 ]

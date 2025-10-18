@@ -9,7 +9,7 @@
     "latitude": "-14.65685000",
     "longitude": "28.07057000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lusaka",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-14.65808000",
     "longitude": "28.07376000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lusaka",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-14.44690000",
     "longitude": "28.44644000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lusaka",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-13.97147000",
     "longitude": "28.66985000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lusaka",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "-13.62015000",
     "longitude": "29.39390000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lusaka",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "-14.98293000",
     "longitude": "27.06190000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lusaka",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "-13.23251000",
     "longitude": "30.23522000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lusaka",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "53.90056000",
     "longitude": "27.49500000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Minsk",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "53.85667000",
     "longitude": "27.54139000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Minsk",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "53.85944000",
     "longitude": "27.58778000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Minsk",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "53.87417000",
     "longitude": "27.50278000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Minsk",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "53.90000000",
     "longitude": "27.56667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Minsk",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "53.88028000",
     "longitude": "27.67000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Minsk",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "53.91778000",
     "longitude": "27.59417000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Minsk",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "53.91778000",
     "longitude": "27.56333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Minsk",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "53.86194000",
     "longitude": "27.66222000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Minsk",
     "translations": {}
   }
 ]

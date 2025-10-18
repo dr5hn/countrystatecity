@@ -28,34 +28,6 @@
     "translations": {}
   },
   {
-    "id": 3418,
-    "name": "Chiayi",
-    "country_id": 216,
-    "country_code": "TW",
-    "fips_code": null,
-    "iso2": "CYQ",
-    "type": "county",
-    "latitude": "23.45916640",
-    "longitude": "120.29300040",
-    "native": "Chiayi",
-    "timezone": "Asia/Taipei",
-    "translations": {}
-  },
-  {
-    "id": 3423,
-    "name": "Hsinchu",
-    "country_id": 216,
-    "country_code": "TW",
-    "fips_code": null,
-    "iso2": "HSQ",
-    "type": "county",
-    "latitude": "24.83872260",
-    "longitude": "121.01772460",
-    "native": "Hsinchu",
-    "timezone": "Asia/Taipei",
-    "translations": {}
-  },
-  {
     "id": 3417,
     "name": "Hsinchu",
     "country_id": 216,

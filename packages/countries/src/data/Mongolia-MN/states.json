@@ -10,7 +10,7 @@
     "latitude": "47.86264600",
     "longitude": "101.03162830",
     "native": "Архангай",
-    "timezone": "Asia/Ulaanbaatar",
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   },
   {
@@ -24,7 +24,7 @@
     "latitude": "48.54700830",
     "longitude": "89.85493580",
     "native": "Баян-Өлгий",
-    "timezone": "Asia/Hovd",
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   },
   {
@@ -38,7 +38,7 @@
     "latitude": "45.23809370",
     "longitude": "99.51467990",
     "native": "Баянхонгор",
-    "timezone": "Asia/Ulaanbaatar",
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   },
   {
@@ -52,7 +52,7 @@
     "latitude": "48.95214380",
     "longitude": "103.39655910",
     "native": "Булган",
-    "timezone": "Asia/Ulaanbaatar",
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   },
   {
@@ -66,7 +66,7 @@
     "latitude": "49.37672910",
     "longitude": "106.29013840",
     "native": "Дархан-Уул",
-    "timezone": "Asia/Ulaanbaatar",
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   },
   {
@@ -94,7 +94,7 @@
     "latitude": "44.41796370",
     "longitude": "109.77837530",
     "native": "Дорноговь",
-    "timezone": "Asia/Ulaanbaatar",
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   },
   {
@@ -108,7 +108,7 @@
     "latitude": "45.51867220",
     "longitude": "106.26115620",
     "native": "Дундговь",
-    "timezone": "Asia/Ulaanbaatar",
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   },
   {
@@ -122,7 +122,7 @@
     "latitude": "45.34631390",
     "longitude": "95.93258060",
     "native": "Говь-Алтай",
-    "timezone": "Asia/Hovd",
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   },
   {
@@ -136,7 +136,7 @@
     "latitude": "46.46108270",
     "longitude": "108.51731010",
     "native": "Говьсүмбэр",
-    "timezone": "Asia/Ulaanbaatar",
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   },
   {
@@ -150,7 +150,7 @@
     "latitude": "47.88598100",
     "longitude": "110.42010430",
     "native": "Хэнтий",
-    "timezone": "Asia/Ulaanbaatar",
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   },
   {
@@ -164,7 +164,7 @@
     "latitude": "46.89979770",
     "longitude": "92.29596510",
     "native": "Ховд",
-    "timezone": "Asia/Hovd",
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "50.22061960",
     "longitude": "99.91704920",
     "native": "Хөвсгөл",
-    "timezone": "Asia/Ulaanbaatar",
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   },
   {
@@ -192,7 +192,7 @@
     "latitude": "43.28236300",
     "longitude": "104.11338640",
     "native": "Өмнөговь",
-    "timezone": "Asia/Ulaanbaatar",
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   },
   {
@@ -206,7 +206,7 @@
     "latitude": "49.02437440",
     "longitude": "104.29988630",
     "native": "Орхон",
-    "timezone": "Asia/Ulaanbaatar",
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   },
   {
@@ -220,7 +220,7 @@
     "latitude": "45.82970390",
     "longitude": "102.72377690",
     "native": "Өвөрхангай",
-    "timezone": "Asia/Ulaanbaatar",
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   },
   {
@@ -234,7 +234,7 @@
     "latitude": "49.39101360",
     "longitude": "107.06290340",
     "native": "Сэлэнгэ",
-    "timezone": "Asia/Ulaanbaatar",
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   },
   {
@@ -262,7 +262,7 @@
     "latitude": "47.46925380",
     "longitude": "106.55251610",
     "native": "Төв",
-    "timezone": "Asia/Ulaanbaatar",
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   },
   {
@@ -276,7 +276,7 @@
     "latitude": "47.91846760",
     "longitude": "106.91770160",
     "native": "Улаанбаатар",
-    "timezone": "Asia/Ulaanbaatar",
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   },
   {
@@ -290,7 +290,7 @@
     "latitude": "49.63138870",
     "longitude": "92.95581860",
     "native": "Увс",
-    "timezone": "Asia/Hovd",
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   },
   {
@@ -304,7 +304,7 @@
     "latitude": "48.31333550",
     "longitude": "96.28505060",
     "native": "Завхан",
-    "timezone": "Asia/Hovd",
+    "timezone": "Asia/Choibalsan",
     "translations": {}
   }
 ]

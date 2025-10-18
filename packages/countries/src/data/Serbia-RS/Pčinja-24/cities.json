@@ -9,7 +9,7 @@
     "latitude": "42.35518000",
     "longitude": "21.74781000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Belgrade",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "42.50233740",
     "longitude": "22.41940440",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Belgrade",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "42.45675480",
     "longitude": "21.74726470",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Belgrade",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "42.25846000",
     "longitude": "21.66456000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Belgrade",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "42.31581340",
     "longitude": "21.57144860",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Belgrade",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "42.43364000",
     "longitude": "22.22861000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Belgrade",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "42.37870000",
     "longitude": "21.69591000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Belgrade",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "42.38445000",
     "longitude": "21.73708000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Belgrade",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "42.69008190",
     "longitude": "22.15599050",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Belgrade",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "42.35659850",
     "longitude": "22.02351020",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Belgrade",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "42.70738320",
     "longitude": "22.04413920",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Belgrade",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "42.55139000",
     "longitude": "21.90028000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Belgrade",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "42.31568000",
     "longitude": "21.70212000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Belgrade",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "37.02318000",
     "longitude": "14.49302000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "37.59640000",
     "longitude": "15.10724000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "37.55564000",
     "longitude": "15.14535000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "37.60614000",
     "longitude": "15.14165000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "37.60499000",
     "longitude": "15.12294000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "37.56385000",
     "longitude": "15.16136000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "37.60886000",
     "longitude": "15.16577000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "37.57174000",
     "longitude": "13.70156000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "38.05708000",
     "longitude": "14.58550000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "37.66358000",
     "longitude": "14.83283000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "37.65580000",
     "longitude": "14.51972000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "38.13280000",
     "longitude": "13.06884000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "37.45000000",
     "longitude": "13.50000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "37.41468000",
     "longitude": "14.44542000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "37.97790000",
     "longitude": "12.96473000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "38.02143000",
     "longitude": "14.70142000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "37.56767000",
     "longitude": "13.45343000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "38.02678000",
     "longitude": "15.41910000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "38.00506000",
     "longitude": "15.42269000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "37.77867000",
     "longitude": "13.71391000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "37.69310000",
     "longitude": "14.11369000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "37.86395000",
     "longitude": "13.78126000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "38.03800000",
     "longitude": "13.54947000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "38.04298000",
     "longitude": "13.29434000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "37.97937000",
     "longitude": "15.24029000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "37.39904000",
     "longitude": "13.61974000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "37.62210000",
     "longitude": "14.41810000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "37.24065000",
     "longitude": "15.22121000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "36.90840000",
     "longitude": "15.13937000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -386,7 +386,7 @@
     "latitude": "38.07892000",
     "longitude": "13.51237000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -399,7 +399,7 @@
     "latitude": "38.05125000",
     "longitude": "13.00724000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -412,7 +412,7 @@
     "latitude": "38.14772000",
     "longitude": "15.21469000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -425,7 +425,7 @@
     "latitude": "37.37850000",
     "longitude": "14.20270000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -438,7 +438,7 @@
     "latitude": "38.06077000",
     "longitude": "15.06263000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -451,7 +451,7 @@
     "latitude": "37.92521000",
     "longitude": "13.53636000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -464,7 +464,7 @@
     "latitude": "38.04653000",
     "longitude": "13.39207000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -477,7 +477,7 @@
     "latitude": "37.59192000",
     "longitude": "14.97985000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -490,7 +490,7 @@
     "latitude": "37.08839000",
     "longitude": "15.21314000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -503,7 +503,7 @@
     "latitude": "37.52955000",
     "longitude": "14.98786000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -516,7 +516,7 @@
     "latitude": "37.64442000",
     "longitude": "14.86685000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -529,7 +529,7 @@
     "latitude": "37.70352000",
     "longitude": "13.26051000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -542,7 +542,7 @@
     "latitude": "37.61797000",
     "longitude": "13.43895000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -555,7 +555,7 @@
     "latitude": "37.75205000",
     "longitude": "14.07296000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -568,7 +568,7 @@
     "latitude": "37.97120000",
     "longitude": "13.45627000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -581,7 +581,7 @@
     "latitude": "37.47240000",
     "longitude": "13.78140000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -594,7 +594,7 @@
     "latitude": "37.74394000",
     "longitude": "14.09470000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -607,7 +607,7 @@
     "latitude": "38.04664000",
     "longitude": "13.14071000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -620,7 +620,7 @@
     "latitude": "38.15623000",
     "longitude": "14.82799000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -633,7 +633,7 @@
     "latitude": "37.78863000",
     "longitude": "14.83377000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -646,7 +646,7 @@
     "latitude": "37.28191000",
     "longitude": "15.18836000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -659,7 +659,7 @@
     "latitude": "37.12494000",
     "longitude": "14.85222000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -672,7 +672,7 @@
     "latitude": "37.60094000",
     "longitude": "13.28826000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -685,7 +685,7 @@
     "latitude": "37.08604000",
     "longitude": "14.88499000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -698,7 +698,7 @@
     "latitude": "38.00339000",
     "longitude": "12.70911000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -711,7 +711,7 @@
     "latitude": "37.19100000",
     "longitude": "14.18232000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -724,7 +724,7 @@
     "latitude": "37.93357000",
     "longitude": "13.66808000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -737,7 +737,7 @@
     "latitude": "37.52566000",
     "longitude": "13.29053000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -750,7 +750,7 @@
     "latitude": "37.59024000",
     "longitude": "14.27180000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -763,7 +763,7 @@
     "latitude": "37.82049000",
     "longitude": "15.23069000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -776,7 +776,7 @@
     "latitude": "37.91440000",
     "longitude": "12.86364000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -789,7 +789,7 @@
     "latitude": "37.57543000",
     "longitude": "13.21632000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -802,7 +802,7 @@
     "latitude": "37.23785000",
     "longitude": "14.51551000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -815,7 +815,7 @@
     "latitude": "37.49025000",
     "longitude": "14.06216000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -828,7 +828,7 @@
     "latitude": "37.82040000",
     "longitude": "13.89158000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -841,7 +841,7 @@
     "latitude": "37.25380000",
     "longitude": "13.79211000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -854,7 +854,7 @@
     "latitude": "37.63361000",
     "longitude": "13.62722000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -867,7 +867,7 @@
     "latitude": "36.92630000",
     "longitude": "14.83360000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -880,7 +880,7 @@
     "latitude": "37.25759000",
     "longitude": "13.91811000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -893,7 +893,7 @@
     "latitude": "37.63464000",
     "longitude": "12.74946000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -906,7 +906,7 @@
     "latitude": "37.82686000",
     "longitude": "13.48572000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -919,7 +919,7 @@
     "latitude": "37.99270000",
     "longitude": "13.87648000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -932,7 +932,7 @@
     "latitude": "37.75374000",
     "longitude": "13.26875000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -945,7 +945,7 @@
     "latitude": "37.51208000",
     "longitude": "13.71213000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -958,7 +958,7 @@
     "latitude": "37.88612000",
     "longitude": "13.10107000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -971,7 +971,7 @@
     "latitude": "37.56565000",
     "longitude": "15.00319000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -984,7 +984,7 @@
     "latitude": "37.54097000",
     "longitude": "15.09645000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -997,7 +997,7 @@
     "latitude": "37.35842000",
     "longitude": "13.84786000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1010,7 +1010,7 @@
     "latitude": "37.03171000",
     "longitude": "15.06388000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1023,7 +1023,7 @@
     "latitude": "38.49505000",
     "longitude": "14.96037000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1036,7 +1036,7 @@
     "latitude": "38.06163000",
     "longitude": "13.27167000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1049,7 +1049,7 @@
     "latitude": "38.17107000",
     "longitude": "13.23930000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1062,7 +1062,7 @@
     "latitude": "37.84788000",
     "longitude": "14.47976000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1075,7 +1075,7 @@
     "latitude": "38.14262000",
     "longitude": "14.73292000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1088,7 +1088,7 @@
     "latitude": "38.08682000",
     "longitude": "14.72959000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1101,7 +1101,7 @@
     "latitude": "38.13240000",
     "longitude": "13.18274000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1114,7 +1114,7 @@
     "latitude": "37.28071000",
     "longitude": "15.01020000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1127,7 +1127,7 @@
     "latitude": "38.02381000",
     "longitude": "14.44142000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1140,7 +1140,7 @@
     "latitude": "37.03760000",
     "longitude": "15.27195000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1153,7 +1153,7 @@
     "latitude": "37.69062000",
     "longitude": "15.18815000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1166,7 +1166,7 @@
     "latitude": "37.55323000",
     "longitude": "15.10819000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1179,7 +1179,7 @@
     "latitude": "38.02514000",
     "longitude": "12.54840000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1192,7 +1192,7 @@
     "latitude": "37.95850000",
     "longitude": "15.32371000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1205,7 +1205,7 @@
     "latitude": "37.10571000",
     "longitude": "14.94697000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1218,7 +1218,7 @@
     "latitude": "36.97862000",
     "longitude": "15.20061000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1231,7 +1231,7 @@
     "latitude": "38.26165000",
     "longitude": "15.52178000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1244,7 +1244,7 @@
     "latitude": "37.49475000",
     "longitude": "14.64744000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1257,7 +1257,7 @@
     "latitude": "37.88698000",
     "longitude": "14.31116000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1270,7 +1270,7 @@
     "latitude": "37.92530000",
     "longitude": "14.08665000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1283,7 +1283,7 @@
     "latitude": "38.05121000",
     "longitude": "13.53041000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1296,7 +1296,7 @@
     "latitude": "38.08626000",
     "longitude": "14.80686000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1309,7 +1309,7 @@
     "latitude": "38.02653000",
     "longitude": "12.88183000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1322,7 +1322,7 @@
     "latitude": "37.78686000",
     "longitude": "14.03906000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1335,7 +1335,7 @@
     "latitude": "38.10096000",
     "longitude": "12.73599000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1348,7 +1348,7 @@
     "latitude": "37.85829000",
     "longitude": "15.27713000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1361,7 +1361,7 @@
     "latitude": "37.53874000",
     "longitude": "13.64601000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1374,7 +1374,7 @@
     "latitude": "37.68081000",
     "longitude": "12.79194000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1387,7 +1387,7 @@
     "latitude": "37.88150000",
     "longitude": "15.12156000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1400,7 +1400,7 @@
     "latitude": "37.35046000",
     "longitude": "13.75001000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1413,7 +1413,7 @@
     "latitude": "37.67894000",
     "longitude": "13.60346000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1426,7 +1426,7 @@
     "latitude": "38.09857000",
     "longitude": "15.21012000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1439,7 +1439,7 @@
     "latitude": "37.47169000",
     "longitude": "14.84731000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1452,7 +1452,7 @@
     "latitude": "37.56876000",
     "longitude": "14.69076000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1465,7 +1465,7 @@
     "latitude": "37.44069000",
     "longitude": "13.39265000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1478,7 +1478,7 @@
     "latitude": "36.72964000",
     "longitude": "14.69031000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1491,7 +1491,7 @@
     "latitude": "37.91565000",
     "longitude": "13.46325000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1504,7 +1504,7 @@
     "latitude": "38.03856000",
     "longitude": "14.02285000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1517,7 +1517,7 @@
     "latitude": "37.62336000",
     "longitude": "14.74049000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1530,7 +1530,7 @@
     "latitude": "37.80953000",
     "longitude": "14.50660000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1543,7 +1543,7 @@
     "latitude": "37.90578000",
     "longitude": "13.81496000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1556,7 +1556,7 @@
     "latitude": "37.54297000",
     "longitude": "15.10510000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1569,7 +1569,7 @@
     "latitude": "37.84476000",
     "longitude": "14.71308000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1582,7 +1582,7 @@
     "latitude": "37.82108000",
     "longitude": "15.25317000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1595,7 +1595,7 @@
     "latitude": "37.82984000",
     "longitude": "15.25077000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1608,7 +1608,7 @@
     "latitude": "37.03050000",
     "longitude": "14.70302000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1621,7 +1621,7 @@
     "latitude": "37.67692000",
     "longitude": "13.27074000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1634,7 +1634,7 @@
     "latitude": "38.07530000",
     "longitude": "13.40719000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1647,7 +1647,7 @@
     "latitude": "37.51896000",
     "longitude": "13.43349000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1660,7 +1660,7 @@
     "latitude": "37.77943000",
     "longitude": "12.53774000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1673,7 +1673,7 @@
     "latitude": "37.89765000",
     "longitude": "13.55966000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1686,7 +1686,7 @@
     "latitude": "38.16082000",
     "longitude": "13.10099000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1699,7 +1699,7 @@
     "latitude": "37.10444000",
     "longitude": "15.21172000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1712,7 +1712,7 @@
     "latitude": "37.91809000",
     "longitude": "13.93702000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1725,7 +1725,7 @@
     "latitude": "36.94893000",
     "longitude": "14.60731000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1738,7 +1738,7 @@
     "latitude": "37.40735000",
     "longitude": "13.64530000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1751,7 +1751,7 @@
     "latitude": "38.17375000",
     "longitude": "15.32660000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1764,7 +1764,7 @@
     "latitude": "37.73005000",
     "longitude": "13.18425000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1777,7 +1777,7 @@
     "latitude": "37.81338000",
     "longitude": "13.30170000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1790,7 +1790,7 @@
     "latitude": "38.07931000",
     "longitude": "12.68571000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1803,7 +1803,7 @@
     "latitude": "37.35796000",
     "longitude": "13.92867000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1816,7 +1816,7 @@
     "latitude": "36.76117000",
     "longitude": "14.64022000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1829,7 +1829,7 @@
     "latitude": "37.58333000",
     "longitude": "14.43333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1842,7 +1842,7 @@
     "latitude": "38.03785000",
     "longitude": "12.58778000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1855,7 +1855,7 @@
     "latitude": "37.98412000",
     "longitude": "15.17324000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1868,7 +1868,7 @@
     "latitude": "38.11698000",
     "longitude": "15.07965000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1881,7 +1881,7 @@
     "latitude": "38.26794000",
     "longitude": "15.58268000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1894,7 +1894,7 @@
     "latitude": "37.31754000",
     "longitude": "13.66226000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1907,7 +1907,7 @@
     "latitude": "37.92951000",
     "longitude": "12.32958000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1920,7 +1920,7 @@
     "latitude": "37.11978000",
     "longitude": "14.93881000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1933,7 +1933,7 @@
     "latitude": "38.09229000",
     "longitude": "13.46390000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1946,7 +1946,7 @@
     "latitude": "38.10849000",
     "longitude": "14.82990000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1959,7 +1959,7 @@
     "latitude": "38.01891000",
     "longitude": "14.16151000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1972,7 +1972,7 @@
     "latitude": "38.02596000",
     "longitude": "15.38099000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1985,7 +1985,7 @@
     "latitude": "37.79146000",
     "longitude": "15.20919000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -1998,7 +1998,7 @@
     "latitude": "37.98779000",
     "longitude": "14.91096000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2011,7 +2011,7 @@
     "latitude": "37.08343000",
     "longitude": "15.15332000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2024,7 +2024,7 @@
     "latitude": "37.98476000",
     "longitude": "15.17519000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2037,7 +2037,7 @@
     "latitude": "37.91539000",
     "longitude": "15.33409000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2050,7 +2050,7 @@
     "latitude": "37.90197000",
     "longitude": "15.13821000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2063,7 +2063,7 @@
     "latitude": "37.22477000",
     "longitude": "14.87488000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2076,7 +2076,7 @@
     "latitude": "38.07202000",
     "longitude": "14.74407000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2089,7 +2089,7 @@
     "latitude": "37.94977000",
     "longitude": "12.69303000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2102,7 +2102,7 @@
     "latitude": "37.96159000",
     "longitude": "15.37763000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2115,7 +2115,7 @@
     "latitude": "38.10436000",
     "longitude": "15.12358000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2128,7 +2128,7 @@
     "latitude": "37.85995000",
     "longitude": "15.22126000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2141,7 +2141,7 @@
     "latitude": "37.70967000",
     "longitude": "14.53524000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2154,7 +2154,7 @@
     "latitude": "38.03176000",
     "longitude": "14.77145000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2167,7 +2167,7 @@
     "latitude": "37.90206000",
     "longitude": "15.29359000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2180,7 +2180,7 @@
     "latitude": "37.79565000",
     "longitude": "14.20437000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2193,7 +2193,7 @@
     "latitude": "37.07381000",
     "longitude": "14.24038000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2206,7 +2206,7 @@
     "latitude": "37.85901000",
     "longitude": "14.15333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2219,7 +2219,7 @@
     "latitude": "38.03276000",
     "longitude": "13.23695000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2232,7 +2232,7 @@
     "latitude": "38.20372000",
     "longitude": "15.30666000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2245,7 +2245,7 @@
     "latitude": "37.35073000",
     "longitude": "13.52272000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2258,7 +2258,7 @@
     "latitude": "38.08706000",
     "longitude": "13.15648000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2271,7 +2271,7 @@
     "latitude": "37.82755000",
     "longitude": "15.26713000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2284,7 +2284,7 @@
     "latitude": "37.04741000",
     "longitude": "14.79454000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2297,7 +2297,7 @@
     "latitude": "37.72440000",
     "longitude": "15.18165000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2310,7 +2310,7 @@
     "latitude": "38.17373000",
     "longitude": "14.89932000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2323,7 +2323,7 @@
     "latitude": "37.67280000",
     "longitude": "13.23737000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2336,7 +2336,7 @@
     "latitude": "38.16317000",
     "longitude": "14.84768000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2349,7 +2349,7 @@
     "latitude": "37.90310000",
     "longitude": "13.42823000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2362,7 +2362,7 @@
     "latitude": "37.21326000",
     "longitude": "14.63311000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2375,7 +2375,7 @@
     "latitude": "37.88986000",
     "longitude": "15.22459000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2388,7 +2388,7 @@
     "latitude": "37.96607000",
     "longitude": "13.97314000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2401,7 +2401,7 @@
     "latitude": "37.56085000",
     "longitude": "15.06292000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2414,7 +2414,7 @@
     "latitude": "37.40346000",
     "longitude": "13.69889000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2427,7 +2427,7 @@
     "latitude": "38.16267000",
     "longitude": "15.31699000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2440,7 +2440,7 @@
     "latitude": "38.04528000",
     "longitude": "15.46303000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2453,7 +2453,7 @@
     "latitude": "37.94324000",
     "longitude": "14.00724000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2466,7 +2466,7 @@
     "latitude": "38.19123000",
     "longitude": "13.24691000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2479,7 +2479,7 @@
     "latitude": "36.78622000",
     "longitude": "14.90530000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2492,7 +2492,7 @@
     "latitude": "38.05144000",
     "longitude": "15.43706000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2505,7 +2505,7 @@
     "latitude": "37.38681000",
     "longitude": "13.55586000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2518,7 +2518,7 @@
     "latitude": "36.79701000",
     "longitude": "12.03617000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2531,7 +2531,7 @@
     "latitude": "35.50142000",
     "longitude": "12.60964000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2544,7 +2544,7 @@
     "latitude": "38.14101000",
     "longitude": "15.50287000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2557,7 +2557,7 @@
     "latitude": "38.00067000",
     "longitude": "13.94053000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2570,7 +2570,7 @@
     "latitude": "37.64097000",
     "longitude": "15.10462000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2583,7 +2583,7 @@
     "latitude": "38.55534000",
     "longitude": "14.82497000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2596,7 +2596,7 @@
     "latitude": "37.28556000",
     "longitude": "14.99737000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2609,7 +2609,7 @@
     "latitude": "37.64197000",
     "longitude": "14.39766000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2622,7 +2622,7 @@
     "latitude": "37.74657000",
     "longitude": "13.60391000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2635,7 +2635,7 @@
     "latitude": "37.88050000",
     "longitude": "15.30735000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2648,7 +2648,7 @@
     "latitude": "38.09719000",
     "longitude": "14.95909000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2661,7 +2661,7 @@
     "latitude": "37.10267000",
     "longitude": "13.93972000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2674,7 +2674,7 @@
     "latitude": "37.15674000",
     "longitude": "14.70555000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2687,7 +2687,7 @@
     "latitude": "37.94076000",
     "longitude": "15.27119000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2700,7 +2700,7 @@
     "latitude": "37.66380000",
     "longitude": "15.13653000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2713,7 +2713,7 @@
     "latitude": "37.84243000",
     "longitude": "15.13774000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2726,7 +2726,7 @@
     "latitude": "38.46743000",
     "longitude": "14.95398000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2739,7 +2739,7 @@
     "latitude": "38.02617000",
     "longitude": "14.75306000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2752,7 +2752,7 @@
     "latitude": "37.57783000",
     "longitude": "13.30579000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2765,7 +2765,7 @@
     "latitude": "37.82914000",
     "longitude": "14.86403000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2778,7 +2778,7 @@
     "latitude": "38.57730000",
     "longitude": "14.83598000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2791,7 +2791,7 @@
     "latitude": "37.91752000",
     "longitude": "15.05548000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2804,7 +2804,7 @@
     "latitude": "38.00356000",
     "longitude": "15.31669000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2817,7 +2817,7 @@
     "latitude": "37.88306000",
     "longitude": "14.79808000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2830,7 +2830,7 @@
     "latitude": "37.94166000",
     "longitude": "12.50948000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2843,7 +2843,7 @@
     "latitude": "37.59840000",
     "longitude": "13.91520000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2856,7 +2856,7 @@
     "latitude": "38.03545000",
     "longitude": "14.44182000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2869,7 +2869,7 @@
     "latitude": "36.78575000",
     "longitude": "14.55474000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2882,7 +2882,7 @@
     "latitude": "37.59475000",
     "longitude": "12.84434000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2895,7 +2895,7 @@
     "latitude": "37.95185000",
     "longitude": "13.41781000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2908,7 +2908,7 @@
     "latitude": "37.79920000",
     "longitude": "12.43670000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2921,7 +2921,7 @@
     "latitude": "37.75794000",
     "longitude": "15.19662000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2934,7 +2934,7 @@
     "latitude": "37.57465000",
     "longitude": "15.04964000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2947,7 +2947,7 @@
     "latitude": "37.58608000",
     "longitude": "15.11785000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2960,7 +2960,7 @@
     "latitude": "37.65535000",
     "longitude": "12.58986000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2973,7 +2973,7 @@
     "latitude": "37.68146000",
     "longitude": "12.60074000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2986,7 +2986,7 @@
     "latitude": "37.30188000",
     "longitude": "14.20959000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -2999,7 +2999,7 @@
     "latitude": "38.08969000",
     "longitude": "15.13535000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3012,7 +3012,7 @@
     "latitude": "37.08834000",
     "longitude": "14.56128000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3025,7 +3025,7 @@
     "latitude": "37.90384000",
     "longitude": "15.27499000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3038,7 +3038,7 @@
     "latitude": "37.17821000",
     "longitude": "15.13020000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3051,7 +3051,7 @@
     "latitude": "37.60409000",
     "longitude": "12.96889000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3064,7 +3064,7 @@
     "latitude": "38.16630000",
     "longitude": "15.24970000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3077,7 +3077,7 @@
     "latitude": "38.05000000",
     "longitude": "14.86667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3090,7 +3090,7 @@
     "latitude": "37.86509000",
     "longitude": "13.46509000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3103,7 +3103,7 @@
     "latitude": "38.22008000",
     "longitude": "15.24023000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3116,7 +3116,7 @@
     "latitude": "37.47133000",
     "longitude": "13.73613000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3129,7 +3129,7 @@
     "latitude": "37.27594000",
     "longitude": "14.79342000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3142,7 +3142,7 @@
     "latitude": "38.04575000",
     "longitude": "14.67584000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3155,7 +3155,7 @@
     "latitude": "37.72450000",
     "longitude": "15.11554000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3168,7 +3168,7 @@
     "latitude": "37.26494000",
     "longitude": "14.69381000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3181,7 +3181,7 @@
     "latitude": "37.32702000",
     "longitude": "14.44605000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3194,7 +3194,7 @@
     "latitude": "38.08439000",
     "longitude": "14.74609000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3207,7 +3207,7 @@
     "latitude": "38.03183000",
     "longitude": "13.44795000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3220,7 +3220,7 @@
     "latitude": "37.51803000",
     "longitude": "15.00913000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3233,7 +3233,7 @@
     "latitude": "37.92823000",
     "longitude": "14.35780000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3246,7 +3246,7 @@
     "latitude": "36.85868000",
     "longitude": "14.75966000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3259,7 +3259,7 @@
     "latitude": "37.90056000",
     "longitude": "15.05072000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3272,7 +3272,7 @@
     "latitude": "38.15733000",
     "longitude": "15.38132000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3285,7 +3285,7 @@
     "latitude": "37.90336000",
     "longitude": "15.27539000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3298,7 +3298,7 @@
     "latitude": "38.08125000",
     "longitude": "13.28947000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3311,7 +3311,7 @@
     "latitude": "38.13216000",
     "longitude": "14.94658000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3324,7 +3324,7 @@
     "latitude": "38.02360000",
     "longitude": "15.01393000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3337,7 +3337,7 @@
     "latitude": "37.39121000",
     "longitude": "13.35179000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3350,7 +3350,7 @@
     "latitude": "37.45431000",
     "longitude": "13.81684000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3363,7 +3363,7 @@
     "latitude": "38.09026000",
     "longitude": "13.17518000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3376,7 +3376,7 @@
     "latitude": "37.84818000",
     "longitude": "13.76206000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3389,7 +3389,7 @@
     "latitude": "37.08884000",
     "longitude": "14.76498000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3402,7 +3402,7 @@
     "latitude": "37.70224000",
     "longitude": "12.98584000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3415,7 +3415,7 @@
     "latitude": "37.89431000",
     "longitude": "15.17008000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3428,7 +3428,7 @@
     "latitude": "37.98096000",
     "longitude": "14.30337000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3441,7 +3441,7 @@
     "latitude": "37.51205000",
     "longitude": "14.96628000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3454,7 +3454,7 @@
     "latitude": "37.58067000",
     "longitude": "13.75214000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3467,7 +3467,7 @@
     "latitude": "37.29248000",
     "longitude": "13.79337000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3480,7 +3480,7 @@
     "latitude": "38.12215000",
     "longitude": "14.78702000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3493,7 +3493,7 @@
     "latitude": "37.62148000",
     "longitude": "15.02785000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3506,7 +3506,7 @@
     "latitude": "37.74747000",
     "longitude": "14.39218000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3519,7 +3519,7 @@
     "latitude": "37.14649000",
     "longitude": "14.39381000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3532,7 +3532,7 @@
     "latitude": "37.65410000",
     "longitude": "14.44810000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3545,7 +3545,7 @@
     "latitude": "37.99081000",
     "longitude": "15.40956000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3558,7 +3558,7 @@
     "latitude": "36.89244000",
     "longitude": "15.06977000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3571,7 +3571,7 @@
     "latitude": "38.01538000",
     "longitude": "15.13134000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3584,7 +3584,7 @@
     "latitude": "37.75858000",
     "longitude": "15.17058000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3597,7 +3597,7 @@
     "latitude": "37.80704000",
     "longitude": "12.86954000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3610,7 +3610,7 @@
     "latitude": "37.76404000",
     "longitude": "13.03594000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3623,7 +3623,7 @@
     "latitude": "38.12515000",
     "longitude": "15.06068000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3636,7 +3636,7 @@
     "latitude": "38.17997000",
     "longitude": "15.30629000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3649,7 +3649,7 @@
     "latitude": "37.98026000",
     "longitude": "12.55766000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3662,7 +3662,7 @@
     "latitude": "36.71522000",
     "longitude": "15.09019000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3675,7 +3675,7 @@
     "latitude": "37.98546000",
     "longitude": "15.35969000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3688,7 +3688,7 @@
     "latitude": "37.32955000",
     "longitude": "14.74474000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3701,7 +3701,7 @@
     "latitude": "37.68066000",
     "longitude": "13.37941000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3714,7 +3714,7 @@
     "latitude": "37.56224000",
     "longitude": "14.92987000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3727,7 +3727,7 @@
     "latitude": "37.06261000",
     "longitude": "14.90593000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3740,7 +3740,7 @@
     "latitude": "37.81667000",
     "longitude": "13.58333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3753,7 +3753,7 @@
     "latitude": "37.19066000",
     "longitude": "13.76603000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3766,7 +3766,7 @@
     "latitude": "36.82836000",
     "longitude": "11.94611000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3779,7 +3779,7 @@
     "latitude": "37.72680000",
     "longitude": "12.88917000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3792,7 +3792,7 @@
     "latitude": "38.04657000",
     "longitude": "13.11785000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3805,7 +3805,7 @@
     "latitude": "37.81012000",
     "longitude": "15.22818000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3818,7 +3818,7 @@
     "latitude": "37.56675000",
     "longitude": "14.90254000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3831,7 +3831,7 @@
     "latitude": "38.14736000",
     "longitude": "14.96409000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3844,7 +3844,7 @@
     "latitude": "37.19182000",
     "longitude": "14.93654000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3857,7 +3857,7 @@
     "latitude": "37.02320000",
     "longitude": "14.58116000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3870,7 +3870,7 @@
     "latitude": "37.62386000",
     "longitude": "15.05672000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3883,7 +3883,7 @@
     "latitude": "37.64945000",
     "longitude": "15.12385000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3896,7 +3896,7 @@
     "latitude": "37.80064000",
     "longitude": "14.10813000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3909,7 +3909,7 @@
     "latitude": "37.80919000",
     "longitude": "14.09293000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3922,7 +3922,7 @@
     "latitude": "37.71271000",
     "longitude": "12.49964000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3935,7 +3935,7 @@
     "latitude": "37.96793000",
     "longitude": "14.29118000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3948,7 +3948,7 @@
     "latitude": "37.99372000",
     "longitude": "13.28464000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3961,7 +3961,7 @@
     "latitude": "38.09919000",
     "longitude": "13.27478000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3974,7 +3974,7 @@
     "latitude": "38.05793000",
     "longitude": "13.30909000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -3987,7 +3987,7 @@
     "latitude": "38.47432000",
     "longitude": "14.92857000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4000,7 +4000,7 @@
     "latitude": "37.38417000",
     "longitude": "14.36921000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4013,7 +4013,7 @@
     "latitude": "37.80677000",
     "longitude": "15.17516000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4026,7 +4026,7 @@
     "latitude": "37.41852000",
     "longitude": "14.13739000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4039,7 +4039,7 @@
     "latitude": "38.05000000",
     "longitude": "13.23333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4052,7 +4052,7 @@
     "latitude": "38.16127000",
     "longitude": "14.86100000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4065,7 +4065,7 @@
     "latitude": "37.81159000",
     "longitude": "14.00268000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4078,7 +4078,7 @@
     "latitude": "37.99309000",
     "longitude": "14.14586000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4091,7 +4091,7 @@
     "latitude": "38.07304000",
     "longitude": "13.46199000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4104,7 +4104,7 @@
     "latitude": "37.28942000",
     "longitude": "13.52494000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4117,7 +4117,7 @@
     "latitude": "36.68219000",
     "longitude": "15.13378000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4130,7 +4130,7 @@
     "latitude": "36.73028000",
     "longitude": "14.84672000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4143,7 +4143,7 @@
     "latitude": "37.15512000",
     "longitude": "15.18248000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4156,7 +4156,7 @@
     "latitude": "37.72088000",
     "longitude": "13.43435000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4169,7 +4169,7 @@
     "latitude": "37.37448000",
     "longitude": "14.06421000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4182,7 +4182,7 @@
     "latitude": "37.08805000",
     "longitude": "15.27924000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4195,7 +4195,7 @@
     "latitude": "37.40498000",
     "longitude": "13.72995000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4208,7 +4208,7 @@
     "latitude": "38.05583000",
     "longitude": "14.91044000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4221,7 +4221,7 @@
     "latitude": "37.47529000",
     "longitude": "14.53521000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4234,7 +4234,7 @@
     "latitude": "37.40214000",
     "longitude": "13.53175000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4247,7 +4247,7 @@
     "latitude": "37.63455000",
     "longitude": "14.94698000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4260,7 +4260,7 @@
     "latitude": "36.91667000",
     "longitude": "14.60000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4273,7 +4273,7 @@
     "latitude": "37.38616000",
     "longitude": "14.69241000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4286,7 +4286,7 @@
     "latitude": "37.87736000",
     "longitude": "14.95012000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4299,7 +4299,7 @@
     "latitude": "37.26659000",
     "longitude": "13.96834000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4312,7 +4312,7 @@
     "latitude": "37.30847000",
     "longitude": "13.46429000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4325,7 +4325,7 @@
     "latitude": "37.65195000",
     "longitude": "14.63915000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4338,7 +4338,7 @@
     "latitude": "37.97198000",
     "longitude": "14.34418000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4351,7 +4351,7 @@
     "latitude": "37.67865000",
     "longitude": "14.02946000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4364,7 +4364,7 @@
     "latitude": "37.49773000",
     "longitude": "13.26676000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4377,7 +4377,7 @@
     "latitude": "37.28079000",
     "longitude": "14.08317000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4390,7 +4390,7 @@
     "latitude": "37.91638000",
     "longitude": "12.54058000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4403,7 +4403,7 @@
     "latitude": "37.73183000",
     "longitude": "15.20576000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4416,7 +4416,7 @@
     "latitude": "38.10677000",
     "longitude": "14.71032000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4429,7 +4429,7 @@
     "latitude": "37.93086000",
     "longitude": "15.26739000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4442,7 +4442,7 @@
     "latitude": "37.97554000",
     "longitude": "15.39439000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4455,7 +4455,7 @@
     "latitude": "37.83824000",
     "longitude": "13.15513000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4468,7 +4468,7 @@
     "latitude": "37.80825000",
     "longitude": "13.63671000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4481,7 +4481,7 @@
     "latitude": "38.18296000",
     "longitude": "15.37402000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4494,7 +4494,7 @@
     "latitude": "37.93289000",
     "longitude": "15.00997000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4507,7 +4507,7 @@
     "latitude": "38.10823000",
     "longitude": "15.16933000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4520,7 +4520,7 @@
     "latitude": "38.17007000",
     "longitude": "15.41429000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4533,7 +4533,7 @@
     "latitude": "38.23264000",
     "longitude": "15.40955000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4546,7 +4546,7 @@
     "latitude": "36.82145000",
     "longitude": "14.95132000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4559,7 +4559,7 @@
     "latitude": "37.75694000",
     "longitude": "13.00981000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4572,7 +4572,7 @@
     "latitude": "37.82199000",
     "longitude": "12.80506000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4585,7 +4585,7 @@
     "latitude": "37.65294000",
     "longitude": "13.11462000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4598,7 +4598,7 @@
     "latitude": "37.50927000",
     "longitude": "13.52844000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4611,7 +4611,7 @@
     "latitude": "37.48412000",
     "longitude": "13.98542000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4624,7 +4624,7 @@
     "latitude": "37.96067000",
     "longitude": "13.17732000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4637,7 +4637,7 @@
     "latitude": "37.83328000",
     "longitude": "12.78229000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4650,7 +4650,7 @@
     "latitude": "37.28992000",
     "longitude": "14.36709000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4663,7 +4663,7 @@
     "latitude": "38.17007000",
     "longitude": "15.27338000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4676,7 +4676,7 @@
     "latitude": "38.01556000",
     "longitude": "14.59818000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4689,7 +4689,7 @@
     "latitude": "38.16834000",
     "longitude": "14.94825000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4702,7 +4702,7 @@
     "latitude": "37.73538000",
     "longitude": "15.15887000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4715,7 +4715,7 @@
     "latitude": "37.62785000",
     "longitude": "13.64357000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4728,7 +4728,7 @@
     "latitude": "37.57690000",
     "longitude": "15.09371000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4741,7 +4741,7 @@
     "latitude": "37.97331000",
     "longitude": "13.18889000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4754,7 +4754,7 @@
     "latitude": "37.56764000",
     "longitude": "15.11120000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4767,7 +4767,7 @@
     "latitude": "37.26497000",
     "longitude": "13.58434000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4780,7 +4780,7 @@
     "latitude": "38.07261000",
     "longitude": "14.70093000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4793,7 +4793,7 @@
     "latitude": "37.91478000",
     "longitude": "14.18961000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4806,7 +4806,7 @@
     "latitude": "37.28042000",
     "longitude": "14.42633000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4819,7 +4819,7 @@
     "latitude": "38.16050000",
     "longitude": "15.34982000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4832,7 +4832,7 @@
     "latitude": "38.05214000",
     "longitude": "14.96816000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4845,7 +4845,7 @@
     "latitude": "37.56885000",
     "longitude": "15.02289000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4858,7 +4858,7 @@
     "latitude": "38.06841000",
     "longitude": "14.77799000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4871,7 +4871,7 @@
     "latitude": "37.84797000",
     "longitude": "14.69878000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4884,7 +4884,7 @@
     "latitude": "38.17395000",
     "longitude": "12.73599000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4897,7 +4897,7 @@
     "latitude": "38.06838000",
     "longitude": "14.63600000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4910,7 +4910,7 @@
     "latitude": "37.55745000",
     "longitude": "15.07999000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4923,7 +4923,7 @@
     "latitude": "37.92516000",
     "longitude": "15.34968000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4936,7 +4936,7 @@
     "latitude": "37.74393000",
     "longitude": "15.13952000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4949,7 +4949,7 @@
     "latitude": "38.11518000",
     "longitude": "14.88403000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4962,7 +4962,7 @@
     "latitude": "37.48014000",
     "longitude": "13.54554000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4975,7 +4975,7 @@
     "latitude": "37.59034000",
     "longitude": "14.03554000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -4988,7 +4988,7 @@
     "latitude": "37.98514000",
     "longitude": "13.32747000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5001,7 +5001,7 @@
     "latitude": "36.82842000",
     "longitude": "14.52538000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5014,7 +5014,7 @@
     "latitude": "37.91624000",
     "longitude": "14.96288000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5027,7 +5027,7 @@
     "latitude": "37.43171000",
     "longitude": "13.55386000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5040,7 +5040,7 @@
     "latitude": "38.10448000",
     "longitude": "13.53340000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5053,7 +5053,7 @@
     "latitude": "38.14408000",
     "longitude": "15.28055000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5066,7 +5066,7 @@
     "latitude": "37.69281000",
     "longitude": "13.01584000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5079,7 +5079,7 @@
     "latitude": "37.61684000",
     "longitude": "14.89337000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5092,7 +5092,7 @@
     "latitude": "37.62349000",
     "longitude": "15.12071000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5105,7 +5105,7 @@
     "latitude": "38.56117000",
     "longitude": "14.87077000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5118,7 +5118,7 @@
     "latitude": "37.77042000",
     "longitude": "12.87744000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5131,7 +5131,7 @@
     "latitude": "37.94635000",
     "longitude": "15.36671000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5144,7 +5144,7 @@
     "latitude": "37.69103000",
     "longitude": "15.13880000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5157,7 +5157,7 @@
     "latitude": "38.01295000",
     "longitude": "14.35142000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5170,7 +5170,7 @@
     "latitude": "37.62606000",
     "longitude": "13.48976000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5183,7 +5183,7 @@
     "latitude": "38.19241000",
     "longitude": "15.43442000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5196,7 +5196,7 @@
     "latitude": "38.23121000",
     "longitude": "15.42621000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5209,7 +5209,7 @@
     "latitude": "37.90217000",
     "longitude": "12.88788000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5222,7 +5222,7 @@
     "latitude": "37.95326000",
     "longitude": "15.34009000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5235,7 +5235,7 @@
     "latitude": "38.04796000",
     "longitude": "15.46769000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5248,7 +5248,7 @@
     "latitude": "37.50693000",
     "longitude": "13.08399000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5261,7 +5261,7 @@
     "latitude": "37.91511000",
     "longitude": "13.76177000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5274,7 +5274,7 @@
     "latitude": "36.79014000",
     "longitude": "14.70280000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5287,7 +5287,7 @@
     "latitude": "37.85778000",
     "longitude": "13.90632000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5300,7 +5300,7 @@
     "latitude": "37.82175000",
     "longitude": "13.85476000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5313,7 +5313,7 @@
     "latitude": "36.89424000",
     "longitude": "14.43355000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5326,7 +5326,7 @@
     "latitude": "37.29548000",
     "longitude": "14.84058000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5339,7 +5339,7 @@
     "latitude": "37.45384000",
     "longitude": "13.88046000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5352,7 +5352,7 @@
     "latitude": "38.05815000",
     "longitude": "14.83147000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5365,7 +5365,7 @@
     "latitude": "38.20000000",
     "longitude": "13.28333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5378,7 +5378,7 @@
     "latitude": "37.33515000",
     "longitude": "13.42432000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5391,7 +5391,7 @@
     "latitude": "38.08191000",
     "longitude": "14.85009000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5404,7 +5404,7 @@
     "latitude": "37.07542000",
     "longitude": "15.28664000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5417,7 +5417,7 @@
     "latitude": "37.10136000",
     "longitude": "15.11988000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5430,7 +5430,7 @@
     "latitude": "37.33471000",
     "longitude": "13.99739000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5443,7 +5443,7 @@
     "latitude": "37.15881000",
     "longitude": "15.02998000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5456,7 +5456,7 @@
     "latitude": "38.22349000",
     "longitude": "15.38178000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5469,7 +5469,7 @@
     "latitude": "38.29371000",
     "longitude": "15.53503000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5482,7 +5482,7 @@
     "latitude": "37.76653000",
     "longitude": "14.35075000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5495,7 +5495,7 @@
     "latitude": "37.52493000",
     "longitude": "13.73274000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5508,7 +5508,7 @@
     "latitude": "37.85358000",
     "longitude": "15.28851000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5521,7 +5521,7 @@
     "latitude": "38.13586000",
     "longitude": "15.15658000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5534,7 +5534,7 @@
     "latitude": "37.98225000",
     "longitude": "13.69729000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5547,7 +5547,7 @@
     "latitude": "38.14621000",
     "longitude": "13.08319000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5560,7 +5560,7 @@
     "latitude": "38.06309000",
     "longitude": "12.59434000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5573,7 +5573,7 @@
     "latitude": "38.12539000",
     "longitude": "15.11348000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5586,7 +5586,7 @@
     "latitude": "38.02986000",
     "longitude": "13.57377000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5599,7 +5599,7 @@
     "latitude": "38.20262000",
     "longitude": "15.35010000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5612,7 +5612,7 @@
     "latitude": "38.09246000",
     "longitude": "14.67917000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5625,7 +5625,7 @@
     "latitude": "38.13036000",
     "longitude": "13.23549000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5638,7 +5638,7 @@
     "latitude": "38.02973000",
     "longitude": "14.82212000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5651,7 +5651,7 @@
     "latitude": "38.00420000",
     "longitude": "13.63393000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5664,7 +5664,7 @@
     "latitude": "37.83333000",
     "longitude": "12.66667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5677,7 +5677,7 @@
     "latitude": "38.06875000",
     "longitude": "13.03794000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5690,7 +5690,7 @@
     "latitude": "37.56989000",
     "longitude": "12.72423000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5703,7 +5703,7 @@
     "latitude": "37.61543000",
     "longitude": "15.07796000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5716,7 +5716,7 @@
     "latitude": "37.56494000",
     "longitude": "15.07863000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5729,7 +5729,7 @@
     "latitude": "38.04673000",
     "longitude": "15.09670000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5742,7 +5742,7 @@
     "latitude": "37.58717000",
     "longitude": "12.78912000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5755,7 +5755,7 @@
     "latitude": "37.78437000",
     "longitude": "14.59605000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5768,7 +5768,7 @@
     "latitude": "37.98385000",
     "longitude": "14.23606000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5781,7 +5781,7 @@
     "latitude": "38.04624000",
     "longitude": "14.88087000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5794,7 +5794,7 @@
     "latitude": "38.70985000",
     "longitude": "13.19293000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5807,7 +5807,7 @@
     "latitude": "38.04005000",
     "longitude": "12.61505000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5820,7 +5820,7 @@
     "latitude": "38.19351000",
     "longitude": "15.36980000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5833,7 +5833,7 @@
     "latitude": "37.49527000",
     "longitude": "14.39025000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5846,7 +5846,7 @@
     "latitude": "37.74703000",
     "longitude": "13.82811000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5859,7 +5859,7 @@
     "latitude": "37.68205000",
     "longitude": "13.83156000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5872,7 +5872,7 @@
     "latitude": "37.57695000",
     "longitude": "15.12419000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5885,7 +5885,7 @@
     "latitude": "37.57417000",
     "longitude": "15.16019000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5898,7 +5898,7 @@
     "latitude": "38.21928000",
     "longitude": "15.36648000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5911,7 +5911,7 @@
     "latitude": "38.19307000",
     "longitude": "15.38119000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5924,7 +5924,7 @@
     "latitude": "37.92361000",
     "longitude": "13.56768000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5937,7 +5937,7 @@
     "latitude": "37.61032000",
     "longitude": "15.09794000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5950,7 +5950,7 @@
     "latitude": "37.82371000",
     "longitude": "13.56889000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5963,7 +5963,7 @@
     "latitude": "38.12221000",
     "longitude": "15.13066000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5976,7 +5976,7 @@
     "latitude": "38.06129000",
     "longitude": "13.32000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -5989,7 +5989,7 @@
     "latitude": "38.07789000",
     "longitude": "13.44275000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -6002,7 +6002,7 @@
     "latitude": "37.58761000",
     "longitude": "13.29048000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -6015,7 +6015,7 @@
     "latitude": "38.23952000",
     "longitude": "15.43885000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -6028,7 +6028,7 @@
     "latitude": "37.90646000",
     "longitude": "13.48486000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -6041,7 +6041,7 @@
     "latitude": "37.58292000",
     "longitude": "15.00377000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -6054,7 +6054,7 @@
     "latitude": "37.65457000",
     "longitude": "13.84452000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -6067,7 +6067,7 @@
     "latitude": "37.58753000",
     "longitude": "14.17089000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -6080,7 +6080,7 @@
     "latitude": "37.29877000",
     "longitude": "13.55919000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -6093,7 +6093,7 @@
     "latitude": "37.25132000",
     "longitude": "15.09087000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -6106,7 +6106,7 @@
     "latitude": "37.86886000",
     "longitude": "12.82755000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -6119,7 +6119,7 @@
     "latitude": "36.95151000",
     "longitude": "14.52788000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -6132,7 +6132,7 @@
     "latitude": "37.16188000",
     "longitude": "14.75712000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   },
   {
@@ -6145,7 +6145,7 @@
     "latitude": "37.67895000",
     "longitude": "15.10432000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Rome",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "42.56760000",
     "longitude": "1.59756000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Andorra",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "42.57952000",
     "longitude": "1.65362000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Andorra",
     "translations": {}
   }
 ]

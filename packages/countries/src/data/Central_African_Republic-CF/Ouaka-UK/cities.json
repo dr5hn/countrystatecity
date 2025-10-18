@@ -9,7 +9,7 @@
     "latitude": "5.76795000",
     "longitude": "20.67565000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Bangui",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "5.73549000",
     "longitude": "19.91209000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Bangui",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "6.26793000",
     "longitude": "21.22468000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Bangui",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "4.99337000",
     "longitude": "19.96186000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Bangui",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "23.95361000",
     "longitude": "120.49083000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Taipei",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "23.95671000",
     "longitude": "120.57608000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Taipei",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "7.96817000",
     "longitude": "-78.21648000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Panama",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "8.08285000",
     "longitude": "-77.54210000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Panama",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "8.20108000",
     "longitude": "-77.59637000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Panama",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "7.82013000",
     "longitude": "-78.11005000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Panama",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "8.08404000",
     "longitude": "-77.53507000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Panama",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "8.09839000",
     "longitude": "-77.59817000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Panama",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "46.88042000",
     "longitude": "8.64441000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zurich",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "46.63565000",
     "longitude": "8.59388000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zurich",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "46.86255000",
     "longitude": "8.63036000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zurich",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "46.93559000",
     "longitude": "8.57836000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zurich",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "46.87565000",
     "longitude": "8.66539000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zurich",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "46.81885000",
     "longitude": "8.65052000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zurich",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "46.90478000",
     "longitude": "8.62396000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zurich",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "46.86550000",
     "longitude": "8.65465000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zurich",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "46.88199000",
     "longitude": "8.61611000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zurich",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "46.78910000",
     "longitude": "8.67325000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zurich",
     "translations": {}
   }
 ]

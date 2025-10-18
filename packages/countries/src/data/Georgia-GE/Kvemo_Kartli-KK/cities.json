@@ -9,7 +9,7 @@
     "latitude": "41.44794000",
     "longitude": "44.53838000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tbilisi",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "41.36667000",
     "longitude": "44.51667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tbilisi",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "41.73611000",
     "longitude": "44.96472000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tbilisi",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "41.35000000",
     "longitude": "44.13333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tbilisi",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "41.46054000",
     "longitude": "45.09283000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tbilisi",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "41.61667000",
     "longitude": "45.00000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tbilisi",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "41.69698000",
     "longitude": "44.38448000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tbilisi",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "41.47588000",
     "longitude": "44.80895000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tbilisi",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "41.38333000",
     "longitude": "44.85000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tbilisi",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "41.35272000",
     "longitude": "44.76178000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tbilisi",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "41.54949000",
     "longitude": "44.99323000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tbilisi",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "41.54448000",
     "longitude": "44.46153000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tbilisi",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "41.60000000",
     "longitude": "44.50000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tbilisi",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "41.63333000",
     "longitude": "43.96667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tbilisi",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "41.59460000",
     "longitude": "44.08909000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tbilisi",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "46.81666667",
     "longitude": "14.10000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "46.87298000",
     "longitude": "14.47449000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "46.65000000",
     "longitude": "14.31667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "46.54611000",
     "longitude": "13.71000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "46.72921000",
     "longitude": "13.85046000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "46.59963000",
     "longitude": "13.84389000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "46.62416667",
     "longitude": "13.68777778",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "46.48333333",
     "longitude": "14.60000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "46.81361111",
     "longitude": "13.79277778",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "46.96278000",
     "longitude": "14.79167000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "46.80111000",
     "longitude": "13.45333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "46.74915000",
     "longitude": "13.13536000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "46.59000000",
     "longitude": "14.79889000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "46.69111000",
     "longitude": "13.97111000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "46.75167000",
     "longitude": "14.53667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "46.66175000",
     "longitude": "13.07965000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "46.73750000",
     "longitude": "13.07833000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "46.85606000",
     "longitude": "14.07501000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "46.75000000",
     "longitude": "14.60000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "46.78049000",
     "longitude": "13.65738000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "46.76909000",
     "longitude": "14.06758000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "46.60806000",
     "longitude": "14.36417000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "46.59139000",
     "longitude": "14.64361000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "46.80806000",
     "longitude": "14.56000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "46.46667000",
     "longitude": "14.51667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "46.48638889",
     "longitude": "14.59611111",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "46.56806000",
     "longitude": "13.90972000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "46.68333333",
     "longitude": "13.70000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "46.70157000",
     "longitude": "13.66479000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -386,7 +386,7 @@
     "latitude": "46.57750000",
     "longitude": "13.60667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -399,7 +399,7 @@
     "latitude": "46.51667000",
     "longitude": "14.16667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -412,7 +412,7 @@
     "latitude": "46.55000000",
     "longitude": "14.76667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -425,7 +425,7 @@
     "latitude": "46.77639000",
     "longitude": "13.74778000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -438,7 +438,7 @@
     "latitude": "46.72127000",
     "longitude": "14.09683000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -451,7 +451,7 @@
     "latitude": "46.72368000",
     "longitude": "14.09580000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -464,7 +464,7 @@
     "latitude": "46.52694000",
     "longitude": "14.30194000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -477,7 +477,7 @@
     "latitude": "46.73651000",
     "longitude": "13.62661000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -490,7 +490,7 @@
     "latitude": "46.56155000",
     "longitude": "13.87086000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -503,7 +503,7 @@
     "latitude": "46.57904000",
     "longitude": "13.93496000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -516,7 +516,7 @@
     "latitude": "46.93861000",
     "longitude": "13.13444000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -529,7 +529,7 @@
     "latitude": "46.59998000",
     "longitude": "13.96128000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -542,7 +542,7 @@
     "latitude": "46.86111111",
     "longitude": "14.86027778",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -555,7 +555,7 @@
     "latitude": "46.81417000",
     "longitude": "14.29417000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -568,7 +568,7 @@
     "latitude": "46.71556000",
     "longitude": "13.69083000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -581,7 +581,7 @@
     "latitude": "46.70516000",
     "longitude": "14.04513000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -594,7 +594,7 @@
     "latitude": "46.95528000",
     "longitude": "14.40583000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -607,7 +607,7 @@
     "latitude": "46.56188000",
     "longitude": "13.81732000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -620,7 +620,7 @@
     "latitude": "46.56083000",
     "longitude": "13.70444000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -633,7 +633,7 @@
     "latitude": "46.55000000",
     "longitude": "14.51667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -646,7 +646,7 @@
     "latitude": "46.75740000",
     "longitude": "14.90220000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -659,7 +659,7 @@
     "latitude": "46.76391000",
     "longitude": "13.27200000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -672,7 +672,7 @@
     "latitude": "46.67972222",
     "longitude": "13.26055556",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -685,7 +685,7 @@
     "latitude": "46.72259000",
     "longitude": "14.19893000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -698,7 +698,7 @@
     "latitude": "46.55694000",
     "longitude": "14.70278000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -711,7 +711,7 @@
     "latitude": "46.87398000",
     "longitude": "14.11915000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -724,7 +724,7 @@
     "latitude": "46.90722000",
     "longitude": "13.52944000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -737,7 +737,7 @@
     "latitude": "46.91472000",
     "longitude": "13.54670000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -750,7 +750,7 @@
     "latitude": "46.77544000",
     "longitude": "13.96251000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -763,7 +763,7 @@
     "latitude": "46.61278000",
     "longitude": "13.46500000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -776,7 +776,7 @@
     "latitude": "46.61393000",
     "longitude": "14.46719000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -789,7 +789,7 @@
     "latitude": "46.75027000",
     "longitude": "13.17982000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -802,7 +802,7 @@
     "latitude": "46.83160000",
     "longitude": "14.85103000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -815,7 +815,7 @@
     "latitude": "46.70444000",
     "longitude": "14.73278000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -828,7 +828,7 @@
     "latitude": "46.97270000",
     "longitude": "12.89589000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -841,7 +841,7 @@
     "latitude": "46.87389000",
     "longitude": "14.29167000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -854,7 +854,7 @@
     "latitude": "46.88536000",
     "longitude": "14.51071000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -867,7 +867,7 @@
     "latitude": "47.03979000",
     "longitude": "12.84345000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -880,7 +880,7 @@
     "latitude": "46.62722000",
     "longitude": "13.36722000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -893,7 +893,7 @@
     "latitude": "46.63137000",
     "longitude": "13.13246000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -906,7 +906,7 @@
     "latitude": "46.62722222",
     "longitude": "13.36722222",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -919,7 +919,7 @@
     "latitude": "46.75667000",
     "longitude": "14.03056000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -932,7 +932,7 @@
     "latitude": "46.55774000",
     "longitude": "13.66038000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -945,7 +945,7 @@
     "latitude": "46.63333000",
     "longitude": "14.40000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -958,7 +958,7 @@
     "latitude": "46.94139000",
     "longitude": "14.55000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -971,7 +971,7 @@
     "latitude": "46.75694000",
     "longitude": "13.02528000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -984,7 +984,7 @@
     "latitude": "46.83861000",
     "longitude": "14.48639000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -997,7 +997,7 @@
     "latitude": "46.59306000",
     "longitude": "14.18889000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1010,7 +1010,7 @@
     "latitude": "46.64160000",
     "longitude": "13.18454000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1023,7 +1023,7 @@
     "latitude": "46.63873000",
     "longitude": "14.29730000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1036,7 +1036,7 @@
     "latitude": "46.63333000",
     "longitude": "14.30000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1049,7 +1049,7 @@
     "latitude": "46.56722000",
     "longitude": "14.29295000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1062,7 +1062,7 @@
     "latitude": "46.76722222",
     "longitude": "13.35805556",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1075,7 +1075,7 @@
     "latitude": "46.83611000",
     "longitude": "14.54139000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1088,7 +1088,7 @@
     "latitude": "46.81417000",
     "longitude": "14.82778000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1101,7 +1101,7 @@
     "latitude": "46.68167000",
     "longitude": "13.00694000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1114,7 +1114,7 @@
     "latitude": "46.66666667",
     "longitude": "13.00000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1127,7 +1127,7 @@
     "latitude": "46.56139000",
     "longitude": "14.23389000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1140,7 +1140,7 @@
     "latitude": "46.92250000",
     "longitude": "13.56750000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1153,7 +1153,7 @@
     "latitude": "46.63333000",
     "longitude": "14.21667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1166,7 +1166,7 @@
     "latitude": "46.62194000",
     "longitude": "14.63639000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1179,7 +1179,7 @@
     "latitude": "46.86666667",
     "longitude": "12.98333333",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1192,7 +1192,7 @@
     "latitude": "46.63363710",
     "longitude": "13.88727220",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1205,7 +1205,7 @@
     "latitude": "46.77056000",
     "longitude": "14.45194000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1218,7 +1218,7 @@
     "latitude": "46.64019000",
     "longitude": "14.94733000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1231,7 +1231,7 @@
     "latitude": "46.56639000",
     "longitude": "13.96139000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1244,7 +1244,7 @@
     "latitude": "46.83528000",
     "longitude": "13.43028000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1257,7 +1257,7 @@
     "latitude": "46.48333000",
     "longitude": "14.63333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1270,7 +1270,7 @@
     "latitude": "46.69388889",
     "longitude": "12.81583333",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1283,7 +1283,7 @@
     "latitude": "46.73778000",
     "longitude": "14.28667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1296,7 +1296,7 @@
     "latitude": "46.62244000",
     "longitude": "13.84715000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1309,7 +1309,7 @@
     "latitude": "46.86500000",
     "longitude": "12.91111111",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1322,7 +1322,7 @@
     "latitude": "46.54139000",
     "longitude": "14.13425000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1335,7 +1335,7 @@
     "latitude": "46.83333333",
     "longitude": "13.36666667",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1348,7 +1348,7 @@
     "latitude": "46.70111111",
     "longitude": "14.43111111",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1361,7 +1361,7 @@
     "latitude": "46.98972222",
     "longitude": "13.17000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1374,7 +1374,7 @@
     "latitude": "46.96666667",
     "longitude": "13.51666667",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1387,7 +1387,7 @@
     "latitude": "46.55389000",
     "longitude": "14.29556000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1400,7 +1400,7 @@
     "latitude": "46.68083000",
     "longitude": "14.34861000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1413,7 +1413,7 @@
     "latitude": "46.61639000",
     "longitude": "14.16306000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1426,7 +1426,7 @@
     "latitude": "46.72037000",
     "longitude": "14.19399000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1439,7 +1439,7 @@
     "latitude": "46.98056000",
     "longitude": "14.21667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1452,7 +1452,7 @@
     "latitude": "46.91667000",
     "longitude": "14.41667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1465,7 +1465,7 @@
     "latitude": "46.80417000",
     "longitude": "13.58056000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1478,7 +1478,7 @@
     "latitude": "46.85000000",
     "longitude": "14.43333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1491,7 +1491,7 @@
     "latitude": "46.83639000",
     "longitude": "13.37278000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1504,7 +1504,7 @@
     "latitude": "46.65750000",
     "longitude": "14.17472000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1517,7 +1517,7 @@
     "latitude": "46.92389000",
     "longitude": "12.91778000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1530,7 +1530,7 @@
     "latitude": "46.86028000",
     "longitude": "13.35361000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1543,7 +1543,7 @@
     "latitude": "46.68772000",
     "longitude": "13.67914000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1556,7 +1556,7 @@
     "latitude": "46.63333000",
     "longitude": "14.88333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1569,7 +1569,7 @@
     "latitude": "46.61667000",
     "longitude": "14.40000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1582,7 +1582,7 @@
     "latitude": "46.59000000",
     "longitude": "13.62277778",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1595,7 +1595,7 @@
     "latitude": "46.55528000",
     "longitude": "14.10806000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1608,7 +1608,7 @@
     "latitude": "46.74306000",
     "longitude": "12.97028000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1621,7 +1621,7 @@
     "latitude": "46.81060000",
     "longitude": "13.59080000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1634,7 +1634,7 @@
     "latitude": "46.93667000",
     "longitude": "13.20417000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1647,7 +1647,7 @@
     "latitude": "46.67435000",
     "longitude": "13.98358000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1660,7 +1660,7 @@
     "latitude": "46.71417000",
     "longitude": "13.63611000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1673,7 +1673,7 @@
     "latitude": "46.68333000",
     "longitude": "14.45000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1686,7 +1686,7 @@
     "latitude": "46.55000000",
     "longitude": "13.73330000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1699,7 +1699,7 @@
     "latitude": "46.65000000",
     "longitude": "14.45000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1712,7 +1712,7 @@
     "latitude": "46.63639000",
     "longitude": "14.14639000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1725,7 +1725,7 @@
     "latitude": "46.94000000",
     "longitude": "14.92583000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1738,7 +1738,7 @@
     "latitude": "46.82758000",
     "longitude": "14.83330000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1751,7 +1751,7 @@
     "latitude": "46.83333000",
     "longitude": "13.40000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1764,7 +1764,7 @@
     "latitude": "46.80056000",
     "longitude": "13.71167000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1777,7 +1777,7 @@
     "latitude": "46.60528000",
     "longitude": "14.38611000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1790,7 +1790,7 @@
     "latitude": "46.86001000",
     "longitude": "12.94923000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1803,7 +1803,7 @@
     "latitude": "46.81667000",
     "longitude": "14.85000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1816,7 +1816,7 @@
     "latitude": "46.85416667",
     "longitude": "13.89305556",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1829,7 +1829,7 @@
     "latitude": "47.00718000",
     "longitude": "14.74425000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1842,7 +1842,7 @@
     "latitude": "46.87694444",
     "longitude": "13.30555556",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1855,7 +1855,7 @@
     "latitude": "47.01667000",
     "longitude": "13.61667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1868,7 +1868,7 @@
     "latitude": "46.75111000",
     "longitude": "13.03444000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1881,7 +1881,7 @@
     "latitude": "46.58833000",
     "longitude": "14.01718000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1894,7 +1894,7 @@
     "latitude": "46.65833000",
     "longitude": "14.77639000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1907,7 +1907,7 @@
     "latitude": "46.82917000",
     "longitude": "13.35500000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1920,7 +1920,7 @@
     "latitude": "46.76829000",
     "longitude": "14.81991000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1933,7 +1933,7 @@
     "latitude": "46.57722000",
     "longitude": "14.06167000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1946,7 +1946,7 @@
     "latitude": "46.78061000",
     "longitude": "14.43033000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1959,7 +1959,7 @@
     "latitude": "46.71666667",
     "longitude": "14.91666667",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1972,7 +1972,7 @@
     "latitude": "46.84127080",
     "longitude": "14.83231790",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1985,7 +1985,7 @@
     "latitude": "46.54847650",
     "longitude": "14.05418280",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -1998,7 +1998,7 @@
     "latitude": "46.61444444",
     "longitude": "14.57583333",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2011,7 +2011,7 @@
     "latitude": "46.62528000",
     "longitude": "13.85865000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2024,7 +2024,7 @@
     "latitude": "46.90225780",
     "longitude": "14.40606920",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2037,7 +2037,7 @@
     "latitude": "46.54417000",
     "longitude": "14.42444000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2050,7 +2050,7 @@
     "latitude": "46.61667000",
     "longitude": "14.28333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2063,7 +2063,7 @@
     "latitude": "46.70056000",
     "longitude": "14.87556000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2076,7 +2076,7 @@
     "latitude": "46.62978000",
     "longitude": "14.34016000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2089,7 +2089,7 @@
     "latitude": "46.60000000",
     "longitude": "14.31667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2102,7 +2102,7 @@
     "latitude": "46.80750000",
     "longitude": "14.85167000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2115,7 +2115,7 @@
     "latitude": "46.61666667",
     "longitude": "13.51666667",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2128,7 +2128,7 @@
     "latitude": "46.75027778",
     "longitude": "14.16916667",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2141,7 +2141,7 @@
     "latitude": "46.76806000",
     "longitude": "14.36028000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2154,7 +2154,7 @@
     "latitude": "46.83333000",
     "longitude": "14.40000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2167,7 +2167,7 @@
     "latitude": "46.60444000",
     "longitude": "14.09750000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2180,7 +2180,7 @@
     "latitude": "46.62039000",
     "longitude": "13.93301000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2193,7 +2193,7 @@
     "latitude": "46.61667000",
     "longitude": "13.86667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2206,7 +2206,7 @@
     "latitude": "46.81909000",
     "longitude": "13.51430000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2219,7 +2219,7 @@
     "latitude": "46.74801000",
     "longitude": "14.08825000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2232,7 +2232,7 @@
     "latitude": "46.82361000",
     "longitude": "14.05944000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2245,7 +2245,7 @@
     "latitude": "46.54444000",
     "longitude": "14.60583000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2258,7 +2258,7 @@
     "latitude": "46.80000000",
     "longitude": "13.50000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2271,7 +2271,7 @@
     "latitude": "46.85000000",
     "longitude": "13.33333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2284,7 +2284,7 @@
     "latitude": "46.60627000",
     "longitude": "13.85615000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2297,7 +2297,7 @@
     "latitude": "46.76473000",
     "longitude": "14.82442000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2310,7 +2310,7 @@
     "latitude": "46.52498000",
     "longitude": "14.41600000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2323,7 +2323,7 @@
     "latitude": "46.69869000",
     "longitude": "14.84877000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2336,7 +2336,7 @@
     "latitude": "46.60796000",
     "longitude": "13.50973000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2349,7 +2349,7 @@
     "latitude": "46.76128000",
     "longitude": "14.16658000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2362,7 +2362,7 @@
     "latitude": "46.73536000",
     "longitude": "14.35404000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2375,7 +2375,7 @@
     "latitude": "46.63170000",
     "longitude": "14.30579000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2388,7 +2388,7 @@
     "latitude": "46.89056000",
     "longitude": "13.03694000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2401,7 +2401,7 @@
     "latitude": "46.69833000",
     "longitude": "14.00917000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2414,7 +2414,7 @@
     "latitude": "46.75812000",
     "longitude": "13.24934000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2427,7 +2427,7 @@
     "latitude": "46.78804000",
     "longitude": "14.11290000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2440,7 +2440,7 @@
     "latitude": "46.72611000",
     "longitude": "13.52306000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2453,7 +2453,7 @@
     "latitude": "46.89555556",
     "longitude": "14.33083333",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2466,7 +2466,7 @@
     "latitude": "46.89444000",
     "longitude": "14.32861000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2479,7 +2479,7 @@
     "latitude": "46.52694444",
     "longitude": "14.15638889",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2492,7 +2492,7 @@
     "latitude": "46.65861111",
     "longitude": "14.10194444",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2505,7 +2505,7 @@
     "latitude": "46.68333000",
     "longitude": "14.41667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2518,7 +2518,7 @@
     "latitude": "46.88639000",
     "longitude": "13.51028000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2531,7 +2531,7 @@
     "latitude": "46.66833333",
     "longitude": "13.85555556",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2544,7 +2544,7 @@
     "latitude": "46.86667000",
     "longitude": "14.46667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2557,7 +2557,7 @@
     "latitude": "46.55352000",
     "longitude": "14.21461000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2570,7 +2570,7 @@
     "latitude": "46.64833000",
     "longitude": "13.95750000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2583,7 +2583,7 @@
     "latitude": "46.62504000",
     "longitude": "13.82681000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2596,7 +2596,7 @@
     "latitude": "46.61250000",
     "longitude": "14.04194444",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2609,7 +2609,7 @@
     "latitude": "46.61301000",
     "longitude": "14.04130000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2622,7 +2622,7 @@
     "latitude": "46.59194000",
     "longitude": "14.26917000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2635,7 +2635,7 @@
     "latitude": "46.61773000",
     "longitude": "14.30931000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2648,7 +2648,7 @@
     "latitude": "46.61028000",
     "longitude": "13.85583000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2661,7 +2661,7 @@
     "latitude": "46.61275000",
     "longitude": "13.84638000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2674,7 +2674,7 @@
     "latitude": "46.65308000",
     "longitude": "13.77287000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2687,7 +2687,7 @@
     "latitude": "46.62368000",
     "longitude": "14.28892000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2700,7 +2700,7 @@
     "latitude": "46.60806000",
     "longitude": "13.83153000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2713,7 +2713,7 @@
     "latitude": "46.66222000",
     "longitude": "14.63444000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2726,7 +2726,7 @@
     "latitude": "46.59641000",
     "longitude": "14.66664000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2739,7 +2739,7 @@
     "latitude": "46.62418000",
     "longitude": "14.32081000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2752,7 +2752,7 @@
     "latitude": "46.73028000",
     "longitude": "14.08194000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2765,7 +2765,7 @@
     "latitude": "46.60126000",
     "longitude": "13.82241000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2778,7 +2778,7 @@
     "latitude": "46.71666667",
     "longitude": "13.30000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2791,7 +2791,7 @@
     "latitude": "46.68222222",
     "longitude": "13.72361111",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2804,7 +2804,7 @@
     "latitude": "46.84743000",
     "longitude": "14.19213000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2817,7 +2817,7 @@
     "latitude": "46.84861111",
     "longitude": "14.19166667",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2830,7 +2830,7 @@
     "latitude": "46.61667000",
     "longitude": "13.93333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2843,7 +2843,7 @@
     "latitude": "46.87361000",
     "longitude": "12.87472000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2856,7 +2856,7 @@
     "latitude": "46.66639000",
     "longitude": "14.25806000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2869,7 +2869,7 @@
     "latitude": "46.84056000",
     "longitude": "14.84417000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2882,7 +2882,7 @@
     "latitude": "46.83333000",
     "longitude": "14.83333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2895,7 +2895,7 @@
     "latitude": "46.59634000",
     "longitude": "13.98067000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   },
   {
@@ -2908,7 +2908,7 @@
     "latitude": "46.47222222",
     "longitude": "14.38888889",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vienna",
     "translations": {}
   }
 ]

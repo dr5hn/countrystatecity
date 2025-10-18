@@ -9,7 +9,7 @@
     "latitude": "40.19056000",
     "longitude": "-92.60072000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "38.39752000",
     "longitude": "-94.35162000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "37.10455000",
     "longitude": "-89.90953000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "38.55061000",
     "longitude": "-90.33317000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "40.24861000",
     "longitude": "-94.33107000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "36.69423000",
     "longitude": "-91.39930000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "36.65063000",
     "longitude": "-94.44355000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "39.98349000",
     "longitude": "-94.80205000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "38.19058000",
     "longitude": "-94.02939000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "38.48168000",
     "longitude": "-94.35439000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "38.43283000",
     "longitude": "-90.37762000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "37.31533000",
     "longitude": "-93.58520000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "38.77448000",
     "longitude": "-92.25713000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "40.43085000",
     "longitude": "-95.42809000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "39.21576000",
     "longitude": "-91.84159000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "36.97089000",
     "longitude": "-93.71798000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "36.95200000",
     "longitude": "-92.66045000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "38.59505000",
     "longitude": "-90.54623000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "38.34422000",
     "longitude": "-90.39345000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "36.70987000",
     "longitude": "-93.82907000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "37.50230000",
     "longitude": "-94.34711000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "38.25729000",
     "longitude": "-94.34000000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "37.11561000",
     "longitude": "-93.37019000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "38.70200000",
     "longitude": "-90.31678000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "38.70950000",
     "longitude": "-90.32539000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "38.28588000",
     "longitude": "-91.72044000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "38.74033000",
     "longitude": "-90.22650000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "38.81195000",
     "longitude": "-94.53190000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "37.09783000",
     "longitude": "-89.56258000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -386,7 +386,7 @@
     "latitude": "38.29485000",
     "longitude": "-93.28795000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -399,7 +399,7 @@
     "latitude": "38.75450000",
     "longitude": "-90.33123000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -412,7 +412,7 @@
     "latitude": "36.66894000",
     "longitude": "-89.96870000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -425,7 +425,7 @@
     "latitude": "40.26833000",
     "longitude": "-94.02829000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -438,7 +438,7 @@
     "latitude": "37.06755000",
     "longitude": "-93.55214000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -451,7 +451,7 @@
     "latitude": "37.76922000",
     "longitude": "-90.62485000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -464,7 +464,7 @@
     "latitude": "38.79338000",
     "longitude": "-90.26733000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -477,7 +477,7 @@
     "latitude": "36.88589000",
     "longitude": "-89.92926000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -490,7 +490,7 @@
     "latitude": "39.01695000",
     "longitude": "-94.28161000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -503,7 +503,7 @@
     "latitude": "37.61448000",
     "longitude": "-93.41047000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -516,7 +516,7 @@
     "latitude": "37.32219000",
     "longitude": "-90.02595000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -529,7 +529,7 @@
     "latitude": "37.92311000",
     "longitude": "-90.55540000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -542,7 +542,7 @@
     "latitude": "38.99062000",
     "longitude": "-92.30968000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -555,7 +555,7 @@
     "latitude": "38.97364000",
     "longitude": "-92.74324000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -568,7 +568,7 @@
     "latitude": "38.15477000",
     "longitude": "-91.24403000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -581,7 +581,7 @@
     "latitude": "39.34199000",
     "longitude": "-91.19514000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -594,7 +594,7 @@
     "latitude": "36.64367000",
     "longitude": "-93.21851000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -607,7 +607,7 @@
     "latitude": "38.71450000",
     "longitude": "-90.36734000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -620,7 +620,7 @@
     "latitude": "38.61755000",
     "longitude": "-90.34928000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -633,7 +633,7 @@
     "latitude": "38.76700000",
     "longitude": "-90.41151000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -646,7 +646,7 @@
     "latitude": "39.78447000",
     "longitude": "-93.07353000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -659,7 +659,7 @@
     "latitude": "39.65986000",
     "longitude": "-94.80616000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -672,7 +672,7 @@
     "latitude": "39.13251000",
     "longitude": "-94.19856000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -685,7 +685,7 @@
     "latitude": "37.64393000",
     "longitude": "-93.09241000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -698,7 +698,7 @@
     "latitude": "38.25863000",
     "longitude": "-94.33051000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -711,7 +711,7 @@
     "latitude": "36.71642000",
     "longitude": "-90.40656000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -724,7 +724,7 @@
     "latitude": "38.43783000",
     "longitude": "-90.58179000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -737,7 +737,7 @@
     "latitude": "37.12394000",
     "longitude": "-92.10127000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -750,7 +750,7 @@
     "latitude": "39.65575000",
     "longitude": "-93.98280000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -763,7 +763,7 @@
     "latitude": "38.62753000",
     "longitude": "-92.56658000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -776,7 +776,7 @@
     "latitude": "38.83552000",
     "longitude": "-91.92601000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -789,7 +789,7 @@
     "latitude": "38.76477000",
     "longitude": "-90.31373000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -802,7 +802,7 @@
     "latitude": "38.02704000",
     "longitude": "-92.76605000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -815,7 +815,7 @@
     "latitude": "38.00809000",
     "longitude": "-92.74463000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -828,7 +828,7 @@
     "latitude": "39.74028000",
     "longitude": "-94.24106000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -841,7 +841,7 @@
     "latitude": "36.49339000",
     "longitude": "-90.07509000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -854,7 +854,7 @@
     "latitude": "40.12504000",
     "longitude": "-91.62516000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -867,7 +867,7 @@
     "latitude": "37.30588000",
     "longitude": "-89.51815000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -880,7 +880,7 @@
     "latitude": "37.38404000",
     "longitude": "-89.68445000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -893,7 +893,7 @@
     "latitude": "37.17672000",
     "longitude": "-94.56551000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -906,7 +906,7 @@
     "latitude": "39.42698000",
     "longitude": "-93.50518000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -919,7 +919,7 @@
     "latitude": "39.35835000",
     "longitude": "-93.49577000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -932,7 +932,7 @@
     "latitude": "36.94127000",
     "longitude": "-90.96231000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -945,7 +945,7 @@
     "latitude": "37.14923000",
     "longitude": "-94.44300000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -958,7 +958,7 @@
     "latitude": "37.17645000",
     "longitude": "-94.31022000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -971,7 +971,7 @@
     "latitude": "36.19312000",
     "longitude": "-89.65564000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -984,7 +984,7 @@
     "latitude": "38.64700000",
     "longitude": "-94.35482000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -997,7 +997,7 @@
     "latitude": "36.67701000",
     "longitude": "-93.86881000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1010,7 +1010,7 @@
     "latitude": "38.75811000",
     "longitude": "-90.24817000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1023,7 +1023,7 @@
     "latitude": "37.72385000",
     "longitude": "-93.85661000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1036,7 +1036,7 @@
     "latitude": "38.35339000",
     "longitude": "-90.64124000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1049,7 +1049,7 @@
     "latitude": "37.43505000",
     "longitude": "-90.95846000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1062,7 +1062,7 @@
     "latitude": "39.21032000",
     "longitude": "-92.13795000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1075,7 +1075,7 @@
     "latitude": "37.18005000",
     "longitude": "-89.65509000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1088,7 +1088,7 @@
     "latitude": "39.51508000",
     "longitude": "-92.96262000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1101,7 +1101,7 @@
     "latitude": "38.70255000",
     "longitude": "-90.34345000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1114,7 +1114,7 @@
     "latitude": "36.92089000",
     "longitude": "-89.35063000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1127,7 +1127,7 @@
     "latitude": "38.66311000",
     "longitude": "-90.57707000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1140,7 +1140,7 @@
     "latitude": "39.79529000",
     "longitude": "-93.55244000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1153,7 +1153,7 @@
     "latitude": "36.96957000",
     "longitude": "-93.18885000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1166,7 +1166,7 @@
     "latitude": "40.41036000",
     "longitude": "-91.73840000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1179,7 +1179,7 @@
     "latitude": "38.61839000",
     "longitude": "-90.58929000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1192,7 +1192,7 @@
     "latitude": "36.45173000",
     "longitude": "-89.96704000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1205,7 +1205,7 @@
     "latitude": "39.31052000",
     "longitude": "-94.42087000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1218,7 +1218,7 @@
     "latitude": "39.20250000",
     "longitude": "-94.49245000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1231,7 +1231,7 @@
     "latitude": "38.64255000",
     "longitude": "-90.32373000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1244,7 +1244,7 @@
     "latitude": "37.03033000",
     "longitude": "-93.47297000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1257,7 +1257,7 @@
     "latitude": "38.36863000",
     "longitude": "-93.77827000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1270,7 +1270,7 @@
     "latitude": "39.60178000",
     "longitude": "-94.40459000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1283,7 +1283,7 @@
     "latitude": "38.46002000",
     "longitude": "-93.20270000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1296,7 +1296,7 @@
     "latitude": "38.50541000",
     "longitude": "-92.28160000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1309,7 +1309,7 @@
     "latitude": "38.95171000",
     "longitude": "-92.33407000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1322,7 +1322,7 @@
     "latitude": "38.52450000",
     "longitude": "-90.35734000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1335,7 +1335,7 @@
     "latitude": "38.98335000",
     "longitude": "-93.56855000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1348,7 +1348,7 @@
     "latitude": "38.72783000",
     "longitude": "-90.31011000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1361,7 +1361,7 @@
     "latitude": "38.84354000",
     "longitude": "-92.81012000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1374,7 +1374,7 @@
     "latitude": "38.74616000",
     "longitude": "-90.65401000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1387,7 +1387,7 @@
     "latitude": "38.72088000",
     "longitude": "-90.27484000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1400,7 +1400,7 @@
     "latitude": "39.83222000",
     "longitude": "-94.82163000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1413,7 +1413,7 @@
     "latitude": "36.90534000",
     "longitude": "-93.57158000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1426,7 +1426,7 @@
     "latitude": "37.97638000",
     "longitude": "-91.30396000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1439,7 +1439,7 @@
     "latitude": "38.55700000",
     "longitude": "-90.38178000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1452,7 +1452,7 @@
     "latitude": "38.66089000",
     "longitude": "-90.42262000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1465,7 +1465,7 @@
     "latitude": "37.94893000",
     "longitude": "-92.26378000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1478,7 +1478,7 @@
     "latitude": "38.22117000",
     "longitude": "-90.37901000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1491,7 +1491,7 @@
     "latitude": "38.06282000",
     "longitude": "-91.40348000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1504,7 +1504,7 @@
     "latitude": "37.43204000",
     "longitude": "-93.85029000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1517,7 +1517,7 @@
     "latitude": "37.68041000",
     "longitude": "-93.02366000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1530,7 +1530,7 @@
     "latitude": "38.76950000",
     "longitude": "-90.72902000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1543,7 +1543,7 @@
     "latitude": "39.96075000",
     "longitude": "-93.98547000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1556,7 +1556,7 @@
     "latitude": "38.13950000",
     "longitude": "-90.55513000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1569,7 +1569,7 @@
     "latitude": "39.89318000",
     "longitude": "-94.40471000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1582,7 +1582,7 @@
     "latitude": "38.74950000",
     "longitude": "-90.28567000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1595,7 +1595,7 @@
     "latitude": "37.60663000",
     "longitude": "-91.50788000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1608,7 +1608,7 @@
     "latitude": "38.60089000",
     "longitude": "-90.43290000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1621,7 +1621,7 @@
     "latitude": "37.87088000",
     "longitude": "-90.52735000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1634,7 +1634,7 @@
     "latitude": "36.79589000",
     "longitude": "-89.95787000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1647,7 +1647,7 @@
     "latitude": "37.99171000",
     "longitude": "-92.09378000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1660,7 +1660,7 @@
     "latitude": "36.62089000",
     "longitude": "-90.82346000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1673,7 +1673,7 @@
     "latitude": "36.93260000",
     "longitude": "-92.49881000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1686,7 +1686,7 @@
     "latitude": "37.08367000",
     "longitude": "-94.41356000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1699,7 +1699,7 @@
     "latitude": "36.10597000",
     "longitude": "-90.16576000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1712,7 +1712,7 @@
     "latitude": "37.07673000",
     "longitude": "-94.45939000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1725,7 +1725,7 @@
     "latitude": "39.09556000",
     "longitude": "-94.35523000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1738,7 +1738,7 @@
     "latitude": "36.77978000",
     "longitude": "-89.38563000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1751,7 +1751,7 @@
     "latitude": "40.16754000",
     "longitude": "-92.17268000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1764,7 +1764,7 @@
     "latitude": "37.87698000",
     "longitude": "-94.02133000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1777,7 +1777,7 @@
     "latitude": "38.34836000",
     "longitude": "-92.58158000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1790,7 +1790,7 @@
     "latitude": "38.59255000",
     "longitude": "-90.58707000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1803,7 +1803,7 @@
     "latitude": "39.16672000",
     "longitude": "-90.78096000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1816,7 +1816,7 @@
     "latitude": "37.83672000",
     "longitude": "-90.53290000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1829,7 +1829,7 @@
     "latitude": "37.15060000",
     "longitude": "-91.35764000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1842,7 +1842,7 @@
     "latitude": "37.85033000",
     "longitude": "-90.49874000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1855,7 +1855,7 @@
     "latitude": "38.50255000",
     "longitude": "-90.62790000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1868,7 +1868,7 @@
     "latitude": "39.33917000",
     "longitude": "-94.22606000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1881,7 +1881,7 @@
     "latitude": "37.38393000",
     "longitude": "-93.15130000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1894,7 +1894,7 @@
     "latitude": "37.78088000",
     "longitude": "-90.42179000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1907,7 +1907,7 @@
     "latitude": "39.14587000",
     "longitude": "-92.68379000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1920,7 +1920,7 @@
     "latitude": "38.51311000",
     "longitude": "-90.43595000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1933,7 +1933,7 @@
     "latitude": "38.74422000",
     "longitude": "-90.30539000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1946,7 +1946,7 @@
     "latitude": "38.22061000",
     "longitude": "-90.39595000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1959,7 +1959,7 @@
     "latitude": "37.85005000",
     "longitude": "-90.51679000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1972,7 +1972,7 @@
     "latitude": "38.78922000",
     "longitude": "-90.32261000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1985,7 +1985,7 @@
     "latitude": "36.68506000",
     "longitude": "-93.11990000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -1998,7 +1998,7 @@
     "latitude": "37.70573000",
     "longitude": "-92.15717000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2011,7 +2011,7 @@
     "latitude": "38.19809000",
     "longitude": "-92.71102000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2024,7 +2024,7 @@
     "latitude": "38.41114000",
     "longitude": "-91.07499000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2037,7 +2037,7 @@
     "latitude": "37.55978000",
     "longitude": "-90.29401000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2050,7 +2050,7 @@
     "latitude": "38.63561000",
     "longitude": "-90.41512000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2063,7 +2063,7 @@
     "latitude": "38.84671000",
     "longitude": "-91.94796000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2076,7 +2076,7 @@
     "latitude": "36.60312000",
     "longitude": "-92.42822000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2089,7 +2089,7 @@
     "latitude": "36.80534000",
     "longitude": "-93.46658000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2102,7 +2102,7 @@
     "latitude": "39.91445000",
     "longitude": "-93.96217000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2115,7 +2115,7 @@
     "latitude": "38.56112000",
     "longitude": "-94.19133000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2128,7 +2128,7 @@
     "latitude": "38.44087000",
     "longitude": "-91.50793000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2141,7 +2141,7 @@
     "latitude": "40.21211000",
     "longitude": "-94.40992000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2154,7 +2154,7 @@
     "latitude": "38.39977000",
     "longitude": "-91.33071000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2167,7 +2167,7 @@
     "latitude": "36.45201000",
     "longitude": "-89.91926000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2180,7 +2180,7 @@
     "latitude": "39.20389000",
     "longitude": "-94.55468000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2193,7 +2193,7 @@
     "latitude": "39.22725000",
     "longitude": "-92.84658000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2206,7 +2206,7 @@
     "latitude": "38.59589000",
     "longitude": "-90.37706000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2219,7 +2219,7 @@
     "latitude": "36.74174000",
     "longitude": "-94.39911000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2232,7 +2232,7 @@
     "latitude": "39.61083000",
     "longitude": "-94.59940000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2245,7 +2245,7 @@
     "latitude": "39.01501000",
     "longitude": "-94.19856000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2258,7 +2258,7 @@
     "latitude": "36.91923000",
     "longitude": "-94.25522000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2271,7 +2271,7 @@
     "latitude": "38.88584000",
     "longitude": "-94.53301000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2284,7 +2284,7 @@
     "latitude": "40.48749000",
     "longitude": "-94.41107000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2297,7 +2297,7 @@
     "latitude": "38.48978000",
     "longitude": "-90.81680000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2310,7 +2310,7 @@
     "latitude": "38.52366000",
     "longitude": "-90.33845000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2323,7 +2323,7 @@
     "latitude": "37.25805000",
     "longitude": "-93.34199000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2336,7 +2336,7 @@
     "latitude": "37.41532000",
     "longitude": "-93.84104000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2349,7 +2349,7 @@
     "latitude": "37.12727000",
     "longitude": "-90.45011000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2362,7 +2362,7 @@
     "latitude": "38.85168000",
     "longitude": "-94.34384000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2375,7 +2375,7 @@
     "latitude": "40.11393000",
     "longitude": "-93.56534000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2388,7 +2388,7 @@
     "latitude": "39.11699000",
     "longitude": "-92.22074000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2401,7 +2401,7 @@
     "latitude": "39.74362000",
     "longitude": "-93.99827000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2414,7 +2414,7 @@
     "latitude": "38.68588000",
     "longitude": "-90.32373000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2427,7 +2427,7 @@
     "latitude": "39.70838000",
     "longitude": "-91.35848000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2440,7 +2440,7 @@
     "latitude": "40.35467000",
     "longitude": "-93.99206000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2453,7 +2453,7 @@
     "latitude": "38.65334000",
     "longitude": "-94.34884000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2466,7 +2466,7 @@
     "latitude": "37.25088000",
     "longitude": "-92.51044000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2479,7 +2479,7 @@
     "latitude": "36.23368000",
     "longitude": "-89.74953000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2492,7 +2492,7 @@
     "latitude": "38.77144000",
     "longitude": "-90.37095000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2505,7 +2505,7 @@
     "latitude": "38.38516000",
     "longitude": "-93.79275000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2518,7 +2518,7 @@
     "latitude": "38.26839000",
     "longitude": "-90.38012000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2531,7 +2531,7 @@
     "latitude": "38.70421000",
     "longitude": "-91.43738000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2544,7 +2544,7 @@
     "latitude": "37.94142000",
     "longitude": "-93.31631000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2557,7 +2557,7 @@
     "latitude": "37.94079000",
     "longitude": "-93.32072000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2570,7 +2570,7 @@
     "latitude": "39.07251000",
     "longitude": "-93.71716000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2583,7 +2583,7 @@
     "latitude": "38.45894000",
     "longitude": "-90.53651000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2596,7 +2596,7 @@
     "latitude": "38.23228000",
     "longitude": "-90.56290000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2609,7 +2609,7 @@
     "latitude": "38.68338000",
     "longitude": "-90.28400000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2622,7 +2622,7 @@
     "latitude": "38.71418000",
     "longitude": "-93.99133000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2635,7 +2635,7 @@
     "latitude": "36.62117000",
     "longitude": "-93.21546000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2648,7 +2648,7 @@
     "latitude": "40.09443000",
     "longitude": "-95.21551000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2661,7 +2661,7 @@
     "latitude": "38.64032000",
     "longitude": "-92.12241000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2674,7 +2674,7 @@
     "latitude": "37.32616000",
     "longitude": "-91.95599000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2687,7 +2687,7 @@
     "latitude": "39.14250000",
     "longitude": "-92.69627000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2700,7 +2700,7 @@
     "latitude": "36.77401000",
     "longitude": "-91.88654000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2713,7 +2713,7 @@
     "latitude": "37.79448000",
     "longitude": "-93.57798000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2726,7 +2726,7 @@
     "latitude": "39.44059000",
     "longitude": "-92.54518000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2739,7 +2739,7 @@
     "latitude": "38.36978000",
     "longitude": "-90.37845000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2752,7 +2752,7 @@
     "latitude": "39.09112000",
     "longitude": "-94.41551000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2765,7 +2765,7 @@
     "latitude": "37.50426000",
     "longitude": "-90.69003000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2778,7 +2778,7 @@
     "latitude": "37.59727000",
     "longitude": "-90.62734000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2791,7 +2791,7 @@
     "latitude": "37.38227000",
     "longitude": "-89.66621000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2804,7 +2804,7 @@
     "latitude": "39.00850000",
     "longitude": "-94.34609000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2817,7 +2817,7 @@
     "latitude": "37.20355000",
     "longitude": "-94.34061000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2830,7 +2830,7 @@
     "latitude": "38.57670000",
     "longitude": "-92.17352000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2843,7 +2843,7 @@
     "latitude": "38.26107000",
     "longitude": "-90.53769000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2856,7 +2856,7 @@
     "latitude": "38.71922000",
     "longitude": "-90.26039000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2869,7 +2869,7 @@
     "latitude": "38.74409000",
     "longitude": "-93.80637000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2882,7 +2882,7 @@
     "latitude": "37.08423000",
     "longitude": "-94.51328000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2895,7 +2895,7 @@
     "latitude": "40.42032000",
     "longitude": "-91.71961000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2908,7 +2908,7 @@
     "latitude": "39.09973000",
     "longitude": "-94.57857000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2921,7 +2921,7 @@
     "latitude": "39.36778000",
     "longitude": "-94.36217000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2934,7 +2934,7 @@
     "latitude": "36.23618000",
     "longitude": "-90.05565000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2947,7 +2947,7 @@
     "latitude": "39.43447000",
     "longitude": "-92.93825000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2960,7 +2960,7 @@
     "latitude": "36.63340000",
     "longitude": "-93.41685000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2973,7 +2973,7 @@
     "latitude": "40.05138000",
     "longitude": "-94.52412000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2986,7 +2986,7 @@
     "latitude": "39.64417000",
     "longitude": "-94.03855000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -2999,7 +2999,7 @@
     "latitude": "40.19475000",
     "longitude": "-92.58325000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3012,7 +3012,7 @@
     "latitude": "38.58339000",
     "longitude": "-90.40678000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3025,7 +3025,7 @@
     "latitude": "36.68367000",
     "longitude": "-93.04990000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3038,7 +3038,7 @@
     "latitude": "38.76668000",
     "longitude": "-93.55855000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3051,7 +3051,7 @@
     "latitude": "40.12825000",
     "longitude": "-92.14807000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3064,7 +3064,7 @@
     "latitude": "38.77418000",
     "longitude": "-93.42521000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3077,7 +3077,7 @@
     "latitude": "40.02337000",
     "longitude": "-92.49158000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3090,7 +3090,7 @@
     "latitude": "38.41701000",
     "longitude": "-90.67989000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3103,7 +3103,7 @@
     "latitude": "37.65832000",
     "longitude": "-92.59035000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3116,7 +3116,7 @@
     "latitude": "38.64977000",
     "longitude": "-90.38067000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3129,7 +3129,7 @@
     "latitude": "39.06559000",
     "longitude": "-93.78554000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3142,7 +3142,7 @@
     "latitude": "38.92306000",
     "longitude": "-94.24411000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3155,7 +3155,7 @@
     "latitude": "38.19864000",
     "longitude": "-92.63880000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3168,7 +3168,7 @@
     "latitude": "38.79755000",
     "longitude": "-90.78568000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3181,7 +3181,7 @@
     "latitude": "38.83140000",
     "longitude": "-94.35856000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3194,7 +3194,7 @@
     "latitude": "38.53866000",
     "longitude": "-90.33512000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3207,7 +3207,7 @@
     "latitude": "37.49505000",
     "longitude": "-94.27661000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3220,7 +3220,7 @@
     "latitude": "40.52086000",
     "longitude": "-92.52797000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3233,7 +3233,7 @@
     "latitude": "39.54834000",
     "longitude": "-94.32995000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3246,7 +3246,7 @@
     "latitude": "37.10635000",
     "longitude": "-93.83294000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3259,7 +3259,7 @@
     "latitude": "39.43834000",
     "longitude": "-94.20411000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3272,7 +3272,7 @@
     "latitude": "37.86727000",
     "longitude": "-90.59318000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3285,7 +3285,7 @@
     "latitude": "37.68060000",
     "longitude": "-92.66379000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3298,7 +3298,7 @@
     "latitude": "38.91084000",
     "longitude": "-94.38217000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3311,7 +3311,7 @@
     "latitude": "38.53339000",
     "longitude": "-90.27928000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3324,7 +3324,7 @@
     "latitude": "40.09690000",
     "longitude": "-91.72214000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3337,7 +3337,7 @@
     "latitude": "39.18473000",
     "longitude": "-93.87994000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3350,7 +3350,7 @@
     "latitude": "39.24611000",
     "longitude": "-94.41912000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3363,7 +3363,7 @@
     "latitude": "37.49949000",
     "longitude": "-91.85710000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3376,7 +3376,7 @@
     "latitude": "36.59228000",
     "longitude": "-89.61536000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3389,7 +3389,7 @@
     "latitude": "38.39086000",
     "longitude": "-93.33465000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3402,7 +3402,7 @@
     "latitude": "39.05802000",
     "longitude": "-90.96005000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3415,7 +3415,7 @@
     "latitude": "38.48587000",
     "longitude": "-91.85045000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3428,7 +3428,7 @@
     "latitude": "39.87021000",
     "longitude": "-93.10718000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3441,7 +3441,7 @@
     "latitude": "39.87863000",
     "longitude": "-93.18882000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3454,7 +3454,7 @@
     "latitude": "39.78211000",
     "longitude": "-93.54828000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3467,7 +3467,7 @@
     "latitude": "38.87084000",
     "longitude": "-94.17383000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3480,7 +3480,7 @@
     "latitude": "39.44894000",
     "longitude": "-91.05153000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3493,7 +3493,7 @@
     "latitude": "39.74226000",
     "longitude": "-92.47269000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3506,7 +3506,7 @@
     "latitude": "39.83080000",
     "longitude": "-92.56461000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3519,7 +3519,7 @@
     "latitude": "37.47810000",
     "longitude": "-90.34503000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3532,7 +3532,7 @@
     "latitude": "36.55700000",
     "longitude": "-89.96648000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3545,7 +3545,7 @@
     "latitude": "38.59700000",
     "longitude": "-90.50929000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3558,7 +3558,7 @@
     "latitude": "37.10672000",
     "longitude": "-92.58072000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3571,7 +3571,7 @@
     "latitude": "38.61255000",
     "longitude": "-90.32456000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3584,7 +3584,7 @@
     "latitude": "37.30589000",
     "longitude": "-89.97038000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3597,7 +3597,7 @@
     "latitude": "39.71197000",
     "longitude": "-92.94825000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3610,7 +3610,7 @@
     "latitude": "38.16163000",
     "longitude": "-91.92489000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3623,7 +3623,7 @@
     "latitude": "39.80596000",
     "longitude": "-91.62235000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3636,7 +3636,7 @@
     "latitude": "37.00311000",
     "longitude": "-93.63742000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3649,7 +3649,7 @@
     "latitude": "38.57033000",
     "longitude": "-90.33706000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3662,7 +3662,7 @@
     "latitude": "39.12308000",
     "longitude": "-93.19687000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3675,7 +3675,7 @@
     "latitude": "37.33866000",
     "longitude": "-92.90712000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3688,7 +3688,7 @@
     "latitude": "38.62838000",
     "longitude": "-91.05764000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3701,7 +3701,7 @@
     "latitude": "38.71311000",
     "longitude": "-90.42984000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3714,7 +3714,7 @@
     "latitude": "40.34610000",
     "longitude": "-94.87247000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3727,7 +3727,7 @@
     "latitude": "39.88917000",
     "longitude": "-94.36190000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3740,7 +3740,7 @@
     "latitude": "36.62867000",
     "longitude": "-94.34836000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3753,7 +3753,7 @@
     "latitude": "38.50839000",
     "longitude": "-90.32289000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3766,7 +3766,7 @@
     "latitude": "40.45781000",
     "longitude": "-92.17129000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3779,7 +3779,7 @@
     "latitude": "40.42233000",
     "longitude": "-93.56856000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3792,7 +3792,7 @@
     "latitude": "36.71395000",
     "longitude": "-93.16185000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3805,7 +3805,7 @@
     "latitude": "39.16976000",
     "longitude": "-91.88295000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3818,7 +3818,7 @@
     "latitude": "40.20224000",
     "longitude": "-93.12521000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3831,7 +3831,7 @@
     "latitude": "38.21453000",
     "longitude": "-92.42841000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3844,7 +3844,7 @@
     "latitude": "36.82810000",
     "longitude": "-89.29118000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3857,7 +3857,7 @@
     "latitude": "39.41837000",
     "longitude": "-92.43824000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3870,7 +3870,7 @@
     "latitude": "38.74699000",
     "longitude": "-90.24011000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3883,7 +3883,7 @@
     "latitude": "36.92895000",
     "longitude": "-93.92771000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3896,7 +3896,7 @@
     "latitude": "38.63275000",
     "longitude": "-92.58305000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3909,7 +3909,7 @@
     "latitude": "39.65365000",
     "longitude": "-91.73461000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3922,7 +3922,7 @@
     "latitude": "39.49546000",
     "longitude": "-92.00074000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3935,7 +3935,7 @@
     "latitude": "38.97754000",
     "longitude": "-91.50488000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3948,7 +3948,7 @@
     "latitude": "38.94149000",
     "longitude": "-91.47021000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3961,7 +3961,7 @@
     "latitude": "40.11838000",
     "longitude": "-91.71211000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3974,7 +3974,7 @@
     "latitude": "38.42374000",
     "longitude": "-92.88598000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -3987,7 +3987,7 @@
     "latitude": "38.94783000",
     "longitude": "-90.91819000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4000,7 +4000,7 @@
     "latitude": "40.13111000",
     "longitude": "-95.23164000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4013,7 +4013,7 @@
     "latitude": "37.10367000",
     "longitude": "-93.81854000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4026,7 +4026,7 @@
     "latitude": "37.13061000",
     "longitude": "-92.26349000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4039,7 +4039,7 @@
     "latitude": "36.99533000",
     "longitude": "-91.70376000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4052,7 +4052,7 @@
     "latitude": "38.49033000",
     "longitude": "-90.48707000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4065,7 +4065,7 @@
     "latitude": "36.86896000",
     "longitude": "-94.36800000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4078,7 +4078,7 @@
     "latitude": "37.83921000",
     "longitude": "-94.35467000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4091,7 +4091,7 @@
     "latitude": "39.01725000",
     "longitude": "-92.73741000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4104,7 +4104,7 @@
     "latitude": "38.60838000",
     "longitude": "-91.21904000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4117,7 +4117,7 @@
     "latitude": "39.58532000",
     "longitude": "-91.40098000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4130,7 +4130,7 @@
     "latitude": "36.58645000",
     "longitude": "-89.52785000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4143,7 +4143,7 @@
     "latitude": "36.59465000",
     "longitude": "-89.65183000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4156,7 +4156,7 @@
     "latitude": "36.90551000",
     "longitude": "-94.33925000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4169,7 +4169,7 @@
     "latitude": "37.04339000",
     "longitude": "-93.29435000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4182,7 +4182,7 @@
     "latitude": "40.36077000",
     "longitude": "-94.88343000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4195,7 +4195,7 @@
     "latitude": "36.54563000",
     "longitude": "-94.48522000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4208,7 +4208,7 @@
     "latitude": "38.72088000",
     "longitude": "-90.29734000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4221,7 +4221,7 @@
     "latitude": "39.13000000",
     "longitude": "-94.56218000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4234,7 +4234,7 @@
     "latitude": "38.70422000",
     "longitude": "-90.28345000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4247,7 +4247,7 @@
     "latitude": "38.81061000",
     "longitude": "-90.69985000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4260,7 +4260,7 @@
     "latitude": "39.00501000",
     "longitude": "-94.12939000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4273,7 +4273,7 @@
     "latitude": "38.57644000",
     "longitude": "-90.38567000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4286,7 +4286,7 @@
     "latitude": "38.47005000",
     "longitude": "-90.30456000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4299,7 +4299,7 @@
     "latitude": "38.99917000",
     "longitude": "-93.95356000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4312,7 +4312,7 @@
     "latitude": "38.83494000",
     "longitude": "-90.28511000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4325,7 +4325,7 @@
     "latitude": "38.66533000",
     "longitude": "-90.37595000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4338,7 +4338,7 @@
     "latitude": "37.08505000",
     "longitude": "-89.65536000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4351,7 +4351,7 @@
     "latitude": "39.98694000",
     "longitude": "-95.14498000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4364,7 +4364,7 @@
     "latitude": "36.68672000",
     "longitude": "-91.40329000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4377,7 +4377,7 @@
     "latitude": "37.18839000",
     "longitude": "-94.47023000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4390,7 +4390,7 @@
     "latitude": "38.12956000",
     "longitude": "-92.65277000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4403,7 +4403,7 @@
     "latitude": "38.46037000",
     "longitude": "-91.86184000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4416,7 +4416,7 @@
     "latitude": "38.04670000",
     "longitude": "-93.70438000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4429,7 +4429,7 @@
     "latitude": "38.70116000",
     "longitude": "-90.36234000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4442,7 +4442,7 @@
     "latitude": "38.34560000",
     "longitude": "-91.50155000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4455,7 +4455,7 @@
     "latitude": "37.02089000",
     "longitude": "-93.20602000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4468,7 +4468,7 @@
     "latitude": "36.64932000",
     "longitude": "-92.44466000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4481,7 +4481,7 @@
     "latitude": "38.48200000",
     "longitude": "-90.74152000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4494,7 +4494,7 @@
     "latitude": "38.68338000",
     "longitude": "-90.30761000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4507,7 +4507,7 @@
     "latitude": "39.79421000",
     "longitude": "-91.52321000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4520,7 +4520,7 @@
     "latitude": "39.48087000",
     "longitude": "-92.00128000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4533,7 +4533,7 @@
     "latitude": "37.85422000",
     "longitude": "-90.51818000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4546,7 +4546,7 @@
     "latitude": "39.19500000",
     "longitude": "-94.68218000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4559,7 +4559,7 @@
     "latitude": "38.71918000",
     "longitude": "-94.45856000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4572,7 +4572,7 @@
     "latitude": "36.21145000",
     "longitude": "-89.78538000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4585,7 +4585,7 @@
     "latitude": "37.70714000",
     "longitude": "-89.82441000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4598,7 +4598,7 @@
     "latitude": "37.72422000",
     "longitude": "-89.86122000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4611,7 +4611,7 @@
     "latitude": "38.72829000",
     "longitude": "-93.28510000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4624,7 +4624,7 @@
     "latitude": "38.28339000",
     "longitude": "-90.39512000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4637,7 +4637,7 @@
     "latitude": "37.87713000",
     "longitude": "-91.79236000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4650,7 +4650,7 @@
     "latitude": "37.15449000",
     "longitude": "-90.69567000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4663,7 +4663,7 @@
     "latitude": "36.94590000",
     "longitude": "-94.00021000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4676,7 +4676,7 @@
     "latitude": "39.34384000",
     "longitude": "-91.17136000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4689,7 +4689,7 @@
     "latitude": "38.69588000",
     "longitude": "-90.27511000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4702,7 +4702,7 @@
     "latitude": "36.59452000",
     "longitude": "-94.38410000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4715,7 +4715,7 @@
     "latitude": "39.37028000",
     "longitude": "-94.78246000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4728,7 +4728,7 @@
     "latitude": "39.38050000",
     "longitude": "-94.77359000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4741,7 +4741,7 @@
     "latitude": "39.56555000",
     "longitude": "-94.44801000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4754,7 +4754,7 @@
     "latitude": "38.78751000",
     "longitude": "-94.26939000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4767,7 +4767,7 @@
     "latitude": "39.21639000",
     "longitude": "-94.48412000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4780,7 +4780,7 @@
     "latitude": "37.61648000",
     "longitude": "-93.40053000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4793,7 +4793,7 @@
     "latitude": "36.75700000",
     "longitude": "-90.39289000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4806,7 +4806,7 @@
     "latitude": "36.42534000",
     "longitude": "-89.69953000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4819,7 +4819,7 @@
     "latitude": "37.93644000",
     "longitude": "-90.78791000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4832,7 +4832,7 @@
     "latitude": "40.40084000",
     "longitude": "-93.58050000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4845,7 +4845,7 @@
     "latitude": "37.82463000",
     "longitude": "-92.20766000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4858,7 +4858,7 @@
     "latitude": "36.81729000",
     "longitude": "-93.92076000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4871,7 +4871,7 @@
     "latitude": "40.47891000",
     "longitude": "-93.01613000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4884,7 +4884,7 @@
     "latitude": "39.52767000",
     "longitude": "-91.52202000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4897,7 +4897,7 @@
     "latitude": "39.44017000",
     "longitude": "-92.49708000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4910,7 +4910,7 @@
     "latitude": "39.35241000",
     "longitude": "-93.98988000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4923,7 +4923,7 @@
     "latitude": "38.80195000",
     "longitude": "-94.45273000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4936,7 +4936,7 @@
     "latitude": "39.00862000",
     "longitude": "-94.46356000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4949,7 +4949,7 @@
     "latitude": "37.12005000",
     "longitude": "-93.48019000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4962,7 +4962,7 @@
     "latitude": "37.36233000",
     "longitude": "-90.96908000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4975,7 +4975,7 @@
     "latitude": "38.09642000",
     "longitude": "-94.36106000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -4988,7 +4988,7 @@
     "latitude": "37.85698000",
     "longitude": "-92.40434000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5001,7 +5001,7 @@
     "latitude": "39.27862000",
     "longitude": "-93.97689000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5014,7 +5014,7 @@
     "latitude": "38.62866000",
     "longitude": "-90.31956000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5027,7 +5027,7 @@
     "latitude": "36.65282000",
     "longitude": "-90.86388000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5040,7 +5040,7 @@
     "latitude": "39.17750000",
     "longitude": "-94.61301000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5053,7 +5053,7 @@
     "latitude": "38.74783000",
     "longitude": "-90.21150000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5066,7 +5066,7 @@
     "latitude": "38.60755000",
     "longitude": "-90.37845000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5079,7 +5079,7 @@
     "latitude": "40.41111000",
     "longitude": "-95.51693000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5092,7 +5092,7 @@
     "latitude": "37.11700000",
     "longitude": "-93.05573000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5105,7 +5105,7 @@
     "latitude": "37.95143000",
     "longitude": "-91.77127000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5118,7 +5118,7 @@
     "latitude": "38.72727000",
     "longitude": "-90.38317000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5131,7 +5131,7 @@
     "latitude": "38.78394000",
     "longitude": "-90.48123000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5144,7 +5144,7 @@
     "latitude": "38.78192000",
     "longitude": "-90.67490000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5157,7 +5157,7 @@
     "latitude": "38.34533000",
     "longitude": "-90.98097000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5170,7 +5170,7 @@
     "latitude": "38.03718000",
     "longitude": "-93.77598000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5183,7 +5183,7 @@
     "latitude": "37.81028000",
     "longitude": "-90.47227000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5196,7 +5196,7 @@
     "latitude": "38.53672000",
     "longitude": "-90.31484000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5209,7 +5209,7 @@
     "latitude": "37.99726000",
     "longitude": "-91.61432000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5222,7 +5222,7 @@
     "latitude": "38.71484000",
     "longitude": "-90.34627000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5235,7 +5235,7 @@
     "latitude": "38.71338000",
     "longitude": "-90.34317000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5248,7 +5248,7 @@
     "latitude": "39.76861000",
     "longitude": "-94.84663000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5261,7 +5261,7 @@
     "latitude": "38.64068000",
     "longitude": "-90.44341000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5274,7 +5274,7 @@
     "latitude": "38.59420000",
     "longitude": "-92.33713000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5287,7 +5287,7 @@
     "latitude": "38.86144000",
     "longitude": "-90.74179000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5300,7 +5300,7 @@
     "latitude": "38.80033000",
     "longitude": "-90.62651000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5313,7 +5313,7 @@
     "latitude": "37.82810000",
     "longitude": "-92.17767000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5326,7 +5326,7 @@
     "latitude": "37.98144000",
     "longitude": "-90.04178000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5339,7 +5339,7 @@
     "latitude": "37.89440000",
     "longitude": "-90.19442000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5352,7 +5352,7 @@
     "latitude": "37.64560000",
     "longitude": "-91.53598000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5365,7 +5365,7 @@
     "latitude": "39.13684000",
     "longitude": "-93.20185000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5378,7 +5378,7 @@
     "latitude": "39.42392000",
     "longitude": "-92.80158000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5391,7 +5391,7 @@
     "latitude": "38.53700000",
     "longitude": "-90.37984000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5404,7 +5404,7 @@
     "latitude": "37.06923000",
     "longitude": "-94.11660000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5417,7 +5417,7 @@
     "latitude": "39.94166000",
     "longitude": "-94.83025000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5430,7 +5430,7 @@
     "latitude": "40.47027000",
     "longitude": "-92.52094000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5443,7 +5443,7 @@
     "latitude": "40.45260000",
     "longitude": "-92.14705000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5456,7 +5456,7 @@
     "latitude": "37.21672000",
     "longitude": "-89.52453000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5469,7 +5469,7 @@
     "latitude": "37.05305000",
     "longitude": "-89.56851000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5482,7 +5482,7 @@
     "latitude": "38.70446000",
     "longitude": "-93.22826000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5495,7 +5495,7 @@
     "latitude": "36.13423000",
     "longitude": "-90.15982000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5508,7 +5508,7 @@
     "latitude": "36.84146000",
     "longitude": "-94.61106000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5521,7 +5521,7 @@
     "latitude": "37.14644000",
     "longitude": "-92.76878000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5534,7 +5534,7 @@
     "latitude": "37.15739000",
     "longitude": "-91.40051000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5547,7 +5547,7 @@
     "latitude": "39.69393000",
     "longitude": "-92.04295000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5560,7 +5560,7 @@
     "latitude": "39.79778000",
     "longitude": "-92.07662000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5573,7 +5573,7 @@
     "latitude": "39.80587000",
     "longitude": "-92.04156000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5586,7 +5586,7 @@
     "latitude": "36.63229000",
     "longitude": "-93.63436000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5599,7 +5599,7 @@
     "latitude": "38.59033000",
     "longitude": "-90.33678000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5612,7 +5612,7 @@
     "latitude": "36.87672000",
     "longitude": "-89.58786000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5625,7 +5625,7 @@
     "latitude": "39.21808000",
     "longitude": "-93.06909000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5638,7 +5638,7 @@
     "latitude": "39.38694000",
     "longitude": "-94.58107000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5651,7 +5651,7 @@
     "latitude": "38.78783000",
     "longitude": "-90.21594000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5664,7 +5664,7 @@
     "latitude": "37.00116000",
     "longitude": "-93.08157000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5677,7 +5677,7 @@
     "latitude": "37.21533000",
     "longitude": "-93.29824000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5690,7 +5690,7 @@
     "latitude": "38.62802780",
     "longitude": "-90.19101540",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5703,7 +5703,7 @@
     "latitude": "40.21777000",
     "longitude": "-94.53829000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5716,7 +5716,7 @@
     "latitude": "36.08396000",
     "longitude": "-89.82925000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5729,7 +5729,7 @@
     "latitude": "37.96810000",
     "longitude": "-91.35487000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5742,7 +5742,7 @@
     "latitude": "37.69893000",
     "longitude": "-93.79604000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5755,7 +5755,7 @@
     "latitude": "36.85562000",
     "longitude": "-89.94431000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5768,7 +5768,7 @@
     "latitude": "36.74694000",
     "longitude": "-93.45600000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5781,7 +5781,7 @@
     "latitude": "38.44086000",
     "longitude": "-92.99187000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5794,7 +5794,7 @@
     "latitude": "37.26838000",
     "longitude": "-93.11713000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5807,7 +5807,7 @@
     "latitude": "39.10973000",
     "longitude": "-94.44467000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5820,7 +5820,7 @@
     "latitude": "38.20810000",
     "longitude": "-91.16042000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5833,7 +5833,7 @@
     "latitude": "40.21064000",
     "longitude": "-93.11152000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5846,7 +5846,7 @@
     "latitude": "38.53894000",
     "longitude": "-90.40734000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5859,7 +5859,7 @@
     "latitude": "38.96363000",
     "longitude": "-93.41493000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5872,7 +5872,7 @@
     "latitude": "36.65473000",
     "longitude": "-93.04111000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5885,7 +5885,7 @@
     "latitude": "38.50643000",
     "longitude": "-92.07101000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5898,7 +5898,7 @@
     "latitude": "40.44028000",
     "longitude": "-95.37776000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5911,7 +5911,7 @@
     "latitude": "37.91172000",
     "longitude": "-90.62541000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5924,7 +5924,7 @@
     "latitude": "40.43946000",
     "longitude": "-93.23410000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5937,7 +5937,7 @@
     "latitude": "37.31731000",
     "longitude": "-91.96505000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5950,7 +5950,7 @@
     "latitude": "36.52451000",
     "longitude": "-91.53820000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5963,7 +5963,7 @@
     "latitude": "38.65558000",
     "longitude": "-92.77992000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5976,7 +5976,7 @@
     "latitude": "38.61228000",
     "longitude": "-90.46345000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -5989,7 +5989,7 @@
     "latitude": "40.07890000",
     "longitude": "-93.61661000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6002,7 +6002,7 @@
     "latitude": "38.97949000",
     "longitude": "-90.98070000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6015,7 +6015,7 @@
     "latitude": "38.23309000",
     "longitude": "-92.45852000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6028,7 +6028,7 @@
     "latitude": "38.45005000",
     "longitude": "-91.00848000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6041,7 +6041,7 @@
     "latitude": "40.47696000",
     "longitude": "-93.00326000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6054,7 +6054,7 @@
     "latitude": "38.65588000",
     "longitude": "-90.30928000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6067,7 +6067,7 @@
     "latitude": "38.54922000",
     "longitude": "-90.49262000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6080,7 +6080,7 @@
     "latitude": "36.99561000",
     "longitude": "-91.01457000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6093,7 +6093,7 @@
     "latitude": "39.31087000",
     "longitude": "-91.48849000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6106,7 +6106,7 @@
     "latitude": "38.69005000",
     "longitude": "-90.29428000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6119,7 +6119,7 @@
     "latitude": "38.69061000",
     "longitude": "-90.28734000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6132,7 +6132,7 @@
     "latitude": "37.85058000",
     "longitude": "-94.34244000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6145,7 +6145,7 @@
     "latitude": "38.43141000",
     "longitude": "-92.84103000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6158,7 +6158,7 @@
     "latitude": "38.18671000",
     "longitude": "-91.94711000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6171,7 +6171,7 @@
     "latitude": "38.47255000",
     "longitude": "-90.88680000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6184,7 +6184,7 @@
     "latitude": "38.69005000",
     "longitude": "-90.34262000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6197,7 +6197,7 @@
     "latitude": "38.48892000",
     "longitude": "-92.17435000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6210,7 +6210,7 @@
     "latitude": "38.76462000",
     "longitude": "-91.16069000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6223,7 +6223,7 @@
     "latitude": "38.76279000",
     "longitude": "-93.73605000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6236,7 +6236,7 @@
     "latitude": "38.81144000",
     "longitude": "-91.14154000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6249,7 +6249,7 @@
     "latitude": "38.24308000",
     "longitude": "-93.38187000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6262,7 +6262,7 @@
     "latitude": "38.60727000",
     "longitude": "-90.38345000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6275,7 +6275,7 @@
     "latitude": "38.55811000",
     "longitude": "-91.01209000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6288,7 +6288,7 @@
     "latitude": "37.96168000",
     "longitude": "-90.87742000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6301,7 +6301,7 @@
     "latitude": "37.11264000",
     "longitude": "-90.46143000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6314,7 +6314,7 @@
     "latitude": "37.82865000",
     "longitude": "-92.20072000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6327,7 +6327,7 @@
     "latitude": "39.23778000",
     "longitude": "-94.69607000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6340,7 +6340,7 @@
     "latitude": "37.14645000",
     "longitude": "-94.46300000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6353,7 +6353,7 @@
     "latitude": "37.28091000",
     "longitude": "-92.87588000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6366,7 +6366,7 @@
     "latitude": "38.59255000",
     "longitude": "-90.35734000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6379,7 +6379,7 @@
     "latitude": "38.71339000",
     "longitude": "-90.68929000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6392,7 +6392,7 @@
     "latitude": "38.67283000",
     "longitude": "-90.29928000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6405,7 +6405,7 @@
     "latitude": "39.07198000",
     "longitude": "-91.57016000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6418,7 +6418,7 @@
     "latitude": "38.81144000",
     "longitude": "-90.85291000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6431,7 +6431,7 @@
     "latitude": "36.72812000",
     "longitude": "-91.85237000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6444,7 +6444,7 @@
     "latitude": "39.41111000",
     "longitude": "-94.90163000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6457,7 +6457,7 @@
     "latitude": "38.73018000",
     "longitude": "-93.55895000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6470,7 +6470,7 @@
     "latitude": "38.58283000",
     "longitude": "-90.66290000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6483,7 +6483,7 @@
     "latitude": "37.30505000",
     "longitude": "-93.42853000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6496,7 +6496,7 @@
     "latitude": "36.99228000",
     "longitude": "-91.96987000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6509,7 +6509,7 @@
     "latitude": "38.59033000",
     "longitude": "-90.52790000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6522,7 +6522,7 @@
     "latitude": "38.53224000",
     "longitude": "-93.52215000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6535,7 +6535,7 @@
     "latitude": "38.99727000",
     "longitude": "-90.73846000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6548,7 +6548,7 @@
     "latitude": "37.00977000",
     "longitude": "-91.32347000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6561,7 +6561,7 @@
     "latitude": "38.72505000",
     "longitude": "-90.35845000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6574,7 +6574,7 @@
     "latitude": "40.47914000",
     "longitude": "-94.42210000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6587,7 +6587,7 @@
     "latitude": "38.82755000",
     "longitude": "-91.02014000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   },
   {
@@ -6600,7 +6600,7 @@
     "latitude": "37.27014000",
     "longitude": "-92.46870000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Chicago",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "48.11003830",
     "longitude": "5.17310240",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "48.90266770",
     "longitude": "1.99205600",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "48.33429430",
     "longitude": "5.43849100",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "48.45649370",
     "longitude": "5.25730900",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "48.11129400",
     "longitude": "4.87474160",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "48.56395740",
     "longitude": "4.86851950",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "48.31526490",
     "longitude": "4.97257640",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "48.23644260",
     "longitude": "5.19846690",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "47.92767610",
     "longitude": "5.50215770",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "48.19953310",
     "longitude": "5.06688300",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "48.38644880",
     "longitude": "5.25003680",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "47.84682990",
     "longitude": "5.63671220",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "47.77385090",
     "longitude": "5.15533100",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "47.86151230",
     "longitude": "5.57368630",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "47.84677600",
     "longitude": "4.97535050",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "47.94842170",
     "longitude": "4.93535810",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "48.35044190",
     "longitude": "4.87836560",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "48.53654140",
     "longitude": "4.92125760",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "47.91445660",
     "longitude": "4.87267560",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "47.78425200",
     "longitude": "5.01220860",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "48.11815830",
     "longitude": "5.49095690",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "47.73910330",
     "longitude": "5.15077390",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "47.83190590",
     "longitude": "5.01148910",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "48.47256660",
     "longitude": "5.12977220",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "48.48112360",
     "longitude": "5.13049570",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "48.12694010",
     "longitude": "4.93468920",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "47.96548350",
     "longitude": "5.51320070",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "48.45530510",
     "longitude": "4.86522790",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "47.74925220",
     "longitude": "5.23160860",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -386,7 +386,7 @@
     "latitude": "47.90300420",
     "longitude": "5.34928270",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -399,7 +399,7 @@
     "latitude": "48.07583980",
     "longitude": "5.53541300",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -412,7 +412,7 @@
     "latitude": "48.39385650",
     "longitude": "4.94971690",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -425,7 +425,7 @@
     "latitude": "47.82532160",
     "longitude": "5.01752460",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -438,7 +438,7 @@
     "latitude": "47.91712610",
     "longitude": "5.22845130",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -451,7 +451,7 @@
     "latitude": "47.72043020",
     "longitude": "5.53289520",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -464,7 +464,7 @@
     "latitude": "48.31754850",
     "longitude": "4.82026430",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -477,7 +477,7 @@
     "latitude": "47.84023480",
     "longitude": "5.62608600",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -490,7 +490,7 @@
     "latitude": "48.17298570",
     "longitude": "4.98940130",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -503,7 +503,7 @@
     "latitude": "48.38107250",
     "longitude": "5.05751790",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -516,7 +516,7 @@
     "latitude": "48.05694950",
     "longitude": "4.99102850",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -529,7 +529,7 @@
     "latitude": "48.35548390",
     "longitude": "4.82383150",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -542,7 +542,7 @@
     "latitude": "48.20354150",
     "longitude": "5.09719810",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -555,7 +555,7 @@
     "latitude": "47.95739540",
     "longitude": "5.44091600",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -568,7 +568,7 @@
     "latitude": "48.17170170",
     "longitude": "5.30208680",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -581,7 +581,7 @@
     "latitude": "47.79262450",
     "longitude": "5.29332670",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -594,7 +594,7 @@
     "latitude": "48.18197720",
     "longitude": "5.53052000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -607,7 +607,7 @@
     "latitude": "48.22243740",
     "longitude": "5.52972790",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -620,7 +620,7 @@
     "latitude": "48.32097000",
     "longitude": "4.90280800",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -633,7 +633,7 @@
     "latitude": "48.38085670",
     "longitude": "5.01955230",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -646,7 +646,7 @@
     "latitude": "48.17535640",
     "longitude": "5.57198980",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -659,7 +659,7 @@
     "latitude": "48.10436560",
     "longitude": "4.91530550",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -672,7 +672,7 @@
     "latitude": "47.79788150",
     "longitude": "5.25663480",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -685,7 +685,7 @@
     "latitude": "48.15851630",
     "longitude": "5.05767330",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -698,7 +698,7 @@
     "latitude": "48.08609690",
     "longitude": "5.45314980",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -711,7 +711,7 @@
     "latitude": "48.21316360",
     "longitude": "5.11644400",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -724,7 +724,7 @@
     "latitude": "48.08496060",
     "longitude": "4.89998930",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -737,7 +737,7 @@
     "latitude": "48.49136290",
     "longitude": "4.89438720",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -750,7 +750,7 @@
     "latitude": "47.96416330",
     "longitude": "5.00776330",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -763,7 +763,7 @@
     "latitude": "48.33266540",
     "longitude": "5.26170320",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -776,7 +776,7 @@
     "latitude": "48.09178680",
     "longitude": "5.41935070",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -789,7 +789,7 @@
     "latitude": "48.10202600",
     "longitude": "4.98611350",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -802,7 +802,7 @@
     "latitude": "48.44066380",
     "longitude": "4.66533470",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -815,7 +815,7 @@
     "latitude": "47.91340760",
     "longitude": "5.51327500",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -828,7 +828,7 @@
     "latitude": "47.86313860",
     "longitude": "5.41182330",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -841,7 +841,7 @@
     "latitude": "48.30729880",
     "longitude": "4.99872940",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -854,7 +854,7 @@
     "latitude": "47.67730900",
     "longitude": "5.09393640",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -867,7 +867,7 @@
     "latitude": "48.23096890",
     "longitude": "5.42477410",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -880,7 +880,7 @@
     "latitude": "48.35030240",
     "longitude": "5.31643530",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -893,7 +893,7 @@
     "latitude": "48.61222530",
     "longitude": "5.01052170",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -906,7 +906,7 @@
     "latitude": "48.12626680",
     "longitude": "5.54881560",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -919,7 +919,7 @@
     "latitude": "47.89504230",
     "longitude": "5.30624340",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -932,7 +932,7 @@
     "latitude": "47.87101090",
     "longitude": "5.58682790",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -945,7 +945,7 @@
     "latitude": "47.77173090",
     "longitude": "5.44622930",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -958,7 +958,7 @@
     "latitude": "47.92492750",
     "longitude": "5.34400040",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -971,7 +971,7 @@
     "latitude": "47.91949160",
     "longitude": "5.24465840",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -984,7 +984,7 @@
     "latitude": "48.21872710",
     "longitude": "5.16303190",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -997,7 +997,7 @@
     "latitude": "47.92190360",
     "longitude": "5.31165990",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1010,7 +1010,7 @@
     "latitude": "48.35757160",
     "longitude": "4.95762110",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1023,7 +1023,7 @@
     "latitude": "48.37936440",
     "longitude": "4.91447860",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1036,7 +1036,7 @@
     "latitude": "47.71648730",
     "longitude": "5.30081530",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1049,7 +1049,7 @@
     "latitude": "47.85558150",
     "longitude": "5.36702060",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1062,7 +1062,7 @@
     "latitude": "47.85027070",
     "longitude": "5.42774510",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1075,7 +1075,7 @@
     "latitude": "48.47276510",
     "longitude": "5.05684940",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1088,7 +1088,7 @@
     "latitude": "47.82101410",
     "longitude": "5.48649640",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1101,7 +1101,7 @@
     "latitude": "47.97093640",
     "longitude": "5.41595430",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1114,7 +1114,7 @@
     "latitude": "48.14359480",
     "longitude": "5.59744110",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1127,7 +1127,7 @@
     "latitude": "47.87619500",
     "longitude": "5.63682650",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1140,7 +1140,7 @@
     "latitude": "47.66135320",
     "longitude": "5.32586410",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1153,7 +1153,7 @@
     "latitude": "48.05307990",
     "longitude": "5.53234320",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1166,7 +1166,7 @@
     "latitude": "48.19562700",
     "longitude": "5.25802700",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1179,7 +1179,7 @@
     "latitude": "48.33405640",
     "longitude": "4.88668160",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1192,7 +1192,7 @@
     "latitude": "48.10642120",
     "longitude": "4.82462800",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1205,7 +1205,7 @@
     "latitude": "48.45153230",
     "longitude": "5.35759750",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1218,7 +1218,7 @@
     "latitude": "48.11212670",
     "longitude": "5.46557900",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1231,7 +1231,7 @@
     "latitude": "48.19391770",
     "longitude": "5.40928020",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1244,7 +1244,7 @@
     "latitude": "47.78898870",
     "longitude": "5.34431200",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1257,7 +1257,7 @@
     "latitude": "47.90668480",
     "longitude": "5.62482490",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1270,7 +1270,7 @@
     "latitude": "47.90178030",
     "longitude": "5.64793180",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1283,7 +1283,7 @@
     "latitude": "47.77232870",
     "longitude": "4.92056180",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1296,7 +1296,7 @@
     "latitude": "47.78962640",
     "longitude": "4.93877080",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1309,7 +1309,7 @@
     "latitude": "48.24179510",
     "longitude": "4.84142220",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1322,7 +1322,7 @@
     "latitude": "48.14191220",
     "longitude": "5.12104360",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1335,7 +1335,7 @@
     "latitude": "48.16698300",
     "longitude": "5.39310760",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1348,7 +1348,7 @@
     "latitude": "47.70526190",
     "longitude": "5.39955600",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1361,7 +1361,7 @@
     "latitude": "47.97741680",
     "longitude": "4.92257120",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1374,7 +1374,7 @@
     "latitude": "47.97500900",
     "longitude": "4.93867850",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1387,7 +1387,7 @@
     "latitude": "47.84555620",
     "longitude": "5.16853750",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1400,7 +1400,7 @@
     "latitude": "48.41190880",
     "longitude": "4.92156100",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1413,7 +1413,7 @@
     "latitude": "47.82735130",
     "longitude": "5.42334280",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1426,7 +1426,7 @@
     "latitude": "48.49913400",
     "longitude": "5.12525580",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1439,7 +1439,7 @@
     "latitude": "48.25485950",
     "longitude": "4.93168510",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1452,7 +1452,7 @@
     "latitude": "47.62218810",
     "longitude": "5.31457190",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1465,7 +1465,7 @@
     "latitude": "48.09516660",
     "longitude": "5.41048170",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1478,7 +1478,7 @@
     "latitude": "48.29727430",
     "longitude": "4.89335880",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1491,7 +1491,7 @@
     "latitude": "48.07091800",
     "longitude": "5.48541460",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1504,7 +1504,7 @@
     "latitude": "47.98014540",
     "longitude": "5.54011160",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1517,7 +1517,7 @@
     "latitude": "47.96097820",
     "longitude": "5.35983870",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1530,7 +1530,7 @@
     "latitude": "47.94753010",
     "longitude": "5.62063790",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1543,7 +1543,7 @@
     "latitude": "47.92997570",
     "longitude": "4.83475000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1556,7 +1556,7 @@
     "latitude": "48.16602830",
     "longitude": "5.18359650",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1569,7 +1569,7 @@
     "latitude": "48.03717850",
     "longitude": "4.75949350",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1582,7 +1582,7 @@
     "latitude": "48.46556250",
     "longitude": "4.98032150",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1595,7 +1595,7 @@
     "latitude": "47.69226170",
     "longitude": "5.31668620",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1608,7 +1608,7 @@
     "latitude": "48.42542100",
     "longitude": "4.90614030",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1621,7 +1621,7 @@
     "latitude": "48.40935390",
     "longitude": "4.87367550",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1634,7 +1634,7 @@
     "latitude": "48.35793190",
     "longitude": "5.21644750",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1647,7 +1647,7 @@
     "latitude": "48.14015870",
     "longitude": "5.56146110",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1660,7 +1660,7 @@
     "latitude": "48.35077150",
     "longitude": "5.12228600",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1673,7 +1673,7 @@
     "latitude": "48.37258030",
     "longitude": "4.87465300",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1686,7 +1686,7 @@
     "latitude": "48.44960830",
     "longitude": "4.90880550",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1699,7 +1699,7 @@
     "latitude": "48.46415180",
     "longitude": "5.29418650",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1712,7 +1712,7 @@
     "latitude": "48.56976940",
     "longitude": "4.75146290",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1725,7 +1725,7 @@
     "latitude": "48.20667070",
     "longitude": "5.35545180",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1738,7 +1738,7 @@
     "latitude": "48.49253830",
     "longitude": "5.22333410",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1751,7 +1751,7 @@
     "latitude": "47.92284820",
     "longitude": "5.84364660",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1764,7 +1764,7 @@
     "latitude": "48.36227480",
     "longitude": "5.28765960",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1777,7 +1777,7 @@
     "latitude": "48.13316490",
     "longitude": "5.30037330",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1790,7 +1790,7 @@
     "latitude": "48.12704880",
     "longitude": "5.02268520",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1803,7 +1803,7 @@
     "latitude": "47.69747240",
     "longitude": "5.66052420",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1816,7 +1816,7 @@
     "latitude": "47.95586620",
     "longitude": "5.18139380",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1829,7 +1829,7 @@
     "latitude": "48.47715660",
     "longitude": "5.01702410",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1842,7 +1842,7 @@
     "latitude": "48.39795850",
     "longitude": "5.02872880",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1855,7 +1855,7 @@
     "latitude": "47.78531030",
     "longitude": "5.22333310",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1868,7 +1868,7 @@
     "latitude": "48.36310990",
     "longitude": "4.99504130",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1881,7 +1881,7 @@
     "latitude": "48.55606530",
     "longitude": "5.09800750",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1894,7 +1894,7 @@
     "latitude": "48.15106090",
     "longitude": "5.34878360",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1907,7 +1907,7 @@
     "latitude": "48.02341440",
     "longitude": "5.08059780",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1920,7 +1920,7 @@
     "latitude": "48.52019730",
     "longitude": "4.79234870",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1933,7 +1933,7 @@
     "latitude": "47.94824400",
     "longitude": "5.43396940",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1946,7 +1946,7 @@
     "latitude": "47.94256810",
     "longitude": "5.79363180",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1959,7 +1959,7 @@
     "latitude": "48.40046960",
     "longitude": "5.08972870",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1972,7 +1972,7 @@
     "latitude": "47.72341160",
     "longitude": "5.56109540",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1985,7 +1985,7 @@
     "latitude": "47.79906490",
     "longitude": "5.00901320",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1998,7 +1998,7 @@
     "latitude": "48.11538840",
     "longitude": "5.59607490",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2011,7 +2011,7 @@
     "latitude": "48.40740010",
     "longitude": "5.33129750",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2024,7 +2024,7 @@
     "latitude": "48.39092360",
     "longitude": "5.32527420",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2037,7 +2037,7 @@
     "latitude": "47.90527530",
     "longitude": "5.01745440",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2050,7 +2050,7 @@
     "latitude": "48.15335260",
     "longitude": "4.95441460",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2063,7 +2063,7 @@
     "latitude": "48.46854310",
     "longitude": "5.32664310",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2076,7 +2076,7 @@
     "latitude": "47.69170150",
     "longitude": "5.61223970",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2089,7 +2089,7 @@
     "latitude": "48.16830590",
     "longitude": "5.60728900",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2102,7 +2102,7 @@
     "latitude": "47.72231290",
     "longitude": "5.42566200",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2115,7 +2115,7 @@
     "latitude": "47.70722560",
     "longitude": "5.45146330",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2128,7 +2128,7 @@
     "latitude": "48.33621300",
     "longitude": "5.07926390",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2141,7 +2141,7 @@
     "latitude": "48.45297720",
     "longitude": "5.01940090",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2154,7 +2154,7 @@
     "latitude": "48.29844230",
     "longitude": "4.95858090",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2167,7 +2167,7 @@
     "latitude": "47.85944450",
     "longitude": "5.68424970",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2180,7 +2180,7 @@
     "latitude": "48.16058690",
     "longitude": "5.55908140",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2193,7 +2193,7 @@
     "latitude": "48.64738110",
     "longitude": "4.83143460",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2206,7 +2206,7 @@
     "latitude": "48.26707700",
     "longitude": "5.57667880",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2219,7 +2219,7 @@
     "latitude": "47.84922990",
     "longitude": "5.44636080",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2232,7 +2232,7 @@
     "latitude": "47.75642110",
     "longitude": "5.35520380",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2245,7 +2245,7 @@
     "latitude": "48.15936370",
     "longitude": "5.49064550",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2258,7 +2258,7 @@
     "latitude": "48.57997770",
     "longitude": "4.88058760",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2271,7 +2271,7 @@
     "latitude": "48.29451110",
     "longitude": "5.35975040",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2284,7 +2284,7 @@
     "latitude": "47.90270770",
     "longitude": "5.26091140",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2297,7 +2297,7 @@
     "latitude": "48.21660190",
     "longitude": "5.50966650",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2310,7 +2310,7 @@
     "latitude": "48.03599300",
     "longitude": "5.40391500",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2323,7 +2323,7 @@
     "latitude": "47.63553020",
     "longitude": "5.28259770",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2336,7 +2336,7 @@
     "latitude": "48.14954500",
     "longitude": "5.03102390",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2349,7 +2349,7 @@
     "latitude": "48.20193170",
     "longitude": "4.93709400",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2362,7 +2362,7 @@
     "latitude": "48.27634460",
     "longitude": "5.04524190",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2375,7 +2375,7 @@
     "latitude": "48.47727400",
     "longitude": "4.72506070",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2388,7 +2388,7 @@
     "latitude": "48.20699960",
     "longitude": "4.92140070",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2401,7 +2401,7 @@
     "latitude": "48.30393090",
     "longitude": "5.47017390",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2414,7 +2414,7 @@
     "latitude": "47.83411950",
     "longitude": "5.67509670",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2427,7 +2427,7 @@
     "latitude": "48.09601060",
     "longitude": "4.69694760",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2440,7 +2440,7 @@
     "latitude": "48.21118010",
     "longitude": "5.09502950",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2453,7 +2453,7 @@
     "latitude": "47.93542250",
     "longitude": "5.62778440",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2466,7 +2466,7 @@
     "latitude": "48.47308750",
     "longitude": "4.86052000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2479,7 +2479,7 @@
     "latitude": "48.62694140",
     "longitude": "4.84664660",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2492,7 +2492,7 @@
     "latitude": "48.08303240",
     "longitude": "5.32255170",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2505,7 +2505,7 @@
     "latitude": "48.02518980",
     "longitude": "4.70654310",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2518,7 +2518,7 @@
     "latitude": "48.02104840",
     "longitude": "5.68728930",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2531,7 +2531,7 @@
     "latitude": "47.99042260",
     "longitude": "4.76772670",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2544,7 +2544,7 @@
     "latitude": "47.91545060",
     "longitude": "5.55590600",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2557,7 +2557,7 @@
     "latitude": "48.09019120",
     "longitude": "5.19527530",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2570,7 +2570,7 @@
     "latitude": "48.03787050",
     "longitude": "5.49782730",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2583,7 +2583,7 @@
     "latitude": "48.16186770",
     "longitude": "4.89325960",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2596,7 +2596,7 @@
     "latitude": "47.97140070",
     "longitude": "5.60843310",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2609,7 +2609,7 @@
     "latitude": "47.66421090",
     "longitude": "5.24629220",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2622,7 +2622,7 @@
     "latitude": "47.78735040",
     "longitude": "5.39442630",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2635,7 +2635,7 @@
     "latitude": "47.68612880",
     "longitude": "5.17887510",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2648,7 +2648,7 @@
     "latitude": "47.86069910",
     "longitude": "5.39436730",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2661,7 +2661,7 @@
     "latitude": "47.97910970",
     "longitude": "5.10514730",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2674,7 +2674,7 @@
     "latitude": "47.77091890",
     "longitude": "5.43999360",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2687,7 +2687,7 @@
     "latitude": "48.33227190",
     "longitude": "4.98729420",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2700,7 +2700,7 @@
     "latitude": "47.72882880",
     "longitude": "5.19522020",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2713,7 +2713,7 @@
     "latitude": "48.33739830",
     "longitude": "5.34456230",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2726,7 +2726,7 @@
     "latitude": "48.13468800",
     "longitude": "5.53822550",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2739,7 +2739,7 @@
     "latitude": "48.42612920",
     "longitude": "5.31536230",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2752,7 +2752,7 @@
     "latitude": "48.28954560",
     "longitude": "5.50319300",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2765,7 +2765,7 @@
     "latitude": "48.12751100",
     "longitude": "5.41954620",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2778,7 +2778,7 @@
     "latitude": "47.76162950",
     "longitude": "5.30188170",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2791,7 +2791,7 @@
     "latitude": "48.54505530",
     "longitude": "4.85255050",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2804,7 +2804,7 @@
     "latitude": "48.02738590",
     "longitude": "5.26121600",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2817,7 +2817,7 @@
     "latitude": "48.05608050",
     "longitude": "5.15926420",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2830,7 +2830,7 @@
     "latitude": "47.71307280",
     "longitude": "5.39316550",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2843,7 +2843,7 @@
     "latitude": "48.50905220",
     "longitude": "4.98600760",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2856,7 +2856,7 @@
     "latitude": "48.13434230",
     "longitude": "5.51604440",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2869,7 +2869,7 @@
     "latitude": "48.49179160",
     "longitude": "5.04303620",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2882,7 +2882,7 @@
     "latitude": "47.83451390",
     "longitude": "5.58840420",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2895,7 +2895,7 @@
     "latitude": "48.15524750",
     "longitude": "5.58557770",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2908,7 +2908,7 @@
     "latitude": "48.06916010",
     "longitude": "5.31170080",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2921,7 +2921,7 @@
     "latitude": "48.26171510",
     "longitude": "5.32880090",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2934,7 +2934,7 @@
     "latitude": "47.93285650",
     "longitude": "5.12392710",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2947,7 +2947,7 @@
     "latitude": "48.13911090",
     "longitude": "4.82156550",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2960,7 +2960,7 @@
     "latitude": "48.26382630",
     "longitude": "4.98364480",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2973,7 +2973,7 @@
     "latitude": "47.88770960",
     "longitude": "5.50749090",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2986,7 +2986,7 @@
     "latitude": "47.88452460",
     "longitude": "5.18860900",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -2999,7 +2999,7 @@
     "latitude": "48.16622450",
     "longitude": "5.21569020",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3012,7 +3012,7 @@
     "latitude": "48.01085340",
     "longitude": "5.19018170",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3025,7 +3025,7 @@
     "latitude": "48.41611710",
     "longitude": "5.00074970",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3038,7 +3038,7 @@
     "latitude": "48.10067320",
     "longitude": "5.39342730",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3051,7 +3051,7 @@
     "latitude": "48.05268360",
     "longitude": "5.57406620",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3064,7 +3064,7 @@
     "latitude": "48.42574330",
     "longitude": "4.84438430",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3077,7 +3077,7 @@
     "latitude": "48.19294160",
     "longitude": "5.03876540",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3090,7 +3090,7 @@
     "latitude": "48.14111140",
     "longitude": "5.38895610",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3103,7 +3103,7 @@
     "latitude": "48.28465710",
     "longitude": "4.99748980",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3116,7 +3116,7 @@
     "latitude": "48.61732390",
     "longitude": "4.86389160",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3129,7 +3129,7 @@
     "latitude": "47.89949990",
     "longitude": "5.70872600",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3142,7 +3142,7 @@
     "latitude": "48.17784520",
     "longitude": "4.86100620",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3155,7 +3155,7 @@
     "latitude": "48.28254330",
     "longitude": "5.27595230",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3168,7 +3168,7 @@
     "latitude": "48.47619540",
     "longitude": "4.94593680",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3181,7 +3181,7 @@
     "latitude": "48.46004720",
     "longitude": "5.21313130",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3194,7 +3194,7 @@
     "latitude": "48.42661810",
     "longitude": "4.96726870",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3207,7 +3207,7 @@
     "latitude": "48.37619480",
     "longitude": "5.36990080",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3220,7 +3220,7 @@
     "latitude": "47.69491120",
     "longitude": "5.09199610",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3233,7 +3233,7 @@
     "latitude": "48.37996200",
     "longitude": "5.08777310",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3246,7 +3246,7 @@
     "latitude": "48.58022390",
     "longitude": "5.06088760",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3259,7 +3259,7 @@
     "latitude": "47.91818080",
     "longitude": "5.39804820",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3272,7 +3272,7 @@
     "latitude": "48.04022460",
     "longitude": "5.08709010",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3285,7 +3285,7 @@
     "latitude": "47.86595320",
     "longitude": "5.76340180",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3298,7 +3298,7 @@
     "latitude": "48.07034300",
     "longitude": "5.41897960",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3311,7 +3311,7 @@
     "latitude": "48.04190920",
     "longitude": "5.28097660",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3324,7 +3324,7 @@
     "latitude": "47.79096260",
     "longitude": "5.35658960",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3337,7 +3337,7 @@
     "latitude": "47.82214980",
     "longitude": "5.21828750",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3350,7 +3350,7 @@
     "latitude": "48.43514120",
     "longitude": "5.05450660",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3363,7 +3363,7 @@
     "latitude": "48.42041590",
     "longitude": "5.21100170",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3376,7 +3376,7 @@
     "latitude": "48.06256930",
     "longitude": "5.43980670",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3389,7 +3389,7 @@
     "latitude": "48.36994340",
     "longitude": "4.77283570",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3402,7 +3402,7 @@
     "latitude": "47.60228840",
     "longitude": "5.23091360",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3415,7 +3415,7 @@
     "latitude": "47.88624820",
     "longitude": "5.41828830",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3428,7 +3428,7 @@
     "latitude": "47.88273660",
     "longitude": "5.39997210",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3441,7 +3441,7 @@
     "latitude": "47.77568660",
     "longitude": "5.24770100",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3454,7 +3454,7 @@
     "latitude": "48.08135560",
     "longitude": "4.90011710",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3467,7 +3467,7 @@
     "latitude": "47.90808570",
     "longitude": "5.14187900",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3480,7 +3480,7 @@
     "latitude": "48.22566050",
     "longitude": "5.03544590",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3493,7 +3493,7 @@
     "latitude": "48.30883890",
     "longitude": "5.37439010",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3506,7 +3506,7 @@
     "latitude": "48.49932980",
     "longitude": "5.16007990",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3519,7 +3519,7 @@
     "latitude": "48.22629300",
     "longitude": "5.06522200",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3532,7 +3532,7 @@
     "latitude": "48.21716750",
     "longitude": "5.67382010",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3545,7 +3545,7 @@
     "latitude": "48.17100680",
     "longitude": "5.42996970",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3558,7 +3558,7 @@
     "latitude": "47.76623900",
     "longitude": "5.39620530",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3571,7 +3571,7 @@
     "latitude": "48.47999850",
     "longitude": "5.25871390",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3584,7 +3584,7 @@
     "latitude": "48.02629320",
     "longitude": "5.61953680",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3597,7 +3597,7 @@
     "latitude": "48.51735880",
     "longitude": "5.21423680",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3610,7 +3610,7 @@
     "latitude": "47.87845800",
     "longitude": "5.33174740",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3623,7 +3623,7 @@
     "latitude": "47.85690190",
     "longitude": "5.23224090",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3636,7 +3636,7 @@
     "latitude": "47.80298680",
     "longitude": "5.17994490",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3649,7 +3649,7 @@
     "latitude": "48.09542620",
     "longitude": "5.45322600",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3662,7 +3662,7 @@
     "latitude": "48.66496600",
     "longitude": "4.77372900",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3675,7 +3675,7 @@
     "latitude": "47.80493160",
     "longitude": "5.61770510",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3688,7 +3688,7 @@
     "latitude": "47.83368620",
     "longitude": "5.71974430",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3701,7 +3701,7 @@
     "latitude": "48.51142910",
     "longitude": "4.76825930",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3714,7 +3714,7 @@
     "latitude": "47.89149120",
     "longitude": "5.47252670",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3727,7 +3727,7 @@
     "latitude": "47.71563430",
     "longitude": "4.98878050",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3740,7 +3740,7 @@
     "latitude": "47.74786340",
     "longitude": "5.58397570",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3753,7 +3753,7 @@
     "latitude": "47.71029800",
     "longitude": "4.93758360",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3766,7 +3766,7 @@
     "latitude": "47.99058610",
     "longitude": "5.36029190",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3779,7 +3779,7 @@
     "latitude": "47.92266710",
     "longitude": "5.46997760",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3792,7 +3792,7 @@
     "latitude": "48.42206940",
     "longitude": "5.17333320",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3805,7 +3805,7 @@
     "latitude": "48.08058580",
     "longitude": "4.82778500",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3818,7 +3818,7 @@
     "latitude": "48.04549150",
     "longitude": "5.21471120",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3831,7 +3831,7 @@
     "latitude": "47.73812500",
     "longitude": "5.08879800",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3844,7 +3844,7 @@
     "latitude": "47.74651310",
     "longitude": "5.58646370",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3857,7 +3857,7 @@
     "latitude": "48.27823300",
     "longitude": "5.34331400",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3870,7 +3870,7 @@
     "latitude": "48.52103480",
     "longitude": "5.05339480",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3883,7 +3883,7 @@
     "latitude": "48.45595560",
     "longitude": "4.88990020",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3896,7 +3896,7 @@
     "latitude": "47.94135110",
     "longitude": "5.47810020",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3909,7 +3909,7 @@
     "latitude": "48.04264520",
     "longitude": "5.40383200",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3922,7 +3922,7 @@
     "latitude": "48.16526320",
     "longitude": "4.78042830",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3935,7 +3935,7 @@
     "latitude": "48.29584990",
     "longitude": "5.25914400",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3948,7 +3948,7 @@
     "latitude": "48.17349130",
     "longitude": "5.08483730",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3961,7 +3961,7 @@
     "latitude": "48.01291970",
     "longitude": "4.97413170",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3974,7 +3974,7 @@
     "latitude": "48.24571280",
     "longitude": "5.26579570",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -3987,7 +3987,7 @@
     "latitude": "48.47008130",
     "longitude": "4.54173260",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4000,7 +4000,7 @@
     "latitude": "47.64528080",
     "longitude": "5.14208490",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4013,7 +4013,7 @@
     "latitude": "47.74121690",
     "longitude": "5.37227870",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4026,7 +4026,7 @@
     "latitude": "48.27264630",
     "longitude": "4.82755890",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4039,7 +4039,7 @@
     "latitude": "48.22774660",
     "longitude": "5.17031000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4052,7 +4052,7 @@
     "latitude": "48.29497860",
     "longitude": "5.09804100",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4065,7 +4065,7 @@
     "latitude": "48.60128900",
     "longitude": "4.92473260",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4078,7 +4078,7 @@
     "latitude": "47.84350730",
     "longitude": "5.03630890",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4091,7 +4091,7 @@
     "latitude": "48.18704310",
     "longitude": "5.43497840",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4104,7 +4104,7 @@
     "latitude": "48.32969990",
     "longitude": "5.03470510",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4117,7 +4117,7 @@
     "latitude": "47.80404790",
     "longitude": "5.00686720",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4130,7 +4130,7 @@
     "latitude": "47.80985060",
     "longitude": "5.48943790",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4143,7 +4143,7 @@
     "latitude": "47.85625420",
     "longitude": "4.90917460",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4156,7 +4156,7 @@
     "latitude": "48.35930110",
     "longitude": "5.03258810",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4169,7 +4169,7 @@
     "latitude": "48.42201290",
     "longitude": "5.08968240",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4182,7 +4182,7 @@
     "latitude": "48.43460450",
     "longitude": "5.18392070",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4195,7 +4195,7 @@
     "latitude": "48.25132460",
     "longitude": "5.33490740",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4208,7 +4208,7 @@
     "latitude": "47.72907030",
     "longitude": "5.37721400",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4221,7 +4221,7 @@
     "latitude": "47.71348800",
     "longitude": "5.18741880",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4234,7 +4234,7 @@
     "latitude": "47.88210520",
     "longitude": "5.17675340",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4247,7 +4247,7 @@
     "latitude": "47.88103150",
     "longitude": "5.04677660",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4260,7 +4260,7 @@
     "latitude": "47.89667100",
     "longitude": "5.24056120",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4273,7 +4273,7 @@
     "latitude": "47.85428070",
     "longitude": "5.39679970",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4286,7 +4286,7 @@
     "latitude": "48.20130260",
     "longitude": "5.57213120",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4299,7 +4299,7 @@
     "latitude": "48.39746090",
     "longitude": "5.16342030",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4312,7 +4312,7 @@
     "latitude": "47.83364900",
     "longitude": "5.38366650",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4325,7 +4325,7 @@
     "latitude": "47.82407550",
     "longitude": "5.26286650",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4338,7 +4338,7 @@
     "latitude": "48.05754870",
     "longitude": "5.27547170",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4351,7 +4351,7 @@
     "latitude": "48.00147630",
     "longitude": "5.38484610",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4364,7 +4364,7 @@
     "latitude": "48.49521910",
     "longitude": "5.30211280",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4377,7 +4377,7 @@
     "latitude": "47.70269920",
     "longitude": "5.49479430",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4390,7 +4390,7 @@
     "latitude": "47.95526360",
     "longitude": "5.55739830",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4403,7 +4403,7 @@
     "latitude": "47.71818410",
     "longitude": "5.62419620",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4416,7 +4416,7 @@
     "latitude": "48.24459400",
     "longitude": "5.43191300",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4429,7 +4429,7 @@
     "latitude": "48.06061810",
     "longitude": "5.00527010",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4442,7 +4442,7 @@
     "latitude": "48.00058880",
     "longitude": "5.70494920",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4455,7 +4455,7 @@
     "latitude": "48.20861510",
     "longitude": "4.98752520",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4468,7 +4468,7 @@
     "latitude": "48.26716930",
     "longitude": "5.24589790",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4481,7 +4481,7 @@
     "latitude": "48.06079300",
     "longitude": "4.74683420",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4494,7 +4494,7 @@
     "latitude": "48.50343420",
     "longitude": "5.02013850",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4507,7 +4507,7 @@
     "latitude": "48.22388180",
     "longitude": "5.63072840",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4520,7 +4520,7 @@
     "latitude": "48.41083390",
     "longitude": "4.78633990",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4533,7 +4533,7 @@
     "latitude": "48.24871860",
     "longitude": "5.04369710",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4546,7 +4546,7 @@
     "latitude": "48.19417950",
     "longitude": "5.65538450",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4559,7 +4559,7 @@
     "latitude": "47.86610300",
     "longitude": "5.67665260",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4572,7 +4572,7 @@
     "latitude": "48.43972340",
     "longitude": "5.16459240",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4585,7 +4585,7 @@
     "latitude": "47.91493000",
     "longitude": "5.10697840",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4598,7 +4598,7 @@
     "latitude": "48.43397010",
     "longitude": "4.74635320",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4611,7 +4611,7 @@
     "latitude": "47.98564580",
     "longitude": "5.25449150",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4624,7 +4624,7 @@
     "latitude": "48.14733420",
     "longitude": "5.45470260",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4637,7 +4637,7 @@
     "latitude": "48.46323300",
     "longitude": "5.14344030",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4650,7 +4650,7 @@
     "latitude": "48.42399040",
     "longitude": "5.27728420",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4663,7 +4663,7 @@
     "latitude": "47.81390190",
     "longitude": "5.44814510",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4676,7 +4676,7 @@
     "latitude": "47.69092670",
     "longitude": "5.57446190",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4689,7 +4689,7 @@
     "latitude": "48.14188840",
     "longitude": "5.17482140",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4702,7 +4702,7 @@
     "latitude": "48.38320700",
     "longitude": "4.73529780",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4715,7 +4715,7 @@
     "latitude": "48.54729600",
     "longitude": "4.92826190",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4728,7 +4728,7 @@
     "latitude": "47.71714370",
     "longitude": "5.13847950",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4741,7 +4741,7 @@
     "latitude": "48.61145330",
     "longitude": "4.89102590",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4754,7 +4754,7 @@
     "latitude": "48.48859990",
     "longitude": "4.98741820",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4767,7 +4767,7 @@
     "latitude": "47.69724640",
     "longitude": "5.63716420",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4780,7 +4780,7 @@
     "latitude": "47.69045420",
     "longitude": "5.04554390",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4793,7 +4793,7 @@
     "latitude": "47.89502760",
     "longitude": "5.57035760",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4806,7 +4806,7 @@
     "latitude": "48.20776050",
     "longitude": "5.62640900",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4819,7 +4819,7 @@
     "latitude": "48.13263140",
     "longitude": "4.89214880",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4832,7 +4832,7 @@
     "latitude": "48.46939050",
     "longitude": "4.92184930",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4845,7 +4845,7 @@
     "latitude": "48.37091770",
     "longitude": "5.18580800",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4858,7 +4858,7 @@
     "latitude": "47.88279570",
     "longitude": "5.10023080",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4871,7 +4871,7 @@
     "latitude": "48.46221150",
     "longitude": "5.11963550",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4884,7 +4884,7 @@
     "latitude": "47.83479550",
     "longitude": "5.70376260",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4897,7 +4897,7 @@
     "latitude": "48.07588620",
     "longitude": "5.15359360",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4910,7 +4910,7 @@
     "latitude": "47.76239030",
     "longitude": "5.27401660",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4923,7 +4923,7 @@
     "latitude": "47.76948850",
     "longitude": "5.27154330",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4936,7 +4936,7 @@
     "latitude": "48.28455870",
     "longitude": "5.40490290",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4949,7 +4949,7 @@
     "latitude": "47.99737090",
     "longitude": "5.24620470",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4962,7 +4962,7 @@
     "latitude": "47.69688350",
     "longitude": "5.14739040",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4975,7 +4975,7 @@
     "latitude": "47.92698400",
     "longitude": "5.56721220",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -4988,7 +4988,7 @@
     "latitude": "48.23948100",
     "longitude": "5.12726260",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -5001,7 +5001,7 @@
     "latitude": "48.27354120",
     "longitude": "5.28830910",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -5014,7 +5014,7 @@
     "latitude": "48.27150790",
     "longitude": "5.04814910",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -5027,7 +5027,7 @@
     "latitude": "48.07059670",
     "longitude": "4.66956980",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -5040,7 +5040,7 @@
     "latitude": "47.74507410",
     "longitude": "4.96042310",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -5053,7 +5053,7 @@
     "latitude": "48.44287440",
     "longitude": "4.90760270",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -5066,7 +5066,7 @@
     "latitude": "47.74347330",
     "longitude": "5.23703940",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -5079,7 +5079,7 @@
     "latitude": "48.10088220",
     "longitude": "5.04868120",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -5092,7 +5092,7 @@
     "latitude": "47.75636890",
     "longitude": "5.19942070",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -5105,7 +5105,7 @@
     "latitude": "47.97984800",
     "longitude": "5.15035880",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -5118,7 +5118,7 @@
     "latitude": "47.75844870",
     "longitude": "5.42669600",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -5131,7 +5131,7 @@
     "latitude": "47.82110980",
     "longitude": "5.05066180",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -5144,7 +5144,7 @@
     "latitude": "47.98704190",
     "longitude": "5.32216350",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -5157,7 +5157,7 @@
     "latitude": "47.73769510",
     "longitude": "5.04015670",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -5170,7 +5170,7 @@
     "latitude": "48.50408460",
     "longitude": "4.82070500",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -5183,7 +5183,7 @@
     "latitude": "47.87910480",
     "longitude": "5.73145280",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -5196,7 +5196,7 @@
     "latitude": "47.85666890",
     "longitude": "5.13551680",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -5209,7 +5209,7 @@
     "latitude": "47.71717710",
     "longitude": "5.65392650",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -5222,7 +5222,7 @@
     "latitude": "48.26424440",
     "longitude": "5.12639200",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -5235,7 +5235,7 @@
     "latitude": "48.23150090",
     "longitude": "5.10004090",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -5248,7 +5248,7 @@
     "latitude": "48.14619270",
     "longitude": "5.49240830",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Paris",
     "translations": {}
   }
 ]

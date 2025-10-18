@@ -9,7 +9,7 @@
     "latitude": "7.45347000",
     "longitude": "38.21189000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Addis_Ababa",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "6.03333000",
     "longitude": "37.55000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Addis_Ababa",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "7.06667000",
     "longitude": "37.70000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Addis_Ababa",
     "translations": {}
   },
   {
@@ -48,20 +48,7 @@
     "latitude": "5.78333000",
     "longitude": "36.56667000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 38603,
-    "name": "Bench Maji Zone",
-    "state_id": 1,
-    "state_code": "SN",
-    "country_id": 70,
-    "country_code": "ET",
-    "latitude": "6.45994000",
-    "longitude": "35.30549000",
-    "native": null,
-    "timezone": null,
+    "timezone": "Africa/Addis_Ababa",
     "translations": {}
   },
   {
@@ -74,20 +61,7 @@
     "latitude": "6.96667000",
     "longitude": "37.86667000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 38607,
-    "name": "Bonga",
-    "state_id": 1,
-    "state_code": "SN",
-    "country_id": 70,
-    "country_code": "ET",
-    "latitude": "7.28333000",
-    "longitude": "36.23333000",
-    "native": null,
-    "timezone": null,
+    "timezone": "Africa/Addis_Ababa",
     "translations": {}
   },
   {
@@ -100,20 +74,7 @@
     "latitude": "8.11667000",
     "longitude": "38.36667000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 38625,
-    "name": "Dīla",
-    "state_id": 1,
-    "state_code": "SN",
-    "country_id": 70,
-    "country_code": "ET",
-    "latitude": "6.41667000",
-    "longitude": "38.31667000",
-    "native": null,
-    "timezone": null,
+    "timezone": "Africa/Addis_Ababa",
     "translations": {}
   },
   {
@@ -126,7 +87,7 @@
     "latitude": "6.30000000",
     "longitude": "36.88333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Addis_Ababa",
     "translations": {}
   },
   {
@@ -139,7 +100,7 @@
     "latitude": "6.12727000",
     "longitude": "38.27716000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Addis_Ababa",
     "translations": {}
   },
   {
@@ -152,7 +113,7 @@
     "latitude": "5.65000000",
     "longitude": "37.36667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Addis_Ababa",
     "translations": {}
   },
   {
@@ -165,7 +126,7 @@
     "latitude": "8.25000000",
     "longitude": "38.00000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Addis_Ababa",
     "translations": {}
   },
   {
@@ -178,33 +139,7 @@
     "latitude": "7.50000000",
     "longitude": "37.75000000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 38655,
-    "name": "Hāgere Selam",
-    "state_id": 1,
-    "state_code": "SN",
-    "country_id": 70,
-    "country_code": "ET",
-    "latitude": "6.48333000",
-    "longitude": "38.51667000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 38651,
-    "name": "Hawassa",
-    "state_id": 1,
-    "state_code": "SN",
-    "country_id": 70,
-    "country_code": "ET",
-    "latitude": "7.06205000",
-    "longitude": "38.47635000",
-    "native": null,
-    "timezone": null,
+    "timezone": "Africa/Addis_Ababa",
     "translations": {}
   },
   {
@@ -217,7 +152,7 @@
     "latitude": "7.54978000",
     "longitude": "37.85374000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Addis_Ababa",
     "translations": {}
   },
   {
@@ -230,7 +165,7 @@
     "latitude": "5.65000000",
     "longitude": "36.65000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Addis_Ababa",
     "translations": {}
   },
   {
@@ -243,7 +178,7 @@
     "latitude": "7.31667000",
     "longitude": "38.08333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Addis_Ababa",
     "translations": {}
   },
   {
@@ -256,7 +191,7 @@
     "latitude": "7.27039000",
     "longitude": "37.77887000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Addis_Ababa",
     "translations": {}
   },
   {
@@ -269,20 +204,7 @@
     "latitude": "5.25000000",
     "longitude": "37.48333000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 38672,
-    "name": "Leku",
-    "state_id": 1,
-    "state_code": "SN",
-    "country_id": 70,
-    "country_code": "ET",
-    "latitude": "6.87309000",
-    "longitude": "38.44425000",
-    "native": null,
-    "timezone": null,
+    "timezone": "Africa/Addis_Ababa",
     "translations": {}
   },
   {
@@ -295,46 +217,7 @@
     "latitude": "4.83333000",
     "longitude": "36.10000000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 38683,
-    "name": "Mīzan Teferī",
-    "state_id": 1,
-    "state_code": "SN",
-    "country_id": 70,
-    "country_code": "ET",
-    "latitude": "6.99865000",
-    "longitude": "35.58879000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 38696,
-    "name": "Sheka Zone",
-    "state_id": 1,
-    "state_code": "SN",
-    "country_id": 70,
-    "country_code": "ET",
-    "latitude": "7.56166000",
-    "longitude": "35.40174000",
-    "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 38698,
-    "name": "Sidama Zone",
-    "state_id": 1,
-    "state_code": "SN",
-    "country_id": 70,
-    "country_code": "ET",
-    "latitude": "6.71800000",
-    "longitude": "38.44800000",
-    "native": null,
-    "timezone": null,
+    "timezone": "Africa/Addis_Ababa",
     "translations": {}
   },
   {
@@ -347,20 +230,7 @@
     "latitude": "6.86000000",
     "longitude": "37.76159000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 38705,
-    "name": "Tippi",
-    "state_id": 1,
-    "state_code": "SN",
-    "country_id": 70,
-    "country_code": "ET",
-    "latitude": "7.20000000",
-    "longitude": "35.45000000",
-    "native": null,
-    "timezone": null,
+    "timezone": "Africa/Addis_Ababa",
     "translations": {}
   },
   {
@@ -373,20 +243,7 @@
     "latitude": "4.96667000",
     "longitude": "36.48333000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 38710,
-    "name": "Wendo",
-    "state_id": 1,
-    "state_code": "SN",
-    "country_id": 70,
-    "country_code": "ET",
-    "latitude": "6.60000000",
-    "longitude": "38.41667000",
-    "native": null,
-    "timezone": null,
+    "timezone": "Africa/Addis_Ababa",
     "translations": {}
   },
   {
@@ -399,7 +256,7 @@
     "latitude": "6.84312000",
     "longitude": "37.70051000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Addis_Ababa",
     "translations": {}
   },
   {
@@ -412,20 +269,7 @@
     "latitude": "7.83333000",
     "longitude": "37.50000000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 38719,
-    "name": "Yirga ‘Alem",
-    "state_id": 1,
-    "state_code": "SN",
-    "country_id": 70,
-    "country_code": "ET",
-    "latitude": "6.75000000",
-    "longitude": "38.41667000",
-    "native": null,
-    "timezone": null,
+    "timezone": "Africa/Addis_Ababa",
     "translations": {}
   }
 ]

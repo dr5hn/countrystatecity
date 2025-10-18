@@ -9,7 +9,7 @@
     "latitude": "62.27890000",
     "longitude": "-7.01230000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Faroe",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "62.15670000",
     "longitude": "-6.82330000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Faroe",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "62.21010000",
     "longitude": "-6.81230000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Faroe",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "62.09870000",
     "longitude": "-6.76540000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Faroe",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "62.13230000",
     "longitude": "-6.78900000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Faroe",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "62.12340000",
     "longitude": "-6.87650000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Faroe",
     "translations": {}
   }
 ]

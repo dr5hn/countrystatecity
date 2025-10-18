@@ -9,7 +9,7 @@
     "latitude": "16.29415000",
     "longitude": "95.39742000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Yangon",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "17.64944000",
     "longitude": "95.45705000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Yangon",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "16.44502000",
     "longitude": "95.72373000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Yangon",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "16.73148000",
     "longitude": "95.65441000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Yangon",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "16.37720000",
     "longitude": "95.26488000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Yangon",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "18.28651000",
     "longitude": "95.32014000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Yangon",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "17.04459000",
     "longitude": "95.63957000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Yangon",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "16.77919000",
     "longitude": "94.73212000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Yangon",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "16.28543000",
     "longitude": "95.67882000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Yangon",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "16.60333000",
     "longitude": "95.18278000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Yangon",
     "translations": {}
   }
 ]

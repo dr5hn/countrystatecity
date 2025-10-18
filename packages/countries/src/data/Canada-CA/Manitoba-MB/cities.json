@@ -9,7 +9,7 @@
     "latitude": "49.10469000",
     "longitude": "-97.55961000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "50.06220000",
     "longitude": "-96.51669000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "49.23062000",
     "longitude": "-100.05586000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "49.84692000",
     "longitude": "-99.95306000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "49.86893000",
     "longitude": "-99.36021000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "49.49920000",
     "longitude": "-98.00156000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "54.65135000",
     "longitude": "-97.76848000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "51.14941000",
     "longitude": "-100.05023000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "49.39999000",
     "longitude": "-97.00894000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "49.19082000",
     "longitude": "-100.49477000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "54.76703000",
     "longitude": "-101.87433000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "50.63362000",
     "longitude": "-96.99066000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "49.40668000",
     "longitude": "-96.85873000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "49.87530000",
     "longitude": "-97.40896000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "49.71060000",
     "longitude": "-96.98893000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "49.18332000",
     "longitude": "-99.66364000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "49.51688000",
     "longitude": "-96.50029000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "50.25360000",
     "longitude": "-96.06116000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "49.67169000",
     "longitude": "-96.82232000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "49.73919000",
     "longitude": "-96.87232000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "49.26811000",
     "longitude": "-100.99669000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "50.24532000",
     "longitude": "-99.84364000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "49.20559000",
     "longitude": "-95.30629000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "49.19190000",
     "longitude": "-98.10136000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "49.35499000",
     "longitude": "-97.36567000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "50.22892000",
     "longitude": "-99.46642000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "49.60559000",
     "longitude": "-97.04234000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "49.97282000",
     "longitude": "-98.29263000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "50.03081000",
     "longitude": "-100.24029000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -386,7 +386,7 @@
     "latitude": "51.22999000",
     "longitude": "-101.35650000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -399,7 +399,7 @@
     "latitude": "50.14360000",
     "longitude": "-96.88452000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -412,7 +412,7 @@
     "latitude": "49.80509000",
     "longitude": "-99.63175000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -425,7 +425,7 @@
     "latitude": "49.61720000",
     "longitude": "-100.26120000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -438,7 +438,7 @@
     "latitude": "49.67440000",
     "longitude": "-97.11124000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -451,7 +451,7 @@
     "latitude": "49.52579000",
     "longitude": "-96.68451000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -464,7 +464,7 @@
     "latitude": "50.13441000",
     "longitude": "-97.32676000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -477,7 +477,7 @@
     "latitude": "52.10580000",
     "longitude": "-101.26759000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -490,7 +490,7 @@
     "latitude": "53.82509000",
     "longitude": "-101.25413000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -503,7 +503,7 @@
     "latitude": "55.74350000",
     "longitude": "-97.85579000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -516,7 +516,7 @@
     "latitude": "49.85080000",
     "longitude": "-100.93262000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -529,7 +529,7 @@
     "latitude": "49.99940000",
     "longitude": "-97.16284000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -542,7 +542,7 @@
     "latitude": "49.18170000",
     "longitude": "-97.94104000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {
@@ -555,7 +555,7 @@
     "latitude": "49.88440000",
     "longitude": "-97.14704000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Toronto",
     "translations": {}
   }
 ]

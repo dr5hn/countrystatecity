@@ -9,7 +9,7 @@
     "latitude": "20.01288000",
     "longitude": "41.46767000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "20.15880000",
     "longitude": "41.28337000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "20.23333333",
     "longitude": "41.05000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   }
 ]

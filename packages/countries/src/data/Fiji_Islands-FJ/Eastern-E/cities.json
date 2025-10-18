@@ -9,7 +9,7 @@
     "latitude": "-18.99331000",
     "longitude": "178.22021000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Fiji",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-18.20488000",
     "longitude": "-178.79251000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Fiji",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-18.06667000",
     "longitude": "179.31667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Fiji",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-17.66667000",
     "longitude": "178.80000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Fiji",
     "translations": {}
   }
 ]

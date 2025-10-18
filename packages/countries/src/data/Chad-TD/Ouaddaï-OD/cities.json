@@ -9,7 +9,7 @@
     "latitude": "13.82916000",
     "longitude": "20.83240000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Ndjamena",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "13.46648000",
     "longitude": "22.19875000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Ndjamena",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "13.94563000",
     "longitude": "20.54680000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Ndjamena",
     "translations": {}
   }
 ]

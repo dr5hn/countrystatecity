@@ -9,7 +9,7 @@
     "latitude": "35.79843000",
     "longitude": "38.34550000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Damascus",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "35.95283000",
     "longitude": "39.00788000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Damascus",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "35.87204000",
     "longitude": "39.04706000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Damascus",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "35.83758000",
     "longitude": "38.54828000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Damascus",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "36.69648000",
     "longitude": "38.95382000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Damascus",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "36.48280000",
     "longitude": "39.21360000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Damascus",
     "translations": {}
   }
 ]

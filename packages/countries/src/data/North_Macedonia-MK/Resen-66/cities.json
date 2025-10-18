@@ -9,7 +9,7 @@
     "latitude": "41.01722000",
     "longitude": "21.05333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Skopje",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "41.11028000",
     "longitude": "21.01139000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Skopje",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "40.93934000",
     "longitude": "21.10911000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Skopje",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "41.08934000",
     "longitude": "21.01092000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Skopje",
     "translations": {}
   }
 ]

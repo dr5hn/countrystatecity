@@ -9,7 +9,7 @@
     "latitude": "15.13750000",
     "longitude": "-23.53083000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Cape_Verde",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "15.13333000",
     "longitude": "-23.56667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Cape_Verde",
     "translations": {}
   }
 ]

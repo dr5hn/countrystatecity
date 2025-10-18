@@ -9,7 +9,7 @@
     "latitude": "14.75264000",
     "longitude": "33.29836000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Khartoum",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "14.93980000",
     "longitude": "33.23400000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Khartoum",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "14.34760000",
     "longitude": "32.94370000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Khartoum",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "14.24590000",
     "longitude": "32.98910000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Khartoum",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "14.57480000",
     "longitude": "33.33730000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Khartoum",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "14.40118000",
     "longitude": "33.51989000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Khartoum",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "15.16028000",
     "longitude": "33.13972000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Khartoum",
     "translations": {}
   }
 ]

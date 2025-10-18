@@ -9,7 +9,7 @@
     "latitude": "36.75310000",
     "longitude": "10.22940000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Tunis",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "36.72030000",
     "longitude": "10.32610000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Tunis",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "36.66160000",
     "longitude": "10.14630000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Tunis",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "36.72140000",
     "longitude": "10.04940000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Tunis",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "36.76946000",
     "longitude": "10.27468000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Tunis",
     "translations": {}
   }
 ]

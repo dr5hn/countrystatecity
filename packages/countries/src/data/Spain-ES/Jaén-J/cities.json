@@ -9,7 +9,7 @@
     "latitude": "37.79188780",
     "longitude": "-3.46812120",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "37.46140000",
     "longitude": "-3.92301000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "37.59091000",
     "longitude": "-4.08237000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "38.41215000",
     "longitude": "-3.37137000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "38.03922000",
     "longitude": "-4.05077000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "37.93493000",
     "longitude": "-4.05478000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "37.97422000",
     "longitude": "-4.10677000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "38.18148000",
     "longitude": "-3.42827000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "38.32065000",
     "longitude": "-2.89486000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "37.99384000",
     "longitude": "-3.47103000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "38.09639000",
     "longitude": "-3.77786000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "38.17379000",
     "longitude": "-3.77477000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "38.25240000",
     "longitude": "-2.88875000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "37.82176430",
     "longitude": "-3.41253670",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "37.98492000",
     "longitude": "-3.53094000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "37.72382000",
     "longitude": "-3.38207000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "38.35323000",
     "longitude": "-2.65121000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "37.70379000",
     "longitude": "-3.28765000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "37.67934000",
     "longitude": "-3.56537000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "37.55535000",
     "longitude": "-3.63552000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "38.04930000",
     "longitude": "-3.48310000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "38.22958000",
     "longitude": "-3.63139000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -295,20 +295,7 @@
     "latitude": "37.63614920",
     "longitude": "-3.63191310",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 151431,
-    "name": "Carolina La",
-    "state_id": 5100,
-    "state_code": "J",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "38.27426450",
-    "longitude": "-3.61418190",
-    "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -321,7 +308,7 @@
     "latitude": "38.25421970",
     "longitude": "-3.11775550",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -334,7 +321,7 @@
     "latitude": "37.52858000",
     "longitude": "-3.94220000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -347,7 +334,7 @@
     "latitude": "37.98389000",
     "longitude": "-3.88295000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -360,7 +347,7 @@
     "latitude": "37.91495000",
     "longitude": "-3.00342000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -373,7 +360,7 @@
     "latitude": "38.31187000",
     "longitude": "-3.04219000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -386,7 +373,7 @@
     "latitude": "38.00088000",
     "longitude": "-3.03240000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -399,7 +386,7 @@
     "latitude": "37.87885000",
     "longitude": "-4.03376000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -412,7 +399,7 @@
     "latitude": "38.03180000",
     "longitude": "-3.86309000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -425,7 +412,7 @@
     "latitude": "37.48617000",
     "longitude": "-3.83743000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -438,7 +425,7 @@
     "latitude": "37.64756000",
     "longitude": "-3.90846000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -451,7 +438,7 @@
     "latitude": "37.87492000",
     "longitude": "-3.88389000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -464,20 +451,7 @@
     "latitude": "38.43062000",
     "longitude": "-2.73310000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 151433,
-    "name": "Guardia de Jaén La",
-    "state_id": 5100,
-    "state_code": "J",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "37.74246540",
-    "longitude": "-3.69338720",
-    "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -490,7 +464,7 @@
     "latitude": "38.18282000",
     "longitude": "-3.68697000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -503,7 +477,7 @@
     "latitude": "37.79848000",
     "longitude": "-4.15737000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -516,7 +490,7 @@
     "latitude": "37.71586000",
     "longitude": "-2.99769000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -529,7 +503,7 @@
     "latitude": "38.21698140",
     "longitude": "-2.71920520",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -542,7 +516,7 @@
     "latitude": "37.64784000",
     "longitude": "-3.45985000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -555,7 +529,7 @@
     "latitude": "37.76434000",
     "longitude": "-3.07639000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -568,20 +542,7 @@
     "latitude": "38.02106000",
     "longitude": "-3.50313000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 151436,
-    "name": "Iruela La",
-    "state_id": 5100,
-    "state_code": "J",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "37.92037570",
-    "longitude": "-2.99161990",
-    "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -594,7 +555,7 @@
     "latitude": "38.15706000",
     "longitude": "-3.03242000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -607,7 +568,7 @@
     "latitude": "38.01935000",
     "longitude": "-3.72512000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -620,7 +581,7 @@
     "latitude": "37.76922000",
     "longitude": "-3.79028000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -633,7 +594,7 @@
     "latitude": "37.74717000",
     "longitude": "-3.91433000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -646,7 +607,7 @@
     "latitude": "37.84157000",
     "longitude": "-3.47710000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -659,7 +620,59 @@
     "latitude": "37.84064000",
     "longitude": "-3.35262000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
+    "translations": {}
+  },
+  {
+    "id": 151431,
+    "name": "La Carolina",
+    "state_id": 5100,
+    "state_code": "J",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "38.27426450",
+    "longitude": "-3.61418190",
+    "native": null,
+    "timezone": "Europe/Madrid",
+    "translations": {}
+  },
+  {
+    "id": 151433,
+    "name": "La Guardia de Jaén",
+    "state_id": 5100,
+    "state_code": "J",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "37.74246540",
+    "longitude": "-3.69338720",
+    "native": null,
+    "timezone": "Europe/Madrid",
+    "translations": {}
+  },
+  {
+    "id": 151436,
+    "name": "La Iruela",
+    "state_id": 5100,
+    "state_code": "J",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "37.92037570",
+    "longitude": "-2.99161990",
+    "native": null,
+    "timezone": "Europe/Madrid",
+    "translations": {}
+  },
+  {
+    "id": 151437,
+    "name": "La Puerta de Segura",
+    "state_id": 5100,
+    "state_code": "J",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "38.34927210",
+    "longitude": "-2.73692360",
+    "native": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -672,7 +685,7 @@
     "latitude": "37.96436340",
     "longitude": "-3.97763890",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -685,7 +698,7 @@
     "latitude": "37.76069000",
     "longitude": "-3.20269000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -698,7 +711,7 @@
     "latitude": "38.09519000",
     "longitude": "-3.63602000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -711,7 +724,7 @@
     "latitude": "37.94542000",
     "longitude": "-4.21463000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -724,7 +737,7 @@
     "latitude": "37.99653000",
     "longitude": "-3.54699000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -737,7 +750,7 @@
     "latitude": "37.78627000",
     "longitude": "-3.61226000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -750,7 +763,7 @@
     "latitude": "38.04549000",
     "longitude": "-4.17029000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -763,7 +776,7 @@
     "latitude": "37.72107000",
     "longitude": "-3.97264000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -776,7 +789,7 @@
     "latitude": "37.96978000",
     "longitude": "-3.80884000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -789,7 +802,7 @@
     "latitude": "38.34249000",
     "longitude": "-3.10404000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -802,7 +815,7 @@
     "latitude": "38.18382000",
     "longitude": "-3.31598000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -815,7 +828,7 @@
     "latitude": "37.53017000",
     "longitude": "-3.65615000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -828,7 +841,7 @@
     "latitude": "38.31742000",
     "longitude": "-2.66487000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -841,7 +854,7 @@
     "latitude": "37.91338000",
     "longitude": "-3.12148000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -854,7 +867,7 @@
     "latitude": "37.74008000",
     "longitude": "-3.64946000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -867,7 +880,7 @@
     "latitude": "37.87102000",
     "longitude": "-4.18501000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -880,7 +893,7 @@
     "latitude": "37.70256000",
     "longitude": "-2.93367000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -893,20 +906,7 @@
     "latitude": "38.35544000",
     "longitude": "-2.80320000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 151437,
-    "name": "Puerta de Segura La",
-    "state_id": 5100,
-    "state_code": "J",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "38.34927210",
-    "longitude": "-2.73692360",
-    "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -919,7 +919,7 @@
     "latitude": "37.84338000",
     "longitude": "-3.06561000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -932,7 +932,7 @@
     "latitude": "38.04759000",
     "longitude": "-3.46254000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -945,7 +945,7 @@
     "latitude": "38.06916000",
     "longitude": "-3.31448000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -958,7 +958,7 @@
     "latitude": "38.34162000",
     "longitude": "-3.53953000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -971,7 +971,7 @@
     "latitude": "37.75382000",
     "longitude": "-4.17093000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -984,7 +984,7 @@
     "latitude": "38.11782710",
     "longitude": "-2.67012590",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -997,7 +997,7 @@
     "latitude": "38.24829000",
     "longitude": "-3.20762000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1010,7 +1010,7 @@
     "latitude": "38.02861000",
     "longitude": "-3.10092000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1023,7 +1023,7 @@
     "latitude": "38.29777000",
     "longitude": "-2.65229000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1036,7 +1036,7 @@
     "latitude": "38.38983000",
     "longitude": "-2.58190000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1049,7 +1049,7 @@
     "latitude": "38.24062000",
     "longitude": "-3.05360000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1062,7 +1062,7 @@
     "latitude": "37.77051000",
     "longitude": "-3.89731000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1075,7 +1075,7 @@
     "latitude": "37.99750000",
     "longitude": "-3.63780000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1088,7 +1088,7 @@
     "latitude": "37.76748000",
     "longitude": "-3.95776000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1101,7 +1101,7 @@
     "latitude": "38.03540000",
     "longitude": "-3.28998000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1114,7 +1114,7 @@
     "latitude": "37.78537000",
     "longitude": "-3.50902000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1127,7 +1127,7 @@
     "latitude": "38.41475390",
     "longitude": "-2.67757770",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1140,7 +1140,7 @@
     "latitude": "38.01328000",
     "longitude": "-3.37050000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1153,7 +1153,7 @@
     "latitude": "37.58903000",
     "longitude": "-3.81450000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1166,7 +1166,7 @@
     "latitude": "38.20695000",
     "longitude": "-3.51025000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1179,7 +1179,7 @@
     "latitude": "38.11560000",
     "longitude": "-3.08480000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1192,7 +1192,7 @@
     "latitude": "38.00432000",
     "longitude": "-3.91603000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1205,7 +1205,7 @@
     "latitude": "38.16842000",
     "longitude": "-3.00742000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1218,7 +1218,7 @@
     "latitude": "37.83735000",
     "longitude": "-4.00051000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1231,7 +1231,7 @@
     "latitude": "37.68739180",
     "longitude": "-3.81846670",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1244,7 +1244,7 @@
     "latitude": "38.48760710",
     "longitude": "-2.63691800",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -1257,7 +1257,7 @@
     "latitude": "37.93129750",
     "longitude": "-3.69275310",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Madrid",
     "translations": {}
   }
 ]

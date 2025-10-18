@@ -9,7 +9,7 @@
     "latitude": "45.95556000",
     "longitude": "14.65889000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Ljubljana",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "45.97618000",
     "longitude": "14.61177000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Ljubljana",
     "translations": {}
   }
 ]

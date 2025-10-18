@@ -84,20 +84,6 @@
     "translations": {}
   },
   {
-    "id": 5140,
-    "name": "Arecibo",
-    "country_id": 178,
-    "country_code": "PR",
-    "fips_code": null,
-    "iso2": "013",
-    "type": "municipality",
-    "latitude": "18.47051370",
-    "longitude": "-66.72184720",
-    "native": "Arecibo",
-    "timezone": "America/Puerto_Rico",
-    "translations": {}
-  },
-  {
     "id": 5081,
     "name": "Arecibo",
     "country_id": 178,
@@ -168,20 +154,6 @@
     "translations": {}
   },
   {
-    "id": 5144,
-    "name": "Bayamón",
-    "country_id": 178,
-    "country_code": "PR",
-    "fips_code": null,
-    "iso2": "021",
-    "type": "municipality",
-    "latitude": "18.39905510",
-    "longitude": "-66.15603260",
-    "native": "Bayamón",
-    "timezone": "America/Puerto_Rico",
-    "translations": {}
-  },
-  {
     "id": 5145,
     "name": "Cabo Rojo",
     "country_id": 178,
@@ -205,20 +177,6 @@
     "type": "region",
     "latitude": "18.23333333",
     "longitude": "-66.03333333",
-    "native": "Caguas",
-    "timezone": "America/Puerto_Rico",
-    "translations": {}
-  },
-  {
-    "id": 5146,
-    "name": "Caguas",
-    "country_id": 178,
-    "country_code": "PR",
-    "fips_code": null,
-    "iso2": "025",
-    "type": "municipality",
-    "latitude": "18.23879950",
-    "longitude": "-66.03524900",
     "native": "Caguas",
     "timezone": "America/Puerto_Rico",
     "translations": {}
@@ -259,20 +217,6 @@
     "fips_code": null,
     "iso2": "CL",
     "type": "region",
-    "latitude": "18.38085160",
-    "longitude": "-65.95702440",
-    "native": "Carolina",
-    "timezone": "America/Puerto_Rico",
-    "translations": {}
-  },
-  {
-    "id": 5149,
-    "name": "Carolina",
-    "country_id": 178,
-    "country_code": "PR",
-    "fips_code": null,
-    "iso2": "031",
-    "type": "municipality",
     "latitude": "18.38085160",
     "longitude": "-65.95702440",
     "native": "Carolina",
@@ -497,20 +441,6 @@
     "fips_code": null,
     "iso2": "GN",
     "type": "region",
-    "latitude": "18.35915960",
-    "longitude": "-66.11568020",
-    "native": "Guaynabo",
-    "timezone": "America/Puerto_Rico",
-    "translations": {}
-  },
-  {
-    "id": 5165,
-    "name": "Guaynabo",
-    "country_id": 178,
-    "country_code": "PR",
-    "fips_code": null,
-    "iso2": "061",
-    "type": "municipality",
     "latitude": "18.35915960",
     "longitude": "-66.11568020",
     "native": "Guaynabo",
@@ -770,20 +700,6 @@
     "translations": {}
   },
   {
-    "id": 5183,
-    "name": "Mayagüez",
-    "country_id": 178,
-    "country_code": "PR",
-    "fips_code": null,
-    "iso2": "097",
-    "type": "municipality",
-    "latitude": "18.20134520",
-    "longitude": "-67.14515490",
-    "native": "Mayagüez",
-    "timezone": "America/Puerto_Rico",
-    "translations": {}
-  },
-  {
     "id": 5184,
     "name": "Moca",
     "country_id": 178,
@@ -896,20 +812,6 @@
     "translations": {}
   },
   {
-    "id": 5191,
-    "name": "Ponce",
-    "country_id": 178,
-    "country_code": "PR",
-    "fips_code": null,
-    "iso2": "113",
-    "type": "municipality",
-    "latitude": "18.01156400",
-    "longitude": "-66.61395800",
-    "native": "Ponce",
-    "timezone": "America/Puerto_Rico",
-    "translations": {}
-  },
-  {
     "id": 5192,
     "name": "Quebradillas",
     "country_id": 178,
@@ -990,20 +892,6 @@
     "latitude": "18.08070820",
     "longitude": "-67.04110960",
     "native": "San Germán",
-    "timezone": "America/Puerto_Rico",
-    "translations": {}
-  },
-  {
-    "id": 5198,
-    "name": "San Juan",
-    "country_id": 178,
-    "country_code": "PR",
-    "fips_code": null,
-    "iso2": "127",
-    "type": "municipality",
-    "latitude": "18.38423900",
-    "longitude": "-66.05344000",
-    "native": "San Juan",
     "timezone": "America/Puerto_Rico",
     "translations": {}
   },
@@ -1092,20 +980,6 @@
     "translations": {}
   },
   {
-    "id": 5203,
-    "name": "Toa Baja",
-    "country_id": 178,
-    "country_code": "PR",
-    "fips_code": null,
-    "iso2": "137",
-    "type": "municipality",
-    "latitude": "18.44447090",
-    "longitude": "-66.25432930",
-    "native": "Toa acero",
-    "timezone": "America/Puerto_Rico",
-    "translations": {}
-  },
-  {
     "id": 5084,
     "name": "Trujillo Alto",
     "country_id": 178,
@@ -1113,20 +987,6 @@
     "fips_code": null,
     "iso2": "TA",
     "type": "region",
-    "latitude": "18.35424080",
-    "longitude": "-66.00737700",
-    "native": "Trujillo Alto",
-    "timezone": "America/Puerto_Rico",
-    "translations": {}
-  },
-  {
-    "id": 5204,
-    "name": "Trujillo Alto",
-    "country_id": 178,
-    "country_code": "PR",
-    "fips_code": null,
-    "iso2": "139",
-    "type": "municipality",
     "latitude": "18.35424080",
     "longitude": "-66.00737700",
     "native": "Trujillo Alto",

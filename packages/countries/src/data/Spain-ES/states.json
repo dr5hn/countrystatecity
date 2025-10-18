@@ -98,20 +98,6 @@
     "translations": {}
   },
   {
-    "id": 5327,
-    "name": "Asturias",
-    "country_id": 207,
-    "country_code": "ES",
-    "fips_code": null,
-    "iso2": "AS",
-    "type": "autonomous community",
-    "latitude": "43.31338680",
-    "longitude": "-5.94192000",
-    "native": "Asturias",
-    "timezone": "Europe/Madrid",
-    "translations": {}
-  },
-  {
     "id": 1160,
     "name": "Asturias",
     "country_id": 207,
@@ -263,20 +249,6 @@
     "longitude": "-16.62144710",
     "native": "Canarias",
     "timezone": "Atlantic/Canary",
-    "translations": {}
-  },
-  {
-    "id": 5328,
-    "name": "Cantabria",
-    "country_id": 207,
-    "country_code": "ES",
-    "fips_code": null,
-    "iso2": "CB",
-    "type": "autonomous community",
-    "latitude": "43.15956640",
-    "longitude": "-4.08783820",
-    "native": "Furtivo",
-    "timezone": "Europe/Madrid",
     "translations": {}
   },
   {
@@ -556,20 +528,6 @@
     "latitude": "37.77288580",
     "longitude": "-3.78832890",
     "native": "Jaén",
-    "timezone": "Europe/Madrid",
-    "translations": {}
-  },
-  {
-    "id": 5336,
-    "name": "La Rioja",
-    "country_id": 207,
-    "country_code": "ES",
-    "fips_code": null,
-    "iso2": "RI",
-    "type": "autonomous community",
-    "latitude": "42.28146420",
-    "longitude": "-2.48280500",
-    "native": "La Rioja",
     "timezone": "Europe/Madrid",
     "translations": {}
   },

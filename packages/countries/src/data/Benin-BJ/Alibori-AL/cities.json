@@ -9,7 +9,7 @@
     "latitude": "11.29845000",
     "longitude": "2.43856000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Porto-Novo",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "11.13417000",
     "longitude": "2.93861000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Porto-Novo",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "11.86819000",
     "longitude": "3.38327000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Porto-Novo",
     "translations": {}
   }
 ]

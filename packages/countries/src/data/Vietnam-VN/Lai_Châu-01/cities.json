@@ -9,7 +9,7 @@
     "latitude": "22.37443000",
     "longitude": "102.73835000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "22.35391000",
     "longitude": "103.59342000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "21.91424000",
     "longitude": "103.82857000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Ho_Chi_Minh",
     "translations": {}
   }
 ]

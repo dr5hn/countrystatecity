@@ -9,7 +9,7 @@
     "latitude": "19.60703000",
     "longitude": "-71.25734000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santo_Domingo",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "19.71387000",
     "longitude": "-71.49876000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santo_Domingo",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "19.61667000",
     "longitude": "-71.33333000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santo_Domingo",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "19.66256000",
     "longitude": "-71.19406000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santo_Domingo",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "19.67119000",
     "longitude": "-71.50471000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santo_Domingo",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "19.83333000",
     "longitude": "-71.61667000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santo_Domingo",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "19.66667000",
     "longitude": "-71.66667000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santo_Domingo",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "19.84826000",
     "longitude": "-71.64597000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santo_Domingo",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "19.68560000",
     "longitude": "-71.27007000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santo_Domingo",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "19.80791000",
     "longitude": "-71.44000000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santo_Domingo",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "46.40417000",
     "longitude": "16.51833000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "46.38444000",
     "longitude": "16.43389000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "46.44861000",
     "longitude": "16.58472000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "46.43250000",
     "longitude": "16.60000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "46.38417000",
     "longitude": "16.68083000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "46.38583000",
     "longitude": "16.43333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "46.39528000",
     "longitude": "16.64389000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "46.36833000",
     "longitude": "16.47667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "46.35500000",
     "longitude": "16.81806000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "46.33028000",
     "longitude": "16.40167000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "46.43333000",
     "longitude": "16.38333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "46.42417000",
     "longitude": "16.43361000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "46.37616000",
     "longitude": "16.52893000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "46.40861000",
     "longitude": "16.44806000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "46.50944000",
     "longitude": "16.44111000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "46.37583000",
     "longitude": "16.38750000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "46.42839000",
     "longitude": "16.46215000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "46.33167000",
     "longitude": "16.50694000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "46.49528000",
     "longitude": "16.47611000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "46.46472000",
     "longitude": "16.54306000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "46.33500000",
     "longitude": "16.61556000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "46.39250000",
     "longitude": "16.48250000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "46.40889000",
     "longitude": "16.42167000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "46.36889000",
     "longitude": "16.41500000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "46.42853000",
     "longitude": "16.38525000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "46.47806000",
     "longitude": "16.45778000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Zagreb",
     "translations": {}
   }
 ]

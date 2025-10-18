@@ -9,7 +9,7 @@
     "latitude": "16.46681810",
     "longitude": "-61.55217680",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guadeloupe",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "15.91763990",
     "longitude": "-61.27077860",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guadeloupe",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "15.90853800",
     "longitude": "-61.33406180",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guadeloupe",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "16.25845450",
     "longitude": "-61.14902790",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guadeloupe",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "16.22726250",
     "longitude": "-61.55734490",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guadeloupe",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "16.33536870",
     "longitude": "-61.44242930",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guadeloupe",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "16.26773830",
     "longitude": "-61.57907270",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guadeloupe",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "16.32110610",
     "longitude": "-61.66356890",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guadeloupe",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "16.39213100",
     "longitude": "-61.53713120",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guadeloupe",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "16.23313040",
     "longitude": "-61.56234850",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guadeloupe",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "16.42012820",
     "longitude": "-61.57039890",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guadeloupe",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "16.27834950",
     "longitude": "-61.33624980",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guadeloupe",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "15.96535890",
     "longitude": "-61.35562500",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guadeloupe",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "16.25646130",
     "longitude": "-61.47202880",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guadeloupe",
     "translations": {}
   }
 ]

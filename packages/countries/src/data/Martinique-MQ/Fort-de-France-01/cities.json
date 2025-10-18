@@ -9,7 +9,7 @@
     "latitude": "14.64924180",
     "longitude": "-61.10984450",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Martinique",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "14.62308620",
     "longitude": "-61.03347490",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Martinique",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "14.68353400",
     "longitude": "-61.08186620",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Martinique",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "14.65179970",
     "longitude": "-61.14128670",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Martinique",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "39.77472000",
     "longitude": "64.42861000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Samarkand",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "39.85778000",
     "longitude": "64.44833000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Samarkand",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "40.13333000",
     "longitude": "63.45000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Samarkand",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "40.10000000",
     "longitude": "64.68333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Samarkand",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "39.53333000",
     "longitude": "63.83333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Samarkand",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "39.72278000",
     "longitude": "64.55167000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Samarkand",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "39.41500000",
     "longitude": "63.80333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Samarkand",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "40.41667000",
     "longitude": "63.83333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Samarkand",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "39.49944000",
     "longitude": "63.85389000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Samarkand",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "39.50056000",
     "longitude": "64.79361000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Samarkand",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "39.92944000",
     "longitude": "64.37944000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Samarkand",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "40.12000000",
     "longitude": "64.50139000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Samarkand",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "40.03028000",
     "longitude": "64.51500000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Samarkand",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "40.00000000",
     "longitude": "64.50000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Samarkand",
     "translations": {}
   }
 ]

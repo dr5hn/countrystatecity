@@ -9,7 +9,7 @@
     "latitude": "31.16080000",
     "longitude": "52.65060000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "29.80720880",
     "longitude": "53.72005450",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "27.21120460",
     "longitude": "53.65720510",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "29.24640000",
     "longitude": "52.77930000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "27.62517770",
     "longitude": "52.99113750",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "29.80000000",
     "longitude": "53.41667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "29.91892820",
     "longitude": "53.28291870",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "27.23524440",
     "longitude": "53.58667360",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "27.72481010",
     "longitude": "52.66111850",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "30.07159140",
     "longitude": "51.20029090",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "28.96416700",
     "longitude": "53.21638900",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -152,12 +152,12 @@
     "latitude": "31.19345630",
     "longitude": "52.47589580",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
     "id": 150678,
-    "name": "Baladeh ",
+    "name": "Baladeh",
     "state_id": 3939,
     "state_code": "07",
     "country_id": 103,
@@ -165,7 +165,7 @@
     "latitude": "29.28302900",
     "longitude": "51.92782400",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "28.08653670",
     "longitude": "54.03974940",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "30.33333000",
     "longitude": "53.66667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "27.43173640",
     "longitude": "53.50586420",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "29.97198120",
     "longitude": "52.39688860",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "29.62712330",
     "longitude": "51.64962760",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "28.40752830",
     "longitude": "54.16883220",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "28.75194000",
     "longitude": "54.54444000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "29.56255730",
     "longitude": "52.91882510",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "28.49124870",
     "longitude": "52.29977130",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "30.72281950",
     "longitude": "51.95147040",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "28.30666700",
     "longitude": "55.19277800",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "28.70131620",
     "longitude": "52.95476670",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "28.34636970",
     "longitude": "52.96109670",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "29.02248840",
     "longitude": "54.23737580",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "27.44620970",
     "longitude": "53.85212660",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "28.44682660",
     "longitude": "53.14627650",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -386,7 +386,7 @@
     "latitude": "30.70000000",
     "longitude": "52.40000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -399,7 +399,7 @@
     "latitude": "29.11667000",
     "longitude": "54.00000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -412,12 +412,12 @@
     "latitude": "27.76295710",
     "longitude": "53.97943440",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
     "id": 150650,
-    "name": "Fadami ",
+    "name": "Fadami",
     "state_id": 3939,
     "state_code": "07",
     "country_id": 103,
@@ -425,7 +425,7 @@
     "latitude": "28.21409230",
     "longitude": "55.11737800",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -438,7 +438,7 @@
     "latitude": "28.75000000",
     "longitude": "52.25000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -451,7 +451,7 @@
     "latitude": "28.96667000",
     "longitude": "53.76667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -464,7 +464,7 @@
     "latitude": "28.84380000",
     "longitude": "52.57070000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -477,7 +477,7 @@
     "latitude": "27.65744580",
     "longitude": "52.62983260",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -490,7 +490,7 @@
     "latitude": "27.66966000",
     "longitude": "54.13586000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -503,7 +503,7 @@
     "latitude": "28.92810000",
     "longitude": "54.05090000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -516,7 +516,7 @@
     "latitude": "28.33638090",
     "longitude": "52.66841600",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -529,7 +529,7 @@
     "latitude": "29.65540700",
     "longitude": "52.31150870",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -542,7 +542,7 @@
     "latitude": "30.11166700",
     "longitude": "52.08277800",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -555,7 +555,7 @@
     "latitude": "30.52016170",
     "longitude": "52.45160570",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -568,7 +568,7 @@
     "latitude": "29.96975010",
     "longitude": "53.86682510",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -581,7 +581,7 @@
     "latitude": "31.51636070",
     "longitude": "52.11609370",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -594,7 +594,7 @@
     "latitude": "28.53058250",
     "longitude": "53.51852170",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -607,7 +607,7 @@
     "latitude": "28.65398340",
     "longitude": "54.67042500",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -620,7 +620,7 @@
     "latitude": "28.25891410",
     "longitude": "53.96016580",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -633,7 +633,7 @@
     "latitude": "30.32309970",
     "longitude": "52.18398570",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -646,7 +646,7 @@
     "latitude": "28.43324410",
     "longitude": "53.12390410",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -659,7 +659,7 @@
     "latitude": "29.21667000",
     "longitude": "52.73333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -672,7 +672,7 @@
     "latitude": "29.61919000",
     "longitude": "51.65350000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -685,7 +685,7 @@
     "latitude": "29.67004760",
     "longitude": "52.14333620",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -698,7 +698,7 @@
     "latitude": "30.34916700",
     "longitude": "52.24166700",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -711,7 +711,7 @@
     "latitude": "29.50038570",
     "longitude": "53.30107210",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -724,7 +724,7 @@
     "latitude": "28.93684290",
     "longitude": "53.31201550",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -737,7 +737,7 @@
     "latitude": "29.50000000",
     "longitude": "53.25000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -750,7 +750,7 @@
     "latitude": "27.23347270",
     "longitude": "53.43067650",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -763,7 +763,7 @@
     "latitude": "27.88763700",
     "longitude": "53.41157890",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -776,7 +776,7 @@
     "latitude": "30.00924290",
     "longitude": "51.56660550",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -789,7 +789,7 @@
     "latitude": "27.44610520",
     "longitude": "52.96075340",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -802,7 +802,7 @@
     "latitude": "30.50000000",
     "longitude": "53.08333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -815,7 +815,7 @@
     "latitude": "27.64191680",
     "longitude": "54.33750230",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -828,7 +828,7 @@
     "latitude": "29.52510620",
     "longitude": "51.37342200",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -841,7 +841,7 @@
     "latitude": "30.33500890",
     "longitude": "51.27854700",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -854,7 +854,7 @@
     "latitude": "30.03036720",
     "longitude": "53.70883220",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -867,7 +867,7 @@
     "latitude": "29.23156770",
     "longitude": "52.95320030",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -880,7 +880,7 @@
     "latitude": "30.07373620",
     "longitude": "52.58820540",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -893,7 +893,7 @@
     "latitude": "27.36667000",
     "longitude": "53.38333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -906,7 +906,7 @@
     "latitude": "29.79964990",
     "longitude": "52.64236450",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -919,7 +919,7 @@
     "latitude": "27.68336000",
     "longitude": "54.34172000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -932,7 +932,7 @@
     "latitude": "27.75000000",
     "longitude": "54.45000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -945,7 +945,7 @@
     "latitude": "27.69024090",
     "longitude": "54.37713040",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -958,7 +958,7 @@
     "latitude": "30.03333000",
     "longitude": "51.38333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -971,7 +971,7 @@
     "latitude": "30.08333000",
     "longitude": "52.66667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -984,7 +984,7 @@
     "latitude": "30.24094560",
     "longitude": "51.52066790",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -997,7 +997,7 @@
     "latitude": "28.05616020",
     "longitude": "54.65025550",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1010,7 +1010,7 @@
     "latitude": "29.47403030",
     "longitude": "54.32865840",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1023,7 +1023,7 @@
     "latitude": "28.86776870",
     "longitude": "52.73594130",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1036,7 +1036,7 @@
     "latitude": "28.71017970",
     "longitude": "53.85154720",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1049,7 +1049,7 @@
     "latitude": "28.35972200",
     "longitude": "53.32833300",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1062,7 +1062,7 @@
     "latitude": "27.55520000",
     "longitude": "52.88360000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1075,7 +1075,7 @@
     "latitude": "29.19880000",
     "longitude": "54.32780000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1088,7 +1088,7 @@
     "latitude": "28.85591230",
     "longitude": "53.81496180",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1101,7 +1101,7 @@
     "latitude": "30.11349310",
     "longitude": "51.50369100",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1114,7 +1114,7 @@
     "latitude": "29.80119540",
     "longitude": "51.68421500",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1127,7 +1127,7 @@
     "latitude": "29.11848470",
     "longitude": "51.98232590",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1140,7 +1140,7 @@
     "latitude": "30.11405000",
     "longitude": "51.52174000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1153,7 +1153,7 @@
     "latitude": "30.20194000",
     "longitude": "53.18000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1166,7 +1166,7 @@
     "latitude": "28.31454240",
     "longitude": "54.31413150",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1179,7 +1179,7 @@
     "latitude": "30.27834010",
     "longitude": "53.25756670",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1192,7 +1192,7 @@
     "latitude": "29.85091920",
     "longitude": "51.57323570",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1205,7 +1205,7 @@
     "latitude": "29.14584570",
     "longitude": "54.69936130",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1218,7 +1218,7 @@
     "latitude": "28.31667000",
     "longitude": "52.90000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1231,7 +1231,7 @@
     "latitude": "28.64848720",
     "longitude": "53.61144090",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1244,7 +1244,7 @@
     "latitude": "29.19133810",
     "longitude": "53.76483680",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1257,7 +1257,7 @@
     "latitude": "30.40000000",
     "longitude": "51.41667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1270,7 +1270,7 @@
     "latitude": "30.08246270",
     "longitude": "53.12756530",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1283,7 +1283,7 @@
     "latitude": "29.80475780",
     "longitude": "52.45825710",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1296,7 +1296,7 @@
     "latitude": "30.61431720",
     "longitude": "53.17833400",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1309,7 +1309,7 @@
     "latitude": "29.21667000",
     "longitude": "53.13333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1322,7 +1322,7 @@
     "latitude": "30.70291140",
     "longitude": "52.15963050",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1335,7 +1335,7 @@
     "latitude": "30.15000000",
     "longitude": "52.10000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1348,7 +1348,7 @@
     "latitude": "30.00424490",
     "longitude": "53.00122260",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1361,7 +1361,7 @@
     "latitude": "28.91250530",
     "longitude": "53.99227100",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1374,7 +1374,7 @@
     "latitude": "29.61031000",
     "longitude": "52.53113000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1387,7 +1387,7 @@
     "latitude": "31.19106770",
     "longitude": "52.50031460",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1400,7 +1400,7 @@
     "latitude": "29.62961460",
     "longitude": "53.23294400",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1413,7 +1413,7 @@
     "latitude": "31.03248980",
     "longitude": "52.83048390",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1426,7 +1426,7 @@
     "latitude": "27.46528850",
     "longitude": "53.04411650",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1439,7 +1439,7 @@
     "latitude": "28.75180650",
     "longitude": "53.78289130",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1452,7 +1452,7 @@
     "latitude": "29.76307670",
     "longitude": "52.67474350",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1465,7 +1465,7 @@
     "latitude": "28.30000000",
     "longitude": "54.46667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   },
   {
@@ -1478,7 +1478,7 @@
     "latitude": "29.27022530",
     "longitude": "53.20730190",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Tehran",
     "translations": {}
   }
 ]

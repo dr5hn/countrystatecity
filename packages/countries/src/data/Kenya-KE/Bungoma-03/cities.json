@@ -9,7 +9,7 @@
     "latitude": "0.56350000",
     "longitude": "34.56055000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Nairobi",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "0.67694000",
     "longitude": "34.42167000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Nairobi",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "0.60040000",
     "longitude": "34.77119000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Nairobi",
     "translations": {}
   }
 ]

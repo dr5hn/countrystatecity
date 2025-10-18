@@ -9,7 +9,7 @@
     "latitude": "-16.39169250",
     "longitude": "-151.93003350",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Gambier",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-16.75212330",
     "longitude": "-151.07889500",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Gambier",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-16.31438490",
     "longitude": "-154.79908630",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Gambier",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-16.61957120",
     "longitude": "-151.57215390",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Gambier",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "-16.82062470",
     "longitude": "-151.47741330",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Gambier",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "-16.82985330",
     "longitude": "-151.53381840",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Gambier",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "-16.73858290",
     "longitude": "-151.49549020",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Gambier",
     "translations": {}
   }
 ]

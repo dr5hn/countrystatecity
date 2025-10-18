@@ -9,7 +9,7 @@
     "latitude": "23.64254000",
     "longitude": "94.40478000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Yangon",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "22.10856000",
     "longitude": "95.13583000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Yangon",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "21.87870000",
     "longitude": "95.97965000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Yangon",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "22.56925000",
     "longitude": "95.69818000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Yangon",
     "translations": {}
   }
 ]

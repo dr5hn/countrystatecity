@@ -9,7 +9,7 @@
     "latitude": "13.54773000",
     "longitude": "-7.44808000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Bamako",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "11.93333000",
     "longitude": "-8.41667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Bamako",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "12.74409000",
     "longitude": "-8.07257000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Bamako",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "13.57280000",
     "longitude": "-8.03390000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Bamako",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "12.86273000",
     "longitude": "-7.55985000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Bamako",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "39.34837000",
     "longitude": "45.41557000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baku",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "39.44167000",
     "longitude": "45.28333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baku",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "38.95397000",
     "longitude": "45.62961000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baku",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "38.88375000",
     "longitude": "45.90963000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baku",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "39.72286000",
     "longitude": "44.84846000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baku",
     "translations": {}
   },
   {
@@ -74,20 +74,7 @@
     "latitude": "39.16667000",
     "longitude": "45.66667000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 8120,
-    "name": "Nakhchivan",
-    "state_id": 562,
-    "state_code": "NX",
-    "country_id": 16,
-    "country_code": "AZ",
-    "latitude": "39.20889000",
-    "longitude": "45.41222000",
-    "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baku",
     "translations": {}
   },
   {
@@ -100,7 +87,7 @@
     "latitude": "39.58694000",
     "longitude": "45.04611000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baku",
     "translations": {}
   },
   {
@@ -113,7 +100,7 @@
     "latitude": "38.90961000",
     "longitude": "46.02274000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baku",
     "translations": {}
   },
   {
@@ -126,7 +113,7 @@
     "latitude": "39.08333000",
     "longitude": "45.91667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baku",
     "translations": {}
   },
   {
@@ -139,7 +126,7 @@
     "latitude": "39.39939000",
     "longitude": "45.11513000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baku",
     "translations": {}
   },
   {
@@ -152,7 +139,7 @@
     "latitude": "39.40722000",
     "longitude": "45.57389000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baku",
     "translations": {}
   },
   {
@@ -165,7 +152,7 @@
     "latitude": "39.71427000",
     "longitude": "44.88455000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baku",
     "translations": {}
   },
   {
@@ -178,7 +165,7 @@
     "latitude": "39.41667000",
     "longitude": "45.58333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baku",
     "translations": {}
   },
   {
@@ -191,7 +178,7 @@
     "latitude": "39.55298000",
     "longitude": "44.97993000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baku",
     "translations": {}
   },
   {
@@ -204,7 +191,7 @@
     "latitude": "38.94804000",
     "longitude": "45.82572000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baku",
     "translations": {}
   },
   {
@@ -217,7 +204,7 @@
     "latitude": "39.15459000",
     "longitude": "45.44282000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baku",
     "translations": {}
   },
   {
@@ -230,7 +217,7 @@
     "latitude": "38.94052000",
     "longitude": "45.73244000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Baku",
     "translations": {}
   }
 ]

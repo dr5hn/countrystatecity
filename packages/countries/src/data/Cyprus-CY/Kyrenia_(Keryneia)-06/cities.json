@@ -9,7 +9,7 @@
     "latitude": "35.33634000",
     "longitude": "33.31729000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Famagusta",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "35.33672000",
     "longitude": "33.31504000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Famagusta",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "35.33823000",
     "longitude": "33.17368000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Famagusta",
     "translations": {}
   }
 ]

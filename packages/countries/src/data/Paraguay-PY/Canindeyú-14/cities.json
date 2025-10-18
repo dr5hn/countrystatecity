@@ -9,7 +9,7 @@
     "latitude": "-24.13333000",
     "longitude": "-54.61667000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Asuncion",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-24.08040000",
     "longitude": "-54.93933000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Asuncion",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-24.12957000",
     "longitude": "-54.61376000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Asuncion",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-24.50760000",
     "longitude": "-54.85510000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Asuncion",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "-24.06250000",
     "longitude": "-54.30694000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Asuncion",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "-24.47184000",
     "longitude": "-55.69227000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Asuncion",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "-24.12371000",
     "longitude": "-55.64418000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Asuncion",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "60.95000000",
     "longitude": "22.85000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "60.56667000",
     "longitude": "21.86667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "60.64710000",
     "longitude": "22.58755000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "60.06667000",
     "longitude": "22.48333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "60.40000000",
     "longitude": "23.08333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "60.22284000",
     "longitude": "21.37218000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "60.40000000",
     "longitude": "21.40000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "60.40724000",
     "longitude": "22.36904000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "60.66667000",
     "longitude": "22.76667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "60.46667000",
     "longitude": "23.56667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "60.16047000",
     "longitude": "22.72900000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "60.23333000",
     "longitude": "23.48333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "60.54529000",
     "longitude": "21.35880000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "60.51667000",
     "longitude": "23.20000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "60.87575000",
     "longitude": "21.69765000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "60.56667000",
     "longitude": "21.96667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "60.51032000",
     "longitude": "22.46176000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "60.58333000",
     "longitude": "22.90000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "60.57082000",
     "longitude": "22.09883000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "60.76667000",
     "longitude": "22.95000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "60.48333000",
     "longitude": "21.86667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "60.63333000",
     "longitude": "21.93333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "60.35000000",
     "longitude": "23.28333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "60.67915000",
     "longitude": "21.99274000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "60.46744000",
     "longitude": "22.02428000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "60.19375000",
     "longitude": "21.90972000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "60.60416000",
     "longitude": "22.07926000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "60.85000000",
     "longitude": "22.68333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "60.45671000",
     "longitude": "22.68694000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -386,7 +386,7 @@
     "latitude": "60.30672000",
     "longitude": "22.30097000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -399,7 +399,7 @@
     "latitude": "60.20000000",
     "longitude": "23.13333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -412,7 +412,7 @@
     "latitude": "60.43333000",
     "longitude": "23.26667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -425,7 +425,7 @@
     "latitude": "60.42481000",
     "longitude": "22.51601000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -438,7 +438,7 @@
     "latitude": "60.76667000",
     "longitude": "22.66667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -451,7 +451,7 @@
     "latitude": "60.95000000",
     "longitude": "21.45000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -464,7 +464,7 @@
     "latitude": "60.48592000",
     "longitude": "22.16895000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -477,7 +477,7 @@
     "latitude": "60.53333000",
     "longitude": "22.21667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -490,7 +490,7 @@
     "latitude": "60.37658000",
     "longitude": "21.94184000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -503,7 +503,7 @@
     "latitude": "60.38333000",
     "longitude": "23.13333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -516,7 +516,7 @@
     "latitude": "60.11389000",
     "longitude": "22.95000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -529,7 +529,7 @@
     "latitude": "60.34306000",
     "longitude": "22.69642000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -542,7 +542,7 @@
     "latitude": "60.61667000",
     "longitude": "23.53333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -555,7 +555,7 @@
     "latitude": "60.35000000",
     "longitude": "23.65000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -568,7 +568,7 @@
     "latitude": "60.56085000",
     "longitude": "21.61639000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -581,7 +581,7 @@
     "latitude": "60.58333000",
     "longitude": "22.73333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -594,7 +594,7 @@
     "latitude": "60.45148000",
     "longitude": "22.26869000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -607,7 +607,7 @@
     "latitude": "60.80043000",
     "longitude": "21.40841000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -620,7 +620,7 @@
     "latitude": "60.60000000",
     "longitude": "22.30000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -633,7 +633,7 @@
     "latitude": "60.29972000",
     "longitude": "22.30040000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -646,7 +646,7 @@
     "latitude": "60.05000000",
     "longitude": "22.68333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -659,7 +659,7 @@
     "latitude": "60.68333000",
     "longitude": "21.66667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -672,7 +672,7 @@
     "latitude": "60.46667000",
     "longitude": "21.66667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   },
   {
@@ -685,7 +685,7 @@
     "latitude": "60.88333000",
     "longitude": "22.41667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Helsinki",
     "translations": {}
   }
 ]

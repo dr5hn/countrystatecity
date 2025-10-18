@@ -9,7 +9,7 @@
     "latitude": "25.45141000",
     "longitude": "30.54635000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Cairo",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "27.05680000",
     "longitude": "27.96979000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Cairo",
     "translations": {}
   }
 ]

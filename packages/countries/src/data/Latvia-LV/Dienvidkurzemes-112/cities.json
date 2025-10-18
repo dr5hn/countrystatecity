@@ -9,7 +9,7 @@
     "latitude": "56.72108000",
     "longitude": "21.60156000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Riga",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "56.53521000",
     "longitude": "21.16782000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Riga",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "56.58173000",
     "longitude": "21.33399000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Riga",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "56.34601000",
     "longitude": "21.06401000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Riga",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "56.88791000",
     "longitude": "21.18593000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Riga",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "56.44679000",
     "longitude": "21.58968000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Riga",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "56.16314000",
     "longitude": "21.16156000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Riga",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "56.41848000",
     "longitude": "21.85405000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Riga",
     "translations": {}
   }
 ]

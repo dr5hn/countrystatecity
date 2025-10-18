@@ -9,7 +9,7 @@
     "latitude": "-5.85098000",
     "longitude": "13.05364000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Kinshasa",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-4.58330000",
     "longitude": "15.16554000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Kinshasa",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-5.83861000",
     "longitude": "13.46306000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Kinshasa",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-5.25837000",
     "longitude": "14.85838000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Kinshasa",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "-5.92753000",
     "longitude": "12.37148000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Kinshasa",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "-4.99707000",
     "longitude": "12.94840000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Kinshasa",
     "translations": {}
   }
 ]

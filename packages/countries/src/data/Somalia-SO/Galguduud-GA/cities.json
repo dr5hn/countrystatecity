@@ -9,7 +9,7 @@
     "latitude": "4.68501000",
     "longitude": "46.61760000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Mogadishu",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "3.84878000",
     "longitude": "47.18064000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Mogadishu",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "5.53597000",
     "longitude": "46.38666000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Mogadishu",
     "translations": {}
   }
 ]

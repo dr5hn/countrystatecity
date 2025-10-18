@@ -9,7 +9,7 @@
     "latitude": "3.75578000",
     "longitude": "8.78166000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Malabo",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "3.71667000",
     "longitude": "8.83333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Malabo",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "3.69920000",
     "longitude": "8.90840000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Malabo",
     "translations": {}
   }
 ]

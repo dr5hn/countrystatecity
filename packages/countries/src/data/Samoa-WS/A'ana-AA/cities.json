@@ -9,7 +9,7 @@
     "latitude": "-13.81163000",
     "longitude": "-171.94063000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Apia",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-13.82297000",
     "longitude": "-171.96127000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Apia",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-13.82170000",
     "longitude": "-171.95873000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Apia",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-13.83535000",
     "longitude": "-171.97963000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Apia",
     "translations": {}
   }
 ]

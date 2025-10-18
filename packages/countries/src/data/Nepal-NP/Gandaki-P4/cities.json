@@ -1,7 +1,7 @@
 [
   {
     "id": 79706,
-    "name": "Baglung ",
+    "name": "Baglung",
     "state_id": 2069,
     "state_code": "P4",
     "country_id": 154,
@@ -9,12 +9,12 @@
     "latitude": "28.27711640",
     "longitude": "83.54353530",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
     "id": 79709,
-    "name": "Gorkha ",
+    "name": "Gorkha",
     "state_id": 2069,
     "state_code": "P4",
     "country_id": 154,
@@ -22,7 +22,7 @@
     "latitude": "28.27346270",
     "longitude": "84.14877700",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
@@ -35,12 +35,12 @@
     "latitude": "28.34572360",
     "longitude": "83.65987310",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
     "id": 79720,
-    "name": "Lamjung ",
+    "name": "Lamjung",
     "state_id": 2069,
     "state_code": "P4",
     "country_id": 154,
@@ -48,12 +48,12 @@
     "latitude": "28.28305670",
     "longitude": "84.11103120",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
     "id": 79721,
-    "name": "Manang ",
+    "name": "Manang",
     "state_id": 2069,
     "state_code": "P4",
     "country_id": 154,
@@ -61,12 +61,12 @@
     "latitude": "28.66872810",
     "longitude": "82.99681360",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
     "id": 79730,
-    "name": "Mustang ",
+    "name": "Mustang",
     "state_id": 2069,
     "state_code": "P4",
     "country_id": 154,
@@ -74,12 +74,12 @@
     "latitude": "28.94399870",
     "longitude": "82.68067390",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
     "id": 79731,
-    "name": "Myagdi ",
+    "name": "Myagdi",
     "state_id": 2069,
     "state_code": "P4",
     "country_id": 154,
@@ -87,12 +87,12 @@
     "latitude": "28.54609860",
     "longitude": "83.15597750",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
     "id": 79736,
-    "name": "Nawalpur ",
+    "name": "Nawalpur",
     "state_id": 2069,
     "state_code": "P4",
     "country_id": 154,
@@ -100,12 +100,12 @@
     "latitude": "27.65319650",
     "longitude": "83.72442870",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
     "id": 79738,
-    "name": "Parbat ",
+    "name": "Parbat",
     "state_id": 2069,
     "state_code": "P4",
     "country_id": 154,
@@ -113,12 +113,12 @@
     "latitude": "28.20276430",
     "longitude": "83.36121860",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
     "id": 79739,
-    "name": "Syangja ",
+    "name": "Syangja",
     "state_id": 2069,
     "state_code": "P4",
     "country_id": 154,
@@ -126,12 +126,12 @@
     "latitude": "28.04509710",
     "longitude": "83.40612700",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
     "id": 79744,
-    "name": "Tanahun ",
+    "name": "Tanahun",
     "state_id": 2069,
     "state_code": "P4",
     "country_id": 154,
@@ -139,7 +139,7 @@
     "latitude": "27.93565560",
     "longitude": "83.91793110",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   }
 ]

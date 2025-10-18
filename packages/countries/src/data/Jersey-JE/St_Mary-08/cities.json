@@ -9,7 +9,7 @@
     "latitude": "49.24426390",
     "longitude": "-2.18082260",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Jersey",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "49.23404250",
     "longitude": "-2.16730840",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Jersey",
     "translations": {}
   }
 ]

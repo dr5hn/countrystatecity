@@ -9,7 +9,7 @@
     "latitude": "40.59889000",
     "longitude": "19.73472000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tirane",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "40.95716000",
     "longitude": "19.52364000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tirane",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "40.72937000",
     "longitude": "19.48690000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tirane",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "40.55669000",
     "longitude": "19.77347000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tirane",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "40.67793000",
     "longitude": "19.65591000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tirane",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "40.99667000",
     "longitude": "19.52944000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tirane",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "40.72389000",
     "longitude": "19.55611000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tirane",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "40.71667000",
     "longitude": "19.56667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tirane",
     "translations": {}
   },
   {
@@ -113,7 +113,20 @@
     "latitude": "40.94194000",
     "longitude": "19.70500000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tirane",
+    "translations": {}
+  },
+  {
+    "id": 157057,
+    "name": "Mallakastër",
+    "state_id": 631,
+    "state_code": "04",
+    "country_id": 3,
+    "country_code": "AL",
+    "latitude": "40.54335440",
+    "longitude": "19.62480730",
+    "native": null,
+    "timezone": "Europe/Tirane",
     "translations": {}
   },
   {
@@ -126,7 +139,7 @@
     "latitude": "40.68333000",
     "longitude": "19.61944000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tirane",
     "translations": {}
   },
   {
@@ -139,7 +152,7 @@
     "latitude": "40.64278000",
     "longitude": "19.65083000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tirane",
     "translations": {}
   },
   {
@@ -152,7 +165,7 @@
     "latitude": "40.73750000",
     "longitude": "19.70222000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tirane",
     "translations": {}
   },
   {
@@ -165,7 +178,7 @@
     "latitude": "40.55000000",
     "longitude": "19.78333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Tirane",
     "translations": {}
   }
 ]

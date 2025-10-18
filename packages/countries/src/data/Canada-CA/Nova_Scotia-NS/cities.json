@@ -9,7 +9,7 @@
     "latitude": "45.83345000",
     "longitude": "-64.19874000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "44.58345000",
     "longitude": "-65.16551000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "45.61685000",
     "longitude": "-61.99858000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "45.05015000",
     "longitude": "-64.73208000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "44.37856000",
     "longitude": "-64.51882000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "46.00014000",
     "longitude": "-60.31516000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "44.54225000",
     "longitude": "-64.23891000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "45.33345000",
     "longitude": "-63.24868000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "44.67244000",
     "longitude": "-63.47506000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "44.63141000",
     "longitude": "-63.43218000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "44.67134000",
     "longitude": "-63.57719000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "44.62188000",
     "longitude": "-65.75860000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "44.36685000",
     "longitude": "-65.69884000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "44.73345000",
     "longitude": "-63.78201000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "45.94522000",
     "longitude": "-60.61617000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "44.81685000",
     "longitude": "-63.61540000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "46.19695000",
     "longitude": "-59.95698000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "44.97413000",
     "longitude": "-64.93169000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "44.64533000",
     "longitude": "-63.57239000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "45.06685000",
     "longitude": "-64.16544000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "45.05519000",
     "longitude": "-64.58795000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "45.07710000",
     "longitude": "-64.49605000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "44.73345000",
     "longitude": "-63.38198000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "44.98345000",
     "longitude": "-63.48199000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "44.77599000",
     "longitude": "-63.67865000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "44.37847000",
     "longitude": "-64.31658000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "44.94284000",
     "longitude": "-65.07022000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "45.58344000",
     "longitude": "-62.64863000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "45.73345000",
     "longitude": "-63.86542000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -386,7 +386,7 @@
     "latitude": "45.40567000",
     "longitude": "-64.32585000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -399,7 +399,7 @@
     "latitude": "45.67875000",
     "longitude": "-62.70936000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -412,7 +412,7 @@
     "latitude": "45.50015000",
     "longitude": "-62.58193000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -425,7 +425,7 @@
     "latitude": "45.61685000",
     "longitude": "-61.34853000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -438,7 +438,7 @@
     "latitude": "45.10015000",
     "longitude": "-64.41546000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -451,7 +451,7 @@
     "latitude": "45.76684000",
     "longitude": "-61.29853000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -464,7 +464,7 @@
     "latitude": "43.76325000",
     "longitude": "-65.32355000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -477,7 +477,7 @@
     "latitude": "45.65015000",
     "longitude": "-64.04873000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -490,7 +490,7 @@
     "latitude": "46.13510000",
     "longitude": "-60.18310000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -503,7 +503,7 @@
     "latitude": "46.23669000",
     "longitude": "-60.21767000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -516,7 +516,7 @@
     "latitude": "45.36685000",
     "longitude": "-63.26538000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -529,7 +529,7 @@
     "latitude": "44.98345000",
     "longitude": "-64.13204000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -542,7 +542,7 @@
     "latitude": "45.08345000",
     "longitude": "-64.36546000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   },
   {
@@ -555,7 +555,7 @@
     "latitude": "43.83345000",
     "longitude": "-66.11557000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Halifax",
     "translations": {}
   }
 ]

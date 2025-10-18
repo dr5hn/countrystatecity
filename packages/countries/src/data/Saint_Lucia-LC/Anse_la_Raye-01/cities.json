@@ -9,7 +9,7 @@
     "latitude": "13.94619000",
     "longitude": "-61.03879000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Lucia",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "13.94540000",
     "longitude": "-61.04112000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Lucia",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "13.94457000",
     "longitude": "-61.03559000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Lucia",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "13.94148000",
     "longitude": "-61.00966000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Lucia",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "13.91948000",
     "longitude": "-60.99264000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Lucia",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "13.90224000",
     "longitude": "-61.06459000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Lucia",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "13.93575000",
     "longitude": "-61.02991000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Lucia",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "13.94168000",
     "longitude": "-61.01891000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Lucia",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "13.92277000",
     "longitude": "-60.99512000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Lucia",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "13.91175000",
     "longitude": "-60.99266000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Lucia",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "13.94796000",
     "longitude": "-61.01297000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Lucia",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "13.94704000",
     "longitude": "-61.01578000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Lucia",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "13.94014000",
     "longitude": "-60.99729000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Lucia",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "13.94872000",
     "longitude": "-61.03544000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Lucia",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "13.90985000",
     "longitude": "-60.98884000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Lucia",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "13.93597000",
     "longitude": "-61.00330000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Lucia",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "13.94931000",
     "longitude": "-61.00601000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Lucia",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "13.95317000",
     "longitude": "-61.02676000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Lucia",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "13.93852000",
     "longitude": "-61.02503000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Lucia",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "13.94236000",
     "longitude": "-61.04248000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Lucia",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "13.89092000",
     "longitude": "-60.99785000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Lucia",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "13.93558000",
     "longitude": "-60.99363000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Lucia",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "13.91558000",
     "longitude": "-61.01676000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Lucia",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "13.93939000",
     "longitude": "-61.04150000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Lucia",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "13.93801000",
     "longitude": "-61.04184000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Lucia",
     "translations": {}
   }
 ]

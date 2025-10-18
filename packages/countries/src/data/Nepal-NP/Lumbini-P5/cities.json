@@ -1,7 +1,7 @@
 [
   {
     "id": 79708,
-    "name": "Arghakhanchi ",
+    "name": "Arghakhanchi",
     "state_id": 2067,
     "state_code": "P5",
     "country_id": 154,
@@ -9,7 +9,7 @@
     "latitude": "27.93234540",
     "longitude": "82.70966110",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
@@ -22,12 +22,12 @@
     "latitude": "28.09593710",
     "longitude": "81.51662830",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
     "id": 79715,
-    "name": "Bardiya ",
+    "name": "Bardiya",
     "state_id": 2067,
     "state_code": "P5",
     "country_id": 154,
@@ -35,12 +35,12 @@
     "latitude": "28.37201670",
     "longitude": "81.08316830",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
     "id": 79716,
-    "name": "Dang ",
+    "name": "Dang",
     "state_id": 2067,
     "state_code": "P5",
     "country_id": 154,
@@ -48,7 +48,7 @@
     "latitude": "27.97887990",
     "longitude": "82.46841760",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
@@ -61,12 +61,12 @@
     "latitude": "28.67248040",
     "longitude": "82.48940030",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
     "id": 79725,
-    "name": "Gulmi ",
+    "name": "Gulmi",
     "state_id": 2067,
     "state_code": "P5",
     "country_id": 154,
@@ -74,12 +74,12 @@
     "latitude": "28.09597820",
     "longitude": "82.98379720",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
     "id": 79748,
-    "name": "Kapilvastu ",
+    "name": "Kapilvastu",
     "state_id": 2067,
     "state_code": "P5",
     "country_id": 154,
@@ -87,7 +87,7 @@
     "latitude": "27.54506960",
     "longitude": "82.97552520",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
@@ -100,12 +100,12 @@
     "latitude": "27.51977900",
     "longitude": "83.40494810",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
     "id": 79757,
-    "name": "Palpa ",
+    "name": "Palpa",
     "state_id": 2067,
     "state_code": "P5",
     "country_id": 154,
@@ -113,12 +113,12 @@
     "latitude": "27.81068740",
     "longitude": "83.30000220",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
     "id": 79758,
-    "name": "Pyuthan ",
+    "name": "Pyuthan",
     "state_id": 2067,
     "state_code": "P5",
     "country_id": 154,
@@ -126,12 +126,12 @@
     "latitude": "28.10805440",
     "longitude": "82.78532440",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
     "id": 153799,
-    "name": "Rolpa ",
+    "name": "Rolpa",
     "state_id": 2067,
     "state_code": "P5",
     "country_id": 154,
@@ -139,12 +139,12 @@
     "latitude": "28.32573400",
     "longitude": "82.32376150",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   },
   {
     "id": 153800,
-    "name": "Rupandehi ",
+    "name": "Rupandehi",
     "state_id": 2067,
     "state_code": "P5",
     "country_id": 154,
@@ -152,7 +152,7 @@
     "latitude": "27.54931420",
     "longitude": "83.08930670",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kathmandu",
     "translations": {}
   }
 ]

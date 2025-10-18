@@ -9,7 +9,7 @@
     "latitude": "19.11667000",
     "longitude": "1.75000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Bamako",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "19.48878000",
     "longitude": "2.20025000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Bamako",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "18.44111000",
     "longitude": "1.40778000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Bamako",
     "translations": {}
   }
 ]

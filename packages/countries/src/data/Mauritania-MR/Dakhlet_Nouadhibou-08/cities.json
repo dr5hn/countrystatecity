@@ -9,7 +9,7 @@
     "latitude": "20.85333333",
     "longitude": "-17.03250000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Nouakchott",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "19.84944444",
     "longitude": "-16.33083333",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Nouakchott",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "20.94188000",
     "longitude": "-17.03842000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Nouakchott",
     "translations": {}
   }
 ]

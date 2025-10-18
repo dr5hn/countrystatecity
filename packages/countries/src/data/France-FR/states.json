@@ -332,7 +332,7 @@
     "latitude": "10.30212870",
     "longitude": "-109.21783500",
     "native": "Clipperton",
-    "timezone": "Etc/GMT+7",
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -542,7 +542,7 @@
     "latitude": "4.00398820",
     "longitude": "-52.99999800",
     "native": "French Guiana",
-    "timezone": "America/Cayenne",
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -556,7 +556,7 @@
     "latitude": "-17.02437490",
     "longitude": "-144.64348980",
     "native": "Polynésie française",
-    "timezone": "Pacific/Tahiti",
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -570,7 +570,7 @@
     "latitude": "-49.23744200",
     "longitude": "69.62275900",
     "native": "Terres du sud et de l'Antarctique français",
-    "timezone": "Indian/Kerguelen",
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -640,7 +640,7 @@
     "latitude": "16.25288270",
     "longitude": "-61.56868550",
     "native": "Guadeloupe",
-    "timezone": "America/Guadeloupe",
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -920,7 +920,7 @@
     "latitude": "-21.13073790",
     "longitude": "55.53648010",
     "native": "La Réunion",
-    "timezone": "Indian/Reunion",
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1088,7 +1088,7 @@
     "latitude": "14.63679270",
     "longitude": "-61.01582690",
     "native": "Martinique",
-    "timezone": "America/Martinique",
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1116,7 +1116,7 @@
     "latitude": "-12.82304800",
     "longitude": "45.15207550",
     "native": "Mayotte",
-    "timezone": "Indian/Mayotte",
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1410,7 +1410,7 @@
     "latitude": "46.83745440",
     "longitude": "-56.21205550",
     "native": "Saint Pierre and Miquelon",
-    "timezone": "America/Miquelon",
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1424,7 +1424,7 @@
     "latitude": "17.90051340",
     "longitude": "-62.82058710",
     "native": "Saint-Barthélemy",
-    "timezone": "America/St_Barthelemy",
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1438,7 +1438,7 @@
     "latitude": "18.08140660",
     "longitude": "-63.04671310",
     "native": "Saint-Martin",
-    "timezone": "America/Marigot",
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {
@@ -1690,7 +1690,7 @@
     "latitude": "-13.28940200",
     "longitude": "-176.20422400",
     "native": "Wallis et Futuna",
-    "timezone": "Pacific/Wallis",
+    "timezone": "Europe/Paris",
     "translations": {}
   },
   {

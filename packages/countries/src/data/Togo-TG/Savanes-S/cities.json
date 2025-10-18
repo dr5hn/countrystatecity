@@ -9,7 +9,7 @@
     "latitude": "10.86225000",
     "longitude": "0.20762000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lome",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "10.35917000",
     "longitude": "0.47083000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Lome",
     "translations": {}
   }
 ]

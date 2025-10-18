@@ -9,7 +9,7 @@
     "latitude": "-28.58071000",
     "longitude": "-66.79250000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-30.57952000",
     "longitude": "-65.72696000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-30.36002000",
     "longitude": "-66.31399000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-29.16195000",
     "longitude": "-67.49740000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "-28.50000000",
     "longitude": "-66.83333000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "-28.83333000",
     "longitude": "-68.66667000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "-30.16667000",
     "longitude": "-67.41667000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "-29.41105000",
     "longitude": "-66.85067000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "-29.28636000",
     "longitude": "-67.02067000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "-28.75964000",
     "longitude": "-68.20692000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   }
 ]

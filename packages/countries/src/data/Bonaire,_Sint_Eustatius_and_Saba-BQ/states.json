@@ -10,7 +10,7 @@
     "latitude": "12.20189020",
     "longitude": "-68.26238220",
     "native": "Bonaire",
-    "timezone": "America/Kralendijk",
+    "timezone": "America/Curacao",
     "translations": {}
   },
   {
@@ -24,7 +24,7 @@
     "latitude": "17.63546420",
     "longitude": "-63.23267630",
     "native": "Saba",
-    "timezone": "America/Kralendijk",
+    "timezone": "America/Curacao",
     "translations": {}
   },
   {
@@ -38,7 +38,7 @@
     "latitude": "17.48903060",
     "longitude": "-62.97355500",
     "native": "Sint Eustatius",
-    "timezone": "America/Kralendijk",
+    "timezone": "America/Curacao",
     "translations": {}
   }
 ]

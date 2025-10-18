@@ -9,7 +9,7 @@
     "latitude": "24.05844000",
     "longitude": "-98.37333000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "22.92157000",
     "longitude": "-98.07519000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "25.56203000",
     "longitude": "-98.23952000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "22.39215000",
     "longitude": "-97.93867000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "25.77638000",
     "longitude": "-97.77413000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "22.54950000",
     "longitude": "-99.08123000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "24.08337000",
     "longitude": "-99.12526000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "24.94722000",
     "longitude": "-98.79921000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "23.43524000",
     "longitude": "-99.75875000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "26.23130000",
     "longitude": "-98.85019000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "24.62766000",
     "longitude": "-97.71755000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "22.43139000",
     "longitude": "-97.96417000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "23.72686000",
     "longitude": "-98.73662000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "25.84722000",
     "longitude": "-97.63333000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "26.31437000",
     "longitude": "-98.83378000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "26.23186000",
     "longitude": "-98.59560000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "22.27228000",
     "longitude": "-97.83623000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "22.74304000",
     "longitude": "-98.97390000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "26.39952000",
     "longitude": "-99.02836000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "25.98729000",
     "longitude": "-98.09414000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "22.99732000",
     "longitude": "-99.71101000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "23.74174000",
     "longitude": "-99.14599000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "26.18187000",
     "longitude": "-98.92037000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "24.75658000",
     "longitude": "-98.53739000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "22.54408000",
     "longitude": "-98.15074000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "22.62058000",
     "longitude": "-99.02142000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "25.01556000",
     "longitude": "-97.71694000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "27.47306000",
     "longitude": "-99.62000000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "25.95867000",
     "longitude": "-97.81281000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -386,7 +386,7 @@
     "latitude": "25.76091000",
     "longitude": "-97.54507000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -399,7 +399,7 @@
     "latitude": "22.82498000",
     "longitude": "-99.00512000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -412,7 +412,7 @@
     "latitude": "22.67241000",
     "longitude": "-98.93820000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -425,7 +425,7 @@
     "latitude": "25.66528000",
     "longitude": "-97.87540000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -438,7 +438,7 @@
     "latitude": "24.01528000",
     "longitude": "-99.20194000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -451,7 +451,7 @@
     "latitude": "22.52005000",
     "longitude": "-98.12607000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -464,7 +464,7 @@
     "latitude": "22.82735000",
     "longitude": "-98.42713000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -477,7 +477,7 @@
     "latitude": "22.65430000",
     "longitude": "-98.55467000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -490,7 +490,7 @@
     "latitude": "24.08205000",
     "longitude": "-98.23340000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -503,7 +503,7 @@
     "latitude": "23.91865000",
     "longitude": "-99.00609000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -516,7 +516,7 @@
     "latitude": "23.90693000",
     "longitude": "-99.06872000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -529,7 +529,7 @@
     "latitude": "26.90952000",
     "longitude": "-99.45995000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -542,7 +542,7 @@
     "latitude": "24.01548000",
     "longitude": "-99.20074000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -555,7 +555,7 @@
     "latitude": "26.16130000",
     "longitude": "-98.64045000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -568,7 +568,7 @@
     "latitude": "25.87972000",
     "longitude": "-97.50417000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -581,7 +581,7 @@
     "latitude": "24.24812000",
     "longitude": "-99.43897000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -594,7 +594,7 @@
     "latitude": "23.40621000",
     "longitude": "-99.38072000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -607,7 +607,7 @@
     "latitude": "24.26262000",
     "longitude": "-98.49656000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -620,7 +620,7 @@
     "latitude": "22.43880000",
     "longitude": "-98.01729000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -633,7 +633,7 @@
     "latitude": "23.79079000",
     "longitude": "-99.19132000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -646,7 +646,7 @@
     "latitude": "23.80326000",
     "longitude": "-99.17025000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -659,7 +659,7 @@
     "latitude": "22.39353000",
     "longitude": "-97.88210000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -672,7 +672,7 @@
     "latitude": "23.78660000",
     "longitude": "-97.77712000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -685,7 +685,7 @@
     "latitude": "25.26222000",
     "longitude": "-97.43611000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -698,7 +698,7 @@
     "latitude": "22.97090000",
     "longitude": "-100.05357000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -711,7 +711,7 @@
     "latitude": "23.26609000",
     "longitude": "-98.91836000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -724,7 +724,7 @@
     "latitude": "23.31774000",
     "longitude": "-99.02608000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -737,7 +737,7 @@
     "latitude": "22.52052000",
     "longitude": "-97.89913000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -750,7 +750,7 @@
     "latitude": "22.49758000",
     "longitude": "-98.45979000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -763,7 +763,7 @@
     "latitude": "22.50093000",
     "longitude": "-98.61417000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -776,7 +776,7 @@
     "latitude": "26.14803000",
     "longitude": "-98.34508000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -789,7 +789,7 @@
     "latitude": "26.39429000",
     "longitude": "-99.07972000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -802,7 +802,7 @@
     "latitude": "22.50062000",
     "longitude": "-98.08545000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -815,7 +815,7 @@
     "latitude": "22.78882000",
     "longitude": "-99.93799000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -828,7 +828,7 @@
     "latitude": "24.58503000",
     "longitude": "-99.56313000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -841,7 +841,7 @@
     "latitude": "25.72171000",
     "longitude": "-97.60135000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -854,7 +854,7 @@
     "latitude": "25.11819000",
     "longitude": "-98.58666000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -867,7 +867,7 @@
     "latitude": "26.42969000",
     "longitude": "-99.15212000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -880,7 +880,7 @@
     "latitude": "26.26713000",
     "longitude": "-99.06203000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -893,7 +893,7 @@
     "latitude": "23.57575000",
     "longitude": "-99.75438000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -906,7 +906,7 @@
     "latitude": "22.36094000",
     "longitude": "-97.89997000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -919,7 +919,7 @@
     "latitude": "24.00180000",
     "longitude": "-98.25927000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -932,7 +932,7 @@
     "latitude": "22.49743000",
     "longitude": "-98.63103000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -945,7 +945,7 @@
     "latitude": "26.56219000",
     "longitude": "-99.22863000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -958,7 +958,7 @@
     "latitude": "24.04784000",
     "longitude": "-98.90085000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -971,7 +971,7 @@
     "latitude": "22.46056000",
     "longitude": "-98.00833000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -984,7 +984,7 @@
     "latitude": "27.47629000",
     "longitude": "-99.51639000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -997,7 +997,7 @@
     "latitude": "22.53604000",
     "longitude": "-99.21934000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1010,7 +1010,7 @@
     "latitude": "26.05530000",
     "longitude": "-97.95217000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1023,7 +1023,7 @@
     "latitude": "22.42623000",
     "longitude": "-98.56834000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1036,7 +1036,7 @@
     "latitude": "22.84695000",
     "longitude": "-99.33866000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1049,7 +1049,7 @@
     "latitude": "24.05571000",
     "longitude": "-98.89671000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1062,7 +1062,7 @@
     "latitude": "23.30225000",
     "longitude": "-99.54896000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1075,7 +1075,7 @@
     "latitude": "22.54028000",
     "longitude": "-98.76722000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1088,7 +1088,7 @@
     "latitude": "22.96058000",
     "longitude": "-98.94992000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1101,7 +1101,7 @@
     "latitude": "22.66289000",
     "longitude": "-99.03584000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1114,7 +1114,7 @@
     "latitude": "25.95180000",
     "longitude": "-97.78558000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1127,7 +1127,7 @@
     "latitude": "26.08061000",
     "longitude": "-98.28835000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1140,7 +1140,7 @@
     "latitude": "22.45115000",
     "longitude": "-97.90739000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1153,7 +1153,7 @@
     "latitude": "25.83854000",
     "longitude": "-98.03879000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1166,7 +1166,7 @@
     "latitude": "22.42079000",
     "longitude": "-98.41648000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1179,7 +1179,7 @@
     "latitude": "24.58223000",
     "longitude": "-98.94208000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1192,7 +1192,7 @@
     "latitude": "24.84749000",
     "longitude": "-98.14828000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1205,7 +1205,7 @@
     "latitude": "25.21681000",
     "longitude": "-97.92186000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1218,7 +1218,7 @@
     "latitude": "24.69377000",
     "longitude": "-98.83000000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1231,7 +1231,7 @@
     "latitude": "25.85414000",
     "longitude": "-97.65216000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1244,7 +1244,7 @@
     "latitude": "25.64303000",
     "longitude": "-97.98486000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1257,7 +1257,7 @@
     "latitude": "24.21682000",
     "longitude": "-98.48433000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1270,7 +1270,7 @@
     "latitude": "23.76953000",
     "longitude": "-98.20442000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1283,7 +1283,7 @@
     "latitude": "22.29508000",
     "longitude": "-97.93595000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1296,7 +1296,7 @@
     "latitude": "23.83333000",
     "longitude": "-98.19469000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1309,7 +1309,7 @@
     "latitude": "22.97028000",
     "longitude": "-99.70257000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1322,7 +1322,7 @@
     "latitude": "22.43389000",
     "longitude": "-97.97167000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1335,7 +1335,7 @@
     "latitude": "22.72779000",
     "longitude": "-98.32191000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1348,7 +1348,7 @@
     "latitude": "26.23176000",
     "longitude": "-98.67726000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1361,7 +1361,7 @@
     "latitude": "25.67207000",
     "longitude": "-97.81313000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1374,7 +1374,7 @@
     "latitude": "25.98667000",
     "longitude": "-98.22167000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1387,7 +1387,7 @@
     "latitude": "23.75836000",
     "longitude": "-99.13489000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1400,7 +1400,7 @@
     "latitude": "24.56007000",
     "longitude": "-99.61561000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1413,7 +1413,7 @@
     "latitude": "24.47264000",
     "longitude": "-99.49107000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   },
   {
@@ -1426,7 +1426,7 @@
     "latitude": "22.99623000",
     "longitude": "-98.94218000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Mexico_City",
     "translations": {}
   }
 ]

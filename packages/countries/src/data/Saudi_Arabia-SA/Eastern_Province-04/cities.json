@@ -9,7 +9,7 @@
     "latitude": "25.93402000",
     "longitude": "49.66880000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "26.56324000",
     "longitude": "49.94331000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "25.43333000",
     "longitude": "49.63333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "25.36467000",
     "longitude": "49.58764000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "25.37736000",
     "longitude": "49.72154000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "27.01740000",
     "longitude": "49.62251000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "28.43905000",
     "longitude": "48.49132000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "25.40000000",
     "longitude": "49.73333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "25.40768000",
     "longitude": "49.59028000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "25.38333000",
     "longitude": "49.66667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "25.47878000",
     "longitude": "49.55824000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "25.41667000",
     "longitude": "49.66667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "26.56542000",
     "longitude": "50.00890000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "25.48333000",
     "longitude": "49.60000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "21.98417000",
     "longitude": "50.93966000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "26.58333300",
     "longitude": "49.98333300",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "26.55830000",
     "longitude": "49.95030000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "27.97083000",
     "longitude": "48.73000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "25.36232000",
     "longitude": "49.72757000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "26.55778000",
     "longitude": "49.99167000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "26.43442000",
     "longitude": "50.10326000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -282,12 +282,12 @@
     "latitude": "26.28864000",
     "longitude": "50.11396000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
     "id": 148564,
-    "name": "Ha'il ",
+    "name": "Ha'il",
     "state_id": 2856,
     "state_code": "04",
     "country_id": 194,
@@ -295,7 +295,7 @@
     "latitude": "27.51666667",
     "longitude": "41.68333333",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "28.43279000",
     "longitude": "45.97077000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "24.14555556",
     "longitude": "49.06527778",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "25.50000000",
     "longitude": "49.60000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "26.27944000",
     "longitude": "50.20833000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "27.27103000",
     "longitude": "48.42419000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "27.46990000",
     "longitude": "48.48440000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -386,7 +386,7 @@
     "latitude": "28.31117000",
     "longitude": "46.12729000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -399,7 +399,7 @@
     "latitude": "26.70791000",
     "longitude": "50.06194000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -412,7 +412,7 @@
     "latitude": "26.64970000",
     "longitude": "49.95522000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -425,7 +425,7 @@
     "latitude": "26.47500000",
     "longitude": "50.04166667",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -438,7 +438,7 @@
     "latitude": "26.57330000",
     "longitude": "50.04028000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -451,7 +451,7 @@
     "latitude": "25.13330000",
     "longitude": "49.30000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -464,7 +464,7 @@
     "latitude": "26.65361000",
     "longitude": "49.91639000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -477,7 +477,7 @@
     "latitude": "25.64310000",
     "longitude": "50.21440000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   }
 ]

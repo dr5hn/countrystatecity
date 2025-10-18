@@ -9,7 +9,7 @@
     "latitude": "39.55666000",
     "longitude": "-104.89609000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "39.87363000",
     "longitude": "-104.33791000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "38.99425000",
     "longitude": "-104.86375000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "40.16054000",
     "longitude": "-103.21438000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "37.46945000",
     "longitude": "-105.87002000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "37.57289000",
     "longitude": "-105.78829000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "37.47735000",
     "longitude": "-105.84217000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "39.75778000",
     "longitude": "-105.16250000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "39.64977000",
     "longitude": "-104.33924000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "37.19360000",
     "longitude": "-107.04833000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "40.10915000",
     "longitude": "-104.76247000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "39.80276000",
     "longitude": "-105.08748000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "39.19110000",
     "longitude": "-106.81754000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "40.58248000",
     "longitude": "-104.73191000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "39.72943000",
     "longitude": "-104.83192000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "39.63137000",
     "longitude": "-106.52225000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "37.31918000",
     "longitude": "-102.56047000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "39.36887000",
     "longitude": "-107.03282000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "39.44137000",
     "longitude": "-108.02507000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "37.22556000",
     "longitude": "-107.59811000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "39.75887000",
     "longitude": "-104.42746000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "37.95509000",
     "longitude": "-103.07170000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "39.80443000",
     "longitude": "-105.02609000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "40.30832000",
     "longitude": "-105.08109000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "39.01305000",
     "longitude": "-104.70081000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "40.01499000",
     "longitude": "-105.27055000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "40.09246000",
     "longitude": "-105.35770000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "39.48165000",
     "longitude": "-106.03835000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "39.98526000",
     "longitude": "-104.82053000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -386,7 +386,7 @@
     "latitude": "39.92054000",
     "longitude": "-105.08665000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -399,7 +399,7 @@
     "latitude": "39.95413000",
     "longitude": "-105.05266000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -412,7 +412,7 @@
     "latitude": "40.25887000",
     "longitude": "-103.62384000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -425,7 +425,7 @@
     "latitude": "38.84222000",
     "longitude": "-106.13113000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -438,7 +438,7 @@
     "latitude": "39.30611000",
     "longitude": "-102.26936000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -451,7 +451,7 @@
     "latitude": "39.71137000",
     "longitude": "-104.22774000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -464,7 +464,7 @@
     "latitude": "40.34943000",
     "longitude": "-105.07776000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -477,7 +477,7 @@
     "latitude": "38.44098000",
     "longitude": "-105.24245000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -490,7 +490,7 @@
     "latitude": "39.40221000",
     "longitude": "-107.21116000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -503,7 +503,7 @@
     "latitude": "39.53249000",
     "longitude": "-104.90109000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -516,7 +516,7 @@
     "latitude": "38.94354000",
     "longitude": "-105.00237000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -529,7 +529,7 @@
     "latitude": "39.45804000",
     "longitude": "-104.89609000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -542,7 +542,7 @@
     "latitude": "39.47174000",
     "longitude": "-104.89482000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -555,7 +555,7 @@
     "latitude": "39.37221000",
     "longitude": "-104.85609000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -568,7 +568,7 @@
     "latitude": "39.58471000",
     "longitude": "-104.90109000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -581,7 +581,7 @@
     "latitude": "38.90165000",
     "longitude": "-107.92645000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -594,7 +594,7 @@
     "latitude": "39.57916000",
     "longitude": "-104.87692000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -607,7 +607,7 @@
     "latitude": "37.75306000",
     "longitude": "-106.10864000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -620,7 +620,7 @@
     "latitude": "39.80193000",
     "longitude": "-105.51416000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -633,7 +633,7 @@
     "latitude": "38.74690000",
     "longitude": "-106.19407000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -646,7 +646,7 @@
     "latitude": "39.63455000",
     "longitude": "-104.88286000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -659,7 +659,7 @@
     "latitude": "39.64165000",
     "longitude": "-104.95943000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -672,7 +672,7 @@
     "latitude": "38.82794000",
     "longitude": "-102.60340000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -685,7 +685,7 @@
     "latitude": "38.82140000",
     "longitude": "-102.35324000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -698,7 +698,7 @@
     "latitude": "38.85861000",
     "longitude": "-104.69886000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -711,7 +711,7 @@
     "latitude": "39.68910000",
     "longitude": "-105.64436000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -724,7 +724,7 @@
     "latitude": "39.09193000",
     "longitude": "-108.44898000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -737,7 +737,7 @@
     "latitude": "39.90638000",
     "longitude": "-105.37749000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -750,7 +750,7 @@
     "latitude": "37.94529000",
     "longitude": "-104.83526000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -763,7 +763,7 @@
     "latitude": "38.83388000",
     "longitude": "-104.82136000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -776,7 +776,7 @@
     "latitude": "39.58777000",
     "longitude": "-105.06943000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -789,7 +789,7 @@
     "latitude": "39.60110000",
     "longitude": "-105.03221000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -802,7 +802,7 @@
     "latitude": "39.80832000",
     "longitude": "-104.93387000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -815,7 +815,7 @@
     "latitude": "37.08835000",
     "longitude": "-106.01974000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -828,7 +828,7 @@
     "latitude": "37.20070000",
     "longitude": "-106.19163000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -841,7 +841,7 @@
     "latitude": "37.34888000",
     "longitude": "-108.58593000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -854,7 +854,7 @@
     "latitude": "37.27810000",
     "longitude": "-105.42827000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -867,7 +867,7 @@
     "latitude": "40.51525000",
     "longitude": "-107.54645000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -880,7 +880,7 @@
     "latitude": "37.84917000",
     "longitude": "-106.92643000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -893,7 +893,7 @@
     "latitude": "38.86971000",
     "longitude": "-106.98782000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -906,7 +906,7 @@
     "latitude": "38.74666000",
     "longitude": "-105.17831000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -919,7 +919,7 @@
     "latitude": "38.32666000",
     "longitude": "-103.78483000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -932,7 +932,7 @@
     "latitude": "38.10868000",
     "longitude": "-105.36747000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -945,7 +945,7 @@
     "latitude": "40.08471000",
     "longitude": "-104.93942000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -958,7 +958,7 @@
     "latitude": "37.67889000",
     "longitude": "-106.35337000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -971,7 +971,7 @@
     "latitude": "38.74221000",
     "longitude": "-108.06896000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -984,7 +984,7 @@
     "latitude": "38.86137000",
     "longitude": "-107.86288000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -997,7 +997,7 @@
     "latitude": "39.73915000",
     "longitude": "-104.98470000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1010,7 +1010,7 @@
     "latitude": "39.76204000",
     "longitude": "-104.87635000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1023,7 +1023,7 @@
     "latitude": "39.83943000",
     "longitude": "-104.91859000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1036,7 +1036,7 @@
     "latitude": "37.75160000",
     "longitude": "-108.51722000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1049,7 +1049,7 @@
     "latitude": "39.32972000",
     "longitude": "-104.92956000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1062,7 +1062,7 @@
     "latitude": "37.76610000",
     "longitude": "-108.90594000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1075,7 +1075,7 @@
     "latitude": "39.57771000",
     "longitude": "-104.82940000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1088,7 +1088,7 @@
     "latitude": "37.27528000",
     "longitude": "-107.88007000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1101,7 +1101,7 @@
     "latitude": "38.48056000",
     "longitude": "-102.78186000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1114,7 +1114,7 @@
     "latitude": "39.65526000",
     "longitude": "-106.82865000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1127,7 +1127,7 @@
     "latitude": "39.62783000",
     "longitude": "-106.69530000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1140,7 +1140,7 @@
     "latitude": "40.53026000",
     "longitude": "-104.71135000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1153,7 +1153,7 @@
     "latitude": "39.75304000",
     "longitude": "-105.06415000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1166,7 +1166,7 @@
     "latitude": "39.64499000",
     "longitude": "-106.59420000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1179,7 +1179,7 @@
     "latitude": "39.39498000",
     "longitude": "-107.09033000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1192,7 +1192,7 @@
     "latitude": "38.83209000",
     "longitude": "-104.52558000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1205,7 +1205,7 @@
     "latitude": "39.28656000",
     "longitude": "-104.13589000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1218,7 +1218,7 @@
     "latitude": "39.36027000",
     "longitude": "-104.59691000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1231,7 +1231,7 @@
     "latitude": "38.83833000",
     "longitude": "-104.38691000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1244,7 +1244,7 @@
     "latitude": "39.64777000",
     "longitude": "-104.98776000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1257,7 +1257,7 @@
     "latitude": "40.05026000",
     "longitude": "-105.04998000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1270,7 +1270,7 @@
     "latitude": "40.37721000",
     "longitude": "-105.52167000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1283,7 +1283,7 @@
     "latitude": "40.37637000",
     "longitude": "-104.69219000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1296,7 +1296,7 @@
     "latitude": "39.63332000",
     "longitude": "-105.31721000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1309,7 +1309,7 @@
     "latitude": "39.22471000",
     "longitude": "-106.00196000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1322,7 +1322,7 @@
     "latitude": "39.85137000",
     "longitude": "-104.99859000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1335,7 +1335,7 @@
     "latitude": "40.11248000",
     "longitude": "-104.93664000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1348,7 +1348,7 @@
     "latitude": "38.39028000",
     "longitude": "-105.11860000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1361,7 +1361,7 @@
     "latitude": "38.73749000",
     "longitude": "-104.78886000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1374,7 +1374,7 @@
     "latitude": "40.58526000",
     "longitude": "-105.08442000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1387,7 +1387,7 @@
     "latitude": "40.08471000",
     "longitude": "-104.81303000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1400,7 +1400,7 @@
     "latitude": "40.25026000",
     "longitude": "-103.79995000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1413,7 +1413,7 @@
     "latitude": "38.68222000",
     "longitude": "-104.70081000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1426,7 +1426,7 @@
     "latitude": "38.12917000",
     "longitude": "-104.02329000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1439,7 +1439,7 @@
     "latitude": "39.94499000",
     "longitude": "-105.81723000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1452,7 +1452,7 @@
     "latitude": "40.09915000",
     "longitude": "-104.93720000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1465,7 +1465,7 @@
     "latitude": "38.47297000",
     "longitude": "-105.43966000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1478,7 +1478,7 @@
     "latitude": "39.57443000",
     "longitude": "-106.09752000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1491,7 +1491,7 @@
     "latitude": "39.15887000",
     "longitude": "-108.72899000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1504,7 +1504,7 @@
     "latitude": "39.08165000",
     "longitude": "-108.49676000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1517,7 +1517,7 @@
     "latitude": "39.59931000",
     "longitude": "-107.90395000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1530,7 +1530,7 @@
     "latitude": "39.68582000",
     "longitude": "-105.27277000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1543,7 +1543,7 @@
     "latitude": "39.70610000",
     "longitude": "-105.69750000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1556,7 +1556,7 @@
     "latitude": "40.28193000",
     "longitude": "-104.77775000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1569,7 +1569,7 @@
     "latitude": "39.85756000",
     "longitude": "-105.52253000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1582,7 +1582,7 @@
     "latitude": "39.70499000",
     "longitude": "-104.93359000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1595,7 +1595,7 @@
     "latitude": "39.04527000",
     "longitude": "-104.82442000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1608,7 +1608,7 @@
     "latitude": "39.55054000",
     "longitude": "-107.32478000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1621,7 +1621,7 @@
     "latitude": "39.75554000",
     "longitude": "-105.22110000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1634,7 +1634,7 @@
     "latitude": "40.08610000",
     "longitude": "-105.93946000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1647,7 +1647,7 @@
     "latitude": "40.10261000",
     "longitude": "-106.11836000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1660,7 +1660,7 @@
     "latitude": "39.06387000",
     "longitude": "-108.55065000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1673,7 +1673,7 @@
     "latitude": "40.42331000",
     "longitude": "-104.70913000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1686,7 +1686,7 @@
     "latitude": "39.61721000",
     "longitude": "-104.95081000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1699,7 +1699,7 @@
     "latitude": "40.06335000",
     "longitude": "-105.17107000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1712,7 +1712,7 @@
     "latitude": "38.54582000",
     "longitude": "-106.92532000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1725,7 +1725,7 @@
     "latitude": "38.66680000",
     "longitude": "-107.03170000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1738,7 +1738,7 @@
     "latitude": "39.64693000",
     "longitude": "-106.95171000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1751,7 +1751,7 @@
     "latitude": "40.49529000",
     "longitude": "-107.25729000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1764,7 +1764,7 @@
     "latitude": "39.55388000",
     "longitude": "-104.96943000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1777,7 +1777,7 @@
     "latitude": "37.82134000",
     "longitude": "-107.30031000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1790,7 +1790,7 @@
     "latitude": "39.66757000",
     "longitude": "-104.91797000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1803,7 +1803,7 @@
     "latitude": "40.58444000",
     "longitude": "-102.30241000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1816,7 +1816,7 @@
     "latitude": "40.07304000",
     "longitude": "-106.10280000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1829,7 +1829,7 @@
     "latitude": "40.07359000",
     "longitude": "-104.64302000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1842,7 +1842,7 @@
     "latitude": "37.68468000",
     "longitude": "-104.96058000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1855,7 +1855,7 @@
     "latitude": "39.13610000",
     "longitude": "-103.46994000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1868,7 +1868,7 @@
     "latitude": "39.74249000",
     "longitude": "-105.51361000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1881,7 +1881,7 @@
     "latitude": "39.61665000",
     "longitude": "-105.23721000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1894,7 +1894,7 @@
     "latitude": "39.57738000",
     "longitude": "-104.86135000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1907,7 +1907,7 @@
     "latitude": "40.66643000",
     "longitude": "-106.34279000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1920,7 +1920,7 @@
     "latitude": "39.58642000",
     "longitude": "-105.25047000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1933,7 +1933,7 @@
     "latitude": "40.33693000",
     "longitude": "-104.91220000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1946,7 +1946,7 @@
     "latitude": "40.98833000",
     "longitude": "-102.26435000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1959,7 +1959,7 @@
     "latitude": "40.10832000",
     "longitude": "-104.51996000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1972,7 +1972,7 @@
     "latitude": "39.57582000",
     "longitude": "-105.11221000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1985,7 +1985,7 @@
     "latitude": "40.38748000",
     "longitude": "-104.56163000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -1998,7 +1998,7 @@
     "latitude": "39.59943000",
     "longitude": "-105.98724000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2011,7 +2011,7 @@
     "latitude": "39.34721000",
     "longitude": "-104.46441000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2024,7 +2024,7 @@
     "latitude": "38.43269000",
     "longitude": "-102.74034000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2037,7 +2037,7 @@
     "latitude": "39.30544000",
     "longitude": "-102.60289000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2050,7 +2050,7 @@
     "latitude": "39.65471000",
     "longitude": "-105.29971000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2063,7 +2063,7 @@
     "latitude": "40.05887000",
     "longitude": "-106.38892000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2076,7 +2076,7 @@
     "latitude": "37.98501000",
     "longitude": "-103.54383000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2089,7 +2089,7 @@
     "latitude": "37.28656000",
     "longitude": "-107.84334000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2102,7 +2102,7 @@
     "latitude": "40.34887000",
     "longitude": "-104.70191000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2115,7 +2115,7 @@
     "latitude": "39.99360000",
     "longitude": "-105.08971000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2128,7 +2128,7 @@
     "latitude": "38.03000000",
     "longitude": "-107.31533000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2141,7 +2141,7 @@
     "latitude": "39.20238000",
     "longitude": "-106.34484000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2154,7 +2154,7 @@
     "latitude": "39.70471000",
     "longitude": "-105.08137000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2167,7 +2167,7 @@
     "latitude": "38.08723000",
     "longitude": "-102.62075000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2180,7 +2180,7 @@
     "latitude": "40.62633000",
     "longitude": "-105.13916000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2193,7 +2193,7 @@
     "latitude": "40.66641000",
     "longitude": "-105.46116000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2206,7 +2206,7 @@
     "latitude": "38.06667000",
     "longitude": "-103.22271000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2219,7 +2219,7 @@
     "latitude": "37.31585000",
     "longitude": "-104.03872000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2232,7 +2232,7 @@
     "latitude": "39.25082000",
     "longitude": "-106.29252000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2245,7 +2245,7 @@
     "latitude": "39.25760000",
     "longitude": "-106.30138000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2258,7 +2258,7 @@
     "latitude": "39.26388000",
     "longitude": "-103.69217000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2271,7 +2271,7 @@
     "latitude": "38.98807000",
     "longitude": "-103.51397000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2284,7 +2284,7 @@
     "latitude": "38.42916000",
     "longitude": "-105.21999000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2297,7 +2297,7 @@
     "latitude": "39.61332000",
     "longitude": "-105.01665000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2310,7 +2310,7 @@
     "latitude": "40.00721000",
     "longitude": "-104.71608000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2323,7 +2323,7 @@
     "latitude": "40.72468000",
     "longitude": "-103.11010000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2336,7 +2336,7 @@
     "latitude": "39.19581000",
     "longitude": "-108.81316000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2349,7 +2349,7 @@
     "latitude": "39.55171000",
     "longitude": "-104.88630000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2362,7 +2362,7 @@
     "latitude": "40.16721000",
     "longitude": "-105.10193000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2375,7 +2375,7 @@
     "latitude": "39.97776000",
     "longitude": "-105.13193000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2388,7 +2388,7 @@
     "latitude": "40.39776000",
     "longitude": "-105.07498000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2401,7 +2401,7 @@
     "latitude": "40.22471000",
     "longitude": "-105.27138000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2414,7 +2414,7 @@
     "latitude": "37.34500000",
     "longitude": "-108.28925000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2427,7 +2427,7 @@
     "latitude": "38.85971000",
     "longitude": "-104.91720000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2440,7 +2440,7 @@
     "latitude": "40.23332000",
     "longitude": "-104.99859000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2453,7 +2453,7 @@
     "latitude": "40.03747000",
     "longitude": "-107.91313000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2466,7 +2466,7 @@
     "latitude": "39.53957000",
     "longitude": "-104.84528000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2479,7 +2479,7 @@
     "latitude": "39.01828000",
     "longitude": "-108.46645000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2492,7 +2492,7 @@
     "latitude": "40.32943000",
     "longitude": "-104.85525000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2505,7 +2505,7 @@
     "latitude": "37.66900000",
     "longitude": "-106.92409000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2518,7 +2518,7 @@
     "latitude": "39.58637000",
     "longitude": "-106.43086000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2531,7 +2531,7 @@
     "latitude": "40.61843000",
     "longitude": "-108.20730000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2544,7 +2544,7 @@
     "latitude": "37.57917000",
     "longitude": "-106.14808000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2557,7 +2557,7 @@
     "latitude": "37.33841000",
     "longitude": "-108.59671000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2570,7 +2570,7 @@
     "latitude": "38.47832000",
     "longitude": "-107.87617000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2583,7 +2583,7 @@
     "latitude": "38.40218000",
     "longitude": "-108.26936000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2596,7 +2596,7 @@
     "latitude": "39.09166000",
     "longitude": "-104.87276000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2609,7 +2609,7 @@
     "latitude": "40.26271000",
     "longitude": "-103.80982000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2622,7 +2622,7 @@
     "latitude": "37.93138000",
     "longitude": "-107.85645000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2635,7 +2635,7 @@
     "latitude": "39.96138000",
     "longitude": "-105.51083000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2648,7 +2648,7 @@
     "latitude": "39.57276000",
     "longitude": "-107.53644000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2661,7 +2661,7 @@
     "latitude": "40.10387000",
     "longitude": "-105.17082000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2674,7 +2674,7 @@
     "latitude": "39.88554000",
     "longitude": "-104.98720000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2687,7 +2687,7 @@
     "latitude": "38.60499000",
     "longitude": "-107.98229000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2700,7 +2700,7 @@
     "latitude": "38.82832000",
     "longitude": "-107.97090000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2713,7 +2713,7 @@
     "latitude": "39.04304000",
     "longitude": "-108.55232000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2726,7 +2726,7 @@
     "latitude": "38.21806000",
     "longitude": "-103.75606000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2739,7 +2739,7 @@
     "latitude": "37.90270000",
     "longitude": "-103.71645000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2752,7 +2752,7 @@
     "latitude": "38.02277000",
     "longitude": "-107.67145000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2765,7 +2765,7 @@
     "latitude": "38.15550000",
     "longitude": "-107.76932000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2778,7 +2778,7 @@
     "latitude": "37.26945000",
     "longitude": "-107.00976000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2791,7 +2791,7 @@
     "latitude": "39.11026000",
     "longitude": "-108.35092000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2804,7 +2804,7 @@
     "latitude": "39.12221000",
     "longitude": "-104.91720000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2817,7 +2817,7 @@
     "latitude": "38.86832000",
     "longitude": "-107.59200000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2830,7 +2830,7 @@
     "latitude": "39.45192000",
     "longitude": "-108.05285000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2843,7 +2843,7 @@
     "latitude": "39.11930000",
     "longitude": "-105.71717000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2856,7 +2856,7 @@
     "latitude": "39.51860000",
     "longitude": "-104.76136000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2869,7 +2869,7 @@
     "latitude": "38.42500000",
     "longitude": "-105.02276000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2882,7 +2882,7 @@
     "latitude": "39.25666000",
     "longitude": "-104.99248000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2895,7 +2895,7 @@
     "latitude": "40.59388000",
     "longitude": "-102.35758000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2908,7 +2908,7 @@
     "latitude": "39.21711000",
     "longitude": "-106.91658000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2921,7 +2921,7 @@
     "latitude": "40.21498000",
     "longitude": "-104.82275000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2934,7 +2934,7 @@
     "latitude": "39.40832000",
     "longitude": "-104.65108000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2947,7 +2947,7 @@
     "latitude": "37.95518000",
     "longitude": "-102.39335000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2960,7 +2960,7 @@
     "latitude": "38.25445000",
     "longitude": "-104.60914000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2973,7 +2973,7 @@
     "latitude": "38.17342000",
     "longitude": "-104.51285000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2986,7 +2986,7 @@
     "latitude": "38.35000000",
     "longitude": "-104.72275000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -2999,7 +2999,7 @@
     "latitude": "40.08748000",
     "longitude": "-108.80483000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3012,7 +3012,7 @@
     "latitude": "39.07887000",
     "longitude": "-108.63565000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3025,7 +3025,7 @@
     "latitude": "39.53470000",
     "longitude": "-107.78312000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3038,7 +3038,7 @@
     "latitude": "39.97984000",
     "longitude": "-108.21721000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3051,7 +3051,7 @@
     "latitude": "37.58252000",
     "longitude": "-106.38321000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3064,7 +3064,7 @@
     "latitude": "38.05251000",
     "longitude": "-103.72023000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3077,7 +3077,7 @@
     "latitude": "40.48507000",
     "longitude": "-106.99119000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3090,7 +3090,7 @@
     "latitude": "39.47388000",
     "longitude": "-105.08526000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3103,7 +3103,7 @@
     "latitude": "38.08750000",
     "longitude": "-106.14197000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3116,7 +3116,7 @@
     "latitude": "38.08055000",
     "longitude": "-106.28156000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3129,7 +3129,7 @@
     "latitude": "38.53472000",
     "longitude": "-105.99890000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3142,7 +3142,7 @@
     "latitude": "37.76404000",
     "longitude": "-107.67615000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3155,7 +3155,7 @@
     "latitude": "37.20085000",
     "longitude": "-105.42390000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3168,7 +3168,7 @@
     "latitude": "38.00374000",
     "longitude": "-108.40583000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3181,7 +3181,7 @@
     "latitude": "38.74728000",
     "longitude": "-104.71439000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3194,7 +3194,7 @@
     "latitude": "40.87591000",
     "longitude": "-102.35179000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3207,7 +3207,7 @@
     "latitude": "40.52415000",
     "longitude": "-104.85108000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3220,7 +3220,7 @@
     "latitude": "39.85250000",
     "longitude": "-105.04306000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3233,7 +3233,7 @@
     "latitude": "39.64693000",
     "longitude": "-105.02526000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3246,7 +3246,7 @@
     "latitude": "39.83776000",
     "longitude": "-105.00137000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3259,7 +3259,7 @@
     "latitude": "39.54859000",
     "longitude": "-107.65617000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3272,7 +3272,7 @@
     "latitude": "39.63214000",
     "longitude": "-106.07428000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3285,7 +3285,7 @@
     "latitude": "37.81194000",
     "longitude": "-107.66451000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3298,7 +3298,7 @@
     "latitude": "39.21304000",
     "longitude": "-106.93782000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3311,7 +3311,7 @@
     "latitude": "39.58721000",
     "longitude": "-104.95276000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3324,7 +3324,7 @@
     "latitude": "37.40835000",
     "longitude": "-102.61436000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3337,7 +3337,7 @@
     "latitude": "40.48498000",
     "longitude": "-106.83172000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3350,7 +3350,7 @@
     "latitude": "40.62554000",
     "longitude": "-103.20771000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3363,7 +3363,7 @@
     "latitude": "39.53082000",
     "longitude": "-104.80386000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3376,7 +3376,7 @@
     "latitude": "39.73832000",
     "longitude": "-104.32329000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3389,7 +3389,7 @@
     "latitude": "38.77388000",
     "longitude": "-104.77970000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3402,7 +3402,7 @@
     "latitude": "39.63417000",
     "longitude": "-106.11638000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3415,7 +3415,7 @@
     "latitude": "39.95276000",
     "longitude": "-105.16860000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3428,7 +3428,7 @@
     "latitude": "38.88217000",
     "longitude": "-105.16183000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3441,7 +3441,7 @@
     "latitude": "37.93749000",
     "longitude": "-107.81229000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3454,7 +3454,7 @@
     "latitude": "39.45527000",
     "longitude": "-104.73442000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3467,7 +3467,7 @@
     "latitude": "39.86804000",
     "longitude": "-104.97192000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3480,7 +3480,7 @@
     "latitude": "39.97804000",
     "longitude": "-104.87331000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3493,7 +3493,7 @@
     "latitude": "37.20444000",
     "longitude": "-108.72954000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3506,7 +3506,7 @@
     "latitude": "37.16946000",
     "longitude": "-104.50054000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3519,7 +3519,7 @@
     "latitude": "39.82499000",
     "longitude": "-105.00470000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3532,7 +3532,7 @@
     "latitude": "39.62385000",
     "longitude": "-105.41780000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3545,7 +3545,7 @@
     "latitude": "39.64026000",
     "longitude": "-106.37420000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3558,7 +3558,7 @@
     "latitude": "40.73164000",
     "longitude": "-106.28364000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3571,7 +3571,7 @@
     "latitude": "37.62418000",
     "longitude": "-104.78026000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3584,7 +3584,7 @@
     "latitude": "39.97106000",
     "longitude": "-103.20125000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3597,7 +3597,7 @@
     "latitude": "39.83665000",
     "longitude": "-104.95915000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3610,7 +3610,7 @@
     "latitude": "40.55484000",
     "longitude": "-104.39253000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3623,7 +3623,7 @@
     "latitude": "40.70387000",
     "longitude": "-105.00859000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3636,7 +3636,7 @@
     "latitude": "39.73256000",
     "longitude": "-105.17852000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3649,7 +3649,7 @@
     "latitude": "38.13472000",
     "longitude": "-105.46584000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3662,7 +3662,7 @@
     "latitude": "39.83665000",
     "longitude": "-105.03720000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3675,7 +3675,7 @@
     "latitude": "39.76610000",
     "longitude": "-105.07721000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3688,7 +3688,7 @@
     "latitude": "40.47748000",
     "longitude": "-104.90136000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3701,7 +3701,7 @@
     "latitude": "38.99388000",
     "longitude": "-105.05693000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3714,7 +3714,7 @@
     "latitude": "39.10138000",
     "longitude": "-104.84748000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3727,7 +3727,7 @@
     "latitude": "40.07582000",
     "longitude": "-102.22325000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3740,7 +3740,7 @@
     "latitude": "40.12221000",
     "longitude": "-102.72521000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -3753,7 +3753,7 @@
     "latitude": "40.00290000",
     "longitude": "-102.42423000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Denver",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "53.05024000",
     "longitude": "5.83087000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "53.05000000",
     "longitude": "5.90000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "53.18860000",
     "longitude": "5.82825000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "52.95526000",
     "longitude": "6.35053000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "53.21785000",
     "longitude": "6.16170000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "52.86975000",
     "longitude": "5.45926000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "53.08072000",
     "longitude": "6.25671000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "52.89756000",
     "longitude": "5.57964000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "53.05914000",
     "longitude": "6.07711000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "53.24370000",
     "longitude": "5.65101000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "53.21551000",
     "longitude": "5.79574000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "53.06555000",
     "longitude": "5.53176000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "53.08284000",
     "longitude": "6.04578000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "53.27466000",
     "longitude": "5.99648000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "53.25166000",
     "longitude": "6.14483000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "53.29421000",
     "longitude": "5.87897000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "53.19243000",
     "longitude": "5.99009000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "53.20973000",
     "longitude": "5.84318000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "53.29046000",
     "longitude": "5.99785000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "53.03113000",
     "longitude": "5.67716000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "53.09743000",
     "longitude": "6.06791000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "52.96906000",
     "longitude": "5.77246000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "52.94960000",
     "longitude": "5.91366000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "52.96829000",
     "longitude": "5.97116000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "53.25731000",
     "longitude": "6.03630000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "53.32224000",
     "longitude": "5.99697000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "53.01734000",
     "longitude": "6.23927000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "53.11254000",
     "longitude": "6.09890000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "53.13462000",
     "longitude": "6.14153000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -386,7 +386,7 @@
     "latitude": "53.20213000",
     "longitude": "6.11183000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -399,7 +399,7 @@
     "latitude": "53.20000000",
     "longitude": "5.65000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -412,7 +412,7 @@
     "latitude": "53.17466000",
     "longitude": "6.05999000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -425,7 +425,7 @@
     "latitude": "52.87141000",
     "longitude": "5.82147000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -438,7 +438,7 @@
     "latitude": "53.23558000",
     "longitude": "5.98832000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -451,7 +451,7 @@
     "latitude": "53.33784000",
     "longitude": "5.82533000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -464,7 +464,7 @@
     "latitude": "53.18546000",
     "longitude": "5.54123000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -477,7 +477,7 @@
     "latitude": "53.16667000",
     "longitude": "5.96667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -490,7 +490,7 @@
     "latitude": "53.00659000",
     "longitude": "6.06402000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -503,7 +503,7 @@
     "latitude": "53.17734000",
     "longitude": "5.80370000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -516,7 +516,7 @@
     "latitude": "53.09456000",
     "longitude": "5.83745000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -529,7 +529,7 @@
     "latitude": "53.24293000",
     "longitude": "5.89502000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -542,7 +542,7 @@
     "latitude": "53.30657000",
     "longitude": "5.78379000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -555,7 +555,7 @@
     "latitude": "53.18333000",
     "longitude": "6.13333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -568,7 +568,7 @@
     "latitude": "53.17477000",
     "longitude": "5.42244000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -581,7 +581,7 @@
     "latitude": "53.06468000",
     "longitude": "6.33453000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -594,7 +594,7 @@
     "latitude": "53.20963000",
     "longitude": "5.82250000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -607,7 +607,7 @@
     "latitude": "52.96860000",
     "longitude": "5.61075000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -620,7 +620,7 @@
     "latitude": "52.95929000",
     "longitude": "5.91854000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -633,7 +633,7 @@
     "latitude": "53.20455000",
     "longitude": "5.80192000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -646,7 +646,7 @@
     "latitude": "53.43940000",
     "longitude": "5.63805000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -659,7 +659,7 @@
     "latitude": "53.36815000",
     "longitude": "5.90073000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -672,7 +672,7 @@
     "latitude": "53.19170000",
     "longitude": "5.81119000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -685,7 +685,7 @@
     "latitude": "53.21333000",
     "longitude": "5.94137000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -698,7 +698,7 @@
     "latitude": "53.01009000",
     "longitude": "5.62312000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -711,7 +711,7 @@
     "latitude": "53.07753000",
     "longitude": "5.79254000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -724,7 +724,7 @@
     "latitude": "52.96570000",
     "longitude": "5.80301000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -737,7 +737,7 @@
     "latitude": "53.00396000",
     "longitude": "6.12183000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -750,7 +750,7 @@
     "latitude": "53.27695000",
     "longitude": "6.15293000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -763,7 +763,7 @@
     "latitude": "53.26224000",
     "longitude": "6.07544000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -776,7 +776,7 @@
     "latitude": "53.21261000",
     "longitude": "6.09209000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -789,7 +789,7 @@
     "latitude": "52.91551000",
     "longitude": "5.44834000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -802,7 +802,7 @@
     "latitude": "52.95836000",
     "longitude": "5.72173000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -815,7 +815,7 @@
     "latitude": "53.20139000",
     "longitude": "5.80859000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -828,7 +828,7 @@
     "latitude": "52.84618000",
     "longitude": "5.70912000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -841,7 +841,7 @@
     "latitude": "53.05458000",
     "longitude": "5.40231000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -854,7 +854,7 @@
     "latitude": "53.12865000",
     "longitude": "5.71924000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -867,7 +867,7 @@
     "latitude": "53.32277000",
     "longitude": "5.80198000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -880,7 +880,7 @@
     "latitude": "53.21050000",
     "longitude": "5.72637000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -893,7 +893,7 @@
     "latitude": "53.21797000",
     "longitude": "5.66124000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -906,7 +906,7 @@
     "latitude": "53.25104000",
     "longitude": "5.59513000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -919,7 +919,7 @@
     "latitude": "53.44502000",
     "longitude": "5.77400000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -932,7 +932,7 @@
     "latitude": "52.95113000",
     "longitude": "6.06342000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -945,7 +945,7 @@
     "latitude": "53.22135000",
     "longitude": "6.00523000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -958,7 +958,7 @@
     "latitude": "52.88964000",
     "longitude": "6.14153000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -971,7 +971,7 @@
     "latitude": "53.25000000",
     "longitude": "5.90000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -984,7 +984,7 @@
     "latitude": "52.93788000",
     "longitude": "6.13089000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -997,7 +997,7 @@
     "latitude": "53.29703000",
     "longitude": "5.07431000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1010,7 +1010,7 @@
     "latitude": "52.99164000",
     "longitude": "6.29096000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1023,7 +1023,7 @@
     "latitude": "53.13410000",
     "longitude": "6.05656000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1036,7 +1036,7 @@
     "latitude": "53.01194000",
     "longitude": "5.69495000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1049,7 +1049,7 @@
     "latitude": "52.94579000",
     "longitude": "5.95038000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1062,7 +1062,7 @@
     "latitude": "53.12504000",
     "longitude": "5.99888000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1075,7 +1075,7 @@
     "latitude": "52.95709000",
     "longitude": "5.87095000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1088,7 +1088,7 @@
     "latitude": "52.85019000",
     "longitude": "5.53544000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1101,7 +1101,7 @@
     "latitude": "52.93343000",
     "longitude": "5.95579000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1114,7 +1114,7 @@
     "latitude": "53.14523000",
     "longitude": "6.10411000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1127,7 +1127,7 @@
     "latitude": "53.06051000",
     "longitude": "5.67822000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1140,7 +1140,7 @@
     "latitude": "53.48025000",
     "longitude": "6.15209000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1153,7 +1153,7 @@
     "latitude": "53.21823000",
     "longitude": "5.48402000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1166,7 +1166,7 @@
     "latitude": "53.27620000",
     "longitude": "5.65727000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1179,7 +1179,7 @@
     "latitude": "53.27291000",
     "longitude": "5.60354000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1192,7 +1192,7 @@
     "latitude": "52.92293000",
     "longitude": "5.74242000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1205,7 +1205,7 @@
     "latitude": "52.93157000",
     "longitude": "5.85588000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1218,7 +1218,7 @@
     "latitude": "53.03297000",
     "longitude": "5.65890000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1231,7 +1231,7 @@
     "latitude": "53.03987000",
     "longitude": "5.67844000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1244,7 +1244,7 @@
     "latitude": "53.26234000",
     "longitude": "5.75769000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1257,7 +1257,7 @@
     "latitude": "53.01056000",
     "longitude": "5.52580000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1270,7 +1270,7 @@
     "latitude": "53.18477000",
     "longitude": "6.17031000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1283,7 +1283,7 @@
     "latitude": "53.38203000",
     "longitude": "5.96523000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1296,7 +1296,7 @@
     "latitude": "53.03058000",
     "longitude": "5.99193000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1309,7 +1309,7 @@
     "latitude": "53.02064000",
     "longitude": "5.64575000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1322,7 +1322,7 @@
     "latitude": "53.23152000",
     "longitude": "6.08952000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1335,7 +1335,7 @@
     "latitude": "53.24015000",
     "longitude": "6.04591000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1348,7 +1348,7 @@
     "latitude": "53.21343000",
     "longitude": "5.90961000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1361,7 +1361,7 @@
     "latitude": "53.23733000",
     "longitude": "5.54612000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1374,7 +1374,7 @@
     "latitude": "53.09244000",
     "longitude": "6.16718000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1387,7 +1387,7 @@
     "latitude": "53.18947000",
     "longitude": "5.50793000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1400,7 +1400,7 @@
     "latitude": "53.15145000",
     "longitude": "5.84404000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1413,7 +1413,7 @@
     "latitude": "53.35911000",
     "longitude": "5.21482000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1426,7 +1426,7 @@
     "latitude": "53.20853000",
     "longitude": "5.76812000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1439,7 +1439,7 @@
     "latitude": "53.05814000",
     "longitude": "6.20470000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1452,7 +1452,7 @@
     "latitude": "53.14893000",
     "longitude": "5.80387000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1465,7 +1465,7 @@
     "latitude": "53.10452000",
     "longitude": "5.46902000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1478,7 +1478,7 @@
     "latitude": "52.87545000",
     "longitude": "5.99691000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1491,7 +1491,7 @@
     "latitude": "53.10883000",
     "longitude": "5.58749000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1504,7 +1504,7 @@
     "latitude": "52.97969000",
     "longitude": "5.44710000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1517,7 +1517,7 @@
     "latitude": "52.94357000",
     "longitude": "5.62843000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   },
   {
@@ -1530,7 +1530,7 @@
     "latitude": "53.17340000",
     "longitude": "5.84271000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Amsterdam",
     "translations": {}
   }
 ]

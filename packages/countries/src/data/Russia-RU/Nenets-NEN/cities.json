@@ -9,7 +9,7 @@
     "latitude": "67.68026000",
     "longitude": "53.15117000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "67.63869000",
     "longitude": "53.00371000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Moscow",
     "translations": {}
   }
 ]

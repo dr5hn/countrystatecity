@@ -9,7 +9,7 @@
     "latitude": "35.94916700",
     "longitude": "14.41166700",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Malta",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "35.93490000",
     "longitude": "14.41430000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Malta",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "35.90917000",
     "longitude": "14.42556000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Malta",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "35.95416700",
     "longitude": "14.42000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Malta",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "36.04306000",
     "longitude": "14.21722000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Malta",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "35.86278000",
     "longitude": "14.50750000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Malta",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "35.93795800",
     "longitude": "14.39254200",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Malta",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "35.95055600",
     "longitude": "14.38583300",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Malta",
     "translations": {}
   }
 ]

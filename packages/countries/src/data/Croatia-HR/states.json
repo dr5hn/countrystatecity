@@ -278,19 +278,5 @@
     "native": "Zagreb",
     "timezone": "Europe/Zagreb",
     "translations": {}
-  },
-  {
-    "id": 738,
-    "name": "Zagreb",
-    "country_id": 55,
-    "country_code": "HR",
-    "fips_code": null,
-    "iso2": "21",
-    "type": "city",
-    "latitude": "45.81309670",
-    "longitude": "15.97727950",
-    "native": "Zagreb",
-    "timezone": "Europe/Zagreb",
-    "translations": {}
   }
 ]

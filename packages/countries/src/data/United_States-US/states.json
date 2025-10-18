@@ -38,7 +38,7 @@
     "latitude": "-14.29712400",
     "longitude": "-170.71314810",
     "native": "American Samoa",
-    "timezone": "Pacific/Pago_Pago",
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "13.44999430",
     "longitude": "144.76516770",
     "native": "Guam",
-    "timezone": "Pacific/Guam",
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -206,7 +206,7 @@
     "latitude": "43.64476420",
     "longitude": "-114.01540700",
     "native": "Idaho",
-    "timezone": "America/Boise",
+    "timezone": "America/Denver",
     "translations": {}
   },
   {
@@ -276,7 +276,7 @@
     "latitude": "37.57260280",
     "longitude": "-85.15514110",
     "native": "Kentucky",
-    "timezone": "America/New_York",
+    "timezone": "America/Kentucky/Louisville",
     "translations": {}
   },
   {
@@ -528,7 +528,7 @@
     "latitude": "15.17536480",
     "longitude": "145.73793380",
     "native": "Northern Mariana Islands",
-    "timezone": "Pacific/Saipan",
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -598,7 +598,7 @@
     "latitude": "18.22477060",
     "longitude": "-66.48582950",
     "native": "Puerto Rico",
-    "timezone": "America/Puerto_Rico",
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -682,7 +682,7 @@
     "latitude": "28.23605110",
     "longitude": "-177.36856320",
     "native": "United States Minor Outlying Islands",
-    "timezone": "Pacific/Midway",
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -696,7 +696,7 @@
     "latitude": "17.78918700",
     "longitude": "-64.70805740",
     "native": "United States Virgin Islands",
-    "timezone": "America/St_Thomas",
+    "timezone": "America/New_York",
     "translations": {}
   },
   {

@@ -9,7 +9,7 @@
     "latitude": "42.33500000",
     "longitude": "19.23111000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Podgorica",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "42.33222000",
     "longitude": "19.21194000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Podgorica",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "42.32361000",
     "longitude": "19.27278000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Podgorica",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "42.34167000",
     "longitude": "19.22139000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Podgorica",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "42.44111000",
     "longitude": "19.26361000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Podgorica",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "42.36556000",
     "longitude": "19.33139000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Podgorica",
     "translations": {}
   }
 ]

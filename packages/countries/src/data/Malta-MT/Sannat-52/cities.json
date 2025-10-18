@@ -9,7 +9,7 @@
     "latitude": "35.95064000",
     "longitude": "14.41561000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Malta",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "36.02444000",
     "longitude": "14.24278000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Malta",
     "translations": {}
   }
 ]

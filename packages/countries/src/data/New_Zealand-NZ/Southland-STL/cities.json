@@ -9,7 +9,7 @@
     "latitude": "-46.60000000",
     "longitude": "168.33333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Auckland",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-46.10282000",
     "longitude": "168.94357000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Auckland",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-46.40000000",
     "longitude": "168.35000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Auckland",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-46.35000000",
     "longitude": "168.01667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Auckland",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "-45.77256000",
     "longitude": "167.85266000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Auckland",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "-45.41667000",
     "longitude": "167.71667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Auckland",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "-46.15000000",
     "longitude": "168.33333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Auckland",
     "translations": {}
   }
 ]

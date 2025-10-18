@@ -9,7 +9,7 @@
     "latitude": "14.68990000",
     "longitude": "43.61960000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "14.51960000",
     "longitude": "43.58170000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "14.68660000",
     "longitude": "43.82160000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "14.83820000",
     "longitude": "43.60780000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "14.54740000",
     "longitude": "43.68330000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "14.57090000",
     "longitude": "43.76070000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "-42.46667000",
     "longitude": "171.20000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Auckland",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-42.71667000",
     "longitude": "170.96667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Auckland",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-41.75262000",
     "longitude": "171.60370000",
     "native": null,
-    "timezone": null,
+    "timezone": "Pacific/Auckland",
     "translations": {}
   }
 ]

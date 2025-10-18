@@ -9,7 +9,7 @@
     "latitude": "4.01897000",
     "longitude": "44.51111000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Mogadishu",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "3.80958000",
     "longitude": "43.24627000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Mogadishu",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "4.12129000",
     "longitude": "43.88945000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Mogadishu",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "4.55000000",
     "longitude": "43.03333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Mogadishu",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "55.88333000",
     "longitude": "26.53333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Riga",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "55.97754000",
     "longitude": "26.29655000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Riga",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "-23.86500000",
     "longitude": "35.38333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Maputo",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-23.85972000",
     "longitude": "35.34722000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Maputo",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "2.78333000",
     "longitude": "10.56667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Douala",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "2.38333000",
     "longitude": "11.28333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Douala",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "2.90000000",
     "longitude": "11.15000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Douala",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "2.93725000",
     "longitude": "9.90765000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Douala",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "3.23333000",
     "longitude": "10.73333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Douala",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "2.96667000",
     "longitude": "11.51667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Douala",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "2.79796000",
     "longitude": "11.39434000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Douala",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "2.93333000",
     "longitude": "11.98333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Douala",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "42.76667000",
     "longitude": "23.56667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "42.69751000",
     "longitude": "23.32415000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "42.68647000",
     "longitude": "23.30561000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Sofia",
     "translations": {}
   }
 ]

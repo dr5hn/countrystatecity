@@ -9,7 +9,7 @@
     "latitude": "51.16810000",
     "longitude": "52.99782000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "51.42724000",
     "longitude": "52.71392000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "50.20000000",
     "longitude": "51.16667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "51.09878000",
     "longitude": "54.08426000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "50.25676000",
     "longitude": "52.59895000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "51.22102000",
     "longitude": "51.95723000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "49.76612000",
     "longitude": "48.68903000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "51.07854000",
     "longitude": "51.28992000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "51.23333000",
     "longitude": "51.36667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "51.19925000",
     "longitude": "50.85544000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "48.85611000",
     "longitude": "46.83361000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "51.11073000",
     "longitude": "50.29454000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "49.42207000",
     "longitude": "46.84705000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Almaty",
     "translations": {}
   }
 ]

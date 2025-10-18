@@ -9,7 +9,7 @@
     "latitude": "49.23123970",
     "longitude": "-2.22339030",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Jersey",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "49.23803240",
     "longitude": "-2.22634870",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Jersey",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "49.24085370",
     "longitude": "-2.24330420",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Jersey",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "49.24447800",
     "longitude": "-2.23905430",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Jersey",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "49.22331000",
     "longitude": "-2.21609880",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Jersey",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "49.22456770",
     "longitude": "-2.19656550",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Jersey",
     "translations": {}
   }
 ]

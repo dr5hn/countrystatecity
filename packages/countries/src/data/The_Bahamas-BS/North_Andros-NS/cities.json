@@ -9,7 +9,7 @@
     "latitude": "24.70502000",
     "longitude": "-77.76912000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Nassau",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "25.06667000",
     "longitude": "-78.05000000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Nassau",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "14.30739000",
     "longitude": "-90.36156000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guatemala",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "14.42222000",
     "longitude": "-90.24417000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guatemala",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "14.08380000",
     "longitude": "-90.38547000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guatemala",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "14.27639000",
     "longitude": "-90.29889000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guatemala",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "14.07417000",
     "longitude": "-90.41667000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guatemala",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "14.37854000",
     "longitude": "-90.17260000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guatemala",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "14.09716000",
     "longitude": "-90.37903000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guatemala",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "14.01786000",
     "longitude": "-90.43400000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guatemala",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "14.38111000",
     "longitude": "-90.27611000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guatemala",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "14.22806000",
     "longitude": "-90.17583000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guatemala",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "14.22576000",
     "longitude": "-90.47613000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guatemala",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "14.08361000",
     "longitude": "-90.26649000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guatemala",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "14.48139000",
     "longitude": "-90.17333000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guatemala",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "14.38806000",
     "longitude": "-90.36972000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guatemala",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "14.19000000",
     "longitude": "-90.27472000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guatemala",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "14.38806000",
     "longitude": "-90.29556000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guatemala",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "14.06719000",
     "longitude": "-90.46791000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Guatemala",
     "translations": {}
   }
 ]

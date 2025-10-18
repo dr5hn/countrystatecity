@@ -210,6 +210,20 @@
     "translations": {}
   },
   {
+    "id": 5469,
+    "name": "Namibe",
+    "country_id": 7,
+    "country_code": "AO",
+    "fips_code": null,
+    "iso2": "NAM",
+    "type": "province",
+    "latitude": "-15.20000000",
+    "longitude": "12.15000000",
+    "native": "Namibe",
+    "timezone": "Africa/Luanda",
+    "translations": {}
+  },
+  {
     "id": 224,
     "name": "Uíge",
     "country_id": 7,

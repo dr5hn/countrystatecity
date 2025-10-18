@@ -9,7 +9,7 @@
     "latitude": "26.24551000",
     "longitude": "36.45249000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "27.35134000",
     "longitude": "35.69014000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "28.39980000",
     "longitude": "36.57151000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "25.02126000",
     "longitude": "37.26850000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Riyadh",
     "translations": {}
   }
 ]

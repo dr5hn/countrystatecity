@@ -9,7 +9,7 @@
     "latitude": "6.67342000",
     "longitude": "-3.96938000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Abidjan",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "7.02582000",
     "longitude": "-5.06744000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Abidjan",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "7.06264000",
     "longitude": "-4.49948000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Abidjan",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "6.65175000",
     "longitude": "-4.20406000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Abidjan",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "7.05910000",
     "longitude": "-3.96310000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Abidjan",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "6.64678000",
     "longitude": "-4.70519000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Abidjan",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "7.11509000",
     "longitude": "-3.95027000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Abidjan",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "6.66830000",
     "longitude": "-4.13155000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Abidjan",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "6.82803000",
     "longitude": "-4.58130000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Abidjan",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "6.55799000",
     "longitude": "-5.01769000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Abidjan",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "6.82055000",
     "longitude": "-5.27674000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Abidjan",
     "translations": {}
   }
 ]

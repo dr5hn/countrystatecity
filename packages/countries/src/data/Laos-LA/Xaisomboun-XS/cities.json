@@ -9,7 +9,7 @@
     "latitude": "18.89731000",
     "longitude": "103.09274000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Vientiane",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "18.89394000",
     "longitude": "103.14274000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Vientiane",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "18.61782000",
     "longitude": "102.88079000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Vientiane",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "19.00130000",
     "longitude": "103.61572000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Vientiane",
     "translations": {}
   }
 ]

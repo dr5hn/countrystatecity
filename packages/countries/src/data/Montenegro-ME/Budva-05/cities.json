@@ -9,7 +9,7 @@
     "latitude": "42.28639000",
     "longitude": "18.84000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Podgorica",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "42.20556000",
     "longitude": "18.94250000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Podgorica",
     "translations": {}
   }
 ]

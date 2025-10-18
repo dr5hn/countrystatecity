@@ -9,7 +9,7 @@
     "latitude": "36.35251000",
     "longitude": "9.62175000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Tunis",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "36.32045000",
     "longitude": "9.32424000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Tunis",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "35.81363000",
     "longitude": "9.36434000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Tunis",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "36.32802000",
     "longitude": "9.13613000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Tunis",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "35.85798000",
     "longitude": "9.20072000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Tunis",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "36.08497000",
     "longitude": "9.37082000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Tunis",
     "translations": {}
   }
 ]

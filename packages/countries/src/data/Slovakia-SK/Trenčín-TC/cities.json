@@ -9,7 +9,7 @@
     "latitude": "48.72130000",
     "longitude": "18.25754000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "48.78511000",
     "longitude": "18.58640000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "48.66349000",
     "longitude": "17.53905000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "48.71226000",
     "longitude": "17.78704000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "48.95981000",
     "longitude": "18.16634000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "48.72760000",
     "longitude": "18.76012000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "48.99769000",
     "longitude": "18.23530000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "48.69138000",
     "longitude": "18.59944000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "48.75876000",
     "longitude": "17.56866000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "48.96702000",
     "longitude": "18.11892000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "48.93479000",
     "longitude": "18.14632000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "48.71106000",
     "longitude": "18.53389000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "48.75763000",
     "longitude": "17.83090000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "48.71908000",
     "longitude": "18.25773000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "48.99641000",
     "longitude": "18.23374000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "48.75000000",
     "longitude": "17.58333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "48.75466000",
     "longitude": "17.83506000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "48.62613000",
     "longitude": "18.37957000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "49.11667000",
     "longitude": "18.45000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "48.76667000",
     "longitude": "18.63333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "49.12406000",
     "longitude": "18.32477000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "48.89520000",
     "longitude": "18.04264000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "48.62861000",
     "longitude": "18.38455000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -308,7 +308,7 @@
     "latitude": "49.12153000",
     "longitude": "18.42169000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -321,7 +321,7 @@
     "latitude": "48.77446000",
     "longitude": "18.62750000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -334,7 +334,7 @@
     "latitude": "49.12494000",
     "longitude": "18.32597000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -347,7 +347,7 @@
     "latitude": "48.77721000",
     "longitude": "17.69433000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -360,7 +360,7 @@
     "latitude": "48.91063000",
     "longitude": "18.16691000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   },
   {
@@ -373,7 +373,7 @@
     "latitude": "48.89452000",
     "longitude": "18.04436000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Bratislava",
     "translations": {}
   }
 ]

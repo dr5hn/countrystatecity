@@ -9,7 +9,7 @@
     "latitude": "32.75710000",
     "longitude": "12.72764000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Tripoli",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "32.79335000",
     "longitude": "12.48845000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Tripoli",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "32.75668000",
     "longitude": "12.57159000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Tripoli",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "32.75222000",
     "longitude": "12.72778000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Tripoli",
     "translations": {}
   }
 ]

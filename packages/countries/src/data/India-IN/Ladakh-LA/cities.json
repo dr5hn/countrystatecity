@@ -9,7 +9,7 @@
     "latitude": "34.55765000",
     "longitude": "76.12622000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "34.16504000",
     "longitude": "77.58402000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   }
 ]

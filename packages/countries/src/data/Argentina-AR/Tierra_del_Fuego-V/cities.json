@@ -9,7 +9,7 @@
     "latitude": "-53.78769000",
     "longitude": "-67.70946000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-54.51083000",
     "longitude": "-67.19550000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-54.81084000",
     "longitude": "-68.31591000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Argentina/Buenos_Aires",
     "translations": {}
   }
 ]

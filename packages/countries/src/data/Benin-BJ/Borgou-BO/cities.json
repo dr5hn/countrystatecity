@@ -9,7 +9,7 @@
     "latitude": "10.22827000",
     "longitude": "2.66335000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Porto-Novo",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "9.19916000",
     "longitude": "2.25855000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Porto-Novo",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "9.94009000",
     "longitude": "3.21075000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Porto-Novo",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "9.33716000",
     "longitude": "2.63031000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Porto-Novo",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "8.88649000",
     "longitude": "2.59753000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Porto-Novo",
     "translations": {}
   }
 ]

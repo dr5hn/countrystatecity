@@ -9,7 +9,7 @@
     "latitude": "9.49420000",
     "longitude": "50.81220000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Mogadishu",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "11.28636000",
     "longitude": "51.07730000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Mogadishu",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "11.87037000",
     "longitude": "51.05795000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Mogadishu",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "11.28421000",
     "longitude": "49.18158000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Mogadishu",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "11.96611000",
     "longitude": "50.75694000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Mogadishu",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "10.28370000",
     "longitude": "50.23000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Mogadishu",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "11.47197000",
     "longitude": "49.87282000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Mogadishu",
     "translations": {}
   }
 ]

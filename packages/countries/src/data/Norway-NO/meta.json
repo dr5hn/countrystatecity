@@ -25,6 +25,13 @@
       "gmtOffsetName": "UTC+01:00",
       "abbreviation": "CET",
       "tzName": "Central European Time"
+    },
+    {
+      "zoneName": "Arctic/Longyearbyen",
+      "gmtOffset": 3600,
+      "gmtOffsetName": "UTC+01:00",
+      "abbreviation": "CET",
+      "tzName": "Central European Time"
     }
   ],
   "translations": {

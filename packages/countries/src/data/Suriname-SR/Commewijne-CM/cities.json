@@ -9,7 +9,7 @@
     "latitude": "5.87722000",
     "longitude": "-55.04322000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Paramaribo",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "5.88573000",
     "longitude": "-55.08871000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Paramaribo",
     "translations": {}
   }
 ]

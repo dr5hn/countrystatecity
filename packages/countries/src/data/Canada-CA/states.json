@@ -66,7 +66,7 @@
     "latitude": "53.82173270",
     "longitude": "-61.22955320",
     "native": "Newfoundland and Labrador",
-    "timezone": "America/Goose_Bay",
+    "timezone": "America/St_Johns",
     "translations": {}
   },
   {
@@ -108,7 +108,7 @@
     "latitude": "65.03777270",
     "longitude": "-92.55407910",
     "native": "Nunavut",
-    "timezone": "America/Rankin_Inlet",
+    "timezone": "America/Iqaluit",
     "translations": {}
   },
   {
@@ -122,7 +122,7 @@
     "latitude": "50.00067800",
     "longitude": "-86.00097700",
     "native": "Ontario",
-    "timezone": "America/Nipigon",
+    "timezone": "America/Toronto",
     "translations": {}
   },
   {

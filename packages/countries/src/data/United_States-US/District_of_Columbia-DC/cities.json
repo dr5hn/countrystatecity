@@ -9,7 +9,7 @@
     "latitude": "38.92150000",
     "longitude": "-77.04220000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "38.91678000",
     "longitude": "-77.01137000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "38.96400000",
     "longitude": "-77.06776000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "38.89511000",
     "longitude": "-77.03637000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/New_York",
     "translations": {}
   }
 ]

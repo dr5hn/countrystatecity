@@ -9,7 +9,7 @@
     "latitude": "1.32360000",
     "longitude": "103.92730000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Singapore",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "1.37390000",
     "longitude": "103.94930000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Singapore",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "1.35470000",
     "longitude": "103.94370000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Singapore",
     "translations": {}
   }
 ]

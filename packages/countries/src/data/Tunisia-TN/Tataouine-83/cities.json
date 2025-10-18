@@ -9,7 +9,7 @@
     "latitude": "32.31662000",
     "longitude": "10.39551000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Tunis",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "32.92967000",
     "longitude": "10.45177000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Tunis",
     "translations": {}
   }
 ]

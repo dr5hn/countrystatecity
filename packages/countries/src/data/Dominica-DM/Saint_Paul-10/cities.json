@@ -9,7 +9,7 @@
     "latitude": "15.36357000",
     "longitude": "-61.39701000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Dominica",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "15.36667000",
     "longitude": "-61.35000000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Dominica",
     "translations": {}
   }
 ]

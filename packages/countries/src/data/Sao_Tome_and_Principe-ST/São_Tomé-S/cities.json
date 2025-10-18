@@ -9,7 +9,7 @@
     "latitude": "0.21667000",
     "longitude": "6.70000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Sao_Tome",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "0.13415000",
     "longitude": "6.63825000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Sao_Tome",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "0.33654000",
     "longitude": "6.72732000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Sao_Tome",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "0.29667000",
     "longitude": "6.68139000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Sao_Tome",
     "translations": {}
   }
 ]

@@ -9,7 +9,7 @@
     "latitude": "62.06540000",
     "longitude": "-7.37870000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Faroe",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "62.06670000",
     "longitude": "-7.10000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Faroe",
     "translations": {}
   }
 ]

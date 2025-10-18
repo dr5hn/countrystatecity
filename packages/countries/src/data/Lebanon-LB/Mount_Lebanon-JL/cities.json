@@ -9,7 +9,7 @@
     "latitude": "33.83389000",
     "longitude": "35.54417000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Beirut",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "33.79500000",
     "longitude": "35.65111000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Beirut",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "33.80861000",
     "longitude": "35.65972000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Beirut",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "33.84592000",
     "longitude": "35.66791000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Beirut",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "34.12111000",
     "longitude": "35.64806000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Beirut",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "33.98083000",
     "longitude": "35.61778000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Beirut",
     "translations": {}
   }
 ]

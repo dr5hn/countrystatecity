@@ -9,7 +9,7 @@
     "latitude": "-21.53333000",
     "longitude": "21.93333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Gaborone",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-21.69785000",
     "longitude": "21.64581000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Gaborone",
     "translations": {}
   }
 ]

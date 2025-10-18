@@ -9,7 +9,7 @@
     "latitude": "16.72189000",
     "longitude": "44.31252000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "16.09140000",
     "longitude": "44.68520000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "16.03780000",
     "longitude": "44.95850000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "16.46670000",
     "longitude": "44.42990000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "16.06810000",
     "longitude": "44.79700000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "16.09610000",
     "longitude": "44.56670000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "16.19840000",
     "longitude": "44.39020000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -100,20 +100,7 @@
     "latitude": "16.28720000",
     "longitude": "44.63890000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 130803,
-    "name": "Az Zahir",
-    "state_id": 1243,
-    "state_code": "JA",
-    "country_id": 245,
-    "country_code": "YE",
-    "latitude": "16.33080000",
-    "longitude": "44.52440000",
-    "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -126,7 +113,7 @@
     "latitude": "16.91972000",
     "longitude": "44.51882000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -139,7 +126,7 @@
     "latitude": "16.59750000",
     "longitude": "45.78530000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -152,7 +139,7 @@
     "latitude": "16.61070000",
     "longitude": "44.22550000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   },
   {
@@ -165,7 +152,7 @@
     "latitude": "16.63420000",
     "longitude": "44.50420000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Aden",
     "translations": {}
   }
 ]

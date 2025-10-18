@@ -9,7 +9,7 @@
     "latitude": "47.19064000",
     "longitude": "28.45802000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Chisinau",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "47.14216000",
     "longitude": "28.60774000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Chisinau",
     "translations": {}
   }
 ]

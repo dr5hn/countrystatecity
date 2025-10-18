@@ -9,7 +9,7 @@
     "latitude": "54.89640000",
     "longitude": "23.82411000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vilnius",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "54.88037000",
     "longitude": "23.90842000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vilnius",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "55.26200000",
     "longitude": "23.47700000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vilnius",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "54.61667000",
     "longitude": "24.03333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vilnius",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "54.91525000",
     "longitude": "23.96831000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vilnius",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "54.93133000",
     "longitude": "23.93243000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vilnius",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "54.88315000",
     "longitude": "23.60396000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vilnius",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "54.82139000",
     "longitude": "23.87130000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vilnius",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "54.59937000",
     "longitude": "24.17593000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vilnius",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "55.08333000",
     "longitude": "24.28333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vilnius",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "54.86667000",
     "longitude": "24.45000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vilnius",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "54.97055000",
     "longitude": "24.06182000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vilnius",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "54.90272000",
     "longitude": "23.90961000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vilnius",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "55.28333000",
     "longitude": "23.96667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vilnius",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "54.94212000",
     "longitude": "23.64218000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vilnius",
     "translations": {}
   },
   {
@@ -204,7 +204,7 @@
     "latitude": "54.81998000",
     "longitude": "23.84462000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vilnius",
     "translations": {}
   },
   {
@@ -217,7 +217,7 @@
     "latitude": "54.63333000",
     "longitude": "23.95000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vilnius",
     "translations": {}
   },
   {
@@ -230,7 +230,7 @@
     "latitude": "54.94830000",
     "longitude": "24.03050000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vilnius",
     "translations": {}
   },
   {
@@ -243,7 +243,7 @@
     "latitude": "55.36667000",
     "longitude": "23.11667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vilnius",
     "translations": {}
   },
   {
@@ -256,7 +256,7 @@
     "latitude": "54.94933000",
     "longitude": "23.88316000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vilnius",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "54.92911000",
     "longitude": "23.88599000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vilnius",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "55.04609000",
     "longitude": "23.58552000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vilnius",
     "translations": {}
   },
   {
@@ -295,7 +295,7 @@
     "latitude": "54.80725000",
     "longitude": "24.44073000",
     "native": null,
-    "timezone": null,
+    "timezone": "Europe/Vilnius",
     "translations": {}
   }
 ]

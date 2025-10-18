@@ -9,7 +9,7 @@
     "latitude": "-30.21666667",
     "longitude": "-71.08333333",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santiago",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-31.40000000",
     "longitude": "-71.45000000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santiago",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-31.16666667",
     "longitude": "-71.05000000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santiago",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-29.95332000",
     "longitude": "-71.33947000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santiago",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "-31.63349000",
     "longitude": "-71.16967000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santiago",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "-29.50000000",
     "longitude": "-71.26666667",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santiago",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "-29.90453000",
     "longitude": "-71.24894000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santiago",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "-31.90000000",
     "longitude": "-71.51666667",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santiago",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "-30.69496000",
     "longitude": "-70.95770000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santiago",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "-30.60106000",
     "longitude": "-71.19901000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santiago",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "-30.02884000",
     "longitude": "-70.51708000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santiago",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "-30.90000000",
     "longitude": "-71.26666667",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santiago",
     "translations": {}
   },
   {
@@ -165,7 +165,7 @@
     "latitude": "-30.26666667",
     "longitude": "-70.70000000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santiago",
     "translations": {}
   },
   {
@@ -178,7 +178,7 @@
     "latitude": "-31.77922000",
     "longitude": "-70.96389000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santiago",
     "translations": {}
   },
   {
@@ -191,7 +191,7 @@
     "latitude": "-30.03541000",
     "longitude": "-70.71274000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Santiago",
     "translations": {}
   }
 ]

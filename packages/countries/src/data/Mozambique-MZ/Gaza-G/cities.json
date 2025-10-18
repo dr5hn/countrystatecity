@@ -9,7 +9,7 @@
     "latitude": "-24.68667000",
     "longitude": "33.53056000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Maputo",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "-24.53333000",
     "longitude": "32.98333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Maputo",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "-25.02694000",
     "longitude": "33.09889000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Maputo",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "-25.05194000",
     "longitude": "33.64417000",
     "native": null,
-    "timezone": null,
+    "timezone": "Africa/Maputo",
     "translations": {}
   }
 ]

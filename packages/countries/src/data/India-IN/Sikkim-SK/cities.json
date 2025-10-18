@@ -9,7 +9,7 @@
     "latitude": "27.33333000",
     "longitude": "88.66667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "27.32574000",
     "longitude": "88.61216000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "27.28952000",
     "longitude": "88.25764000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "27.10696000",
     "longitude": "88.32332000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "27.50965000",
     "longitude": "88.52206000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "27.16494000",
     "longitude": "88.36380000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "27.13082000",
     "longitude": "88.23972000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "27.66667000",
     "longitude": "88.50000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -113,7 +113,7 @@
     "latitude": "27.17733000",
     "longitude": "88.53358000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -126,7 +126,7 @@
     "latitude": "27.23467000",
     "longitude": "88.50168000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -139,7 +139,7 @@
     "latitude": "27.33333000",
     "longitude": "88.41667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   },
   {
@@ -152,7 +152,7 @@
     "latitude": "27.33333000",
     "longitude": "88.25000000",
     "native": null,
-    "timezone": null,
+    "timezone": "Asia/Kolkata",
     "translations": {}
   }
 ]

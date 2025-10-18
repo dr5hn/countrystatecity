@@ -9,7 +9,7 @@
     "latitude": "28.10023000",
     "longitude": "-15.69998000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -22,20 +22,7 @@
     "latitude": "27.90539000",
     "longitude": "-15.44609000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 153199,
-    "name": "Aldea de San Nicolás La",
-    "state_id": 1185,
-    "state_code": "GC",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "27.98222180",
-    "longitude": "-15.77937410",
-    "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -48,7 +35,7 @@
     "latitude": "28.42307000",
     "longitude": "-14.01379000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -61,7 +48,7 @@
     "latitude": "28.96302000",
     "longitude": "-13.54769000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -74,7 +61,7 @@
     "latitude": "28.02055000",
     "longitude": "-15.64693000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -87,7 +74,7 @@
     "latitude": "28.11983000",
     "longitude": "-15.52325000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -100,7 +87,7 @@
     "latitude": "28.42487610",
     "longitude": "-14.05730490",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -113,7 +100,7 @@
     "latitude": "27.91161000",
     "longitude": "-15.40558000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -126,7 +113,7 @@
     "latitude": "28.73079000",
     "longitude": "-13.86749000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -139,7 +126,7 @@
     "latitude": "28.16155000",
     "longitude": "-14.22691000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -152,7 +139,7 @@
     "latitude": "28.99838000",
     "longitude": "-13.49911000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -165,7 +152,7 @@
     "latitude": "27.87656000",
     "longitude": "-15.42798000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -178,7 +165,7 @@
     "latitude": "28.68264000",
     "longitude": "-14.00637000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -191,7 +178,7 @@
     "latitude": "28.65007000",
     "longitude": "-17.88274000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -204,7 +191,7 @@
     "latitude": "28.10711000",
     "longitude": "-15.56299000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -217,7 +204,7 @@
     "latitude": "28.14701000",
     "longitude": "-15.65020000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -230,7 +217,7 @@
     "latitude": "28.13974000",
     "longitude": "-15.63294000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -243,7 +230,7 @@
     "latitude": "29.14553000",
     "longitude": "-13.49986000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -256,7 +243,20 @@
     "latitude": "27.91855000",
     "longitude": "-15.43433000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
+    "translations": {}
+  },
+  {
+    "id": 153199,
+    "name": "La Aldea de San Nicolás",
+    "state_id": 1185,
+    "state_code": "GC",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "27.98222180",
+    "longitude": "-15.77937410",
+    "native": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -269,7 +269,7 @@
     "latitude": "28.37320000",
     "longitude": "-16.65158000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -282,7 +282,7 @@
     "latitude": "28.48530000",
     "longitude": "-16.32014000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -295,7 +295,20 @@
     "latitude": "28.45242000",
     "longitude": "-16.44720000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
+    "translations": {}
+  },
+  {
+    "id": 153197,
+    "name": "La Oliva",
+    "state_id": 1185,
+    "state_code": "GC",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "28.61007670",
+    "longitude": "-13.92672520",
+    "native": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -308,7 +321,7 @@
     "latitude": "28.61052000",
     "longitude": "-13.92912000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -321,7 +334,7 @@
     "latitude": "28.39076000",
     "longitude": "-16.52309000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -334,7 +347,7 @@
     "latitude": "28.43231000",
     "longitude": "-16.46232000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -347,7 +360,20 @@
     "latitude": "28.09973000",
     "longitude": "-15.41343000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
+    "translations": {}
+  },
+  {
+    "id": 153198,
+    "name": "Las Palmas de Gran Canaria",
+    "state_id": 1185,
+    "state_code": "GC",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "28.12354590",
+    "longitude": "-15.43625740",
+    "native": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -360,7 +386,7 @@
     "latitude": "28.01539000",
     "longitude": "-16.65373000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -373,7 +399,7 @@
     "latitude": "28.16667000",
     "longitude": "-16.48333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -386,7 +412,7 @@
     "latitude": "28.24361000",
     "longitude": "-16.84153000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -399,7 +425,7 @@
     "latitude": "28.65851000",
     "longitude": "-17.91821000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -412,7 +438,7 @@
     "latitude": "28.38487000",
     "longitude": "-16.58275000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -425,7 +451,7 @@
     "latitude": "28.36610000",
     "longitude": "-16.81552000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -438,7 +464,7 @@
     "latitude": "28.94840000",
     "longitude": "-13.69117000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -451,7 +477,7 @@
     "latitude": "27.76056000",
     "longitude": "-15.58602000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -464,7 +490,7 @@
     "latitude": "28.60906000",
     "longitude": "-17.77801000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -477,7 +503,7 @@
     "latitude": "27.88385000",
     "longitude": "-15.72538000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -490,7 +516,7 @@
     "latitude": "28.11106000",
     "longitude": "-15.58285000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -503,20 +529,7 @@
     "latitude": "29.03818000",
     "longitude": "-13.56386000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 153197,
-    "name": "Oliva La",
-    "state_id": 1185,
-    "state_code": "GC",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "28.61007670",
-    "longitude": "-13.92672520",
-    "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -529,20 +542,7 @@
     "latitude": "28.35039000",
     "longitude": "-14.10760000",
     "native": null,
-    "timezone": null,
-    "translations": {}
-  },
-  {
-    "id": 153198,
-    "name": "Palmas de Gran Canaria Las",
-    "state_id": 1185,
-    "state_code": "GC",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "28.12354590",
-    "longitude": "-15.43625740",
-    "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -555,7 +555,7 @@
     "latitude": "28.86426000",
     "longitude": "-13.82814000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -568,7 +568,7 @@
     "latitude": "28.06403000",
     "longitude": "-16.73012000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -581,7 +581,7 @@
     "latitude": "27.75670000",
     "longitude": "-15.57870000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -594,7 +594,7 @@
     "latitude": "28.42039000",
     "longitude": "-14.01306000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -607,7 +607,7 @@
     "latitude": "28.16667000",
     "longitude": "-17.33333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -620,7 +620,7 @@
     "latitude": "28.92313000",
     "longitude": "-13.66579000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -633,7 +633,7 @@
     "latitude": "28.50038000",
     "longitude": "-13.86272000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -646,7 +646,7 @@
     "latitude": "27.78943000",
     "longitude": "-15.71045000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -659,7 +659,7 @@
     "latitude": "29.14660000",
     "longitude": "-13.44761000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -672,7 +672,7 @@
     "latitude": "28.37645000",
     "longitude": "-16.58575000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -685,7 +685,7 @@
     "latitude": "29.00093000",
     "longitude": "-13.61300000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -698,7 +698,7 @@
     "latitude": "27.92481000",
     "longitude": "-15.57329000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -711,7 +711,7 @@
     "latitude": "27.98910000",
     "longitude": "-15.78126000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -724,7 +724,7 @@
     "latitude": "28.03197000",
     "longitude": "-15.50425000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -737,7 +737,7 @@
     "latitude": "27.91174000",
     "longitude": "-15.54071000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -750,7 +750,7 @@
     "latitude": "27.91006630",
     "longitude": "-15.54021120",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -763,7 +763,7 @@
     "latitude": "28.10744940",
     "longitude": "-15.60606610",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -776,7 +776,7 @@
     "latitude": "28.46667000",
     "longitude": "-16.41667000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -789,7 +789,7 @@
     "latitude": "28.36667000",
     "longitude": "-16.83333000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -802,7 +802,7 @@
     "latitude": "29.06049000",
     "longitude": "-13.56397000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -815,7 +815,7 @@
     "latitude": "27.99508000",
     "longitude": "-15.61543000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -828,7 +828,7 @@
     "latitude": "27.99243000",
     "longitude": "-15.41915000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -841,7 +841,7 @@
     "latitude": "28.06062000",
     "longitude": "-15.54909000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -854,7 +854,7 @@
     "latitude": "28.96108000",
     "longitude": "-13.64502000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -867,7 +867,7 @@
     "latitude": "29.06326000",
     "longitude": "-13.67647000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -880,7 +880,7 @@
     "latitude": "28.32372000",
     "longitude": "-14.04722000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -893,7 +893,7 @@
     "latitude": "28.17944000",
     "longitude": "-17.26664000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -906,7 +906,7 @@
     "latitude": "28.04330000",
     "longitude": "-15.57623000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -919,7 +919,7 @@
     "latitude": "27.98562000",
     "longitude": "-15.49725000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -932,7 +932,7 @@
     "latitude": "27.84636000",
     "longitude": "-15.44455000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -945,7 +945,7 @@
     "latitude": "28.00892000",
     "longitude": "-15.53330000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   },
   {
@@ -958,7 +958,7 @@
     "latitude": "28.95678000",
     "longitude": "-13.76535000",
     "native": null,
-    "timezone": null,
+    "timezone": "Atlantic/Canary",
     "translations": {}
   }
 ]

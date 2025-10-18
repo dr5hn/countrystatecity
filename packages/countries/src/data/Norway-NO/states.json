@@ -80,7 +80,7 @@
     "latitude": "70.99314710",
     "longitude": "-8.35206590",
     "native": "Jan Mayen",
-    "timezone": "Arctic/Longyearbyen",
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {
@@ -164,7 +164,7 @@
     "latitude": "78.71985190",
     "longitude": "20.34933280",
     "native": "Svalbard",
-    "timezone": "Arctic/Longyearbyen",
+    "timezone": "Europe/Oslo",
     "translations": {}
   },
   {

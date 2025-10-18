@@ -9,7 +9,7 @@
     "latitude": "12.18190000",
     "longitude": "-68.21810000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Curacao",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "12.13333000",
     "longitude": "-68.26667000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Curacao",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "17.48333333",
     "longitude": "-62.98333333",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Curacao",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "12.23833333",
     "longitude": "-68.33250000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Curacao",
     "translations": {}
   },
   {
@@ -61,7 +61,7 @@
     "latitude": "17.62100750",
     "longitude": "-63.24316830",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Curacao",
     "translations": {}
   },
   {
@@ -74,7 +74,7 @@
     "latitude": "17.62611111",
     "longitude": "-63.24916667",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Curacao",
     "translations": {}
   },
   {
@@ -87,7 +87,7 @@
     "latitude": "17.62864000",
     "longitude": "-63.23136000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Curacao",
     "translations": {}
   },
   {
@@ -100,7 +100,7 @@
     "latitude": "17.64300000",
     "longitude": "-63.22649000",
     "native": null,
-    "timezone": null,
+    "timezone": "America/Curacao",
     "translations": {}
   }
 ]

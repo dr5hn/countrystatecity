@@ -9,7 +9,7 @@
     "latitude": "18.33568380",
     "longitude": "-64.79470780",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Thomas",
     "translations": {}
   },
   {
@@ -22,7 +22,7 @@
     "latitude": "18.34800890",
     "longitude": "-64.72196820",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Thomas",
     "translations": {}
   },
   {
@@ -35,7 +35,7 @@
     "latitude": "18.31820370",
     "longitude": "-64.80242110",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Thomas",
     "translations": {}
   },
   {
@@ -48,7 +48,7 @@
     "latitude": "18.34036470",
     "longitude": "-64.68062660",
     "native": null,
-    "timezone": null,
+    "timezone": "America/St_Thomas",
     "translations": {}
   }
 ]
