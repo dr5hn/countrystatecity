@@ -37,6 +37,23 @@ npm install
 npm test
 ```
 
+### Example API Server
+
+To see how to serve data to a Vite frontend, run the example API server:
+
+```bash
+npm install
+node example-api-server.js
+```
+
+This starts a simple HTTP server at `http://localhost:3001` with endpoints:
+- `GET /api/countries` - Get all countries
+- `GET /api/countries/:code` - Get country details
+- `GET /api/countries/:code/states` - Get states
+- `GET /api/countries/:code/states/:stateCode/cities` - Get cities
+
+You can then use these endpoints from your Vite frontend with `fetch()`.
+
 ## Expected Results
 
 The test should complete without errors, showing:

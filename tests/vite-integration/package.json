@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "build": "node test-server.js",
-    "test": "node test-server.js"
+    "test": "node test-server.js",
+    "example": "node example-api-server.js"
   },
   "dependencies": {
     "@countrystatecity/countries": "file:../../packages/countries"

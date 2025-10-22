@@ -277,7 +277,20 @@ Instead, server-side usage with lazy loading provides:
 
 ## Example: Complete Vite + Express Setup
 
-See the [vite-integration test](../../tests/vite-integration/) for a complete working example.
+See the [vite-integration test](../../tests/vite-integration/) for a complete working example, including:
+- Server-side test demonstrating correct usage
+- Example API server (`example-api-server.js`) with full CRUD endpoints
+- Ready-to-run examples you can use as a starting point
+
+To run the example API server:
+
+```bash
+cd tests/vite-integration
+npm install
+npm run example
+```
+
+This starts an API server at `http://localhost:3001` that you can use from your Vite frontend.
 
 ## Support
 
