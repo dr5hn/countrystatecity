@@ -23,7 +23,11 @@ yarn add @countrystatecity/countries
 pnpm add @countrystatecity/countries
 ```
 
-> **📘 Deploying to Vercel/Serverless?** See [VERCEL_DEPLOYMENT.md](../../docs/VERCEL_DEPLOYMENT.md) for configuration guide.
+> **📘 Important Setup Guides:**
+> - **Vite Users**: See [VITE_DEPLOYMENT.md](../../docs/VITE_DEPLOYMENT.md) - Server-side usage required
+> - **Vercel/Serverless**: See [VERCEL_DEPLOYMENT.md](../../docs/VERCEL_DEPLOYMENT.md) - Configuration guide
+
+> **⚠️ Server-Side Only**: This package requires Node.js and file system access. Use in server-side code (Next.js server components, API routes, SSR, backends). For client-side usage, create API endpoints to serve the data.
 
 ## 🚀 Quick Start
 
