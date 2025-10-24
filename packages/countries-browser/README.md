@@ -102,7 +102,7 @@ onMounted(async () => {
 <!DOCTYPE html>
 <html>
 <head>
-  <script src="https://unpkg.com/@countrystatecity/countries-browser/dist/cdn/countries-browser.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@countrystatecity/countries-browser/dist/cdn/index.global.js"></script>
 </head>
 <body>
   <script>
@@ -306,6 +306,21 @@ The main `@countrystatecity/countries` package uses Node.js file system (`fs`) a
 | **Total for typical flow** | ~300KB | ~75KB |
 
 ## ⚙️ Configuration Examples
+
+### Using jsDelivr CDN for GitHub Data
+
+You can use jsDelivr to load data directly from the GitHub repository:
+
+```typescript
+import { configure, getCountries } from '@countrystatecity/countries-browser';
+
+// Use jsDelivr CDN to load data from GitHub
+configure({
+  baseURL: 'https://cdn.jsdelivr.net/gh/dr5hn/countrystatecity@main/packages/countries-browser/dist/data',
+});
+
+const countries = await getCountries();
+```
 
 ### Using Custom CDN
 
