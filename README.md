@@ -15,11 +15,14 @@ Complete countries, states, and cities database with lazy loading and iOS compat
 - **Documentation:** [README](./packages/countries/README.md)
 - **Bundle Size:** <10KB initial load
 - **Data:** 250+ countries, 5,000+ states, 150,000+ cities
+- **Environment:** 🖥️ **Server-side only** (Node.js, Next.js API routes, Express, etc.)
 - **Status:** ✅ Implemented
 
 ```bash
 npm install @countrystatecity/countries
 ```
+
+> **⚠️ Server-Side Only**: This package requires Node.js file system access. For browser/frontend use, see [@countrystatecity/countries-browser](#countrystatecitycountries-browser) (coming soon).
 
 ### @countrystatecity/timezones [![npm](https://img.shields.io/npm/v/@countrystatecity/timezones)](https://www.npmjs.com/package/@countrystatecity/timezones)
 
@@ -29,15 +32,33 @@ Comprehensive timezone data with conversion utilities and iOS compatibility.
 - **Documentation:** [README](./packages/timezones/README.md)
 - **Bundle Size:** <20KB initial load
 - **Data:** 392 IANA timezones, 223 countries, 131 abbreviations
+- **Environment:** 🖥️ **Server-side only** (Node.js, Next.js API routes, Express, etc.)
 - **Status:** ✅ Implemented
 
 ```bash
 npm install @countrystatecity/timezones
 ```
 
+### @countrystatecity/countries-browser
+
+Browser-compatible version of the countries package for frontend/client-side usage.
+
+- **Location:** TBD
+- **Documentation:** [Specification](./specs/4-countries-browser-package-spec.md)
+- **Bundle Size:** ~75KB gzipped for typical use
+- **Data:** Same as server package (250+ countries, 5,000+ states, 150,000+ cities)
+- **Environment:** 🌐 **Browser/Frontend** (React, Vue, Svelte, Vite, etc.)
+- **Status:** 📋 Planned (see [Issue #17](https://github.com/dr5hn/countrystatecity/issues/17))
+
+This package will provide fetch-based data loading for browser environments with the same API as the server package.
+
 ## 🚀 Quick Start
 
-### Countries, States, and Cities
+> **💡 Choose the right package for your environment:**
+> - **Server-side** (Node.js, Next.js API routes, Express): Use `@countrystatecity/countries`
+> - **Browser/Frontend** (React, Vue, Svelte, Vite): Use `@countrystatecity/countries-browser` (coming soon) or create API endpoints
+
+### Countries, States, and Cities (Server-Side)
 
 ```typescript
 import { getCountries, getStatesOfCountry, getCitiesOfState } from '@countrystatecity/countries';
@@ -111,6 +132,58 @@ The popular `country-state-city` package (162K weekly downloads) has critical is
 | **Total for typical use** | **~50KB** | **8MB** |
 
 **160x smaller bundle size!**
+
+## 📊 Package Comparison
+
+### Server vs Browser Packages
+
+| Feature | @countrystatecity/countries | @countrystatecity/countries-browser |
+|---------|----------------------------|-------------------------------------|
+| **Environment** | Node.js, Bun, Deno | Browser, Frontend |
+| **Data Loading** | File system (`fs`) | Fetch API |
+| **Dependencies** | Node.js built-ins | Zero |
+| **Initial Bundle** | ~15KB | ~15KB + 130KB countries data |
+| **Lazy Loading** | ✅ Via file system | ✅ Via HTTP requests |
+| **TypeScript** | ✅ | ✅ |
+| **Same API** | ✅ | ✅ |
+| **Use Cases** | Next.js API routes, Express, serverless functions | React, Vue, Svelte, vanilla JS |
+| **iOS Compatible** | ✅ | ✅ |
+| **Caching** | OS file cache | HTTP cache + memory |
+| **Status** | ✅ Available now | 📋 Planned |
+
+### When to Use Each Package
+
+**Use `@countrystatecity/countries` (Server) when:**
+- ✅ Building API endpoints or backends
+- ✅ Using Next.js App Router server components
+- ✅ Running in Node.js, serverless functions (Vercel, AWS Lambda)
+- ✅ You have file system access
+- ✅ Building command-line tools
+
+**Use `@countrystatecity/countries-browser` (Browser) when:**
+- ✅ Building client-side React/Vue/Svelte apps
+- ✅ Using Vite for frontend development
+- ✅ Need to load data in the browser directly
+- ✅ Building single-page applications (SPAs)
+- ✅ Running in browser environments only
+
+**Current Workaround (until browser package is ready):**
+Create API endpoints using the server package, then fetch from your frontend:
+
+```typescript
+// pages/api/countries.ts (Next.js API route)
+import { getCountries } from '@countrystatecity/countries';
+
+export default async function handler(req, res) {
+  const countries = await getCountries();
+  res.json(countries);
+}
+
+// components/CountrySelector.tsx (Frontend)
+const countries = await fetch('/api/countries').then(r => r.json());
+```
+
+See [Vite Deployment Guide](./docs/VITE_DEPLOYMENT.md) for detailed patterns.
 
 ## 🏗️ Monorepo Structure
 
