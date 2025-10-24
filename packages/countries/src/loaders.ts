@@ -40,16 +40,8 @@ async function importNodeModule(moduleName: string): Promise<any> {
 
 // Helper function to load JSON data
 async function loadJSON<T>(path: string): Promise<T> {
-  try {
-    // Try dynamic import first (works in ESM and bundlers)
-    const module = await import(path, { assert: { type: 'json' } } as any);
-    return module.default;
-  } catch (error) {
-    // Fallback to fs for CommonJS/Node environments only
-    if (!isNodeEnvironment()) {
-      throw error; // Re-throw in browser environments
-    }
-    
+  // In Node.js environment, use fs for reliable file system access
+  if (isNodeEnvironment()) {
     try {
       const fs = await importNodeModule('fs');
       const pathModule = await importNodeModule('path');
@@ -93,8 +85,27 @@ async function loadJSON<T>(path: string): Promise<T> {
       
       return JSON.parse(data);
     } catch (fsError) {
-      throw error; // Throw original error if fs also fails
+      // If fs fails, continue to dynamic import fallback
     }
+  }
+  
+  // Fallback: Try dynamic import (for bundlers that can handle it)
+  // This is mainly for edge cases and testing
+  try {
+    // @vite-ignore - Tell Vite to skip static analysis
+    const module = await import(/* @vite-ignore */ path);
+    return module.default || module;
+  } catch (error: any) {
+    // Provide helpful error message for browser environments
+    if (!isNodeEnvironment()) {
+      throw new Error(
+        `@countrystatecity/countries: Cannot load data in browser environment. ` +
+        `This package is designed for server-side use (Node.js, Next.js server components, API routes, etc.). ` +
+        `If you're using Vite, please use this package only in server-side code (SSR) or create an API endpoint to fetch the data. ` +
+        `Original error: ${error.message}`
+      );
+    }
+    throw error;
   }
 }
 
