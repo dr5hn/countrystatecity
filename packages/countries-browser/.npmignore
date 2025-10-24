@@ -1,0 +1,20 @@
+# Source files
+src/
+tests/
+scripts/
+
+# Config files
+tsconfig.json
+tsup.config.ts
+vitest.config.ts
+playwright.config.ts
+
+# Development files
+*.test.ts
+*.spec.ts
+.DS_Store
+*.log
+
+# Build artifacts
+node_modules/
+*.tsbuildinfo

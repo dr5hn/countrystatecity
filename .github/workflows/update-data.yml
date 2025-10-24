@@ -64,6 +64,11 @@ jobs:
           cd packages/timezones
           node scripts/generate-data.cjs
       
+      - name: Regenerate browser package data
+        run: |
+          cd packages/countries-browser
+          node scripts/generate-browser-data.cjs
+      
       - name: Collect new data statistics
         id: data-stats
         run: |
@@ -94,7 +99,7 @@ jobs:
       - name: Check for changes
         id: check-changes
         run: |
-          git add packages/countries/src/data packages/timezones/src/data
+          git add packages/countries/src/data packages/timezones/src/data packages/countries-browser/src/data
           if git diff --cached --quiet; then
             echo "changed=false" >> $GITHUB_OUTPUT
             echo "No data changes detected"

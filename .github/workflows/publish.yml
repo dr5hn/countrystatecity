@@ -14,6 +14,7 @@ on:
         type: choice
         options:
           - countries
+          - countries-browser
           - timezones
           - all
 
@@ -83,6 +84,22 @@ jobs:
             echo "Timezones version $PACKAGE_VERSION not yet published"
           fi
       
+      - name: Check if countries-browser version already published
+        id: check-countries-browser-version
+        run: |
+          PACKAGE_NAME="@countrystatecity/countries-browser"
+          PACKAGE_VERSION=$(node -p "require('./packages/countries-browser/package.json').version")
+          
+          echo "version=$PACKAGE_VERSION" >> $GITHUB_OUTPUT
+          
+          if npm view "$PACKAGE_NAME@$PACKAGE_VERSION" version 2>/dev/null; then
+            echo "published=true" >> $GITHUB_OUTPUT
+            echo "Countries-browser version $PACKAGE_VERSION already published"
+          else
+            echo "published=false" >> $GITHUB_OUTPUT
+            echo "Countries-browser version $PACKAGE_VERSION not yet published"
+          fi
+      
       - name: Publish @countrystatecity/countries
         if: |
           steps.check-countries-version.outputs.published == 'false' && 
@@ -99,6 +116,16 @@ jobs:
           (github.event.inputs.package == 'timezones' || github.event.inputs.package == 'all' || github.event_name == 'push')
         run: |
           cd packages/timezones
+          npm publish --access public
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+      
+      - name: Publish @countrystatecity/countries-browser
+        if: |
+          steps.check-countries-browser-version.outputs.published == 'false' && 
+          (github.event.inputs.package == 'countries-browser' || github.event.inputs.package == 'all' || github.event_name == 'push')
+        run: |
+          cd packages/countries-browser
           npm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
@@ -144,5 +171,32 @@ jobs:
             ```
             
             See the [README](https://github.com/dr5hn/countrystatecity/blob/main/packages/timezones/README.md) for usage instructions.
+          draft: false
+          prerelease: false
+      
+      - name: Create GitHub Release for countries-browser
+        if: |
+          steps.check-countries-browser-version.outputs.published == 'false' && 
+          (github.event.inputs.package == 'countries-browser' || github.event.inputs.package == 'all' || github.event_name == 'push')
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: countries-browser-v${{ steps.check-countries-browser-version.outputs.version }}
+          name: Countries Browser v${{ steps.check-countries-browser-version.outputs.version }}
+          body: |
+            ## @countrystatecity/countries-browser v${{ steps.check-countries-browser-version.outputs.version }}
+            
+            Published to NPM: https://www.npmjs.com/package/@countrystatecity/countries-browser
+            
+            ### Installation
+            ```bash
+            npm install @countrystatecity/countries-browser
+            ```
+            
+            ### CDN Usage
+            ```html
+            <script src="https://cdn.jsdelivr.net/npm/@countrystatecity/countries-browser/dist/cdn/index.global.js"></script>
+            ```
+            
+            See the [README](https://github.com/dr5hn/countrystatecity/blob/main/packages/countries-browser/README.md) for usage instructions.
           draft: false
           prerelease: false
