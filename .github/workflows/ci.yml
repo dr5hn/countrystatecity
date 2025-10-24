@@ -61,12 +61,20 @@ jobs:
       
       - name: Check bundle sizes
         run: |
-          echo "=== Countries Bundle Sizes ==="
+          echo "=== Countries (Server) Bundle Sizes ==="
           du -sh packages/countries/dist/index.js
           du -sh packages/countries/dist/index.cjs
           du -sh packages/countries/dist/data/countries.json
           echo "=== Countries Total dist size ==="
           du -sh packages/countries/dist/
+          echo ""
+          echo "=== Countries-Browser Bundle Sizes ==="
+          du -sh packages/countries-browser/dist/index.js
+          du -sh packages/countries-browser/dist/index.cjs
+          du -sh packages/countries-browser/dist/cdn/countries-browser.min.js
+          du -sh packages/countries-browser/dist/data/countries.json
+          echo "=== Countries-Browser Total dist size ==="
+          du -sh packages/countries-browser/dist/
           echo ""
           echo "=== Timezones Bundle Sizes ==="
           du -sh packages/timezones/dist/index.js
