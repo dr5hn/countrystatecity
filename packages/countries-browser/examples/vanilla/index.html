@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Countries Browser - Vanilla JS Example</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background: #f5f5f5;
+    }
+    h1 {
+      color: #333;
+      border-bottom: 2px solid #007bff;
+      padding-bottom: 10px;
+    }
+    .form-group {
+      margin: 20px 0;
+    }
+    label {
+      display: block;
+      margin-bottom: 5px;
+      font-weight: 600;
+      color: #555;
+    }
+    select {
+      width: 100%;
+      padding: 10px;
+      font-size: 16px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      background: white;
+    }
+    select:disabled {
+      background: #f5f5f5;
+      cursor: not-allowed;
+    }
+    .info {
+      background: white;
+      padding: 15px;
+      border-radius: 4px;
+      margin-top: 20px;
+      border-left: 4px solid #007bff;
+    }
+    .error {
+      background: #fee;
+      border-left-color: #d00;
+      color: #d00;
+    }
+    .loading {
+      color: #666;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+  <h1>🌍 Countries Browser - Vanilla JS Example</h1>
+  
+  <div class="info">
+    <p>This example demonstrates using @countrystatecity/countries-browser with vanilla JavaScript.</p>
+    <p><strong>Note:</strong> This example needs to be served from an HTTP server (not file://) and requires the package to be built.</p>
+  </div>
+
+  <div class="form-group">
+    <label for="country">Country:</label>
+    <select id="country">
+      <option value="">Loading countries...</option>
+    </select>
+  </div>
+
+  <div class="form-group">
+    <label for="state">State/Province:</label>
+    <select id="state" disabled>
+      <option value="">Select a country first</option>
+    </select>
+  </div>
+
+  <div class="form-group">
+    <label for="city">City:</label>
+    <select id="city" disabled>
+      <option value="">Select a state first</option>
+    </select>
+  </div>
+
+  <div id="result" class="info" style="display: none;"></div>
+
+  <!-- Load the browser package from CDN or local build -->
+  <script type="module">
+    // Import from the built package
+    // In production, you would use: import { ... } from '@countrystatecity/countries-browser';
+    
+    // For this example, we'll use the CDN build (IIFE)
+    // This would normally be loaded via script tag, but for demonstration:
+    
+    const countrySelect = document.getElementById('country');
+    const stateSelect = document.getElementById('state');
+    const citySelect = document.getElementById('city');
+    const resultDiv = document.getElementById('result');
+
+    // Mock implementation for demonstration
+    // In real usage, this would come from the actual package
+    async function mockGetCountries() {
+      return [
+        { id: 231, name: 'United States', iso2: 'US', iso3: 'USA' },
+        { id: 38, name: 'Canada', iso2: 'CA', iso3: 'CAN' },
+        { id: 101, name: 'India', iso2: 'IN', iso3: 'IND' },
+        { id: 226, name: 'United Kingdom', iso2: 'GB', iso3: 'GBR' },
+      ];
+    }
+
+    async function mockGetStates(countryCode) {
+      const states = {
+        'US': [
+          { id: 1416, name: 'California', iso2: 'CA', country_code: 'US' },
+          { id: 1407, name: 'Texas', iso2: 'TX', country_code: 'US' },
+          { id: 1452, name: 'New York', iso2: 'NY', country_code: 'US' },
+        ],
+        'CA': [
+          { id: 872, name: 'Ontario', iso2: 'ON', country_code: 'CA' },
+          { id: 866, name: 'British Columbia', iso2: 'BC', country_code: 'CA' },
+          { id: 873, name: 'Quebec', iso2: 'QC', country_code: 'CA' },
+        ],
+      };
+      return states[countryCode] || [];
+    }
+
+    async function mockGetCities(countryCode, stateCode) {
+      const cities = {
+        'US-CA': [
+          { id: 111149, name: 'Los Angeles', state_code: 'CA', country_code: 'US' },
+          { id: 111303, name: 'San Francisco', state_code: 'CA', country_code: 'US' },
+          { id: 111279, name: 'San Diego', state_code: 'CA', country_code: 'US' },
+        ],
+        'US-TX': [
+          { id: 111180, name: 'Houston', state_code: 'TX', country_code: 'US' },
+          { id: 111325, name: 'Dallas', state_code: 'TX', country_code: 'US' },
+          { id: 111145, name: 'Austin', state_code: 'TX', country_code: 'US' },
+        ],
+      };
+      return cities[`${countryCode}-${stateCode}`] || [];
+    }
+
+    // Load countries on page load
+    async function loadCountries() {
+      try {
+        const countries = await mockGetCountries();
+        
+        countrySelect.innerHTML = '<option value="">Select a country</option>';
+        countries.forEach(country => {
+          const option = document.createElement('option');
+          option.value = country.iso2;
+          option.textContent = `${country.emoji || '🌍'} ${country.name}`;
+          countrySelect.appendChild(option);
+        });
+      } catch (error) {
+        showError('Failed to load countries: ' + error.message);
+      }
+    }
+
+    // Load states when country changes
+    countrySelect.addEventListener('change', async (e) => {
+      const countryCode = e.target.value;
+      
+      stateSelect.disabled = true;
+      citySelect.disabled = true;
+      stateSelect.innerHTML = '<option value="">Loading states...</option>';
+      citySelect.innerHTML = '<option value="">Select a state first</option>';
+      resultDiv.style.display = 'none';
+
+      if (!countryCode) {
+        stateSelect.innerHTML = '<option value="">Select a country first</option>';
+        return;
+      }
+
+      try {
+        const states = await mockGetStates(countryCode);
+        
+        if (states.length === 0) {
+          stateSelect.innerHTML = '<option value="">No states available</option>';
+          stateSelect.disabled = true;
+        } else {
+          stateSelect.innerHTML = '<option value="">Select a state</option>';
+          states.forEach(state => {
+            const option = document.createElement('option');
+            option.value = state.iso2;
+            option.textContent = state.name;
+            stateSelect.appendChild(option);
+          });
+          stateSelect.disabled = false;
+        }
+      } catch (error) {
+        showError('Failed to load states: ' + error.message);
+      }
+    });
+
+    // Load cities when state changes
+    stateSelect.addEventListener('change', async (e) => {
+      const stateCode = e.target.value;
+      const countryCode = countrySelect.value;
+      
+      citySelect.disabled = true;
+      citySelect.innerHTML = '<option value="">Loading cities...</option>';
+      resultDiv.style.display = 'none';
+
+      if (!stateCode) {
+        citySelect.innerHTML = '<option value="">Select a state first</option>';
+        return;
+      }
+
+      try {
+        const cities = await mockGetCities(countryCode, stateCode);
+        
+        if (cities.length === 0) {
+          citySelect.innerHTML = '<option value="">No cities available</option>';
+          citySelect.disabled = true;
+        } else {
+          citySelect.innerHTML = '<option value="">Select a city</option>';
+          cities.forEach(city => {
+            const option = document.createElement('option');
+            option.value = city.id;
+            option.textContent = city.name;
+            citySelect.appendChild(option);
+          });
+          citySelect.disabled = false;
+        }
+      } catch (error) {
+        showError('Failed to load cities: ' + error.message);
+      }
+    });
+
+    // Show result when city is selected
+    citySelect.addEventListener('change', (e) => {
+      const cityId = e.target.value;
+      if (cityId) {
+        const countryName = countrySelect.options[countrySelect.selectedIndex].text;
+        const stateName = stateSelect.options[stateSelect.selectedIndex].text;
+        const cityName = citySelect.options[citySelect.selectedIndex].text;
+        
+        resultDiv.innerHTML = `
+          <h3>Selected Location:</h3>
+          <p><strong>Country:</strong> ${countryName}</p>
+          <p><strong>State:</strong> ${stateName}</p>
+          <p><strong>City:</strong> ${cityName}</p>
+        `;
+        resultDiv.className = 'info';
+        resultDiv.style.display = 'block';
+      } else {
+        resultDiv.style.display = 'none';
+      }
+    });
+
+    function showError(message) {
+      resultDiv.innerHTML = `<p>${message}</p>`;
+      resultDiv.className = 'info error';
+      resultDiv.style.display = 'block';
+    }
+
+    // Initialize
+    loadCountries();
+  </script>
+</body>
+</html>
