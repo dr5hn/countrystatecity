@@ -6,7 +6,11 @@
       "Bash(git log:*)",
       "Bash(gh issue view:*)",
       "Bash(chmod:*)",
-      "Bash(node:*)"
+      "Bash(node:*)",
+      "Bash(pnpm install:*)",
+      "Bash(pnpm build:*)",
+      "Bash(pnpm test:*)",
+      "Bash(pnpm add:*)"
     ],
     "deny": [],
     "ask": []
